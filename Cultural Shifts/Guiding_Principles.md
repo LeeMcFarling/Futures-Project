@@ -69,7 +69,7 @@ license: "CC BY-SA 4.0"
 
 I. The Philosophical Foundation
 
-On Transience and the Search for Meaning
+It has been long said that there is a crisis of meaning in this country. Traditional indicators of success abound, yet people are starved for meaning more than ever. 
 
 Seven billion other people exist on this planet, inhabiting cultures from Tibetan monks to Aboriginal tribes, from London stockbrokers to Brazilian artists, from Russian scientists to Appalachian farmers. If life were a board game, each of these cultures would have its own rule set, its own point system, its own stories and goals. Yet beneath all these pretenses, one deep and indelible fact remains:
 
