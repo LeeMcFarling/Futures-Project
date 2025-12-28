@@ -1,6 +1,4 @@
-
 ---
-
 title: “North American Critical Materials & Manufacturing Authorities”
 author: “Lee McFarling”
 category: “Industrial Policy”
