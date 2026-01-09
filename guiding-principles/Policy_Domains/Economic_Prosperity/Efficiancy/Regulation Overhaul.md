@@ -98,11 +98,6 @@ This feature effectively allows the country to **“unit test”** laws before p
 
 ---
 
-## Quote
-> “Before we pass a law, we should test it like software. The code of government should compile cleanly.”
-
----
-
 ## Open Questions
 - Should state and local jurisdictions maintain their own forks of the repository?  
 - How should AI simulations be reviewed or certified for accuracy?  
