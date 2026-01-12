@@ -3,8 +3,6 @@ title: "Federal Oversight and Impeachment Reform"
 category: "Governance Reform"
 status: "Draft"
 version: 0.2"
-linked_campaigns:
-  - "UnFuck Corruption Part 2"
 contributors:
   - "Lee McFarling"
 related_policy_questions:

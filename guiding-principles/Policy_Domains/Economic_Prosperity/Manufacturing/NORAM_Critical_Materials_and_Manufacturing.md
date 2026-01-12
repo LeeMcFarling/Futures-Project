@@ -29,11 +29,7 @@ license: “CC BY-NC-SA 4.0”
 
 ---
 
-Title: North American Critical Materials & Manufacturing Authorities
-
-Author: Lee McFarling
-
-Executive Summary
+# Executive Summary
 
 The United States faces a structural vulnerability in batteries, rare earths, and advanced manufacturing driven not by lack of technology, but by fragmented logistics, inconsistent demand signals, and excessive coordination failure. Critical inputs for electric vehicles, defense systems, electronics, and energy infrastructure are concentrated abroad—particularly in China—at the refining, magnet, and cell-production stages. Market incentives alone have proven insufficient to close these gaps.
 

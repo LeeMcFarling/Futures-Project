@@ -25,38 +25,6 @@ related_initiatives:
 license: "CC BY-NC"
 ---
 
-Alright. Here is a clean, pilot-ready policy brief for the Book Rating System, written to integrate directly with the Education Stack and to feed the later recommendation + social learning layer. This is deliberately boring, legible, and defensible.
-
-⸻
-
-
----
-title: "Standardized Book Rating System for Education"
-author: "Lee McFarling"
-category: "Education"
-subcategories:
-  - Curriculum Transparency
-  - Literacy Development
-  - Parental Trust
-status: "Draft"
-version: "1.0"
-time_horizon: "1–2 year pilot; long-term integration"
-last_updated: "2025-12-22"
-tags:
-  - book ratings
-  - age appropriateness
-  - content tags
-  - reading difficulty
-  - parental transparency
-  - education infrastructure
-linked_policies:
-  - Education/AI_Modernization_Pilot.md
-  - Education/AI_Enabled_Open_Source_Education_Infrastructure.md
-related_initiatives:
-  - Project_Education_Stack
-license: "CC BY-NC"
----
-
 # **Policy Brief: Standardized Book Rating System for Education**
 
 Purpose

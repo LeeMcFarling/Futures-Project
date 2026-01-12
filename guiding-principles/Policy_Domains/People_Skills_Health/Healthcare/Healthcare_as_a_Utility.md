@@ -1,6 +1,4 @@
-
-⸻
-
+---
 title: “Healthcare as a Public Utility”
 author: “Lee McFarling”
 category: “Health”
@@ -25,21 +23,13 @@ tags:
 	•	capitation
 	•	regulated competition
 	•	prosperity capitalism
-summary: >
-This policy brief proposes a phased transition to treat healthcare as essential infrastructure: first by imposing utility-style
-transparency and public-service obligations across insurers, PBMs, providers, device makers, and pharma; then by capping extractive
-markups and standardizing payment rules; and finally by migrating to a single public payer with pluralistic delivery networks
-organized as private entities with partial cooperative/community governance. Competition shifts from billing tactics to measured,
-risk-adjusted health outcomes, with prosperity-linked incentives and strict anti-gaming enforcement.
-linked_policies:
-	•	Governance/Prosperity_Tax_Framework.md
-	•	Governance/Transparency_and_Open_Contracting.md
-	•	Economy/Public_Equity_Warrants_for_Procurement.md
-related_initiatives:
-	•	Project_Healthcare_Utility
-license: “CC BY-NC”
 
-⸻
+---
+
+# Summary: 
+This policy brief proposes a phased transition to treat healthcare as essential infrastructure: first by imposing utility-style transparency and public-service obligations across insurers, PBMs, providers, device makers, and pharma; then by capping extractive markups and standardizing payment rules; and finally by migrating to a single public payer with pluralistic delivery networks organized as private entities with partial cooperative/community governance. Competition shifts from billing tactics to measured, risk-adjusted health outcomes, with prosperity-linked incentives and strict anti-gaming enforcement.
+
+---
 
 # **Problem**
 

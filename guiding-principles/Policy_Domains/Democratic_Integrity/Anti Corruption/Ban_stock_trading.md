@@ -18,7 +18,7 @@ dependencies:
 # **Title: Ban Congressional and Executive Stock Trading**
 
 ## Summary
-Members of Congress and the Executive Branch should be prohibited from owning or trading individual stocks, options, or cryptocurrencies while in office. 
+Members of Congress, Execution Corps, and the Executive Branch should be prohibited from owning or trading individual stocks, options, or cryptocurrencies while in office. 
 
 ## Rationale
 Public trust in government is undermined when lawmakers trade the assets they regulate. Between 2019–2023, dozens of members of Congress earned millions through trades timed around legislative actions. 
