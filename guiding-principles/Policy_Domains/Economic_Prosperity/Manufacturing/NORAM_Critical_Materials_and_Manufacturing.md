@@ -37,44 +37,44 @@ At the same time, the U.S. discards millions of tons of high-value electronic an
 
 This brief proposes a coherent endpoint: a North American industrial system in which critical materials are collected, refined, recycled, and manufactured domestically first—up to available capacity—before relying on global markets for the remainder. The system relies on narrow, technocratic authorities with real execution power, strict anti-corruption safeguards, and auditable funding mechanisms to move from perpetual pilots to durable infrastructure.
 
-Problem Statement
+# Problem Statement
 
 Current U.S. policy treats batteries, rare earths, recycling, energy, and manufacturing as separate problems handled by different agencies, states, and incentive programs. This produces several failures:
-	•	No guaranteed feedstock for recyclers, keeping facilities underutilized and unfinanceable.
-	•	No guaranteed offtake for domestic refiners and manufacturers, forcing reliance on cheaper foreign inputs.
-	•	Slow and uncertain permitting for chemical and materials facilities.
-	•	Fragmented procurement, with dozens of agencies signaling demand inconsistently.
-	•	High corruption and capture risk, driven by opaque lobbying and bespoke incentives.
+	- No guaranteed feedstock for recyclers, keeping facilities underutilized and unfinanceable.
+	- No guaranteed offtake for domestic refiners and manufacturers, forcing reliance on cheaper foreign inputs.
+	- Slow and uncertain permitting for chemical and materials facilities.
+	- Fragmented procurement, with dozens of agencies signaling demand inconsistently.
+	- High corruption and capture risk, driven by opaque lobbying and bespoke incentives.
 
 The result is growth in EVs and clean technologies without profitability, resilience, or strategic independence.
 
-Policy Proposal
+# Policy Proposal
 
 We propose the creation of a tightly scoped set of technocratic authorities, operating under statute with explicit mandates:
 
 1. Critical Materials & Recycling Authority
-	•	Mandates national e-waste and battery collection standards.
-	•	Prohibits landfill disposal of qualifying electronics.
-	•	Certifies recyclers and refiners.
-	•	Enforces a domestic-first sourcing rule: U.S. manufacturers must purchase North American recycled or refined material up to available capacity before importing.
+	- Mandates national e-waste and battery collection standards.
+	- Prohibits landfill disposal of qualifying electronics.
+	- Certifies recyclers and refiners.
+	- Enforces a domestic-first sourcing rule: U.S. manufacturers must purchase North American recycled or refined material up to available capacity before importing.
 
 2. Advanced Manufacturing & Scale Authority
-	•	Establishes and manages special economic zones for refining, recycling, magnets, cells, and advanced manufacturing.
-	•	Pre-permits facilities and standardizes environmental and safety processes.
-	•	Coordinates workforce pipelines and factory reference designs.
+	- Establishes and manages special economic zones for refining, recycling, magnets, cells, and advanced manufacturing.
+	- Pre-permits facilities and standardizes environmental and safety processes.
+	- Coordinates workforce pipelines and factory reference designs.
 
 3. Strategic Energy & Power Authority
-	•	Secures long-term, low-cost, firm power (nuclear, hydro, contracted renewables) for industrial zones.
-	•	Prioritizes grid interconnection for critical manufacturing.
+	- Secures long-term, low-cost, firm power (nuclear, hydro, contracted renewables) for industrial zones.
+	- Prioritizes grid interconnection for critical manufacturing.
 
 4. Defense & Strategic Procurement Authority
-	•	Aggregates federal demand across DoD, DHS, and civilian agencies.
-	•	Provides long-term offtake contracts for batteries, magnets, and electronics tied to national security.
+	- Aggregates federal demand across DoD, DHS, and civilian agencies.
+	- Provides long-term offtake contracts for batteries, magnets, and electronics tied to national security.
 
 5. Standards, Certification & Anti-Capture Office
-	•	Defines compliance rules, approval matrices, and audit thresholds.
-	•	Mandates recorded meetings, published minutes, and cooling-off periods.
-	•	Possesses shutdown authority for non-compliant programs.
+	- Defines compliance rules, approval matrices, and audit thresholds.
+	- Mandates recorded meetings, published minutes, and cooling-off periods.
+	- Possesses shutdown authority for non-compliant programs.
 
 Implementation Strategy
 
