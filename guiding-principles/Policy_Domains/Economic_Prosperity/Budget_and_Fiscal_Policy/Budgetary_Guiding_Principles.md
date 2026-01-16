@@ -24,9 +24,9 @@ summary: >
 license: "CC BY-NC"
 ---
 
-The budget framework treats public capital as a strategic asset, not a consumable entitlement. The government shifts from acting as a passive piggy bank—where funds are either loosely tracked or rigidly micromanaged—into a disciplined venture partner and long-horizon R&D grantor. Success is not measured by headline spending totals, but by durable capacity built, risks reduced, and returns—financial or societal—realized over time.
+This budget framework treats public capital as a strategic asset, not a consumable entitlement. The government shifts from acting as a passive piggy bank—where funds are either loosely tracked or rigidly micromanaged—into a disciplined venture partner and long-horizon R&D grantor. Success is not measured by headline spending totals, but by durable capacity built, risks reduced, and returns—financial or societal—realized over time.
 
-Public spending prioritizes capital formation over permanent subsidies. Broad tax breaks and recurring subsidies are progressively replaced with targeted, ultra-low-interest loans, equity-like instruments, and milestone-based grants. In most cases, public capital is expected to be repaid or recycled, enabling reinvestment and compounding public benefit; exceptions are explicit, justified, and limited to areas with clear public-goods characteristics or national-security relevance.
+Public spending prioritizes capital formation over permanent subsidies. Broad tax breaks and recurring subsidies are progressively replaced with targeted, ultra-low-interest loans, equity-like instruments, and milestone-based grants. In most cases, public capital is expected to be repaid over the long term or recycled, enabling reinvestment and compounding public benefit; exceptions are explicit, justified, and limited to areas with clear public-goods characteristics or national-security relevance.
 
 Investments are evaluated at the sector level, not as isolated line items. Infrastructure, energy, healthcare, housing, and workforce development are treated as portfolios with clear objectives, risk profiles, and performance metrics. The state absorbs early-stage risk where private markets underinvest, then deliberately exits or steps back as sectors mature, avoiding long-term dependency and crowding-out effects.
 

@@ -115,4 +115,4 @@ Implementation Strategy
 
 Conclusion
 
-This proposal does not seek to nationalize industry or replace markets. It builds the missing coordination layer required for markets to function in capital‑intensive, interdependent systems. By pairing domestic‑first sourcing with special economic zones, auditable procurement, and narrow technocratic authority, the U.S. can move from pilot programs to a resilient, North American industrial base that compounds in strength over time.
+This proposal does not seek to nationalize industry or replace markets, but rather builds the missing coordination layer required for markets to function in capital‑intensive, interdependent systems. By pairing domestic‑first sourcing with special economic zones, auditable procurement, and narrow technocratic authority, the U.S. can move from pilot programs to a resilient, North American industrial base that compounds in strength over time.
