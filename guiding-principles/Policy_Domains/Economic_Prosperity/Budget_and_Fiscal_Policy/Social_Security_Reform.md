@@ -1,33 +1,19 @@
 ---
-title: "Transitioning from Social Security to a Universal Superannuation System"
-author: "Lee McFarling"
-category: "Economy"
-subcategories:
-  - Retirement Policy
-  - Public Finance
-  - Labor Markets
-status: "Draft"
-version: "1.0"
-last_updated: "2025-12-17"
+id: social-security-reform
+title: Transitioning from Social Security to a Universal Superannuation System
+sidebar_label: Social Security Reform
+sidebar_position: 4
+slug: /economic-prosperity/budget-fiscal/social-security-reform
 tags:
   - superannuation
-  - social security reform
-  - retirement prefunding
-  - payroll systems
-  - portability
-  - capital formation
-summary: >
-  This policy brief proposes replacing Social Security retirement benefits for future birth
-  cohorts with a universal, prefunded superannuation account. Beginning with a defined
-  cutoff year, new cohorts would receive a one-time government seed contribution and
-  standardized payroll-funded employer contributions in lieu of Social Security accruals.
-  The reform shifts retirement financing from demographic dependence to owned, portable
-  capital while simplifying the fragmented U.S. retirement landscape.
-linked_policies:
-  - Economy/Immigration_Reform.md
-related_initiatives:
-  - Project_Prosperity_Capitalism
-license: "CC BY-NC"
+  - social-security
+  - retirement
+  - payroll
+  - capital-formation
+description: >
+  Proposes replacing Social Security retirement benefits for future birth cohorts
+  with a universal, prefunded superannuation account, shifting retirement financing
+  from demographic dependence to owned, portable capital.
 ---
 
 

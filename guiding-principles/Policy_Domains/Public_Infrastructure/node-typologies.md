@@ -3,7 +3,7 @@ id: node-typologies
 title: Node Typologies & Re-Urbanization Triggers
 sidebar_label: Node Typologies
 sidebar_position: 5
-slug: /guiding-principles/policy-domains/public-infrastructure/node-typologies
+slug: /public-infrastructure/node-typologies
 tags:
   - reurbanization
   - transit-oriented-development

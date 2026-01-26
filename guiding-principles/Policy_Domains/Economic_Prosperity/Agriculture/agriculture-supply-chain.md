@@ -1,14 +1,18 @@
 ---
 id: agriculture-supply-chain
-domain: Economic_Prosperity
-policy_area: Agriculture
-document_type: Policy_Brief
-status: Draft
-version: 1.0
-related_overview: agri-overview-001
-dependencies: agri-data-001, agri-farmer-econ-001, agri-water-001
-audience: Policy_Staff, Agencies, Farmers, Processors, Regional_Planners
-principles: Competition_Preserving, Regional_Resilience, Redundancy, Pilot_First
+title: Supply Chain & Processing Capacity
+sidebar_label: Supply Chain
+sidebar_position: 5
+slug: /economic-prosperity/agriculture/supply-chain
+tags:
+  - agriculture
+  - supply-chain
+  - processing
+  - regional-resilience
+  - competition
+description: >
+  Restores competitive, resilient, and regionally balanced processing and
+  supply-chain capacity so farmers have real market access and bargaining power.
 ---
 
 # Supply Chain & Processing Capacity

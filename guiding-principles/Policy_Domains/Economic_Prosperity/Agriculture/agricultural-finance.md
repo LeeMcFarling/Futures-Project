@@ -1,20 +1,18 @@
 ---
-id: agri-finance-001
-domain: Economic_Prosperity
-policy_area: Agriculture
-document_type: Policy_Brief
-status: Draft
-version: 1.0
-related_overview: agri-overview-001
-dependencies:
-  - agri-seed-ip-001
-  - agri-data-001
-  - agri-farmer-econ-001
-  - agri-equipment-001
-  - agri-water-001
-  - agri-supply-chain-001
-audience: Policy_Staff, Budget_Offices, Treasury, USDA, Investors
-principles: Investment_Not_Subsidy, Fiscal_Discipline, Revolving_Capital, Pilot_First
+id: agricultural-finance
+title: Financing & Public Capital for Agricultural Resilience
+sidebar_label: Agricultural Finance
+sidebar_position: 3
+slug: /economic-prosperity/agriculture/finance
+tags:
+  - agriculture
+  - public-capital
+  - investment
+  - fiscal-discipline
+  - economic-prosperity
+description: >
+  Structures public capital for agriculture as long-term investment rather than
+  permanent subsidy, with recyclable capital mechanisms and clear performance metrics.
 ---
 
 # Financing & Public Capital for Agricultural Resilience

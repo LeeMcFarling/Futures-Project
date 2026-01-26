@@ -1,6 +1,22 @@
 ---
+id: capital-allocation-reform
+title: Tax Code as Capital Map — Allocation Reform
+sidebar_label: Capital Allocation Reform
+sidebar_position: 3
+slug: /economic-prosperity/budget-fiscal/capital-allocation-reform
+tags:
+  - tax-reform
+  - capital-allocation
+  - fiscal-policy
+  - transparency
+  - economic-prosperity
+description: >
+  Converts opaque, perpetual tax incentives into explicit, accountable capital
+  instruments deployed through standardized loans, grants, and equity-like
+  mechanisms aligned to public goals.
+---
 
-# **Overview:**
+# Overview
 
 As an overview, the tax code should be interpreted as a capital map, not a legal artifact. Every tax expenditure (be that  tax credit, deduction, exemption, or preferential treatment) should be classified as an implied investment into an economic sector. Instead of this investment map, our tax code is a 70,000+ page graveyard of legacy incentives which represents one of the largest and least transparent uses of government capital. This expenditure operates off-budget, is difficult to audit, and tends to persist long after it's original justification has expired.  
 

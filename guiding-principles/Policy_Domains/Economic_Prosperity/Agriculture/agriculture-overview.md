@@ -1,13 +1,19 @@
 ---
-id: agri-overview-001
-domain: Economic_Prosperity
-policy_area: Agriculture
-document_type: Overview
-status: Draft
-version: 1.0
-audience: Policy_Makers, Researchers, Stakeholders
-principles: Pilot_First, Competition_Preserving, Farmer_Agency, Long_Term_Resilience
-
+id: agriculture-overview
+title: Agricultural Innovation in America — Overview
+sidebar_label: Agriculture Overview
+sidebar_position: 1
+slug: /economic-prosperity/agriculture/overview
+tags:
+  - agriculture
+  - economic-prosperity
+  - farmer-agency
+  - market-reform
+  - resilience
+description: >
+  Overview of agricultural reform focused on lowering structural risk, expanding
+  farmer agency, and restoring resilience at the farm level through integrated
+  data systems, seed innovation, equipment rights, and water security.
 ---
 
 # Agricultural Innovation in America — Overview

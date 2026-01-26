@@ -1,13 +1,19 @@
 ---
-id: agri-seed-ip-001
-domain: Economic_Prosperity
-policy_area: Agriculture
-document_type: Policy_Brief
-status: Draft
-version: 1.0
-related_overview: agri-overview-001
-audience: Policy_Staff, Agencies, Researchers
-principles: Competition_Preserving, Innovation_Accelerating, Farmer_Agency, Pilot_First
+id: seed-ip-and-research
+title: Seed IP & Agricultural Research
+sidebar_label: Seed IP & Research
+sidebar_position: 7
+slug: /economic-prosperity/agriculture/seed-ip
+tags:
+  - agriculture
+  - intellectual-property
+  - research
+  - innovation
+  - competition
+description: >
+  Accelerates agricultural trait innovation while restoring competitive market
+  dynamics and lowering long-term input costs for farmers through targeted IP
+  reform and research collaboration.
 ---
 
 # Seed IP & Agricultural Research

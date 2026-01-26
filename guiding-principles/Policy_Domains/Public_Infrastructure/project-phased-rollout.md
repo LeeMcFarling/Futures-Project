@@ -3,7 +3,7 @@ id: phased-reurbanization-rollout
 title: Phased Re-Urbanization Rollout
 sidebar_label: Phased Rollout
 sidebar_position: 6
-slug: /guiding-principles/policy-domains/public-infrastructure/phased-reurbanization-rollout
+slug: /public-infrastructure/phased-rollout
 tags:
   - reurbanization
   - pilots

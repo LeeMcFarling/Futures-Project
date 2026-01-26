@@ -1,14 +1,18 @@
 ---
-id: agricultural-warer-and-aquifer-resilience
-domain: Economic_Prosperity
-policy_area: Agriculture
-document_type: Policy_Brief
-status: Draft
-version: 1.0
-related_overview: agri-overview-001
-dependencies: agri-data-001, agri-farmer-econ-001
-audience: Policy_Staff, Agencies, Water_Managers, Farmers
-principles: Long_Term_Resilience, Science_Based, Regional_Flexibility, Pilot_First
+id: water-and-aquifer-resilience
+title: Water & Aquifer Resilience
+sidebar_label: Water Resilience
+sidebar_position: 8
+slug: /economic-prosperity/agriculture/water-resilience
+tags:
+  - agriculture
+  - water
+  - aquifer
+  - resilience
+  - infrastructure
+description: >
+  Stabilizes and restores groundwater systems critical to American agriculture
+  while preserving farmer agency and regional flexibility.
 ---
 
 # Water & Aquifer Resilience

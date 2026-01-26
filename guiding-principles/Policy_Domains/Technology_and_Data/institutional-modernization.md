@@ -3,7 +3,7 @@ id: institutional-modernization
 title: Guiding Principles: Institutional Modernization
 sidebar_label: Institutional Modernization
 sidebar_position: 4
-slug: /guiding-principles/institutional-modernization
+slug: /technology/institutional-modernization
 tags:
   - institutional-modernization
   - adaptive-governance

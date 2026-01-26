@@ -3,7 +3,7 @@ id: special-transit-zones
 title: Special Transit Zones (STZs)
 sidebar_label: Special Transit Zones
 sidebar_position: 4
-slug: /guiding-principles/policy-domains/public-infrastructure/special-transit-zones
+slug: /public-infrastructure/special-transit-zones
 tags:
   - transit
   - zoning

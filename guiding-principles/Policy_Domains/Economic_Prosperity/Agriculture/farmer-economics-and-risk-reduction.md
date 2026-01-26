@@ -1,14 +1,18 @@
 ---
-id: agri-farmer-econ-001
-domain: Economic_Prosperity
-policy_area: Agriculture
-document_type: Policy_Brief
-status: Draft
-version: 1.0
-related_overview: agri-overview-001
-dependencies: agri-seed-ip-001, agri-data-001
-audience: Policy_Staff, Agencies, Lenders, Insurers
-principles: Risk_Reduction, Farmer_Agency, Market_Compatibility, Pilot_First
+id: farmer-economics-and-risk-reduction
+title: Farmer Economics & Risk Reduction
+sidebar_label: Farmer Risk Reduction
+sidebar_position: 6
+slug: /economic-prosperity/agriculture/farmer-economics
+tags:
+  - agriculture
+  - risk-reduction
+  - farmer-agency
+  - insurance
+  - diversification
+description: >
+  Reduces unnecessary downside risk at the farm level while preserving market
+  signals and farmer autonomy through forward-looking risk management tools.
 ---
 
 # Farmer Economics & Risk Reduction

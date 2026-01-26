@@ -1,19 +1,20 @@
 ---
+id: ban-gerrymandering
 title: "Abolish Gerrymandering: Independent Redistricting & Algorithmic Fairness"
-category: "Anti-Corruption"
-status: "Draft"
-version: "0.3"
-linked_campaigns:
-  - "UnFuck Corruption Part 4"
-contributors:
-  - "Lee McFarling"
-related_policy_questions:
-  - "How can we ensure fair representation in congressional and state districts?"
-  - "What systems can replace partisan redistricting with transparent, data-driven fairness?"
-tags: ["redistricting", "representation", "voting-rights", "algorithmic-fairness", "transparency"]
-dependencies:
-  - "../governance/federal-oversight-and-impeachment.md"
-  - "./campaign-finance-reform.md"
+sidebar_label: Ban Gerrymandering
+sidebar_position: 1
+slug: /democratic-integrity/anti-corruption/ban-gerrymandering
+tags:
+  - redistricting
+  - representation
+  - voting-rights
+  - algorithmic-fairness
+  - transparency
+  - anti-corruption
+description: >
+  Creates independent redistricting commissions supported by transparent
+  algorithmic tools to eliminate partisan gerrymandering and guarantee
+  fair, competitive districts.
 ---
 
 # Abolish Gerrymandering: Independent Redistricting & Algorithmic Fairness

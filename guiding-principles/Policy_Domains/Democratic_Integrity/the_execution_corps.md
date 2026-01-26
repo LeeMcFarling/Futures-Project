@@ -2,8 +2,8 @@
 id: execution-corps
 title: The Execution Corps
 sidebar_label: Execution Corps
-sidebar_position: 8
-slug: /guiding-principles/governance/execution-corps
+sidebar_position: 3
+slug: /democratic-integrity/execution-corps
 tags:
   - democratic-integrity
   - execution

@@ -1,18 +1,19 @@
 ---
-title: "Ban Congressional and Executive Stock Trading"
-category: "Anti-Corruption"
-related_policy_questions:
-  - "How can we eliminate financial conflicts of interest among public officials?"
-  - "Should crypto and digital assets be regulated under the same ethics laws as securities?"
-status: "Draft"
-version: 0.1
-linked_campaigns:
-  - "Anti Corruption Part 1 - Assets"
-contributors:
-  - "Lee McFarling"
-tags: ["conflict-of-interest", "ethics", "financial-disclosure", "executive-branch"]
-dependencies:
-  - "../ethics-enforcement.md"
+id: ban-stock-trading
+title: Ban Congressional and Executive Stock Trading
+sidebar_label: Ban Stock Trading
+sidebar_position: 2
+slug: /democratic-integrity/anti-corruption/ban-stock-trading
+tags:
+  - conflict-of-interest
+  - ethics
+  - financial-disclosure
+  - executive-branch
+  - anti-corruption
+description: >
+  Prohibits members of Congress, Execution Corps, and Executive Branch from
+  owning or trading individual stocks, options, or cryptocurrencies while
+  in office to eliminate financial conflicts of interest.
 ---
 
 # **Title: Ban Congressional and Executive Stock Trading**
