@@ -1,9 +1,9 @@
 ---
-id: execution-corps
-title: The Execution Corps
-sidebar_label: Execution Corps
-sidebar_position: 8
-slug: /guiding-principles/governance/execution-corps
+id: legislative-execution-corps
+title: The Execution Corps — Legislative Interface
+sidebar_label: Legislative Execution Corps
+sidebar_position: 2
+slug: /democratic-integrity/legislative-execution-corps
 tags:
   - democratic-integrity
   - execution

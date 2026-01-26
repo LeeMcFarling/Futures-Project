@@ -1,31 +1,22 @@
 ---
-title: "Decentralized Digital Identity"
-author: "Lee McFarling"
-category: "Technology"
-subcategories:
-  - Digital Identity
-  - Privacy
-  - Cybersecurity
-status: "Draft"
-version: "1.2"
-last_updated: "2026-01-11"
+id: decentralized-digital-identity
+title: Decentralized Digital Identity
+sidebar_label: Digital Identity
+sidebar_position: 1
+slug: /technology/digital-identity
 tags:
-  - decentralized identity
-  - verifiable credentials
-  - zero-knowledge proofs
-  - self-sovereign identity
-  - digital privacy
-  - data brokers
-  - cryptography
-  - quantum resistance
-summary: >
-  This brief proposes a decentralized, cryptographically secure digital identity system built on user-controlled verifiable credentials and zero-knowledge proofs. Properly implemented, such a system would collapse the data brokerage economy, materially improve privacy and security, and serve as foundational infrastructure for modern digital governance.
-linked_policies:
-  - Governance/Data_Governance_Framework.md
-  - Economy/Data_Dividend_Proposal.md
-related_initiatives:
-  - Project_Digital_ID
-license: "CC BY-NC-SA 4.0"
+  - technology
+  - digital-identity
+  - ssi
+  - verifiable-credentials
+  - zero-knowledge-proofs
+  - privacy
+  - cybersecurity
+description: >
+  Decentralized, cryptographically secure digital identity system built on
+  user-controlled verifiable credentials and zero-knowledge proofs to collapse
+  the data brokerage economy and serve as foundational infrastructure for
+  modern digital governance.
 ---
 
 # **Decentralized Digital Identity**

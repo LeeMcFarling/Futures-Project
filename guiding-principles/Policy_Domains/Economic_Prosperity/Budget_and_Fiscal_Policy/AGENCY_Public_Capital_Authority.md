@@ -1,6 +1,22 @@
-
 ---
-Public Capital Authority (PCA): Agency Overview
+id: public-capital-authority
+title: Public Capital Authority (PCA) — Agency Overview
+sidebar_label: Public Capital Authority
+sidebar_position: 1
+slug: /economic-prosperity/budget-fiscal/public-capital-authority
+tags:
+  - public-capital
+  - investment
+  - fiscal-policy
+  - agency-design
+  - economic-prosperity
+description: >
+  Executive-branch agency responsible for deploying public capital as disciplined,
+  recyclable investment rather than opaque subsidy, managing sectoral portfolios
+  with clear performance metrics.
+---
+
+# Public Capital Authority (PCA): Agency Overview
 
 Purpose
 The Public Capital Authority is an executive-branch agency responsible for deploying public capital as disciplined, recyclable investment rather than opaque subsidy. Its mandate is to allocate capital in ways that expand national productive capacity, reduce systemic risk, and generate measurable long-term returns—financial, economic, or strategic—within parameters set by Congress.

@@ -1,19 +1,19 @@
 ---
-title: "Unified Law and Regulation Repository (ULRR)"
-category: "Governance Reform"
-status: "Draft"
-version: "0.1"
-linked_campaigns:
-  - "Digital Democracy Core"
-contributors:
-  - "Lee McFarling"
-related_policy_questions:
-  - "How can citizens and policymakers see, edit, and understand the entire body of law in one place?"
-  - "How can AI be used to detect conflicts, redundancies, and inefficiencies in public policy?"
-tags: ["digital-governance", "regulation", "open-data", "ai-optimization", "transparency"]
-dependencies:
-  - "../anti-corruption/campaign-finance-reform.md"
-  - "../governance/federal-oversight-and-impeachment.md"
+id: unified-law-regulation-repository
+title: Unified Law and Regulation Repository (ULRR)
+sidebar_label: Regulation Repository
+sidebar_position: 1
+slug: /economic-prosperity/efficiency/regulation-repository
+tags:
+  - digital-governance
+  - regulation
+  - open-data
+  - ai-optimization
+  - transparency
+description: >
+  Creates a single, publicly accessible repository containing all federal, state,
+  and local laws, regulations, and administrative rules—version-controlled and
+  optimized for transparency, analysis, and reform.
 ---
 
 # Unified Law and Regulation Repository (ULRR)

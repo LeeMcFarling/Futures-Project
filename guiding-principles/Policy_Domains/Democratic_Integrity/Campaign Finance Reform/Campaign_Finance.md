@@ -1,18 +1,20 @@
 ---
+id: campaign-finance-reform
 title: "Campaign Finance Reform: Tiered Individual Donations & the National Democracy Fund"
-category: "Anti-Corruption"
-status: "Draft"
-version: "0.3"
-linked_campaigns:
-  - "UnFuck Corruption Part 3"
-contributors:
-  - "Lee McFarling"
-related_policy_questions:
-  - "How can we fund elections without corporate or dark-money influence?"
-  - "How can small donors and ordinary citizens have an equal voice in campaign funding?"
-tags: ["campaign-finance", "public-funding", "small-donors", "dark-money-ban", "elections"]
-dependencies:
-  - "../governance/federal-oversight-and-impeachment.md"
+sidebar_label: Campaign Finance
+sidebar_position: 1
+slug: /democratic-integrity/campaign-finance/campaign-finance-reform
+tags:
+  - campaign-finance
+  - public-funding
+  - small-donors
+  - dark-money-ban
+  - elections
+  - anti-corruption
+description: >
+  Creates a transparent, citizen-led campaign funding system where all
+  contributions come from verified individuals, with public matching for
+  small donations through the National Democracy Fund.
 ---
 
 # Campaign Finance Reform: Tiered Individual Donations & the National Democracy Fund

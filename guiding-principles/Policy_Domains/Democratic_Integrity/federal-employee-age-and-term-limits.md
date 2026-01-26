@@ -1,18 +1,19 @@
 ---
-title: “Federal Age and Term Limits”
-category: Guiding Principles
-subcategory: Democratic Integrity
-status: Draft
-version: 0.1
-last_updated: 2026-01-11
-author: Futures Project
-summary: “Establishes uniform age and term limits across federal branches to enforce renewal, reduce entrenchment, and separate time-bounded authority from enduring expertise.”
+id: federal-age-and-term-limits
+title: Federal Age and Term Limits
+sidebar_label: Age & Term Limits
+sidebar_position: 1
+slug: /democratic-integrity/federal-age-and-term-limits
 tags:
-- democratic-integrity
-- governance-reform
-- term-limits
-- age-limits
-- institutional-renewal
+  - democratic-integrity
+  - governance-reform
+  - term-limits
+  - age-limits
+  - institutional-renewal
+description: >
+  Establishes uniform age and term limits across federal branches to enforce
+  renewal, reduce entrenchment, and separate time-bounded authority from
+  enduring expertise.
 ---
 
 # Federal Age and Term Limits

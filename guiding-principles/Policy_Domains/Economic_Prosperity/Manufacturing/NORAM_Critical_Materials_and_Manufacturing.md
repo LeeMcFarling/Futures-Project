@@ -1,32 +1,20 @@
 ---
-title: “North American Critical Materials & Manufacturing Authorities”
-author: “Lee McFarling”
-category: “Industrial Policy”
-subcategories:
-	•	Critical Materials
-	•	Advanced Manufacturing
-	•	Recycling & Circular Economy
-	•	National Security
-status: “Draft”
-version: “1.0”
-last_updated: “2025-12-17”
+id: noram-critical-materials
+title: North American Critical Materials & Manufacturing Authorities
+sidebar_label: Critical Materials
+sidebar_position: 1
+slug: /economic-prosperity/manufacturing/critical-materials
 tags:
-	•	batteries
-	•	rare earths
-	•	recycling
-	•	industrial policy
-	•	ffrdc
-	•	special economic zones
-	•	supply chain resilience
-summary: >
-This policy brief proposes the creation of a small set of technocratic authorities—modeled on, but extending beyond, the FFRDC framework—to close the loop on critical materials, battery supply chains, and advanced manufacturing in North America. The proposal focuses on mandatory collection, domestic-first sourcing, special economic zones, and auditable public procurement to rebuild resilient industrial capacity without full nationalization.
-linked_policies:
-	•	Economy/Prosperity_Capitalism_Framework.md
-	•	Governance/Regulations_as_Code.md
-related_initiatives:
-	•	Project_Critical_Materials
-license: “CC BY-NC-SA 4.0”
-
+  - batteries
+  - rare-earths
+  - recycling
+  - industrial-policy
+  - supply-chain
+  - manufacturing
+description: >
+  Proposes technocratic authorities to close the loop on critical materials,
+  battery supply chains, and advanced manufacturing in North America through
+  mandatory collection, domestic-first sourcing, and special economic zones.
 ---
 
 # Executive Summary

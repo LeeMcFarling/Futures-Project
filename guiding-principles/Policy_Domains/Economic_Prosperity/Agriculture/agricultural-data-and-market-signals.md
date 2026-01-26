@@ -1,13 +1,18 @@
 ---
 id: agricultural-data-and-market-signals
-domain: Economic_Prosperity
-policy_area: Agriculture
-document_type: Policy_Brief
-status: Draft
-version: 1.0
-related_overview: agricultural-overview
-audience: Policy_Staff, Agencies, Farmers
-principles: Farmer_Agency, Market_Transparency, Voluntary_Adoption, Pilot_First
+title: Agricultural Data & Market Signals
+sidebar_label: Data & Market Signals
+sidebar_position: 2
+slug: /economic-prosperity/agriculture/data-and-market-signals
+tags:
+  - agriculture
+  - market-transparency
+  - farmer-agency
+  - data-systems
+  - economic-prosperity
+description: >
+  Restores information symmetry at the farm level by providing farmers timely,
+  accessible market signals for better planting and production decisions.
 ---
 
 # Agricultural Data & Market Signals

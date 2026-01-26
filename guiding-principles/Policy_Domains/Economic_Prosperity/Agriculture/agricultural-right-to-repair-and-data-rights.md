@@ -1,14 +1,18 @@
 ---
-id: agricultural-right-to-repair-and-data-rights
-domain: Economic_Prosperity
-policy_area: Agriculture
-document_type: Policy_Brief
-status: Draft
-version: 1.0
-related_overview: agri-overview-001
-dependencies: agri-data-001, agri-farmer-econ-001
-audience: Policy_Staff, Agencies, Farmers, Equipment_Manufacturers
-principles: Farmer_Agency, Competition_Preserving, Cost_Reduction, Pilot_First
+id: agricultural-right-to-repair
+title: Equipment, Right-to-Repair & Farm Data Rights
+sidebar_label: Right to Repair
+sidebar_position: 4
+slug: /economic-prosperity/agriculture/right-to-repair
+tags:
+  - agriculture
+  - right-to-repair
+  - data-rights
+  - farmer-agency
+  - competition
+description: >
+  Restores farmer control over owned equipment and farm-generated data while
+  preserving innovation and competition in equipment markets.
 ---
 
 # Equipment, Right-to-Repair & Farm Data Rights

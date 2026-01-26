@@ -1,16 +1,20 @@
 ---
-title: "Federal Oversight and Impeachment Reform"
-category: "Governance Reform"
-status: "Draft"
-version: 0.2"
-contributors:
-  - "Lee McFarling"
-related_policy_questions:
-  - "How can the United States ensure that no federal official is above the law?"
-  - "What mechanisms can depoliticize impeachment while preserving due process?"
-tags: ["impeachment", "oversight", "accountability", "ethics", "judicial-process"]
-dependencies:
-  - "../anti-corruption/ethics-enforcement.md"
+id: impeachment-reform
+title: Federal Oversight and Impeachment Reform
+sidebar_label: Impeachment Reform
+sidebar_position: 3
+slug: /democratic-integrity/anti-corruption/impeachment-reform
+tags:
+  - impeachment
+  - oversight
+  - accountability
+  - ethics
+  - judicial-process
+  - anti-corruption
+description: >
+  Creates a fair, depoliticized, and automatic process for removing federal
+  officials who face credible evidence of criminal misconduct through an
+  independent Special Counsel and Oversight Commission.
 ---
 
 # Federal Oversight and Impeachment Reform

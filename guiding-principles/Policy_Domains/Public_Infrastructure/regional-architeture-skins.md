@@ -3,7 +3,7 @@ id: regional-architectural-skins
 title: Regional Architectural Skins & Pattern Books
 sidebar_label: Regional Skins & Pattern Books
 sidebar_position: 3
-slug: /guiding-principles/policy-domains/public-infrastructure/regional-architectural-skins
+slug: /public-infrastructure/regional-skins
 tags:
   - civic-architecture
   - regional-design
