@@ -1,6 +1,6 @@
 # Domain Maturity Tracker: Technology_and_Data
 
-**Last Updated:** 2025-01-25
+**Last Updated:** 2026-01-28
 **Overall Domain Phase:** 2
 **Domain Owner:** TBD
 
@@ -39,9 +39,11 @@ Modernize government technology, establish digital identity infrastructure, and 
 
 | Subdomain | Phase | File Count | Word Count | Key Gaps | Dependencies | Next Action | Target Date |
 |-----------|-------|------------|------------|----------|--------------|-------------|-------------|
-| Institutional_Modernization | 2 | 1 | ~1,000 | Implementation pathway | Democratic_Integrity | Add pilot program | TBD |
-| Digital_Identity | 2 | 1 | ~900 | Technical standards | None | Add SSI specifications | TBD |
-| AI_Governance | 0 | 0 | 0 | **Not started** | None | Create initial file | **PRIORITY** |
+| Digital_Identity / SSI | 2 | 1 | ~1,200 | Integration standards | None | Define cross-domain integration | TBD |
+| AI_Governance | 2 | 1 | ~1,500 | Enforcement mechanisms | None | Add compliance framework | TBD |
+| Synthetic_Media | 2 | 1 | ~1,100 | Platform adoption pathway | Digital_Identity | Add implementation roadmap | TBD |
+| Information_Integrity | 2 | 1 | ~1,000 | Pilot program design | Digital_Identity, Platform_Regulation | Define pilot scope | TBD |
+| Payments_Infrastructure | 2 | 1 | ~800 | Technical specifications | Digital_Identity | Add UPI technical spec | TBD |
 | Platform_Regulation | 0 | 0 | 0 | **Not started** | Economic_Prosperity.Antitrust | Create initial file | TBD |
 | Data_Privacy | 0 | 0 | 0 | **Not started** | None | Create initial file | TBD |
 | Cybersecurity | 0 | 0 | 0 | **Not started** | National_Security | Create initial file | TBD |
@@ -74,7 +76,7 @@ Modernize government technology, establish digital identity infrastructure, and 
 ## Gap Analysis
 
 ### Tier 1: Critical Gaps (Missing Foundation)
-- [ ] **AI Governance** – No framework for AI safety, deployment, liability – Target: Phase 2 **CRITICAL**
+- [x] **AI Governance** – Framework established for AI safety, deployment, liability ✅ COMPLETED
 - [ ] **Data Privacy** – No comprehensive data protection policy – Target: Phase 2
 
 ### Tier 2: Structural Gaps (Incomplete Coverage)
@@ -102,14 +104,21 @@ Modernize government technology, establish digital identity infrastructure, and 
 
 | Date | Subdomain | Change | Phase Impact |
 |------|-----------|--------|--------------|
-| 2025-01-25 | All | YAML standardized | N/A |
+| 2026-01-28 | AI_Governance | Added ai-data-and-governance.md | 0 → 2 |
+| 2026-01-28 | Digital_Identity | Added ssi-self-sovereign-identity-framework.md | Enhanced |
+| 2026-01-28 | Payments_Infrastructure | Added upi-privacy-preserving-payment-rail.md | New subdomain |
+| 2026-01-28 | Synthetic_Media | Added synthetic-media-provenance.md | New subdomain |
+| 2026-01-28 | Information_Integrity | Added digital-nutrition-label.md | New subdomain |
+| 2026-01-28 | All | YAML front matter standardized | N/A |
+| 2025-01-25 | All | Initial YAML standardized | N/A |
 
 ---
 
 ## Notes & Context
 
-- Domain has only 2 files totaling ~1,942 words
-- **CRITICAL**: Smallest populated domain, needs significant expansion
-- Institutional modernization is a guiding principle, not specific policy
-- AI governance is a major gap given current policy landscape
-- Digital identity concept is strong but lacks technical specifications
+- Domain now has 5 policy files totaling ~5,600 words
+- AI governance gap closed (was marked **CRITICAL**)
+- SSI framework provides technical foundation for digital identity
+- New subdomains added: Payments, Synthetic Media, Information Integrity
+- Institutional Modernization moved to separate domain
+- Remaining gaps: Platform Regulation, Data Privacy, Cybersecurity, Gov_Tech
