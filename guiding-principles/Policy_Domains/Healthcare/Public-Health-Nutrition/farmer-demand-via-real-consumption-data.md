@@ -1,30 +1,16 @@
 ---
-title: Anchor Demand & Market Signal Infrastructure for Agriculture
-author: Futures Project
-domain: Food & Health
-subdomain: Food Systems & Agricultural Markets
-policy_type: Demand Infrastructure
-time_horizon: Year One
-status: Draft – Pilot Authorization
-version: 0.3
-tags:
-  - agriculture
-  - co-ops
-  - institutional procurement
-  - demand signaling
-  - food access
-  - bulk purchasing
-lead_agency:
-  - Department of Data & Accountability
-related_initiatives:
-  - Regional Processing & Supply Chain Capacity
-  - Comparative Ingredient Disclosure
-  - Truth-in-Nutrition Advertising Standards
-non_goals:
-  - price controls
-  - production mandates
-  - centralized planning
-  - individual consumption tracking
+domain: Healthcare
+subdomain: Public_Health_Nutrition
+phase: 2
+dependencies:
+  - type: soft
+    target: Technology_and_Data.Data_Infrastructure
+    reason: Demand signal publication requires data aggregation
+  - type: soft
+    target: Public_Infrastructure.Regional_Processing
+    reason: Cooperative and aggregation hub alignment
+status: draft
+last_updated: 2025-01-25
 ---
 
 ## Summary

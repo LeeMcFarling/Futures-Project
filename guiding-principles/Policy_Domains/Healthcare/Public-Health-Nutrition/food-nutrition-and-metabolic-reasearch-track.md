@@ -1,24 +1,16 @@
 ---
-title: Food, Nutrition, and Metabolic Research Track
-author: Futures Project
-domain: Food & Health
-subdomain: Nutrition Science & Clinical Research
-policy_type: Research Execution Track
-time_horizon: Year One
-status: Draft – Integrated Pilot
-version: 0.1
+domain: Healthcare
+subdomain: Public_Health_Nutrition
+phase: 2
 dependencies:
-  - Regional Clinical Trial Infrastructure
-  - Truth-in-Nutrition Advertising Standards
-  - Comparative Ingredient Disclosure
-related_initiatives:
-  - Health System Transition
-  - Demand & Market Signal Infrastructure
-non_goals:
-  - dietary mandates
-  - product certification
-  - regulatory enforcement
-  - brand endorsements
+  - type: hard
+    target: Healthcare.Clinical_Trial_Infrastructure
+    reason: Requires regional clinical trial capacity for execution
+  - type: soft
+    target: Healthcare.Public_Health_Nutrition
+    reason: Outputs support ingredient disclosure and advertising standards
+status: draft
+last_updated: 2025-01-25
 ---
 
 ## Summary

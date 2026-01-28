@@ -1,29 +1,16 @@
 ---
-title: Urban Vertical Farm and Greenhouse Pilot Program
-author: Futures Project
-domain: Food & Health
-subdomain: Food Infrastructure & Resilience
-policy_type: Infrastructure Pilot
-time_horizon: Year One
-status: Draft – Pilot Authorization
-version: 0.1
-tags:
-  - vertical farming
-  - greenhouses
-  - urban food access
-  - food resilience
-  - infrastructure pilots
-lead_agency:
-  - Department of Data & Accountability
-related_initiatives:
-  - Anchor Demand & Market Signal Infrastructure
-  - Regional Processing & Supply Chain Capacity
-  - Health Month Pilot
-non_goals:
-  - replacement of rural agriculture
-  - nationwide mandates
-  - lifestyle programming
-  - speculative real estate development
+domain: Healthcare
+subdomain: Public_Health_Nutrition
+phase: 2
+dependencies:
+  - type: soft
+    target: Public_Infrastructure.Regional_Processing
+    reason: Integration with cooperative aggregation hubs
+  - type: soft
+    target: Healthcare.Public_Health_Nutrition
+    reason: Feeds into institutional demand infrastructure
+status: draft
+last_updated: 2025-01-25
 ---
 
 ## Summary

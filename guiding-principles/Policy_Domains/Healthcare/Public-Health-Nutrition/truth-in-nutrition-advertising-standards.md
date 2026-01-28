@@ -1,26 +1,13 @@
 ---
-title: Truth-in-Nutrition Advertising Standards
-author: Futures Project
-domain: Food & Health
-subdomain: Nutrition Claims & Marketing
-policy_type: Advertising Standards
-time_horizon: Year One
-status: Draft – Pilot Authorization
-version: 0.2
-tags:
-  - food advertising
-  - nutrition claims
-  - protein labeling
-  - serving size integrity
-  - consumer protection
-related_initiatives:
-  - Comparative Ingredient Disclosure
-  - Food Science & Communication Reform
-non_goals:
-  - bans on products
-  - dietary mandates
-  - price regulation
-  - marketing content approval
+domain: Healthcare
+subdomain: Public_Health_Nutrition
+phase: 2
+dependencies:
+  - type: soft
+    target: Healthcare.Public_Health_Nutrition
+    reason: Coordinated with ingredient disclosure policy
+status: draft
+last_updated: 2025-01-25
 ---
 
 ## Summary

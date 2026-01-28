@@ -1,31 +1,13 @@
 ---
-title: Comparative Ingredient Disclosure for Packaged Foods
-author: Futures Project
-domain: Food & Health
-subdomain: Food Access and Agriculture
-policy_type: Regulatory Transparency
-time_horizon: Year One
-status: Draft – Pilot Authorization
-version: 0.1
-tags:
-  - food labeling
-  - ingredient transparency
-  - ultra-processed foods
-  - consumer information
-  - market signaling
-related_initiatives:
-  - Department of Data & Accountability
-  - Health System Transition
-peer_jurisdictions:
-  - United Kingdom
-  - Canada
-  - Germany
-  - Australia
-non_goals:
-  - ingredient bans
-  - nutritional scoring systems
-  - consumer mandates
-  - price controls
+domain: Healthcare
+subdomain: Public_Health_Nutrition
+phase: 2
+dependencies:
+  - type: soft
+    target: Technology_and_Data.Data_Infrastructure
+    reason: Public ingredient registry requires data platform
+status: draft
+last_updated: 2025-01-25
 ---
 
 ## Summary
