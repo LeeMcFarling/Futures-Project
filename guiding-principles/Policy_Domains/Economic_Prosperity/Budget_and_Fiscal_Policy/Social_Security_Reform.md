@@ -16,46 +16,7 @@ description: >
   from demographic dependence to owned, portable capital.
 ---
 
-
-Good. Clean, scoped, and consistent with what we discussed. Below is a tight policy brief focused only on the superannuation reform, with immigration/visa revenue referenced but explicitly deferred.
-
-⸻
-
-
-title: "Transitioning from Social Security to a Universal Superannuation System"
-author: "Lee McFarling"
-category: "Economy"
-subcategories:
-  - Retirement Policy
-  - Public Finance
-  - Labor Markets
-status: "Draft"
-version: "1.0"
-last_updated: "2025-12-17"
-tags:
-  - superannuation
-  - social security reform
-  - retirement prefunding
-  - payroll systems
-  - portability
-  - capital formation
-summary: >
-  This policy brief proposes replacing Social Security retirement benefits for future birth
-  cohorts with a universal, prefunded superannuation account. Beginning with a defined
-  cutoff year, new cohorts would receive a one-time government seed contribution and
-  standardized payroll-funded employer contributions in lieu of Social Security accruals.
-  The reform shifts retirement financing from demographic dependence to owned, portable
-  capital while simplifying the fragmented U.S. retirement landscape.
-linked_policies:
-  - Economy/Immigration_Reform.md
-related_initiatives:
-  - Project_Prosperity_Capitalism
-license: "CC BY-NC"
-
-
-⸻
-
-Problem Statement
+# **Problem Statement**
 
 Social Security retirement benefits are financed through a pay-as-you-go model that depends on stable worker-to-retiree ratios. Persistent below-replacement fertility, rising longevity, and slower labor-force growth have placed the system under long-term strain, requiring repeated political interventions to maintain solvency. At the same time, the U.S. supplemental retirement system is fragmented, voluntary, and unevenly adopted, leaving many workers underprepared for retirement despite decades of economic growth.
 
@@ -63,16 +24,16 @@ Incremental adjustments to Social Security can delay insolvency but do not addre
 
 ⸻
 
-Policy Objective
+# **Policy Objective**
 
 Replace Social Security retirement accruals for future cohorts with a universal, prefunded superannuation system that provides automatic, portable retirement savings through payroll, reduces long-term government liabilities, and simplifies the existing patchwork of employer-sponsored plans.
 
 ⸻
 
-Core Design
+**Core Design**
 
 Cohort-Based Transition
-- All individuals born from a defined cutoff year onward (e.g., 2028) do not accrue Social Security retirement benefits.
+- All individuals born from a defined cutoff year onward (e.g., 2030) do not accrue Social Security retirement benefits.
 - Current retirees and near-retirees remain fully covered under legacy Social Security rules.
 - Social Security disability and survivor programs remain intact or are addressed separately.
 
