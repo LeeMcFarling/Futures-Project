@@ -1,10 +1,32 @@
 ---
+id: idp-financial-trade-integrity
 title: Financial Infrastructure & Economic Continuity
-category: National Security
-subdomain: Integrated Defense Partnerships
-instrument_type: Core IDP Framework
-status: Proposed Instrument
+sidebar_label: Financial & Trade Integrity (IDP)
+sidebar_position: 5
+slug: /national-security/idp/financial-trade-integrity
+domain: National_Security
+subdomain: Integrated_Defense_Partnerships
+policy_type: IDP Framework
+status: Draft
 version: 1.0
+author: Futures Project
+dependencies:
+  - defense-posture
+related_initiatives:
+  - Economic_Prosperity
+  - Trade Policy
+non_goals:
+  - shared currency
+  - centralized clearinghouse
+  - command authority over finance
+tags:
+  - national-security
+  - integrated-defense-partnerships
+  - financial-infrastructure
+  - sanctions
+  - trade-integrity
+  - alliance-governance
+last_updated: 2026-02-05
 ---
 
 ## Purpose and Scope

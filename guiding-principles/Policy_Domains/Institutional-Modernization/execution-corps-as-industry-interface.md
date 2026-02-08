@@ -2,11 +2,31 @@
 id: execution-corps-industry-interface
 title: Execution Corps — Industry Interface & Market Stability
 sidebar_label: Execution Corps (Industry Interface)
-slug: /institutional-design/execution-corps-industry
+sidebar_position: 3
+slug: /institutional-modernization/execution-corps-industry-interface
+domain: Institutional_Modernization
+subdomain: Industry Interface
+policy_type: Companion Brief
 status: Draft
 version: 1.0
-category: Institutional Design
-policy_type: Companion Brief
+author: Futures Project
+dependencies:
+  - execution-corps-spec
+related_initiatives:
+  - Platform Regulation
+  - Firm Regulation
+non_goals:
+  - industrial policy by subsidy
+  - permanent state market presence
+  - champion selection
+tags:
+  - execution-corps
+  - industry-interface
+  - platform-regulation
+  - firm-regulation
+  - market-stability
+  - government-industry
+last_updated: 2026-02-08
 ---
 
 ## Purpose

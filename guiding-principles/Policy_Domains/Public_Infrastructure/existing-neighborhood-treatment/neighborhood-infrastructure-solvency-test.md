@@ -1,9 +1,28 @@
 ---
+id: neighborhood-infrastructure-solvency-test
 title: Local Infrastructure Funding Test (LIFT)
-domain: Public Infrastructure / Reurbanization
-phase: Phase 3 — Outcomes & Decision Rules
+sidebar_label: Infrastructure Solvency Test
+sidebar_position: 2
+slug: /public-infrastructure/neighborhood-treatment/solvency-test
+domain: Public_Infrastructure
+subdomain: Existing_Neighborhood_Treatment
+policy_type: Fiscal Framework
 status: Draft
 version: 0.1
+author: Futures Project
+dependencies: []
+related_initiatives:
+  - Neighborhood Civic Overlay
+  - Fiscal Sustainability
+non_goals:
+  - retroactive tax mechanisms
+  - penalizing past planning decisions
+tags:
+  - public-infrastructure
+  - fiscal-sustainability
+  - neighborhood-treatment
+  - infrastructure-funding
+last_updated: 2026-02-08
 ---
 
 ## Purpose

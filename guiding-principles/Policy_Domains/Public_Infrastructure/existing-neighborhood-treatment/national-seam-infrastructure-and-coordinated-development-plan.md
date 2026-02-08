@@ -1,9 +1,26 @@
 ---
+id: national-seam-infrastructure-coordinated-development
 title: National Seam Infrastructure & Coordinated Development Pilot
-author: Lee McFarling
-category: Futures Project
-subcategory: Infrastructure and Urban Development
+sidebar_label: National Seam Infrastructure
+sidebar_position: 3
+slug: /public-infrastructure/neighborhood-treatment/national-seam
+domain: Public_Infrastructure
+subdomain: Existing_Neighborhood_Treatment
+policy_type: Pilot Framework
+status: Draft
+version: 0.1
+author: Futures Project
+dependencies:
+  - public-infrastructure-spine
+  - neighborhood-civic-overlay
+related_initiatives:
+  - Healthcare Access Networks
+  - Agricultural Distribution
+non_goals:
+  - mandating urban form
+  - regulatory coercion
 tags:
+  - public-infrastructure
   - infrastructure-spine
   - housing
   - new-urbanism
@@ -11,8 +28,7 @@ tags:
   - primary-care
   - food-access
   - fiscal-sustainability
-status: Draft
-version: 0.1
+last_updated: 2026-02-08
 ---
 
 ## Executive Thesis

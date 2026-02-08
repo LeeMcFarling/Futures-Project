@@ -1,11 +1,33 @@
 ---
+id: transit-escalation-stz-interface
 title: "Special Transit Zones (STZ): Infrastructure Spine and Neighborhood Seam Framework"
-author: "Lee McFarling"
-category: "Futures Project"
-subcategory: "Urban Systems / State Capacity"
-tags: ["transit", "zoning reform", "state capacity", "infrastructure", "housing supply", "governance"]
-status: "Draft"
-version: "0.1"
+sidebar_label: Transit Escalation & STZ
+sidebar_position: 4
+slug: /public-infrastructure/neighborhood-treatment/transit-escalation-stz
+domain: Public_Infrastructure
+subdomain: Existing_Neighborhood_Treatment
+policy_type: Transit Framework
+status: Draft
+version: 0.1
+author: Futures Project
+dependencies:
+  - special-transit-zones
+  - neighborhood-civic-overlay
+related_initiatives:
+  - Housing Supply
+  - State Capacity
+non_goals:
+  - premature overbuild
+  - discretionary approvals
+tags:
+  - public-infrastructure
+  - transit
+  - zoning-reform
+  - state-capacity
+  - infrastructure
+  - housing-supply
+  - governance
+last_updated: 2026-02-08
 ---
 
 ## Executive Summary

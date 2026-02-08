@@ -1,9 +1,30 @@
 ---
+id: neighborhood-civic-overlay
 title: Neighborhood Civic Overlay (NCO)
-domain: Public Infrastructure / Reurbanization
-phase: Phase 3 — Outcomes & Decision Rules
+sidebar_label: Neighborhood Civic Overlay
+sidebar_position: 1
+slug: /public-infrastructure/neighborhood-treatment/civic-overlay
+domain: Public_Infrastructure
+subdomain: Existing_Neighborhood_Treatment
+policy_type: Zoning Framework
 status: Draft
 version: 0.1
+author: Futures Project
+dependencies:
+  - neighborhood-infrastructure-solvency-test
+related_initiatives:
+  - Special Transit Zones
+  - Modular Reurbanization
+non_goals:
+  - density mandates
+  - broad rezoning
+tags:
+  - public-infrastructure
+  - zoning
+  - walkability
+  - neighborhood-treatment
+  - fiscal-sustainability
+last_updated: 2026-02-08
 ---
 
 ## Purpose

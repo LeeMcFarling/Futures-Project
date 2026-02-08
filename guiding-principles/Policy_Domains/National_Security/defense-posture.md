@@ -1,18 +1,20 @@
 ---
+id: defense-posture
 title: Defense Posture — Integrated Partnerships, Anchored Deterrence
-author: United States Administration
-domain: National Security
-subdomain: Defense Posture
+sidebar_label: Defense Posture
+sidebar_position: 1
+slug: /national-security/defense-posture
+domain: National_Security
+subdomain: Defense_Posture
 policy_type: Strategic Framework
-time_horizon: Long-term
 status: Draft
 version: 0.1
-last_updated: 2026-01-31
+author: Futures Project
 dependencies:
   - Foreign Policy Orientation
   - Alliance Architecture
   - Defense Industrial Base
-related_documents:
+related_initiatives:
   - Integrated Defense Partnership (IDP) Standards
   - Alliance Transition Frameworks
   - Institutional Reform Agenda
@@ -21,6 +23,13 @@ non_goals:
   - world policing
   - isolationism
   - unilateral enforcement
+tags:
+  - national-security
+  - defense-posture
+  - alliances
+  - deterrence
+  - foreign-policy
+last_updated: 2026-01-31
 ---
 
 # Defense Posture: Integrated Partnerships, Anchored Deterrence, No World Policing

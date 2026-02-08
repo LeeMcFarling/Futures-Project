@@ -1,19 +1,33 @@
-```yaml
+---
 id: idp-logistics-transport-sustainment
 title: Integrated Defense Partnerships – Logistics, Transport, and Sustainment
-sidebar_label: Logistics, Transport, and Sustainment
+sidebar_label: Logistics & Transport (IDP)
 sidebar_position: 3
 slug: /national-security/idp/logistics-transport-sustainment
+domain: National_Security
+subdomain: Integrated_Defense_Partnerships
+policy_type: IDP Framework
+status: Draft
+version: 0.1
+author: Futures Project
+dependencies:
+  - defense-posture
+related_initiatives:
+  - Public Infrastructure
+  - Supply Chain Resilience
+non_goals:
+  - permanent nationalization
+  - centralized command of civilian industry
 tags:
+  - national-security
   - integrated-defense-partnerships
   - logistics
   - sustainment
   - alliances
   - transport
   - supply-chains
-status: draft
-phase: 1
 last_updated: 2026-02-05
+---
 
 ### Purpose and Scope
 

@@ -1,11 +1,33 @@
 ---
+id: idp-digital-cloud-infrastructure
 title: Cloud, Compute, and Digital Infrastructure – Integrated Defense Partnership (IDP)
-author: Lee McFarling
+sidebar_label: Digital & Cloud Infrastructure (IDP)
+sidebar_position: 4
+slug: /national-security/idp/digital-cloud-infrastructure
 domain: National_Security
-subdomain: Cyber_and_Digital_Infrastructure
-phase: Phase 1 – Strategic Constraints
+subdomain: Integrated_Defense_Partnerships
+policy_type: IDP Framework
 status: Draft
 version: 0.3
+author: Futures Project
+dependencies:
+  - defense-posture
+  - ssi-self-sovereign-identity-framework
+  - upi-privacy-preserving-payment-rail
+related_initiatives:
+  - Technology_and_Data
+  - Digital Identity
+non_goals:
+  - mandating specific ownership models
+  - day-to-day compliance obligations
+  - re-litigating existing arrangements
+tags:
+  - national-security
+  - integrated-defense-partnerships
+  - cloud-infrastructure
+  - digital-sovereignty
+  - cybersecurity
+last_updated: 2026-02-05
 ---
 
 ## Purpose

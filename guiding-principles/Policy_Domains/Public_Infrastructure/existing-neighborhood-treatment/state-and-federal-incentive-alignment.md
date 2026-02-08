@@ -1,11 +1,32 @@
 ---
+id: state-federal-incentive-alignment
 title: "State–Federal Incentive Alignment Framework"
-author: "Lee McFarling"
-category: "Futures Project"
-subcategory: "Fiscal Architecture / State Capacity"
-tags: ["federalism", "incentive design", "infrastructure", "housing", "governance", "capital allocation"]
-status: "Draft"
-version: "0.1"
+sidebar_label: State-Federal Incentive Alignment
+sidebar_position: 5
+slug: /public-infrastructure/neighborhood-treatment/state-federal-alignment
+domain: Public_Infrastructure
+subdomain: Existing_Neighborhood_Treatment
+policy_type: Fiscal Framework
+status: Draft
+version: 0.1
+author: Futures Project
+dependencies:
+  - special-transit-zones
+related_initiatives:
+  - Housing Production
+  - Regulatory Modernization
+non_goals:
+  - federal centralization
+  - unconditional transfers
+tags:
+  - public-infrastructure
+  - federalism
+  - incentive-design
+  - infrastructure
+  - housing
+  - governance
+  - capital-allocation
+last_updated: 2026-02-08
 ---
 
 ## Executive Summary

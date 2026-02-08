@@ -2,25 +2,32 @@
 id: idp-critical-materials-energy
 title: Alliance-Wide Critical Materials & Energy Resilience Framework
 sidebar_label: Critical Materials & Energy (IDP)
-sidebar_position: 3
-category: national-security
-subcategories:
-  - alliances
-  - defense-industrial-base
-  - energy-security
-  - supply-chain-resilience
-phase: 3
-status: draft
+sidebar_position: 6
+slug: /national-security/idp/critical-materials-energy
+domain: National_Security
+subdomain: Integrated_Defense_Partnerships
+policy_type: IDP Framework
+status: Draft
 version: 0.9
-last_updated: 2026-02-05
-authors:
-  - Integrated Defense Partnership (IDP)
+author: Futures Project
+dependencies:
+  - defense-posture
+related_initiatives:
+  - Energy Security
+  - Supply Chain Resilience
+non_goals:
+  - mandating specific ownership models
+  - efficiency over resilience
 tags:
+  - national-security
+  - integrated-defense-partnerships
   - critical-materials
   - energy
   - deterrence
   - non-proliferation
   - alliance-governance
+  - supply-chain-resilience
+last_updated: 2026-02-05
 description: >
   Alliance-wide framework establishing binding standards for resilience,
   diversification, and continuity of critical materials and energy inputs
