@@ -12,6 +12,7 @@ version: 0.3
 author: Futures Project
 dependencies:
   - defense-posture
+accelerants:
   - ssi-self-sovereign-identity-framework
   - upi-privacy-preserving-payment-rail
 related_initiatives:

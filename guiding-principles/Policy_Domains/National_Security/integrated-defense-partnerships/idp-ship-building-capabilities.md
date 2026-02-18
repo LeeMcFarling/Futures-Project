@@ -12,7 +12,7 @@ version: 0.2
 author: Futures Project
 dependencies:
   - defense-posture
-  - idp-partner-integrated-defense-production
+  - idp-industrial-capacity-defense-production
 related_initiatives:
   - Naval Production
   - AUKUS

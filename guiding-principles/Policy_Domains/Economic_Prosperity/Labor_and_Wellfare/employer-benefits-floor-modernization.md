@@ -1,15 +1,34 @@
 ---
+id: employer-benefits-floor-modernization
 title: Portable Per-Hour Healthcare Benefits Floor Act
-domain: Economic_Security
-subdomain: Labor_Market_Structure
+sidebar_label: Employer Benefits Floor
+sidebar_position: 2
+slug: /economic-prosperity/labor/employer-benefits-floor
+domain: Economic_Prosperity
+subdomain: Labor_and_Welfare
+policy_type: Transition Framework
 status: Draft
-phase: 1
 version: 0.4
-related:
-  - Benefits_Gradient_Modernization
-  - Real_Time_Tax_Credit_Delivery
-  - Worker_Classification_Parity
-  - Healthcare_Transition_Framework
+author: Futures Project
+dependencies:
+  - employer-sponsored-coverage-transition
+accelerants:
+  - ssi-self-sovereign-identity-framework
+  - upi-privacy-preserving-payment-rail
+related_initiatives:
+  - Benefits Gradient Modernization
+  - Real Time Tax Credit Delivery
+  - Worker Classification Parity
+non_goals:
+  - generalized portable benefits mandate
+  - retirement or paid leave mandates
+tags:
+  - economic-prosperity
+  - labor
+  - healthcare-transition
+  - employer-benefits
+  - portable-benefits
+last_updated: 2026-02-18
 ---
 
 ## Healthcare-Specific Scope and Trigger

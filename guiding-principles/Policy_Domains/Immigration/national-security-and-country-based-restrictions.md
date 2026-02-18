@@ -4,12 +4,21 @@ title: National Security & Country-Based Restrictions
 sidebar_label: National Security
 sidebar_position: 9
 slug: /immigration/national-security
+domain: Immigration
+subdomain: National_Security
+policy_type: Restriction Framework
+status: Draft
+version: 1.0
+author: Futures Project
+accelerants:
+  - ssi-self-sovereign-identity-framework
 tags:
   - immigration
   - national-security
   - country-restrictions
   - visa-screening
   - sensitive-sectors
+last_updated: 2026-02-18
 description: >
   Rule-based framework for restricting immigration pathways from countries posing
   national security risks while preserving lawful, targeted immigration aligned

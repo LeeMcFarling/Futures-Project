@@ -4,12 +4,21 @@ title: "Enforcement Reform: Professional, Transparent, Accountable Immigration E
 sidebar_label: Enforcement Reform
 sidebar_position: 7
 slug: /immigration/enforcement-reform
+domain: Immigration
+subdomain: Enforcement
+policy_type: Reform Framework
+status: Draft
+version: 1.0
+author: Futures Project
+accelerants:
+  - ssi-self-sovereign-identity-framework
 tags:
   - immigration
   - enforcement-reform
   - transparency
   - accountability
   - civil-law-enforcement
+last_updated: 2026-02-18
 description: >
   Reforms to U.S. immigration enforcement preserving necessary state capacity while
   restoring public trust through transparency, legality, and humane civilian

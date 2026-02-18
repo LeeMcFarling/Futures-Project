@@ -11,11 +11,11 @@ status: Draft
 version: 0.2
 author: Futures Project
 dependencies:
-  - Digital Identity (SSI / DIDs)
-  - Platform Transparency Standards
-  - Civic Rater Programs
+  - defense-posture
+  - digital-nutrition-label
+accelerants:
+  - ssi-self-sovereign-identity-framework
 related_initiatives:
-  - Digital Nutrition Labeling
   - AI Governance
   - Platform Accountability
   - Integrated Defense Partnerships (IDP)

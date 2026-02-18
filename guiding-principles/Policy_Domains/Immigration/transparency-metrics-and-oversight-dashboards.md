@@ -4,12 +4,21 @@ title: Transparency, Metrics, and Oversight Dashboards
 sidebar_label: Transparency & Oversight
 sidebar_position: 11
 slug: /immigration/transparency-oversight
+domain: Immigration
+subdomain: Oversight
+policy_type: Transparency Framework
+status: Draft
+version: 1.0
+author: Futures Project
+accelerants:
+  - ssi-self-sovereign-identity-framework
 tags:
   - immigration
   - transparency
   - dashboards
   - oversight
   - public-accountability
+last_updated: 2026-02-18
 description: >
   Mandatory transparency and oversight mechanisms for the immigration system using
   public dashboards and auditable metrics to ensure credibility, enforcement, and

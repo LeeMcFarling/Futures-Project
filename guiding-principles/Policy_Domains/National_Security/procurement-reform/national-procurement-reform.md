@@ -12,7 +12,7 @@ version: 0.4
 author: Futures Project
 dependencies:
   - defense-posture
-  - idp-partner-integrated-defense-production
+  - idp-industrial-capacity-defense-production
 related_initiatives:
   - IDP Framework
   - PCA Model

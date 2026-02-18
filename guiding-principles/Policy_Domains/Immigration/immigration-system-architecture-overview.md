@@ -4,12 +4,21 @@ title: Immigration System Architecture
 sidebar_label: System Overview
 sidebar_position: 1
 slug: /immigration/overview
+domain: Immigration
+subdomain: System_Architecture
+policy_type: System Framework
+status: Draft
+version: 1.0
+author: Futures Project
+accelerants:
+  - ssi-self-sovereign-identity-framework
 tags:
   - immigration
   - labor-policy
   - border-enforcement
   - asylum
   - workforce
+last_updated: 2026-02-18
 description: >
   Modern U.S. immigration system built around domestic workforce alignment,
   targeted legal entry, strict separation between labor migration and asylum,
