@@ -1,18 +1,31 @@
 ---
-title: "Gray-Zone Conflict & Escalation Management – IDP Framework"
-author: "Lee McFarling"
-domain: "National_Security"
-subdomain: "Alliances / Escalation_Management"
-status: "Draft"
-version: "0.1"
+id: idp-gray-zone-escalation
+title: Gray-Zone Conflict & Escalation Management – IDP Framework
+sidebar_label: Gray-Zone Conflict (IDP)
+sidebar_position: 7
+slug: /national-security/idp/gray-zone-escalation
+domain: National_Security
+subdomain: Integrated_Defense_Partnerships
+policy_type: IDP Framework
+status: Draft
+version: 0.1
+author: Futures Project
+dependencies:
+  - defense-posture
+related_initiatives:
+  - Alliance Architecture
+  - Escalation Management
+non_goals:
+  - ad hoc crisis deliberation
+  - ambiguous commitments
 tags:
-  - IDP
-  - Gray-Zone
-  - Escalation
-  - Proxy Warfare
-  - NATO
-  - Taiwan
-  - Ukraine
+  - national-security
+  - integrated-defense-partnerships
+  - gray-zone
+  - escalation
+  - proxy-warfare
+  - deterrence
+last_updated: 2026-02-08
 ---
 
 ## Overview

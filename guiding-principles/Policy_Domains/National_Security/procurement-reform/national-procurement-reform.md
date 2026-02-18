@@ -1,15 +1,32 @@
 ---
+id: defense-acquisition-reform
 title: Defense Acquisition Reform – Constrained Delegation & Industrial Readiness Instrument
+sidebar_label: Defense Acquisition Reform
+sidebar_position: 2
+slug: /national-security/procurement/acquisition-reform
 domain: National_Security
-subdomain: Defense_Posture
+subdomain: Procurement_Reform
+policy_type: Reform Framework
 status: Draft
-phase: 2
 version: 0.4
-related:
-  - IDP_Framework
-  - PCA_Model
-  - Logistics_Transport_Sustainment
-  - Financial_Continuity
+author: Futures Project
+dependencies:
+  - defense-posture
+  - idp-partner-integrated-defense-production
+related_initiatives:
+  - IDP Framework
+  - PCA Model
+  - Logistics Transport Sustainment
+non_goals:
+  - political engineering of industrial geography
+  - production fragmentation across districts
+tags:
+  - national-security
+  - procurement
+  - defense-acquisition
+  - industrial-readiness
+  - supply-chain
+last_updated: 2026-02-08
 ---
 
 ## Problem Statement

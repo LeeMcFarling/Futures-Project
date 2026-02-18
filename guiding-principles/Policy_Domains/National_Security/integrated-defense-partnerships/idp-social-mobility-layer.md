@@ -1,3 +1,34 @@
+---
+id: idp-social-mobility-layer
+title: Social Layer Brief for an IDP Alliance Built Around Familiarity Density
+sidebar_label: Social Mobility Layer (IDP)
+sidebar_position: 9
+slug: /national-security/idp/social-mobility-layer
+domain: National_Security
+subdomain: Integrated_Defense_Partnerships
+policy_type: IDP Framework
+status: Draft
+version: 0.1
+author: Futures Project
+dependencies:
+  - defense-posture
+related_initiatives:
+  - Immigration System Architecture
+  - Education Exchange
+non_goals:
+  - covert migration expansion
+  - unmanaged tourism growth
+  - elite-only exchange
+tags:
+  - national-security
+  - integrated-defense-partnerships
+  - social-cohesion
+  - mobility
+  - alliances
+  - familiarity-density
+last_updated: 2026-02-08
+---
+
 # Social Layer Brief for an IDP Alliance Built Around Familiarity Density
 
 ## Executive summary

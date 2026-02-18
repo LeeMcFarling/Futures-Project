@@ -3,9 +3,9 @@ id: idp-information-integrity-digital-nutrition
 title: Information Integrity & Digital Nutrition (IDP)
 sidebar_label: Information Integrity & Digital Nutrition
 sidebar_position: 6
-slug: /idp/information-integrity-digital-nutrition
-domain: Technology_and_Data
-subdomain: Information Integrity & Platform Governance
+slug: /national-security/idp/information-integrity-digital-nutrition
+domain: National_Security
+subdomain: Integrated_Defense_Partnerships
 policy_type: Alliance Infrastructure Brief
 status: Draft
 version: 0.2

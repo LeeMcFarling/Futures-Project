@@ -1,18 +1,32 @@
 ---
 id: idp-shipyard-modernization-continuity
 title: Integrated Defense Production (IDP) — Shipyard Modernization & Continuity
-sidebar_label: IDP Shipyard Modernization
-sidebar_position: 4
+sidebar_label: Shipyard Modernization (IDP)
+sidebar_position: 8
 slug: /national-security/idp/shipyard-modernization-continuity
+domain: National_Security
+subdomain: Integrated_Defense_Partnerships
+policy_type: IDP Framework
+status: Draft
+version: 0.2
+author: Futures Project
+dependencies:
+  - defense-posture
+  - idp-partner-integrated-defense-production
+related_initiatives:
+  - Naval Production
+  - AUKUS
+non_goals:
+  - crown-jewel IP transfer
+  - localized production collapse
 tags:
   - national-security
+  - integrated-defense-partnerships
   - defense-production
   - shipbuilding
   - alliances
   - industrial-capacity
-status: draft
-version: 0.2
-last_updated: 2026-02-05
+last_updated: 2026-02-08
 description: >
   Architectural framework for modernizing U.S. shipyards, distributing
   shipbuilding risk across IDP partners, and establishing cross-certified
