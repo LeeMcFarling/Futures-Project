@@ -1,6 +1,6 @@
 # Domain Maturity Tracker: Institutional-Modernization
 
-**Last Updated:** 2026-02-08
+**Last Updated:** 2026-02-26
 **Overall Domain Phase:** 3
 **Domain Owner:** TBD
 
@@ -43,7 +43,7 @@ Modernize democratic institutions through reusable execution instruments that tr
 | Execution_Corps_Spec | 3 | 1 | ~2,100 | Domain instantiations | None | Add domain-specific deployments | TBD |
 | Industry_Interface | 3 | 1 | ~1,300 | Sector examples | Execution_Corps_Spec | Add case studies | TBD |
 | Public_Capital_Authority | 3 | 1 | ~1,500 | Portfolio definitions | Budget.Fiscal_Policy | Define initial portfolios | TBD |
-| Regulatory_Compression | 0 | 0 | 0 | **Not started** | None | Create initial file | TBD |
+| Regulatory_Compression | 2 | 2 | ~1,800 | Sector-specific overlays in progress (Energy RMS done), eminent domain/property rights gap | execution-corps-spec | Add Housing/land-use RMS overlay | TBD |
 | Process_Redesign | 0 | 0 | 0 | **Not started** | None | Create initial file | TBD |
 
 ---
@@ -78,7 +78,7 @@ Modernize democratic institutions through reusable execution instruments that tr
 - [x] **Public Capital Authority** – Standing capital corps defined ✅ COMPLETED
 
 ### Tier 2: Structural Gaps (Incomplete Coverage)
-- [ ] **Regulatory Compression** – Permitting reform, process streamlining – Target: Phase 2
+- [x] **Regulatory Compression** – ULRR + RMC spec in place ✅; Energy RMS sector overlay done; Housing/land-use RMS still needed
 - [ ] **Process Redesign** – Administrative burden reduction – Target: Phase 2
 - [ ] **Domain Instantiations** – Sector-specific Execution Corps deployments – Target: Phase 3
 
@@ -103,6 +103,7 @@ Modernize democratic institutions through reusable execution instruments that tr
 
 | Date | Subdomain | Change | Phase Impact |
 |------|-----------|--------|--------------|
+| 2026-02-26 | Regulatory_Compression | ULRR + RMC moved from Economic_Prosperity; YAML updated to reflect new domain | 0 → 2 |
 | 2026-02-08 | All | Created maturity tracker | N/A |
 | 2026-01-28 | Execution_Corps_Spec | YAML standardized, domain field added | N/A |
 | 2026-01-28 | All | Domain created, files moved from other locations | 0 → 3 |
@@ -111,7 +112,7 @@ Modernize democratic institutions through reusable execution instruments that tr
 
 ## Notes & Context
 
-- Domain has 4 active policy files totaling ~6,100 words (excluding archives)
+- Domain has 6 active policy files totaling ~7,900 words (excluding archives)
 - 2 archive files preserved (old_* prefix) showing policy evolution
 - Execution Corps is a cross-cutting instrument used by multiple domains
 - Public Capital Authority is Phase 3 deployment-ready

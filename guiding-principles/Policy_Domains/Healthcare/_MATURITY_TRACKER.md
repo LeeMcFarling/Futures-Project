@@ -1,6 +1,6 @@
 # Domain Maturity Tracker: Healthcare
 
-**Last Updated:** 2025-01-25
+**Last Updated:** 2026-02-26
 **Overall Domain Phase:** 3
 **Domain Owner:** TBD
 
@@ -40,8 +40,9 @@ Create a healthcare system with transparent pricing, competitive markets for rou
 | Subdomain | Phase | File Count | Word Count | Key Gaps | Dependencies | Next Action | Target Date |
 |-----------|-------|------------|------------|----------|--------------|-------------|-------------|
 | Care_Delivery_and_Insurance | 3 | 4 | ~3,200 | Payer transition details | Budget.Healthcare | Add transition mechanics | TBD |
-| Execution_and_Transition | 3 | 4 | ~3,400 | State pilot criteria | None | Define pilot selection | TBD |
+| Execution_and_Transition | 3 | 6 | ~5,200 | State pilot criteria | None | Define pilot selection | TBD |
 | Pharmaceutical_Reform | 3 | 8 | ~6,500 | FDA coordination | None | Add regulatory pathway | TBD |
+| Public_Health_Nutrition | 2 | 5 | ~3,800 | Pilot program design | Agriculture | Add pilot selection criteria | TBD |
 | Mental_Health | 0 | 0 | 0 | **Not started** | None | Create initial file | TBD |
 | Maternal_Health | 0 | 0 | 0 | **Not started** | None | Create initial file | TBD |
 | Rural_Access | 0 | 0 | 0 | **Not started** | Public_Infrastructure | Create initial file | TBD |
@@ -104,7 +105,7 @@ Create a healthcare system with transparent pricing, competitive markets for rou
 
 ## Notes & Context
 
-- Domain has 18 files totaling ~14,076 words (largest domain)
+- Domain has 23 files totaling ~18,700 words (largest domain)
 - Most mature domain in repository
 - OLD-* files show policy evolution (preserved as archived)
 - Strong pharmaceutical reform coverage

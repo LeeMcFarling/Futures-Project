@@ -3,13 +3,24 @@ id: unified-law-regulation-repository
 title: Unified Law and Regulation Repository (ULRR)
 sidebar_label: Regulation Repository
 sidebar_position: 1
-slug: /economic-prosperity/efficiency/regulation-repository
+slug: /institutional-modernization/efficiency/regulation-repository
+domain: Institutional-Modernization
+subdomain: Regulatory_Compression
+policy_type: Infrastructure Specification
+status: Draft
+version: 0.1
+author: Futures Project
+dependencies: []
+related_initiatives:
+  - regulatory-modernization-corps
+  - execution-corps-spec
 tags:
   - digital-governance
   - regulation
   - open-data
   - ai-optimization
   - transparency
+last_updated: 2026-02-26
 description: >
   Creates a single, publicly accessible repository containing all federal, state,
   and local laws, regulations, and administrative rules—version-controlled and

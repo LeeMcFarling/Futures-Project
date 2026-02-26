@@ -2,21 +2,21 @@
 id: energy-regulatory-modernization-sandbox
 title: Energy Regulatory Modernization Sandbox (Energy RMS) — Phase III Overlay
 sidebar_label: Energy RMS
-sidebar_position: 6
-slug: /energy/energy-regulatory-modernization-sandbox
-domain: Energy
-subdomain: Regulatory Modernization
-policy_type: Sector Overlay (RMC)
-status: Phase III
+sidebar_position: 4
+slug: /economic-prosperity/energy/regulatory-modernization-sandbox
+domain: Economic_Prosperity
+subdomain: Energy
+policy_type: Sector Overlay
+status: Draft
 version: 1.1
 author: Futures Project
 dependencies:
   - regulatory-modernization-corps
   - execution-corps-spec
-  - unified-law-and-regulation-repository
+  - unified-law-regulation-repository
 related_initiatives:
-  - Public Capital Authority
-  - Infrastructure Spine
+  - public-capital-authority
+  - public-infrastructure-spine
 tags:
   - energy
   - permitting

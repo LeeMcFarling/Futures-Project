@@ -4,20 +4,19 @@ title: Regulatory Modernization Corps (RMC) — Phase III Charter
 sidebar_label: Regulatory Modernization Corps
 sidebar_position: 5
 slug: /institutional-modernization/regulatory-modernization-corps
-domain: Institutional_Modernization
-subdomain: Regulatory Architecture
-policy_type: Execution Instrument (Standing)
-status: Phase III
+domain: Institutional-Modernization
+subdomain: Regulatory_Compression
+policy_type: Execution Instrument
+status: Draft
 version: 1.0
 author: Futures Project
 dependencies:
   - execution-corps-spec
-  - unified-law-and-regulation-repository
+  - unified-law-regulation-repository
 related_initiatives:
-  - Public Capital Authority
-  - Infrastructure Spine
-  - Energy Modernization
-  - Housing & Land Use Reform
+  - public-capital-authority
+  - public-infrastructure-spine
+  - energy-regulatory-modernization-sandbox
 tags:
   - regulatory-modernization
   - sandbox-governance
