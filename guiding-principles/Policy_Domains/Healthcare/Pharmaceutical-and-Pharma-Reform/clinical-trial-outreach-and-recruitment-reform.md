@@ -4,6 +4,8 @@ title: Clinical Trial Outreach and Recruitment Reform
 sidebar_label: Trial Recruitment
 sidebar_position: 1
 slug: /healthcare/pharma/trial-recruitment
+accelerants:
+  - ssi-self-sovereign-identity-framework
 tags:
   - healthcare
   - pharmaceuticals

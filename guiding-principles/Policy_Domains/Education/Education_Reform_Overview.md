@@ -4,6 +4,8 @@ title: AI-Enabled, Open-Source Education Infrastructure
 sidebar_label: Education Overview
 sidebar_position: 1
 slug: /education/overview
+accelerants:
+  - ssi-self-sovereign-identity-framework
 tags:
   - education
   - ai-education

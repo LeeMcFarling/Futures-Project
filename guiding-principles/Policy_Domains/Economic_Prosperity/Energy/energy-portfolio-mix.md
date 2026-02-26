@@ -1,12 +1,29 @@
 ---
+id: energy-portfolio-mix
 title: "Energy Portfolio Mix and Support Model"
-phase: 3
-domain: "Energy Policy"
-parent_project: "Futures Project"
-administered_by:
-  capital_layer: "Public Capital Authority (PCA)"
-  execution_layer: "Execution Corps"
-  regulatory_layer: "Regulatory Systems Corps"
+sidebar_label: Portfolio Mix
+sidebar_position: 2
+slug: /economic-prosperity/energy/portfolio-mix
+domain: Economic_Prosperity
+subdomain: Energy
+policy_type: Capital Allocation Framework
+status: Draft
+version: 0.1
+author: Futures Project
+dependencies:
+  - energy-abundance-strategy
+  - public-capital-authority
+related_initiatives:
+  - pca-energy-portfolio-exit-framework
+tags:
+  - energy
+  - infrastructure
+  - industrial-policy
+  - public-capital
+  - geothermal
+  - nuclear
+  - transmission
+last_updated: 2026-02-26
 ---
 
 ## Portfolio Philosophy

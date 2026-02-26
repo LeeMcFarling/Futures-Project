@@ -1,6 +1,6 @@
 # Domain Maturity Tracker: Economic_Prosperity
 
-**Last Updated:** 2025-01-25
+**Last Updated:** 2026-02-26
 **Overall Domain Phase:** 2
 **Domain Owner:** TBD
 
@@ -43,8 +43,9 @@ Create conditions for broad-based economic prosperity through agricultural resil
 | Budget_and_Fiscal_Policy | 2 | 4 | ~4,000 | Tax reform details | None | Expand revenue mechanisms | TBD |
 | Efficiency | 1 | 1 | ~800 | Minimal coverage | None | Add specific reform targets | TBD |
 | Manufacturing | 2 | 1 | ~1,000 | Supply chain details | Technology_and_Data | Add critical materials strategy | TBD |
+| Energy | 3 | 3 | ~5,500 | Zoning/legal overlay for siting, FERC vs. state authority, permitting reform | public-capital-authority | Add legal/zoning overlay doc | TBD |
+| Labor_and_Wellfare | 2 | 4 | ~3,500 | Automation/AI impacts, union policy | Immigration, Healthcare | Expand coverage | TBD |
 | Trade_Policy | 0 | 0 | 0 | **Not started** | National_Security | Create initial file | TBD |
-| Labor_and_Workforce | 0 | 0 | 0 | **Not started** | Immigration | Create initial file | TBD |
 | Antitrust | 0 | 0 | 0 | **Not started** | Technology_and_Data | Create initial file | TBD |
 | Small_Business | 0 | 0 | 0 | **Not started** | Budget | Create initial file | TBD |
 

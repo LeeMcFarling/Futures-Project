@@ -1,20 +1,26 @@
 ---
+id: energy-abundance-strategy
 title: "Energy Abundance Strategy"
-phase: 3
-domain: "Energy Policy"
-parent_project: "Futures Project"
-administered_by:
-  capital_layer: "Public Capital Authority (PCA)"
-  execution_layer: "Execution Corps"
-  regulatory_layer: "Regulatory Systems Corps"
-time_horizon:
-  short_term: "0–24 months"
-  medium_term: "2–6 years"
-  long_term: "5–15 years"
-capital_envelope:
-  authorized_ceiling: "Up to $100B in capital instruments over a 10-year window"
-  model: "Minority equity and structured revenue participation only"
-  principle: "Crowd in private capital and recycle returns"
+sidebar_label: Energy Overview
+sidebar_position: 1
+slug: /economic-prosperity/energy/overview
+domain: Economic_Prosperity
+subdomain: Energy
+policy_type: Strategy Framework
+status: Draft
+version: 0.1
+author: Futures Project
+dependencies:
+  - public-capital-authority
+related_initiatives:
+  - energy-portfolio-mix
+  - pca-energy-portfolio-exit-framework
+tags:
+  - energy
+  - infrastructure
+  - industrial-policy
+  - public-capital
+last_updated: 2026-02-26
 ---
 
 ## Problem Statement

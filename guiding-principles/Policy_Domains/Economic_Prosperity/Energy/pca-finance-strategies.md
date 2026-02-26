@@ -1,22 +1,21 @@
 ---
 id: pca-energy-portfolio-exit-framework
 title: PCA Energy Portfolio & Exit Strategy Framework
-sidebar_label: PCA Energy Portfolio
+sidebar_label: PCA Finance & Exit
+sidebar_position: 3
 slug: /economic-prosperity/energy/pca-portfolio
 domain: Economic_Prosperity
-subdomain: Energy_and_Infrastructure
-policy_type: Capital_Allocation_Framework
+subdomain: Energy
+policy_type: Capital Allocation Framework
 status: Draft
-phase: 3
 version: 0.2
+author: Futures Project
 dependencies:
-  - Public_Capital_Authority
-  - Industrial_Policy_Framework
-  - Grid_Modernization
+  - public-capital-authority
+  - energy-abundance-strategy
+  - energy-portfolio-mix
 related_initiatives:
-  - Critical_Materials_Authorities
-  - Transmission_Backbone_Strategy
-  - Advanced_Manufacturing_Zones
+  - noram-critical-materials-and-manufacturing
 tags:
   - public-capital
   - energy
