@@ -1,6 +1,6 @@
 # Domain Maturity Tracker: Public_Infrastructure
 
-**Last Updated:** 2026-02-18
+**Last Updated:** 2026-03-01
 **Overall Domain Phase:** 3
 **Domain Owner:** TBD
 
@@ -48,7 +48,8 @@ Create modular, pre-certified public infrastructure standards that enable rapid 
 | Regional_Architecture | 2 | 1 | ~700 | Pattern book details | None | Develop pattern examples | TBD |
 | Special_Transit_Zones | 3 | 1 | ~1,400 | Legal framework | Democratic_Integrity | Add model legislation | TBD |
 | Phased_Rollout | 2 | 1 | ~700 | Timeline specifics | None | Add milestone dates | TBD |
-| Existing_Neighborhood_Treatment | 3 | 5 | ~6,500 | Housing integration | None | Link to housing policy | TBD |
+| Existing_Neighborhood_Treatment | 3 | 5 | ~6,500 | None | None | Complete | — |
+| Housing_Integration | 3 | 6 | ~10,000 | Rural housing, homelessness depth (broader social policy needed) | construction-throughput-mapping-initiative | Complete at this layer — homelessness depth deferred to Social domain | — |
 | Broadband | 0 | 0 | 0 | **Not started** | Technology_and_Data | Create initial file | TBD |
 | Water_Systems | 0 | 0 | 0 | **Not started** | None | Create initial file | TBD |
 
@@ -97,9 +98,9 @@ Create modular, pre-certified public infrastructure standards that enable rapid 
 - [x] **Neighborhood Retrofit** – NCO, LIFT, seam infrastructure complete ✅
 
 ### Tier 2: Structural Gaps (Incomplete Coverage)
+- [x] **Housing Integration** – Density triggers, materials de-risking, executive backstop ✅ COMPLETED
 - [ ] **Broadband** – Universal connectivity infrastructure – Target: Phase 2
 - [ ] **Water Systems** – Water infrastructure modernization – Target: Phase 2
-- [ ] **Housing Integration** – Explicit housing policy linked to infrastructure – Target: Phase 2
 
 ### Tier 3: Enhancement Gaps (Nice-to-Have)
 - [ ] **Aviation** – Regional air connectivity – Target: Phase 3
@@ -125,6 +126,8 @@ Create modular, pre-certified public infrastructure standards that enable rapid 
 
 | Date | Subdomain | Change | Phase Impact |
 |------|-----------|--------|--------------|
+| 2026-03-01 | Housing_Integration | Added tenure-convertible typology, PCA consortium financing, healthcare-enabled housing pilot | Phase 3 complete |
+| 2026-03-01 | Housing_Integration | Added density trigger overlay, CTMI, executive backstop | New subdomain — Phase 3 |
 | 2026-02-18 | All | Updated tracker with Existing_Neighborhood_Treatment | N/A |
 | 2026-02-08 | Existing_Neighborhood_Treatment | Added 5 files: NCO, LIFT, seam, transit-STZ, state-federal | New subdomain |
 | 2025-01-25 | All | YAML standardized, slugs simplified | N/A |
@@ -133,7 +136,7 @@ Create modular, pre-certified public infrastructure standards that enable rapid 
 
 ## Notes & Context
 
-- Domain has **11 files** totaling ~12,200 words
+- Domain has **17 files** totaling ~27,700 words
 - Highly coherent vision with interconnected policies
 - Special Transit Zones concept is innovative regulatory approach
 - **NEW:** Existing Neighborhood Treatment provides retrofit pathway for established areas
