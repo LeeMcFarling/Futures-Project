@@ -1,6 +1,6 @@
-# Domain Maturity Tracker: Public_Infrastructure
+# Domain Maturity Tracker: Housing_and_Public_Infrastructure
 
-**Last Updated:** 2026-03-01
+**Last Updated:** 2026-03-04
 **Overall Domain Phase:** 3
 **Domain Owner:** TBD
 
@@ -21,13 +21,15 @@
 ## Domain Overview
 
 **Purpose:**
-Create modular, pre-certified public infrastructure standards that enable rapid deployment of transit, utilities, and civic corridors through Special Transit Zones, while providing frameworks for retrofitting existing neighborhoods with walkable amenities.
+Build housing capacity and connected public infrastructure together as a unified system — covering supply-side housing reform, transit-oriented density triggers, counter-cyclical capital deployment, and modular civic corridor standards — ensuring that new supply is integrated with transit, amenities, and neighborhood fabric rather than built in isolation.
 
 **Key Questions:**
 - How do we standardize infrastructure without losing regional character?
 - What regulatory framework enables fast permitting?
 - How do we retrofit existing neighborhoods for walkability without mandating density?
 - How do we ensure infrastructure investments are fiscally sustainable?
+- How do we build housing supply at scale without mandating ownership/rental ratios?
+- How do we connect new housing to transit, healthcare, and civic amenities from the start?
 
 **Success Criteria:**
 - Modular spine standards certified and deployable
@@ -35,6 +37,9 @@ Create modular, pre-certified public infrastructure standards that enable rapid 
 - Regional architectural pattern books adopted
 - Neighborhood Civic Overlays providing walkable amenities
 - LIFT solvency test preventing unfunded infrastructure liabilities
+- DoDa affordability triggers calibrated and operational
+- PCA counter-cyclical capital deployed in at least one pilot market
+- Construction Throughput Mapping Initiative tracking CBI across pilot jurisdictions
 
 ---
 
@@ -87,7 +92,7 @@ Create modular, pre-certified public infrastructure standards that enable rapid 
 |--------------|-----------------|-------------|
 | Healthcare | Rural infrastructure, primary care access nodes | Medium |
 | Economic_Prosperity | Agricultural logistics, regional connectivity | Medium |
-| Housing (planned) | Density enabling infrastructure, zoning overlays | High |
+| Healthcare | Healthcare-enabled housing pilot; primary care access nodes | High |
 
 ---
 
@@ -126,6 +131,7 @@ Create modular, pre-certified public infrastructure standards that enable rapid 
 
 | Date | Subdomain | Change | Phase Impact |
 |------|-----------|--------|--------------|
+| 2026-03-04 | All | Domain renamed Public_Infrastructure → Housing_and_Public_Infrastructure; all YAML domain fields updated; tracker updated | N/A |
 | 2026-03-01 | Housing_Integration | Added tenure-convertible typology, PCA consortium financing, healthcare-enabled housing pilot | Phase 3 complete |
 | 2026-03-01 | Housing_Integration | Added density trigger overlay, CTMI, executive backstop | New subdomain — Phase 3 |
 | 2026-02-18 | All | Updated tracker with Existing_Neighborhood_Treatment | N/A |
@@ -141,6 +147,6 @@ Create modular, pre-certified public infrastructure standards that enable rapid 
 - Special Transit Zones concept is innovative regulatory approach
 - **NEW:** Existing Neighborhood Treatment provides retrofit pathway for established areas
 - NCO + LIFT together create fiscally sustainable walkability without density mandates
-- Connects to Housing (planned domain) through density enablement and zoning overlays
+- Housing integration is now native to this domain — not a planned extension
 - Regional architectural skins preserve local character within standards
 - Strong integration with Healthcare (primary care access) and Agriculture (food access)

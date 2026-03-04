@@ -4,7 +4,7 @@ title: Construction Throughput Mapping Initiative (CTMI)
 sidebar_label: Construction Throughput Mapping
 sidebar_position: 8
 slug: /public-infrastructure/construction-throughput-mapping
-domain: Public_Infrastructure
+domain: Housing_and_Public_Infrastructure
 subdomain: Housing_Integration
 policy_type: Industrial Throughput Safeguard
 status: Draft

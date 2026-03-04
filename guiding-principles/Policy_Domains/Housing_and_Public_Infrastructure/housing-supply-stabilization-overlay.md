@@ -4,7 +4,7 @@ title: Housing Supply Stabilization & Mobility Overlay Framework
 sidebar_label: Housing & Mobility Overlay
 sidebar_position: 7
 slug: /public-infrastructure/housing-supply-stabilization
-domain: Public_Infrastructure
+domain: Housing_and_Public_Infrastructure
 subdomain: Housing_Integration
 policy_type: Zoning & Institutional Deployment Framework
 status: Draft

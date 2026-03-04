@@ -2,6 +2,7 @@
 id: regional-architectural-skins
 title: Regional Architectural Skins & Pattern Books
 sidebar_label: Regional Skins & Pattern Books
+domain: Housing_and_Public_Infrastructure
 sidebar_position: 3
 slug: /public-infrastructure/regional-skins
 tags:

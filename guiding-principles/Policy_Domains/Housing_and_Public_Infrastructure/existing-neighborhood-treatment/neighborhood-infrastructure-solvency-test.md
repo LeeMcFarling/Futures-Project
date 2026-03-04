@@ -4,7 +4,7 @@ title: Local Infrastructure Funding Test (LIFT)
 sidebar_label: Infrastructure Solvency Test
 sidebar_position: 2
 slug: /public-infrastructure/neighborhood-treatment/solvency-test
-domain: Public_Infrastructure
+domain: Housing_and_Public_Infrastructure
 subdomain: Existing_Neighborhood_Treatment
 policy_type: Fiscal Framework
 status: Draft

@@ -4,7 +4,7 @@ title: Neighborhood Civic Overlay (NCO)
 sidebar_label: Neighborhood Civic Overlay
 sidebar_position: 1
 slug: /public-infrastructure/neighborhood-treatment/civic-overlay
-domain: Public_Infrastructure
+domain: Housing_and_Public_Infrastructure
 subdomain: Existing_Neighborhood_Treatment
 policy_type: Zoning Framework
 status: Draft

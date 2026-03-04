@@ -2,24 +2,24 @@
 
 **Generated:** 2026-03-04
 **Total Domains:** 10
-**Total Policy Files:** 103
-**Estimated Total Words:** ~86,800
+**Total Policy Files:** 109
+**Estimated Total Words:** ~114,500
 
 ---
 
 ## Executive Summary
 
-The repository has grown substantially — from 65 files across 8 domains (January 2025) to **102 files across 10 domains**. Healthcare remains the largest domain at 23 files. National Security grew from empty to 11 substantive files. Energy is now a full subdomain under Economic_Prosperity with 5 files and a complete regulatory modernization architecture. Institutional-Modernization absorbed the Regulatory Compression work (ULRR + RMC). SSI/UPI accelerant tagging is complete across Immigration, National Security, Healthcare, and Education.
+The repository has grown substantially — from 65 files across 8 domains (January 2025) to **109 files across 10 domains**. Healthcare remains the largest domain at 23 files. National Security grew from empty to 11 substantive files. Energy is now a full subdomain under Economic_Prosperity with 5 files and a complete regulatory modernization architecture. Institutional-Modernization absorbed the Regulatory Compression work (ULRR + RMC) and now includes the Adaptive Governance & Evidence Protocol. Public_Infrastructure has been renamed Housing_and_Public_Infrastructure to reflect the integrated housing supply stack (17 files, ~27,700 words). SSI/UPI accelerant tagging is complete across Immigration, National Security, Healthcare, and Education.
 
-Primary remaining gaps: Housing (no domain), Criminal Justice (no domain), Climate/Decarbonization (no domain), Foreign Policy, Trade Policy, and the legal/property overlay for energy transmission siting (eminent domain, FERC vs. state authority).
+Primary remaining gaps: Criminal Justice (no domain), Climate/Decarbonization (no domain), Foreign Policy, Trade Policy, and the legal/property overlay for energy transmission siting (eminent domain, FERC vs. state authority).
 
 ### Overall Maturity Distribution
 
 | Phase | Domains |
 |-------|---------|
-| Phase 3 | Healthcare, Public_Infrastructure, Institutional-Modernization, Economic_Prosperity (Energy subdomain) |
+| Phase 3 | Healthcare, Housing_and_Public_Infrastructure, Institutional-Modernization, Economic_Prosperity (Energy subdomain) |
 | Phase 2 | Democratic_Integrity, Education, Immigration, National_Security, Technology_and_Data |
-| Phase 0 | Housing ❌, Criminal_Justice ❌, Climate ❌ |
+| Phase 0 | Criminal_Justice ❌, Climate ❌ |
 
 ---
 
@@ -31,12 +31,11 @@ Primary remaining gaps: Housing (no domain), Criminal Justice (no domain), Clima
 | Economic_Prosperity | 2–3 | 22 | ~18,000 | Strong | Trade policy, antitrust; Energy subdomain at Phase 3 |
 | National_Security | 2 | 11 | ~14,400 | Good | Foreign policy, China strategy, cyber |
 | Immigration | 2 | 11 | ~7,560 | Good | DACA resolution, citizenship backlog |
-| Public_Infrastructure | 3 | 11 | ~7,700 | Strong | Broadband, water, STZ legal framework |
+| Housing_and_Public_Infrastructure | 3 | 17 | ~27,700 | Strong | Broadband, water, STZ legal framework; rural housing + homelessness depth deferred to Social domain |
 | Institutional-Modernization | 3 | 9 | ~9,700 | Strong | Process redesign, domain instantiations; pre-deployment validation section needed in adaptive governance doc |
 | Technology_and_Data | 2 | 5 | ~5,600 | Moderate | Platform regulation, data privacy, cybersecurity |
 | Education | 2 | 6 | ~4,700 | Moderate | Higher ed, early childhood, vocational |
 | Democratic_Integrity | 2 | 5 | ~3,600 | Moderate | Voting rights, judicial reform |
-| **Housing** | **0** | **0** | **0** | **❌ Missing** | Entire domain |
 | **Criminal_Justice** | **0** | **0** | **0** | **❌ Missing** | Entire domain |
 | **Climate** | **0** | **0** | **0** | **❌ Missing** | Decarbonization, carbon pricing, adaptation |
 
@@ -88,7 +87,7 @@ Primary remaining gaps: Housing (no domain), Criminal Justice (no domain), Clima
 | Regulatory_Compression | 2 | 2 | ULRR + RMC; Energy RMS sector overlay lives in Energy domain |
 | Process_Redesign | 0 | 0 | Not started |
 
-### Public_Infrastructure (11 files)
+### Housing_and_Public_Infrastructure (17 files)
 | Subdomain | Phase | Files | Notes |
 |-----------|-------|-------|-------|
 | Infrastructure_Spine | 3 | 1 | Core corridor design |
@@ -97,7 +96,8 @@ Primary remaining gaps: Housing (no domain), Criminal Justice (no domain), Clima
 | Special_Transit_Zones | 3 | 1 | Legal framework gap remains |
 | Regional_Architecture | 2 | 1 | Pattern books |
 | Phased_Rollout | 2 | 1 | Timeline |
-| Existing_Neighborhood_Treatment | 2 | 5 | Civic overlay, solvency test, seam infra, STZ interface, incentive alignment |
+| Existing_Neighborhood_Treatment | 3 | 5 | Civic overlay, solvency test, seam infra, STZ interface, incentive alignment |
+| Housing_Integration | 3 | 6 | DoDa triggers, CTMI/CBI, executive backstop, tenure-convertible typology, PCA financing, healthcare-enabled housing pilot |
 
 ### Technology_and_Data (5 files)
 | Subdomain | Phase | Files | Notes |
@@ -155,10 +155,10 @@ All files mentioning SSI or UPI in prose have been tagged with the appropriate `
 ### Tier 1: Critical Gaps (Missing Foundations)
 | Gap | Domain | Urgency |
 |-----|--------|---------|
-| **Housing / Zoning** | Missing Domain | 🔴 — connects to Public_Infrastructure STZs, energy siting, affordability |
-| **Energy Legal/Zoning Overlay** | Economic_Prosperity.Energy | 🟠 — RMS handles permitting; eminent domain, FERC vs. state authority, HVDC right-of-way still unaddressed |
+| **Energy Legal/Zoning Overlay** | Economic_Prosperity.Energy | 🔴 — RMS handles permitting; eminent domain, FERC vs. state authority, HVDC right-of-way still unaddressed |
 | **Foreign Policy** | National_Security | 🟠 — defense posture exists, no diplomatic layer |
 | **Trade Policy** | Economic_Prosperity | 🟠 — blocks China Strategy; no tariff/trade agreement framework |
+| **Macro/Economic Validation Layer** | Platform-wide | 🟠 — pre-deployment modeling, parameter calibration, DiD comparisons not yet commissioned |
 
 ### Tier 2: Structural Gaps
 | Gap | Domain | Notes |
@@ -178,7 +178,7 @@ All files mentioning SSI or UPI in prose have been tagged with the appropriate `
 | Antitrust | Economic_Prosperity |
 | Early Childhood | Education |
 | Rural Healthcare Access | Healthcare |
-| Broadband | Public_Infrastructure |
+| Broadband | Housing_and_Public_Infrastructure |
 | Data Privacy | Technology_and_Data |
 | Judicial Reform | Democratic_Integrity |
 | Voting Rights | Democratic_Integrity |
@@ -200,9 +200,13 @@ All files mentioning SSI or UPI in prose have been tagged with the appropriate `
 
 | Change | Files Affected |
 |--------|---------------|
+| Domain renamed Public_Infrastructure → Housing_and_Public_Infrastructure; folder renamed | All 17 domain files |
+| domain: field updated to Housing_and_Public_Infrastructure in all 17 files | Bulk YAML update |
+| domain: field added to 6 older files that were missing it | modular-reurbanization-overview, public-infrastructure-spine, special-transit-zones, node-typologies, regional-architeture-skins, project-phased-rollout |
+| _MATURITY_TRACKER.md header, purpose, success criteria, and notes updated | _MATURITY_TRACKER.md |
 | Adaptive Governance & Evidence Protocol added; YAML standardized | adaptive-governance-model.md |
 | Adaptive_Governance subdomain added to Institutional-Modernization tracker | _MATURITY_TRACKER.md |
-| PROJECT_STATUS.md updated (103 files, 9 Institutional-Modernization files) | This file |
+| PROJECT_STATUS.md updated (109 files; Housing_and_Public_Infrastructure at 17 files) | This file |
 
 ## Prior Session Activity (Feb 26, 2026)
 
@@ -228,5 +232,5 @@ All files mentioning SSI or UPI in prose have been tagged with the appropriate `
 - [Immigration](./guiding-principles/Policy_Domains/Immigration/_MATURITY_TRACKER.md)
 - [Institutional-Modernization](./guiding-principles/Policy_Domains/Institutional-Modernization/_MATURITY_TRACKER.md)
 - [National_Security](./guiding-principles/Policy_Domains/National_Security/_MATURITY_TRACKER.md)
-- [Public_Infrastructure](./guiding-principles/Policy_Domains/Public_Infrastructure/_MATURITY_TRACKER.md)
+- [Housing_and_Public_Infrastructure](./guiding-principles/Policy_Domains/Housing_and_Public_Infrastructure/_MATURITY_TRACKER.md)
 - [Technology_and_Data](./guiding-principles/Policy_Domains/Technology_and_Data/_MATURITY_TRACKER.md)

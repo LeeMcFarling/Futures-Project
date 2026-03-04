@@ -4,7 +4,7 @@ title: Executive Backstop & External Supply Coordination
 sidebar_label: Executive Backstop
 sidebar_position: 9
 slug: /public-infrastructure/executive-backstop-supply-coordination
-domain: Public_Infrastructure
+domain: Housing_and_Public_Infrastructure
 subdomain: Housing_Integration
 policy_type: Stabilization Addendum
 status: Draft

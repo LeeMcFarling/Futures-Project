@@ -4,7 +4,7 @@ title: Tenure-Convertible Mid-Rise Typology & PCA Catalytic Development Model
 sidebar_label: Tenure-Convertible Typology
 sidebar_position: 10
 slug: /public-infrastructure/tenure-convertible-mid-rise
-domain: Public_Infrastructure
+domain: Housing_and_Public_Infrastructure
 subdomain: Housing_Integration
 policy_type: Housing Deployment Framework
 status: Draft

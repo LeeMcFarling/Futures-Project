@@ -2,6 +2,7 @@
 id: modular-reurbanization-overview
 title: Modular Reurbanization — Public Infrastructure Overview
 sidebar_label: Modular Reurbanization
+domain: Housing_and_Public_Infrastructure
 sidebar_position: 1
 slug: /public-infrastructure/modular-reurbanization
 tags:

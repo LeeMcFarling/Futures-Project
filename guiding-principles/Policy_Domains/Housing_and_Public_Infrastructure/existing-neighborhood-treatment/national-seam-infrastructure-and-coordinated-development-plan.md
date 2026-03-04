@@ -4,7 +4,7 @@ title: National Seam Infrastructure & Coordinated Development Pilot
 sidebar_label: National Seam Infrastructure
 sidebar_position: 3
 slug: /public-infrastructure/neighborhood-treatment/national-seam
-domain: Public_Infrastructure
+domain: Housing_and_Public_Infrastructure
 subdomain: Existing_Neighborhood_Treatment
 policy_type: Pilot Framework
 status: Draft

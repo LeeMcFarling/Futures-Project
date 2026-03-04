@@ -4,7 +4,7 @@ title: PCA-Enabled Consortium Stack Financing Framework
 sidebar_label: PCA Consortium Financing
 sidebar_position: 11
 slug: /public-infrastructure/pca-consortium-financing
-domain: Public_Infrastructure
+domain: Housing_and_Public_Infrastructure
 subdomain: Housing_Integration
 policy_type: Capital Architecture
 status: Draft

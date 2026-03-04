@@ -2,6 +2,7 @@
 id: node-typologies
 title: Node Typologies & Re-Urbanization Triggers
 sidebar_label: Node Typologies
+domain: Housing_and_Public_Infrastructure
 sidebar_position: 5
 slug: /public-infrastructure/node-typologies
 tags:

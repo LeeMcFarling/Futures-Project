@@ -4,7 +4,7 @@ title: "Special Transit Zones (STZ): Infrastructure Spine and Neighborhood Seam 
 sidebar_label: Transit Escalation & STZ
 sidebar_position: 4
 slug: /public-infrastructure/neighborhood-treatment/transit-escalation-stz
-domain: Public_Infrastructure
+domain: Housing_and_Public_Infrastructure
 subdomain: Existing_Neighborhood_Treatment
 policy_type: Transit Framework
 status: Draft

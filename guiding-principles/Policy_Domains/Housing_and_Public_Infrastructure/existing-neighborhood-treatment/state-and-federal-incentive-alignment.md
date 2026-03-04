@@ -4,7 +4,7 @@ title: "State–Federal Incentive Alignment Framework"
 sidebar_label: State-Federal Incentive Alignment
 sidebar_position: 5
 slug: /public-infrastructure/neighborhood-treatment/state-federal-alignment
-domain: Public_Infrastructure
+domain: Housing_and_Public_Infrastructure
 subdomain: Existing_Neighborhood_Treatment
 policy_type: Fiscal Framework
 status: Draft

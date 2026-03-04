@@ -2,6 +2,7 @@
 id: phased-reurbanization-rollout
 title: Phased Re-Urbanization Rollout
 sidebar_label: Phased Rollout
+domain: Housing_and_Public_Infrastructure
 sidebar_position: 6
 slug: /public-infrastructure/phased-rollout
 tags:

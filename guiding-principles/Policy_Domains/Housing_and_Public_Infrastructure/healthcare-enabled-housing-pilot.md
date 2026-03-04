@@ -4,7 +4,7 @@ title: Healthcare-Enabled Housing Infrastructure Pilot
 sidebar_label: Healthcare-Enabled Housing Pilot
 sidebar_position: 12
 slug: /public-infrastructure/healthcare-enabled-housing-pilot
-domain: Public_Infrastructure
+domain: Housing_and_Public_Infrastructure
 subdomain: Housing_Integration
 policy_type: Targeted Stabilization Pilot
 status: Draft

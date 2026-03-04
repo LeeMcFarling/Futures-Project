@@ -2,6 +2,7 @@
 id: public-infrastructure-spine
 title: Public Infrastructure Spine — Modular Construction Standard
 sidebar_label: Infrastructure Spine
+domain: Housing_and_Public_Infrastructure
 sidebar_position: 2
 slug: /public-infrastructure/infrastructure-spine
 tags:
