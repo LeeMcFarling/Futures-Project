@@ -1,11 +1,24 @@
 ---
 id: adaptive-governance-evidence-protocol
 title: Adaptive Governance & Evidence Protocol
-domain: futures-project
-subdomain: institutional-architecture
-status: core-principle
+sidebar_label: Adaptive Governance Protocol
+sidebar_position: 1
+slug: /institutional-modernization/adaptive-governance/evidence-protocol
+domain: Institutional-Modernization
+subdomain: Adaptive_Governance
+policy_type: Governance Protocol
+status: Active
 version: 1.0
-phase: phase-0-foundation
+author: Futures Project
+last_updated: 2026-03-04
+dependencies:
+  - department-of-data-and-accountability
+  - execution-corps-spec
+  - public-capital-authority
+related_initiatives:
+  - housing-supply-stabilization-overlay
+  - construction-throughput-mapping-initiative
+  - energy-regulatory-modernization-sandbox
 tags:
   - governance
   - policy-evaluation
@@ -13,11 +26,6 @@ tags:
   - econometrics
   - institutional-learning
   - democratic-legitimacy
-dependencies:
-  - department-of-data-and-accountability
-  - pilot-program-architecture
-  - execution-corps
-  - pca-instruments
 ---
 
 # Adaptive Governance & Evidence Protocol

@@ -1,9 +1,9 @@
 # Futures Project - Policy Repository Status Report
 
-**Generated:** 2026-02-26
+**Generated:** 2026-03-04
 **Total Domains:** 10
-**Total Policy Files:** 102
-**Estimated Total Words:** ~85,000
+**Total Policy Files:** 103
+**Estimated Total Words:** ~86,800
 
 ---
 
@@ -32,7 +32,7 @@ Primary remaining gaps: Housing (no domain), Criminal Justice (no domain), Clima
 | National_Security | 2 | 11 | ~14,400 | Good | Foreign policy, China strategy, cyber |
 | Immigration | 2 | 11 | ~7,560 | Good | DACA resolution, citizenship backlog |
 | Public_Infrastructure | 3 | 11 | ~7,700 | Strong | Broadband, water, STZ legal framework |
-| Institutional-Modernization | 3 | 8 | ~7,900 | Strong | Process redesign, domain instantiations |
+| Institutional-Modernization | 3 | 9 | ~9,700 | Strong | Process redesign, domain instantiations; pre-deployment validation section needed in adaptive governance doc |
 | Technology_and_Data | 2 | 5 | ~5,600 | Moderate | Platform regulation, data privacy, cybersecurity |
 | Education | 2 | 6 | ~4,700 | Moderate | Higher ed, early childhood, vocational |
 | Democratic_Integrity | 2 | 5 | ~3,600 | Moderate | Voting rights, judicial reform |
@@ -77,13 +77,14 @@ Primary remaining gaps: Housing (no domain), Criminal Justice (no domain), Clima
 | China_Strategy | 0 | 0 | Not started — blocked by Trade_Policy |
 | Cyber_Security | 0 | 0 | Not started |
 
-### Institutional-Modernization (8 files)
+### Institutional-Modernization (9 files)
 | Subdomain | Phase | Files | Notes |
 |-----------|-------|-------|-------|
 | Execution_Corps_Spec | 3 | 1 | Core instrument spec |
 | Public_Capital_Authority | 3 | 1 | Standing capital corps |
 | Industry_Interface | 3 | 1 | Private-sector translation |
 | Guiding_Principles | 3 | 1 | Institutional modernization overview |
+| Adaptive_Governance | 3 | 1 | Evidence protocol; RD/DiD framing; learning cycle; gaps: pre-deployment validation section, parameter adjustment governance |
 | Regulatory_Compression | 2 | 2 | ULRR + RMC; Energy RMS sector overlay lives in Energy domain |
 | Process_Redesign | 0 | 0 | Not started |
 
@@ -195,7 +196,15 @@ All files mentioning SSI or UPI in prose have been tagged with the appropriate `
 
 ---
 
-## Recent Session Activity (Feb 26, 2026)
+## Recent Session Activity (Mar 4, 2026)
+
+| Change | Files Affected |
+|--------|---------------|
+| Adaptive Governance & Evidence Protocol added; YAML standardized | adaptive-governance-model.md |
+| Adaptive_Governance subdomain added to Institutional-Modernization tracker | _MATURITY_TRACKER.md |
+| PROJECT_STATUS.md updated (103 files, 9 Institutional-Modernization files) | This file |
+
+## Prior Session Activity (Feb 26, 2026)
 
 | Change | Files Affected |
 |--------|---------------|
