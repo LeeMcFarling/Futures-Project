@@ -58,7 +58,7 @@ The following sections flesh out these concepts, models, and data in detail.
 
 - **Threat Salience:** The accumulated *threat perception* induced in an individual from *Mortality and Existential Salience*.
 
-- **Identity Anchor / Immortality Project:** Any *role, project, or belief that people invest in to give their lives a future-oriented purpose or meaning*. Examples: family, profession, religion, community, nation, ideology, or legacy projects. Each anchor has an *exposure coefficient* to mortality and existential threat (e.g. a fragile job is high mortality-risk; a contested national identity is high existential-risk). Anchors may overlap or conflict between individuals.  
+- **Continuity / Identity Anchor / Immortality Project:** Any *role, project, or belief that people invest in to give their lives a future-oriented purpose or meaning*. Examples: family, profession, religion, community, nation, ideology, or legacy projects. Each anchor has an *exposure coefficient* to mortality and existential threat (e.g. a fragile job is high mortality-risk; a contested national identity is high existential-risk). Anchors may overlap or conflict between individuals.  
 
 - **Continuity Portfolio:** Each individual’s **vector of anchors and their weights** (how much identity or future investment they have in each). Weights evolve over life (e.g. youth emphasize education, mid-life family or career, elders legacy). Diversity in the portfolio (many medium-weight anchors) confers resilience both to any single anchor loss and to mitigate threat salience ; concentration (one mega-anchor) yields efficiency but high fragility. 
 
