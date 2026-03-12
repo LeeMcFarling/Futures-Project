@@ -3,10 +3,14 @@ Human stability hinges on both **survival security** and **meaning security**. W
 
 To make this operational at scale, we define a **latent “stability” state** (civilizational threat load or collective continuity confidence) driven by observable indicators. High *mortality salience* (war, pandemic, crime, economic insecurity) and high *existential salience* (cultural displacement, status loss narratives, ideological conflict) both erode *cooperative capacity*. Indicators include horizon compression (short-termism in investment, fertility, migration), rising polarization measures, trust decay, and proliferation of threat-themed narratives. Historical cases (e.g. post-2008 financial crisis, pandemic- or war-spurred unrest) show that declines in these composite indicators often precede conflict, populism, or economic collapse. 
 
-We sketch a state-space model where physical and symbolic threat inputs feed into a latent stability index. Formally, individual fragility might be modeled as  
-$$F_i = f\Big(\sum_j w_{ij}T_j,\;\sum_j w_{ij}X_j,\;\text{anchor concentration/covariance},\;\text{antagonism}\Big),$$  
-where $w_{ij}$ are person $i$’s weights on anchors $j$, $T_j$ and $X_j$ are the anchors’ exposures to mortality and existential threats. Population stability is then an aggregate of fragilities. This yields a **civilizational cost function**: e.g.  
-$$C = \alpha \,\mathrm{Var}(F_i) + \beta\,\mathrm{Cov}(F_i,F_{i'}) + \gamma\,E[F_i],$$  
+We sketch a state-space model where physical and symbolic threat inputs feed into a latent stability index. Formally, individual fragility might be modeled as: 
+
+- F_i = f\Big(\sum_j w_{ij}T_j,\;\sum_j w_{ij}X_j,\;\text{anchor concentration/covariance},\;\text{antagonism}\Big)
+
+where w_{ij} are person i’s weights on anchors j, T_j and X_j are the anchors’ exposures to mortality and existential threats. Population stability is then an aggregate of fragilities. This yields a **civilizational cost function**: e.g.
+
+C = \alpha \,\mathrm{Var}(F_i) + \beta\,\mathrm{Cov}(F_i,F_{i'}) + \gamma\,E[F_i],  
+
 or a more sophisticated factor model, calibrated by episodes of unrest.  
 
 We identify candidate metrics: survey items (World Values Survey, Gallup Trust, Eurobarometer), administrative data (migration, intermarriage rates, bond markets, insurance premiums, education completion), market signals (long-term bond yields, sovereign spreads, venture funding horizons), and social-media sentiment analyses (topic intensity of threat, polarization indices). These feed into composite indices for **anchor exposure** (e.g. percent of population depending on X), **anchor concentration** (e.g. Gini of identity reliance or percent with single-anchor portfolios), **anchor covariance/antagonism** (cross-group trust gaps, hate crime rates, affective polarization), **time-horizon metrics** (R&D spending share, average planning horizon, loan terms), **trust-institutions** (survey trust scores, tax morale proxies), and **narrative diffusion** (frequency of existential keywords in media). We will present a table of specific indicators vs. data source, frequency, and noise level.  
@@ -52,20 +56,20 @@ graph LR
 - The final node *CivilizationalStability* is the outcome we want to maximize (analogous to “output” in a control system).  
 
 The real model would be a state-space system or dynamic factor model:  
-$$
-z_t = A z_{t-1} + B u_t + \epsilon_t,\quad y_t = C z_t + \eta_t
-$$  
-where $u_t$ are observed threat indicators (mortality or existential signals), $z_t$ is the latent stability state, and $y_t$ are our panel of indicators (trust scores, polarization indices, economic horizons, etc.). The parameters $A,B,C$ capture feedbacks and sensitivities. Over time, $z_t$ should predict outcomes like unrest, market volatility, or policy breakdown. 
 
-Alternatively, one can write an *objective function* directly. For each individual $i$, let $w_{ij}$ be weight on anchor $j$, and let $T_j$ (mortality channel) and $X_j$ (existential channel) be anchor-specific threat levels. Then a simple fragility for person $i$ might be:  
-$$
+z_t = A z_{t-1} + B u_t + \epsilon_t,\quad y_t = C z_t + \eta_t
+  
+where u_t are observed threat indicators (mortality or existential signals), z_t is the latent stability state, and y_t are our panel of indicators (trust scores, polarization indices, economic horizons, etc.). The parameters A,B,C capture feedbacks and sensitivities. Over time, z_t should predict outcomes like unrest, market volatility, or policy breakdown. 
+
+Alternatively, one can write an *objective function* directly. For each individual i, let w_{ij} be weight on anchor j, and let T_j (mortality channel) and X_j (existential channel) be anchor-specific threat levels. Then a simple fragility for person i might be:  
+
 f_i = \sum_j w_{ij}\,T_j + \sum_j w_{ij}\,X_j + \lambda\,\sum_{j,k}w_{ij}w_{ik}\,\mathrm{Cov}(T_j+X_j,\;T_k+X_k),
-$$  
+  
 i.e. baseline exposure plus concentration/covariance penalty. Aggregate civilizational cost could be:  
-$$
+
 C = \alpha\,\mathrm{E}[f_i] + \beta\,\mathrm{Var}(f_i) + \gamma\,\sum_{j\neq k} \rho_{jk}^2,
-$$  
-where $\rho_{jk}$ reflects the alignment (or conflict) between anchors $j,k$ across the population.  A more tractable approach is to define a “Stability Index” $S_t = g(\text{indicators}_t)$ via factor analysis, and then treat $C = -S_t$ as the cost (to be minimized) for control purposes.
+  
+where \rho_{jk} reflects the alignment (or conflict) between anchors j,k across the population.  A more tractable approach is to define a “Stability Index” S_t = g(\text{indicators}_t) via factor analysis, and then treat C = -S_t as the cost (to be minimized) for control purposes.
 
 ## Indicators & Measurement  
 
@@ -203,7 +207,7 @@ Robustness requires falsification: check that indices don’t spike arbitrarily 
 
 Each empirical strategy should guard against confounds (e.g. economic shocks cause both anxiety and unrest) by including controls or fixed effects. As with climate early warnings, look for “critical slowing down” or variance increases in leading indicators as alarms【13†L237-L245】.  
 
-Back-testing could involve time-series models: if we build $S_t$, see how often $S_{t-1}$ spikes  predict $R_t$ events (revolutions, coups, market crashes). Cross-validate on different regions/eras. The **goal** is not perfect prediction, but showing directional validity: higher threat load precedes instability more often than by chance.  
+Back-testing could involve time-series models: if we build S_t, see how often S_{t-1} spikes  predict R_t events (revolutions, coups, market crashes). Cross-validate on different regions/eras. The **goal** is not perfect prediction, but showing directional validity: higher threat load precedes instability more often than by chance.  
 
 ## Governance & Goodhart Mitigation  
 
