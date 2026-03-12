@@ -1,17 +1,26 @@
 ---
+id: gdic-phase-1-framework
 title: Gulf Integrated Defense Compact (GIDC) – Phase I Framework
-domain: Foreign Policy / Defense Architecture
-status: Draft – Phase I
+sidebar_label: GDIC Phase 1
+sidebar_position: 1
+slug: /national-security/gdic/phase-1-framework
+domain: National_Security
+subdomain: Gulf_Defense_Compact
+policy_type: Regional Security Framework
+status: Draft
 version: 0.2
-date: 2026
+author: Futures Project
+last_updated: 2026-03-04
+dependencies:
+  - idp-industrial-capacity-defense-production
+related_initiatives:
+  - gdic-phase-2-economic-resilience
+  - idp-digital-and-information-resilience
 tags:
   - regional-security
   - missile-defense
   - maritime-security
   - infrastructure-protection
-dependencies:
-  - IDP Architecture
-  - Allied Missile Defense Interoperability
 ---
 
 # Gulf Integrated Defense Compact (GIDC)

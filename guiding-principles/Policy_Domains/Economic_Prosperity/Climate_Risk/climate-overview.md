@@ -1,28 +1,29 @@
 ---
+id: climate-risk-management-framework
 title: Climate Risk Management Framework
+sidebar_label: Climate Risk Overview
+sidebar_position: 1
+slug: /economic-prosperity/climate-risk/overview
 domain: Economic_Prosperity
 subdomain: Climate_and_Resilience
-policy_type: Structural Risk Governance
+policy_type: Risk Governance Framework
 status: Draft
-phase: 3
 version: 0.1
+author: Futures Project
+last_updated: 2026-03-04
 dependencies:
-  - PCA_Energy_Portfolio_Framework
-  - Water_and_Aquifer_Resilience
-  - Agricultural_Risk_Reduction
-  - Infrastructure_Spine
-related_domains:
-  - Housing_and_Urbanism
-  - Energy
-  - Insurance_Markets
-  - Agriculture
+  - department-of-data-and-accountability
+  - water-and-aquifer-resilience
+related_initiatives:
+  - national-catastrophe-reinsurance-system
+  - wildfire-mitigation-and-landscape-risk-governance
+  - energy-abundance-strategy-overview
 tags:
   - climate
   - risk-management
   - infrastructure
   - insurance
   - resilience
-last_updated: 2026-03-04
 ---
 
 # Climate Risk Management Framework

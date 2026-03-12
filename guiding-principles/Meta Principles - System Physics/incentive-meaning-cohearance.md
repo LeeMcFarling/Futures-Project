@@ -1,18 +1,25 @@
 ---
 id: incentive-structure-coherence
 title: Incentive Structure Coherence & Governance Stability
+sidebar_label: Incentive-Meaning Coherence
+sidebar_position: 2
+slug: /framework-foundations/incentive-meaning-coherence
 domain: Framework_Foundations
 subdomain: System_Design_Principles
-status: Draft
+policy_type: Foundational Design Principle
+status: Active
 version: 0.1
 author: Futures Project
+last_updated: 2026-03-04
+related_initiatives:
+  - existential-stability-axiom
+  - adaptive-governance-evidence-protocol
 tags:
   - incentives
   - legitimacy
   - dignity
   - mortality-salience
   - governance-design
-
 ---
 
 ## Purpose

@@ -1,6 +1,6 @@
 # Domain Maturity Tracker: Economic_Prosperity
 
-**Last Updated:** 2026-02-26
+**Last Updated:** 2026-03-05
 **Overall Domain Phase:** 2
 **Domain Owner:** TBD
 
@@ -21,7 +21,7 @@
 ## Domain Overview
 
 **Purpose:**
-Create conditions for broad-based economic prosperity through agricultural resilience, fiscal sustainability, regulatory efficiency, and manufacturing capacity.
+Create conditions for broad-based economic prosperity through agricultural resilience, fiscal sustainability, energy abundance, climate risk management, and manufacturing capacity.
 
 **Key Questions:**
 - How do we balance farmer agency with food system resilience?
@@ -44,6 +44,7 @@ Create conditions for broad-based economic prosperity through agricultural resil
 | Manufacturing | 2 | 1 | ~1,000 | Supply chain details | Technology_and_Data | Add critical materials strategy | TBD |
 | Energy | 3 | 5 | ~9,000 | Zoning/legal overlay for siting, FERC vs. state authority, eminent domain for transmission corridors | public-capital-authority | Add legal/zoning overlay doc | TBD |
 | Labor_and_Wellfare | 2 | 4 | ~3,500 | Automation/AI impacts, union policy | Immigration, Healthcare | Expand coverage | TBD |
+| Climate_and_Resilience | 3 | 4 | ~9,000 | Carbon pricing/demand-side; rural adaptation depth | department-of-data-and-accountability | Add carbon framework; expand rural coverage | TBD |
 | Trade_Policy | 0 | 0 | 0 | **Not started** | National_Security | Create initial file | TBD |
 | Antitrust | 0 | 0 | 0 | **Not started** | Technology_and_Data | Create initial file | TBD |
 | Small_Business | 0 | 0 | 0 | **Not started** | Budget | Create initial file | TBD |
@@ -103,13 +104,15 @@ Create conditions for broad-based economic prosperity through agricultural resil
 
 | Date | Subdomain | Change | Phase Impact |
 |------|-----------|--------|--------------|
+| 2026-03-05 | Climate_and_Resilience | Added 4-file stack: overview, catastrophe reinsurance, water resilience, wildfire governance; YAML standardized | 0 → 3 |
+| 2026-02-26 | Energy | YAML standardized (5 files); Energy added to tracker | N/A |
 | 2025-01-25 | All | YAML standardized, Docusaurus format | N/A |
 
 ---
 
 ## Notes & Context
 
-- Domain has 14 files totaling ~14,298 words (second largest)
+- Domain has 26 files totaling ~27,000 words (now largest alongside Healthcare)
 - Agriculture is most developed subdomain
 - "Efficiancy" folder has typo (should be Efficiency)
 - Strong fiscal policy foundation, weak on trade/labor

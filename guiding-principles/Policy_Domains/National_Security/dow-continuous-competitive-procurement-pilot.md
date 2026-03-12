@@ -1,6 +1,9 @@
 ---
 id: dod-continuous-competitive-procurement-pilot
 title: Continuous Competitive Procurement — DoD Pilot Framework
+sidebar_label: Continuous Competitive Procurement
+sidebar_position: 2
+slug: /national-security/procurement/continuous-competitive-procurement
 domain: National_Security
 subdomain: Procurement_Reform
 policy_type: Industrial Competition Architecture

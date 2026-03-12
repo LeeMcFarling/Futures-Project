@@ -1,16 +1,19 @@
 ---
 id: global-institutional-reform-domain
 title: Global Institutional Reform & Multilateral System Evolution
-domain: Global_System
-status: Phase_0_Domain_Definition
+sidebar_label: UN & Global Reform
+sidebar_position: 1
+slug: /global-institutional-reform/domain-overview
+domain: United-Nations-and-Global-Institutional-Reform
+subdomain: Domain_Articulation
+policy_type: Domain Overview
+status: Draft
 version: 0.3
 author: Futures Project
+last_updated: 2026-03-04
 dependencies:
   - national-security
-  - foreign-policy
-  - economic-systems
-  - trade-policy
-  - climate-and-energy
+  - integrated-defense-partnerships
 tags:
   - global-governance
   - multilateralism
@@ -18,8 +21,7 @@ tags:
   - wto
   - imf
   - institutional-reform
-
-  ---
+---
 
 # Domain Purpose
 

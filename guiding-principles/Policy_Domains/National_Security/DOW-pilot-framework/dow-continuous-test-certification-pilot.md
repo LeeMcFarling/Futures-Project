@@ -1,6 +1,9 @@
 ---
 id: dod-continuous-test-certification-pilot
 title: Continuous Test & Certification Infrastructure — DoD Pilot
+sidebar_label: Continuous Test & Certification
+sidebar_position: 1
+slug: /national-security/procurement/continuous-test-certification
 domain: National_Security
 subdomain: Procurement_Reform
 policy_type: Operational Certification Architecture

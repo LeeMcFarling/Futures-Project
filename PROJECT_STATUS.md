@@ -1,25 +1,25 @@
 # Futures Project - Policy Repository Status Report
 
-**Generated:** 2026-03-04
-**Total Domains:** 10
-**Total Policy Files:** 109
-**Estimated Total Words:** ~114,500
+**Generated:** 2026-03-12
+**Total Domains:** 11
+**Total Policy Files:** 121
+**Estimated Total Words:** ~132,000
 
 ---
 
 ## Executive Summary
 
-The repository has grown substantially — from 65 files across 8 domains (January 2025) to **109 files across 10 domains**. Healthcare remains the largest domain at 23 files. National Security grew from empty to 11 substantive files. Energy is now a full subdomain under Economic_Prosperity with 5 files and a complete regulatory modernization architecture. Institutional-Modernization absorbed the Regulatory Compression work (ULRR + RMC) and now includes the Adaptive Governance & Evidence Protocol. Public_Infrastructure has been renamed Housing_and_Public_Infrastructure to reflect the integrated housing supply stack (17 files, ~27,700 words). SSI/UPI accelerant tagging is complete across Immigration, National Security, Healthcare, and Education.
+The repository has grown substantially — from 65 files across 8 domains (January 2025) to **121 files across 11 domains**. Healthcare remains the largest domain at 23 files. National Security grew from empty to 16 substantive files, with Procurement_Reform now at Phase 3 (continuous competitive procurement + test/certification pair) and a new Gulf Integrated Defense Compact (GDIC) subdomain. Economic_Prosperity added a 4-file Climate and Resilience stack (climate risk framework, catastrophe reinsurance, water resilience, wildfire governance). A new United-Nations-and-Global-Institutional-Reform domain has been established at Phase 0, exploring regional signaling and constrained veto mechanics for multilateral system modernization. A Meta Principles (System Physics) layer has been added outside the domain structure — two foundational axioms (existential stability, incentive-meaning coherence) grounding the platform's design logic. Public_Infrastructure was renamed Housing_and_Public_Infrastructure to reflect the integrated housing supply stack (17 files, ~27,700 words). SSI/UPI accelerant tagging is complete across Immigration, National Security, Healthcare, and Education.
 
-Primary remaining gaps: Criminal Justice (no domain), Climate/Decarbonization (no domain), Foreign Policy, Trade Policy, and the legal/property overlay for energy transmission siting (eminent domain, FERC vs. state authority).
+Primary remaining gaps: Criminal Justice (no domain), carbon pricing / demand-side climate policy, Foreign Policy, Trade Policy, and the legal/property overlay for energy transmission siting (eminent domain, FERC vs. state authority).
 
 ### Overall Maturity Distribution
 
 | Phase | Domains |
 |-------|---------|
-| Phase 3 | Healthcare, Housing_and_Public_Infrastructure, Institutional-Modernization, Economic_Prosperity (Energy subdomain) |
+| Phase 3 | Healthcare, Housing_and_Public_Infrastructure, Institutional-Modernization, Economic_Prosperity (Energy + Climate_and_Resilience subdomains) |
 | Phase 2 | Democratic_Integrity, Education, Immigration, National_Security, Technology_and_Data |
-| Phase 0 | Criminal_Justice ❌, Climate ❌ |
+| Phase 0 | Criminal_Justice ❌, United-Nations-and-Global-Institutional-Reform (foundation established) |
 
 ---
 
@@ -28,16 +28,16 @@ Primary remaining gaps: Criminal Justice (no domain), Climate/Decarbonization (n
 | Domain | Phase | Files | Est. Words | Status | Priority Gaps |
 |--------|-------|-------|------------|--------|---------------|
 | Healthcare | 3 | 23 | ~18,700 | Strong | Mental health, maternal health, rural access |
-| Economic_Prosperity | 2–3 | 22 | ~18,000 | Strong | Trade policy, antitrust; Energy subdomain at Phase 3 |
-| National_Security | 2 | 11 | ~14,400 | Good | Foreign policy, China strategy, cyber |
+| Economic_Prosperity | 2–3 | 26 | ~27,000 | Strong | Trade policy, antitrust, carbon pricing/demand-side |
+| National_Security | 2 | 16 | ~17,500 | Good | Foreign policy, China strategy, cyber |
 | Immigration | 2 | 11 | ~7,560 | Good | DACA resolution, citizenship backlog |
 | Housing_and_Public_Infrastructure | 3 | 17 | ~27,700 | Strong | Broadband, water, STZ legal framework; rural housing + homelessness depth deferred to Social domain |
 | Institutional-Modernization | 3 | 9 | ~9,700 | Strong | Process redesign, domain instantiations; pre-deployment validation section needed in adaptive governance doc |
 | Technology_and_Data | 2 | 5 | ~5,600 | Moderate | Platform regulation, data privacy, cybersecurity |
 | Education | 2 | 6 | ~4,700 | Moderate | Higher ed, early childhood, vocational |
 | Democratic_Integrity | 2 | 5 | ~3,600 | Moderate | Voting rights, judicial reform |
+| **United-Nations-and-Global-Institutional-Reform** | **0** | **1** | **~1,500** | **Phase 0 Foundation** | All subdomains — domain articulation complete |
 | **Criminal_Justice** | **0** | **0** | **0** | **❌ Missing** | Entire domain |
-| **Climate** | **0** | **0** | **0** | **❌ Missing** | Decarbonization, carbon pricing, adaptation |
 
 ---
 
@@ -54,11 +54,12 @@ Primary remaining gaps: Criminal Justice (no domain), Climate/Decarbonization (n
 | Maternal_Health | 0 | 0 | Not started |
 | Rural_Access | 0 | 0 | Not started |
 
-### Economic_Prosperity (22 files)
+### Economic_Prosperity (26 files)
 | Subdomain | Phase | Files | Notes |
 |-----------|-------|-------|-------|
 | Agriculture | 3 | 8 | Data rights, finance, supply chain, water, seed IP |
 | Energy | 3 | 5 | Strategy, portfolio mix, PCA finance/exit, RMS overlay, pilot architecture |
+| Climate_and_Resilience | 3 | 4 | Climate risk framework, catastrophe reinsurance (3-layer system), water/aquifer resilience (5-level escalation), wildfire governance |
 | Labor_and_Wellfare | 2 | 4 | Benefits floor, EITC, welfare gradient, worker classification |
 | Budget_and_Fiscal_Policy | 2 | 4 | Guiding principles, PCA, capital allocation, Social Security |
 | Manufacturing | 2 | 1 | NORAM critical materials |
@@ -66,15 +67,21 @@ Primary remaining gaps: Criminal Justice (no domain), Climate/Decarbonization (n
 | Antitrust | 0 | 0 | Not started |
 | Small_Business | 0 | 0 | Not started |
 
-### National_Security (11 files)
+### National_Security (16 files)
 | Subdomain | Phase | Files | Notes |
 |-----------|-------|-------|-------|
-| Integrated_Defense_Partnerships | 3 | 9 | Industrial, logistics, digital, financial, gray zone, info integrity, shipbuilding, social mobility, defense production |
-| Procurement_Reform | 2 | 1 | Defense acquisition reform |
+| Integrated_Defense_Partnerships | 3 | 10 | Industrial, logistics, digital, financial, gray zone, info integrity, shipbuilding, social mobility, defense production, continuous competitive production |
+| Procurement_Reform | 3 | 3 | Defense acquisition reform + continuous competitive procurement pilot + continuous test & certification pilot |
+| Gulf_Defense_Compact | 2 | 2 | Phase 1 (defensive coordination: RAMCC, early warning, maritime) + Phase 2 (economic resilience deterrence) |
 | Defense_Posture | 2 | 1 | Strategic framework |
 | Foreign_Policy | 0 | 0 | Not started |
 | China_Strategy | 0 | 0 | Not started — blocked by Trade_Policy |
 | Cyber_Security | 0 | 0 | Not started |
+
+### United-Nations-and-Global-Institutional-Reform (1 file)
+| Subdomain | Phase | Files | Notes |
+|-----------|-------|-------|-------|
+| Domain_Articulation | 0 | 1 | Conceptual foundation: regional signaling authority + constrained veto mechanics; layered legitimacy model; Phase 0 — detailed institutional proposals will develop from regional strategy + defense workstreams |
 
 ### Institutional-Modernization (9 files)
 | Subdomain | Phase | Files | Notes |
@@ -128,6 +135,19 @@ Primary remaining gaps: Criminal Justice (no domain), Climate/Decarbonization (n
 
 ---
 
+## Meta Principles Layer (Cross-Cutting)
+
+Located at `guiding-principles/Meta Principles - System Physics/` — outside the Policy_Domains structure.
+
+| File | ID | Purpose |
+|------|----|---------|
+| existential-stability-mechanism.md | existential-stability-axiom | Mortality salience as platform through-line: all policies reduce existential threat perception and sustain democratic cooperation |
+| incentive-meaning-cohearance.md | incentive-structure-coherence | Structural principle: governance instability occurs when systems punish previously incentivized behavior without recalibrating incentives first |
+
+These files ground the platform's design logic. Both are `status: Active`.
+
+---
+
 ## Cross-Cutting Infrastructure Status
 
 ### SSI / UPI Accelerant Tagging — Complete
@@ -164,7 +184,7 @@ All files mentioning SSI or UPI in prose have been tagged with the appropriate `
 | Gap | Domain | Notes |
 |-----|--------|-------|
 | Criminal Justice | Missing Domain | Policing, sentencing, reentry — absent |
-| Climate / Decarbonization | Missing Domain | Energy covers supply-side only; no demand-side, carbon pricing, or adaptation |
+| Carbon Pricing / Demand-Side Climate | Economic_Prosperity.Climate_and_Resilience | Risk management (Phase 3) is covered; carbon pricing, demand-side policy, and decarbonization roadmap still missing |
 | China Strategy | National_Security | Blocked by Trade_Policy |
 | Cyber Security | Nat. Security + Tech | Gap in both domains |
 | Higher Education | Education | Student debt, cost, access |
@@ -190,13 +210,32 @@ All files mentioning SSI or UPI in prose have been tagged with the appropriate `
 | Issue | Location | Status |
 |-------|----------|--------|
 | Folder typo `Efficiancy` | Institutional-Modernization | Known; not yet renamed |
+| Folder typo `Conpact` in GDIC folder name | National_Security | Should be `Compact`; not yet renamed |
 | `idp-partner-integrated-defense-production.md` | National_Security/IDP | File exists but references point to `idp-industrial-capacity-defense-production`; needs reconciliation |
 | `healthcare-infrastructure-layer.md` SSI/UPI role | Healthcare | Flagged — prose reads as dependency not accelerant; user to review |
 | 2 files with ambiguous SSI/UPI prose | Immigration, Labor | User will revisit |
+| Inline `[Agriculture / ...]` cross-reference annotations | Water and Wildfire files | Authoring artifacts in prose; not yet cleaned |
 
 ---
 
-## Recent Session Activity (Mar 4, 2026)
+## Recent Session Activity (Mar 12, 2026)
+
+| Change | Files Affected |
+|--------|---------------|
+| Climate_and_Resilience 4-file stack added; YAML standardized | climate-overview.md, national-catastrophe-reinsurance-system.md, water-and-aquifer-resilience.md, wildfire-mitigation-and-landscape-risk-governance.md |
+| GDIC Phase 1 YAML overhauled (domain, status, fields) | GDIC-Phase-1-Framework.md |
+| GDIC Phase 2 full YAML block added (was missing entirely) | GDIC-phase-2-counter-cyclical-stabilization-and-economic-resiliance.md |
+| Gulf_Defense_Compact subdomain added to National_Security tracker | _MATURITY_TRACKER.md |
+| DoD continuous competitive procurement YAML completed (sidebar fields) | dow-continuous-competitive-procurement-pilot.md |
+| DoD continuous test & certification YAML completed (sidebar fields) | dow-continuous-test-certification-pilot.md |
+| IDP continuous competitive production YAML completed (sidebar fields) | idp-continuous-competitive-development.md |
+| Procurement_Reform 1→3 files, Phase 2→3; IDP 9→10 files; National_Security tracker updated | _MATURITY_TRACKER.md |
+| United-Nations-and-Global-Institutional-Reform domain created; Domain-articulation.md YAML standardized | Domain-articulation.md |
+| Meta Principles — System Physics layer added; YAML standardized on 2 axiom files | existential-stability-mechanism.md, incentive-meaning-cohearance.md |
+| Economic_Prosperity tracker updated (Climate_and_Resilience subdomain, 4 files) | _MATURITY_TRACKER.md |
+| PROJECT_STATUS.md updated (121 files, 11 domains) | This file |
+
+## Prior Session Activity (Mar 4, 2026)
 
 | Change | Files Affected |
 |--------|---------------|
@@ -229,8 +268,9 @@ All files mentioning SSI or UPI in prose have been tagged with the appropriate `
 - [Economic_Prosperity](./guiding-principles/Policy_Domains/Economic_Prosperity/_MATURITY_TRACKER.md)
 - [Education](./guiding-principles/Policy_Domains/Education/_MATURITY_TRACKER.md)
 - [Healthcare](./guiding-principles/Policy_Domains/Healthcare/_MATURITY_TRACKER.md)
+- [Housing_and_Public_Infrastructure](./guiding-principles/Policy_Domains/Housing_and_Public_Infrastructure/_MATURITY_TRACKER.md)
 - [Immigration](./guiding-principles/Policy_Domains/Immigration/_MATURITY_TRACKER.md)
 - [Institutional-Modernization](./guiding-principles/Policy_Domains/Institutional-Modernization/_MATURITY_TRACKER.md)
 - [National_Security](./guiding-principles/Policy_Domains/National_Security/_MATURITY_TRACKER.md)
-- [Housing_and_Public_Infrastructure](./guiding-principles/Policy_Domains/Housing_and_Public_Infrastructure/_MATURITY_TRACKER.md)
 - [Technology_and_Data](./guiding-principles/Policy_Domains/Technology_and_Data/_MATURITY_TRACKER.md)
+- [United-Nations-and-Global-Institutional-Reform](./guiding-principles/Policy_Domains/United-Nations-and-Global-Institutional-Reform/)

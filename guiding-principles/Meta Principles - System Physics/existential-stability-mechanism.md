@@ -1,18 +1,26 @@
 ---
 id: existential-stability-axiom
 title: Existential Stability & Mortality Salience Dynamics
+sidebar_label: Existential Stability Axiom
+sidebar_position: 1
+slug: /framework-foundations/existential-stability
 domain: Framework_Foundations
 subdomain: System_Axioms
-status: Draft
+policy_type: Foundational Axiom
+status: Active
 version: 0.1
 author: Futures Project
+last_updated: 2026-03-04
+related_initiatives:
+  - adaptive-governance-evidence-protocol
+  - integrated-defense-partnerships
+  - housing-supply-stabilization-overlay
 tags:
   - system-axioms
   - governance-dynamics
   - democratic-stability
   - security-architecture
   - economic-resilience
-
 ---
 
 ## Core Axiom

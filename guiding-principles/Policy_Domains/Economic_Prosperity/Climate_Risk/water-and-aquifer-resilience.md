@@ -1,19 +1,22 @@
 ---
+id: water-and-aquifer-resilience
 title: Water and Aquifer Resilience
+sidebar_label: Water & Aquifer Resilience
+sidebar_position: 3
+slug: /economic-prosperity/climate-risk/water-resilience
 domain: Economic_Prosperity
 subdomain: Climate_and_Resilience
 policy_type: Physical Risk Governance
 status: Draft
-phase: 3
 version: 0.2
+author: Futures Project
+last_updated: 2026-03-04
 dependencies:
-  - Climate_Risk_Management_Framework
-  - Agricultural_Data_and_Market_Signals
-  - Farmer_Economics_and_Risk_Reduction
-related_domains:
-  - Energy
-  - Housing_and_Urbanism
-  - Public_Infrastructure
+  - climate-risk-management-framework
+  - department-of-data-and-accountability
+related_initiatives:
+  - national-catastrophe-reinsurance-system
+  - housing-supply-stabilization-overlay
 tags:
   - water
   - aquifers
@@ -21,7 +24,6 @@ tags:
   - desalination
   - recycling
   - resilience
-last_updated: 2026-03-04
 ---
 
 # Water and Aquifer Resilience

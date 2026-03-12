@@ -1,19 +1,23 @@
 ---
+id: wildfire-mitigation-and-landscape-risk-governance
 title: Wildfire Mitigation and Landscape Risk Governance
+sidebar_label: Wildfire Risk Governance
+sidebar_position: 4
+slug: /economic-prosperity/climate-risk/wildfire-governance
 domain: Economic_Prosperity
 subdomain: Climate_and_Resilience
 policy_type: Tail-Risk Reduction and Land Management
 status: Draft
-phase: 3
 version: 0.1
+author: Futures Project
+last_updated: 2026-03-04
 dependencies:
-  - Climate_Risk_Management_Framework
-  - National_Catastrophe_Reinsurance_System
-  - Unified_Law_and_Regulation_Repository
-related_domains:
-  - Housing_and_Urbanism
-  - Public_Infrastructure
-  - National_Security
+  - climate-risk-management-framework
+  - national-catastrophe-reinsurance-system
+  - unified-law-regulation-repository
+  - department-of-data-and-accountability
+related_initiatives:
+  - housing-supply-stabilization-overlay
 tags:
   - wildfire
   - prescribed-burns
@@ -22,7 +26,6 @@ tags:
   - noaa
   - risk-modeling
   - insurance-eligibility
-last_updated: 2026-03-04
 ---
 
 # Wildfire Mitigation and Landscape Risk Governance

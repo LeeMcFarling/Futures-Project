@@ -1,6 +1,9 @@
 ---
 id: idp-continuous-competitive-production
 title: Continuous Competitive Production Framework — IDP Integration
+sidebar_label: IDP Continuous Competitive Production
+sidebar_position: 10
+slug: /national-security/idp/continuous-competitive-production
 domain: National_Security
 subdomain: Integrated_Defense_Partnerships
 policy_type: Alliance Industrial Architecture

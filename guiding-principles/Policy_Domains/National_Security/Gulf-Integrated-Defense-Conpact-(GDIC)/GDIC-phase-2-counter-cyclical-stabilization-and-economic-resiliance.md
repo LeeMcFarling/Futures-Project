@@ -1,4 +1,29 @@
-## GDIC Phase 2 — Counter-Cyclical Stabilization and Economic Resilience  
+---
+id: gdic-phase-2-economic-resilience
+title: GDIC Phase 2 — Counter-Cyclical Stabilization and Economic Resilience
+sidebar_label: GDIC Phase 2
+sidebar_position: 2
+slug: /national-security/gdic/phase-2-economic-resilience
+domain: National_Security
+subdomain: Gulf_Defense_Compact
+policy_type: Economic Resilience Framework
+status: Draft
+version: 0.1
+author: Futures Project
+last_updated: 2026-03-04
+dependencies:
+  - gdic-phase-1-framework
+  - idp-industrial-capacity-defense-production
+related_initiatives:
+  - public-capital-authority
+tags:
+  - regional-security
+  - economic-resilience
+  - counter-cyclical
+  - deterrence
+---
+
+## GDIC Phase 2 — Counter-Cyclical Stabilization and Economic Resilience
 
 ### Strategic Rationale  
 

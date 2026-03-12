@@ -1,6 +1,6 @@
 # Domain Maturity Tracker: National_Security
 
-**Last Updated:** 2026-02-18
+**Last Updated:** 2026-03-05
 **Overall Domain Phase:** 2
 **Domain Owner:** TBD
 
@@ -41,8 +41,9 @@ Define America's security posture, alliance structures, and strategic approach t
 | Subdomain | Phase | File Count | Word Count | Key Gaps | Dependencies | Next Action | Target Date |
 |-----------|-------|------------|------------|----------|--------------|-------------|-------------|
 | Defense_Posture | 2 | 1 | ~900 | Country-specific strategies | None | Add regional frameworks | TBD |
-| Integrated_Defense_Partnerships | 3 | 9 | ~12,000 | Implementation roadmaps | Defense_Posture | Continue expansion | TBD |
-| Procurement_Reform | 2 | 1 | ~1,500 | Execution pathway | IDP Framework | Add pilot criteria | TBD |
+| Integrated_Defense_Partnerships | 3 | 10 | ~13,500 | Implementation roadmaps | Defense_Posture | Continue expansion | TBD |
+| Procurement_Reform | 3 | 3 | ~4,500 | Alliance expansion preconditions | IDP Framework | Monitor DoD pilot progress | TBD |
+| Gulf_Defense_Compact | 2 | 2 | ~2,000 | Phase 3+ operational protocols | gdic-phase-1-framework | Add operational compacts | TBD |
 | Foreign_Policy | 0 | 0 | 0 | **Not started** | Defense_Posture | Create initial file | TBD |
 | China_Strategy | 0 | 0 | 0 | **Not started** | Economic_Prosperity.Trade | Create initial file | TBD |
 | Cyber_Security | 0 | 0 | 0 | **Not started** | Technology_and_Data | Create initial file | TBD |
@@ -54,6 +55,7 @@ Define America's security posture, alliance structures, and strategic approach t
 | File | Focus | Phase | Status |
 |------|-------|-------|--------|
 | idp-partner-integrated-defense-production.md | Arsenal bifurcation, weapons stockpile | 3 | Active |
+| idp-continuous-competitive-development.md | Alliance-scale competitive production; extends DoD pilot to IDP partners | 3 | Active |
 | idp-critical-materials-energy.md | N+2 resilience, energy security | 3 | Active |
 | idp-logistics-and-transport-capabilities.md | Ports, rail, sustainment | 2 | Active |
 | idp-digital-and-cloud-infrastructure.md | Cloud sovereignty, SSI/UPI integration | 2 | Active |
@@ -122,6 +124,9 @@ Define America's security posture, alliance structures, and strategic approach t
 
 | Date | Subdomain | Change | Phase Impact |
 |------|-----------|--------|--------------|
+| 2026-03-05 | Gulf_Defense_Compact | Added GDIC Phase 1 (defensive coordination) + Phase 2 (economic resilience); YAML standardized | 0 → 2 |
+| 2026-03-05 | Procurement_Reform | Added continuous competitive procurement + continuous test & certification pilots | 1 → 3 files; Phase 2 → 3 |
+| 2026-03-05 | Integrated_Defense_Partnerships | Added IDP continuous competitive production (extends DoD pilot to alliance scale) | 9 → 10 files |
 | 2026-02-18 | IDP | Added gray-zone, info integrity, shipbuilding, social mobility | Enhanced |
 | 2026-02-18 | Procurement | Added defense acquisition reform | New subdomain |
 | 2026-02-08 | IDP | Added 5 IDP framework files | 0 → 2 |
@@ -131,8 +136,10 @@ Define America's security posture, alliance structures, and strategic approach t
 
 ## Notes & Context
 
-- Domain transformed from **Phase 0 (empty)** to **Phase 2** with 11 substantive files
-- IDP framework is the most developed subdomain with 9 files covering industrial, financial, logistics, digital, and social dimensions
+- Domain has **16 substantive files** (up from 11); IDP + procurement reform driving expansion
+- IDP framework is the most developed subdomain with 10 files covering industrial, financial, logistics, digital, social, and competitive production dimensions
+- Procurement reform now at Phase 3 with continuous competitive procurement + test/certification pair
+- Gulf Defense Compact (GDIC) new subdomain: Phase 1 defensive coordination + Phase 2 economic resilience deterrence
 - Novel alliance architecture: three-tier partnership model with automatic response curves
 - Strong integration with Technology_and_Data domain (SSI, UPI dependencies)
 - Foreign policy proper still needs development beyond defense posture

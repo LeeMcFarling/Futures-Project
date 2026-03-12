@@ -1,26 +1,30 @@
 ---
+id: national-catastrophe-reinsurance-system
 title: National Catastrophe Reinsurance System
+sidebar_label: Catastrophe Reinsurance
+sidebar_position: 2
+slug: /economic-prosperity/climate-risk/catastrophe-reinsurance
 domain: Economic_Prosperity
 subdomain: Climate_and_Resilience
 policy_type: Insurance Market Stabilization
 status: Draft
-phase: 3
 version: 0.1
+author: Futures Project
+last_updated: 2026-03-04
 dependencies:
-  - Climate_Risk_Management_Framework
-  - Water_and_Aquifer_Resilience
-  - Unified_Law_and_Regulation_Repository
-related_domains:
-  - Housing_and_Urbanism
-  - Financial_Stability
-  - Disaster_Recovery
+  - climate-risk-management-framework
+  - water-and-aquifer-resilience
+  - unified-law-regulation-repository
+  - department-of-data-and-accountability
+related_initiatives:
+  - wildfire-mitigation-and-landscape-risk-governance
+  - housing-supply-stabilization-overlay
 tags:
   - reinsurance
   - insurance
   - catastrophe-risk
   - fiscal-discipline
   - climate
-last_updated: 2026-03-04
 ---
 
 # National Catastrophe Reinsurance System
