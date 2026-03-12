@@ -28,7 +28,7 @@ where \(\overline{x},\overline{t}\) are population means of anchor values and th
 
 ## Civilizational Cost Function Terms  
 
-1. **Baseline fragility (\(\mathbb{E}[F_i]\))**:  If mortality or existential salience grows (e.g. war, pandemic, economic collapse), all anchors lose value, dropping average \(F\). This term ensures we treat outright danger as costly.  
+1. **Baseline fragility (\(\mathbb{E}[F_i]\))**:  If mortality or existential salience grows (e.g. war, pandemic, economic collapse), all anchors tied to that threat lose value, dropping average \(F\). This term ensures we treat outright danger as costly.  
 
 2. **Variance term (\(\mathrm{Var}(F_i)\))**:  Societies with uneven portfolios (some highly anchored, others unanchored) can face worse outcomes. High variance means some people are much more threatened. This term makes the cost sensitive to **inequality** of stability.  
 
