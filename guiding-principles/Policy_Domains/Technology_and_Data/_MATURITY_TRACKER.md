@@ -1,6 +1,6 @@
 # Domain Maturity Tracker: Technology_and_Data
 
-**Last Updated:** 2026-01-28
+**Last Updated:** 2026-03-12
 **Overall Domain Phase:** 2
 **Domain Owner:** TBD
 
@@ -39,11 +39,11 @@ Modernize government technology, establish digital identity infrastructure, and 
 
 | Subdomain | Phase | File Count | Word Count | Key Gaps | Dependencies | Next Action | Target Date |
 |-----------|-------|------------|------------|----------|--------------|-------------|-------------|
-| Digital_Identity / SSI | 2 | 1 | ~1,200 | Integration standards | None | Define cross-domain integration | TBD |
+| Digital_Identity / SSI | 3 | 1 | ~1,200 | Integration standards | None | Define cross-domain integration | TBD |
 | AI_Governance | 2 | 1 | ~1,500 | Enforcement mechanisms | None | Add compliance framework | TBD |
 | Synthetic_Media | 2 | 1 | ~1,100 | Platform adoption pathway | Digital_Identity | Add implementation roadmap | TBD |
 | Information_Integrity | 2 | 1 | ~1,000 | Pilot program design | Digital_Identity, Platform_Regulation | Define pilot scope | TBD |
-| Payments_Infrastructure | 2 | 1 | ~800 | Technical specifications | Digital_Identity | Add UPI technical spec | TBD |
+| Payments_Infrastructure / UPI | 3 | 1 | ~800 | Technical specifications | Digital_Identity | Add UPI technical spec | TBD |
 | Platform_Regulation | 0 | 0 | 0 | **Not started** | Economic_Prosperity.Antitrust | Create initial file | TBD |
 | Data_Privacy | 0 | 0 | 0 | **Not started** | None | Create initial file | TBD |
 | Cybersecurity | 0 | 0 | 0 | **Not started** | National_Security | Create initial file | TBD |
@@ -104,6 +104,8 @@ Modernize government technology, establish digital identity infrastructure, and 
 
 | Date | Subdomain | Change | Phase Impact |
 |------|-----------|--------|--------------|
+| 2026-03-12 | Digital_Identity / SSI | Phase updated 2 → 3; tagged as accelerant across 12+ files platform-wide | N/A |
+| 2026-03-12 | Payments_Infrastructure / UPI | Phase updated 2 → 3; tagged as accelerant across 12+ files platform-wide | N/A |
 | 2026-01-28 | AI_Governance | Added ai-data-and-governance.md | 0 → 2 |
 | 2026-01-28 | Digital_Identity | Added ssi-self-sovereign-identity-framework.md | Enhanced |
 | 2026-01-28 | Payments_Infrastructure | Added upi-privacy-preserving-payment-rail.md | New subdomain |
@@ -116,9 +118,9 @@ Modernize government technology, establish digital identity infrastructure, and 
 
 ## Notes & Context
 
-- Domain now has 5 policy files totaling ~5,600 words
+- Domain has 5 policy files totaling ~5,600 words
 - AI governance gap closed (was marked **CRITICAL**)
-- SSI framework provides technical foundation for digital identity
+- SSI and UPI frameworks both at Phase 3; serve as accelerants in 12+ files across platform
 - New subdomains added: Payments, Synthetic Media, Information Integrity
 - Institutional Modernization moved to separate domain
 - Remaining gaps: Platform Regulation, Data Privacy, Cybersecurity, Gov_Tech

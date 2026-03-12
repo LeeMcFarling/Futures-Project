@@ -1,6 +1,6 @@
 # Domain Maturity Tracker: Democratic_Integrity
 
-**Last Updated:** 2025-01-25
+**Last Updated:** 2026-03-12
 **Overall Domain Phase:** 2
 **Domain Owner:** TBD
 
@@ -42,7 +42,6 @@ Strengthen democratic institutions against corruption, ensure fair representatio
 | Anti_Corruption | 2 | 3 | ~2,100 | Enforcement mechanisms | None | Add implementation details | TBD |
 | Campaign_Finance_Reform | 2 | 1 | ~800 | Public financing details | Budget.Campaign_Funding | Expand financing model | TBD |
 | Term_and_Age_Limits | 2 | 1 | ~700 | Constitutional pathway | None | Add constitutional amendment strategy | TBD |
-| Execution_Corps | 2 | 2 | ~1,400 | Agency structure details | Budget.Personnel | Define org structure | TBD |
 | Voting_Rights | 0 | 0 | 0 | **Not started** | None | Create initial file | TBD |
 | Judicial_Reform | 0 | 0 | 0 | **Not started** | None | Create initial file | TBD |
 
@@ -97,12 +96,13 @@ Strengthen democratic institutions against corruption, ensure fair representatio
 
 | Date | Subdomain | Change | Phase Impact |
 |------|-----------|--------|--------------|
+| 2026-03-12 | Execution_Corps | Subdomain removed from this domain — moved to Institutional-Modernization | N/A |
 | 2025-01-25 | All | YAML standardized, Docusaurus format | N/A |
 
 ---
 
 ## Notes & Context
 
-- Domain has 7 files totaling ~4,986 words
+- Domain has 5 files totaling ~3,600 words
 - Strong anti-corruption focus, weaker on voting rights
-- Execution Corps concept is unique and innovative
+- Execution_Corps subdomain moved to Institutional-Modernization domain

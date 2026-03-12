@@ -1,6 +1,6 @@
 # Domain Maturity Tracker: Education
 
-**Last Updated:** 2025-01-25
+**Last Updated:** 2026-03-12
 **Overall Domain Phase:** 2
 **Domain Owner:** TBD
 
@@ -97,6 +97,7 @@ Transform K-12 education through AI-enabled personalization, open-source infrast
 
 | Date | Subdomain | Change | Phase Impact |
 |------|-----------|--------|--------------|
+| 2026-02-26 | K12_Reform | SSI/UPI accelerant added to education overview | N/A |
 | 2025-01-25 | All | YAML standardized, moved from People_Skills_Health | N/A |
 
 ---

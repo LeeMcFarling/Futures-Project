@@ -1,6 +1,6 @@
 # Domain Maturity Tracker: Healthcare
 
-**Last Updated:** 2026-02-26
+**Last Updated:** 2026-03-12
 **Overall Domain Phase:** 3
 **Domain Owner:** TBD
 
@@ -45,7 +45,7 @@ Create a healthcare system with transparent pricing, competitive markets for rou
 | Public_Health_Nutrition | 2 | 5 | ~3,800 | Pilot program design | Agriculture | Add pilot selection criteria | TBD |
 | Mental_Health | 0 | 0 | 0 | **Not started** | None | Create initial file | TBD |
 | Maternal_Health | 0 | 0 | 0 | **Not started** | None | Create initial file | TBD |
-| Rural_Access | 0 | 0 | 0 | **Not started** | Public_Infrastructure | Create initial file | TBD |
+| Rural_Access | 0 | 0 | 0 | **Not started** | Housing_and_Public_Infrastructure | Create initial file | TBD |
 
 ---
 
@@ -59,7 +59,7 @@ Create a healthcare system with transparent pricing, competitive markets for rou
 ### Soft Dependencies (Coordination)
 | This Domain Benefits From | From Domain | Status | Notes |
 |--------------------------|-------------|--------|-------|
-| Rural infrastructure | Public_Infrastructure | Phase 2 | Telehealth, access |
+| Rural infrastructure | Housing_and_Public_Infrastructure | Phase 3 | Telehealth, access; healthcare-enabled housing pilot active |
 | Digital identity | Technology_and_Data | Phase 2 | Patient records |
 
 ### Provides To (Downstream Impact)
@@ -99,6 +99,8 @@ Create a healthcare system with transparent pricing, competitive markets for rou
 
 | Date | Subdomain | Change | Phase Impact |
 |------|-----------|--------|--------------|
+| 2026-02-26 | Care_Delivery_and_Insurance, Execution_and_Transition, Pharmaceutical_Reform | SSI/UPI accelerants added to 4 files | N/A |
+| 2026-03-12 | All | Public_Infrastructure reference updated to Housing_and_Public_Infrastructure | N/A |
 | 2025-01-25 | All | YAML standardized, moved from People_Skills_Health | N/A |
 
 ---

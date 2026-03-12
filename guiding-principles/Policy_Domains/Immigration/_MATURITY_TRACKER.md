@@ -1,6 +1,6 @@
 # Domain Maturity Tracker: Immigration
 
-**Last Updated:** 2025-01-25
+**Last Updated:** 2026-03-12
 **Overall Domain Phase:** 2
 **Domain Owner:** TBD
 
@@ -46,6 +46,8 @@ Create a coherent immigration system that aligns legal immigration with labor ma
 | Enforcement | 2 | 2 | ~1,200 | ICE reform details | None | Expand accountability | TBD |
 | Integration | 2 | 1 | ~600 | Pathway details | Education | Add civic programs | TBD |
 | Oversight | 2 | 1 | ~700 | Dashboard specs | Technology_and_Data | Add data model | TBD |
+| Entrepreneurship | 2 | 1 | ~600 | Conversion pathway details | Economic_Prosperity.Labor | Add visa specifics | TBD |
+| Student_Retention | 2 | 1 | ~560 | Industry pathway details | Education | Expand pathways | TBD |
 | DACA_Resolution | 0 | 0 | 0 | **Not started** | None | Create initial file | TBD |
 | Citizenship_Backlog | 0 | 0 | 0 | **Not started** | None | Create initial file | TBD |
 
@@ -100,6 +102,7 @@ Create a coherent immigration system that aligns legal immigration with labor ma
 
 | Date | Subdomain | Change | Phase Impact |
 |------|-----------|--------|--------------|
+| 2026-02-26 | All | SSI/UPI accelerants added to 6 immigration files | N/A |
 | 2025-01-25 | All | YAML standardized, moved from People_Skills_Health | N/A |
 
 ---
