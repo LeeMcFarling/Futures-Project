@@ -1,13 +1,42 @@
-# Executive Summary  
+---
+id: central-axioms-civilizational-stability
+title: Central Axioms — Civilizational Stability Framework
+sidebar_label: Central Axioms
+sidebar_position: 1
+slug: /framework-foundations/central-axioms
+domain: Framework_Foundations
+subdomain: Theoretical_Foundations
+policy_type: Research Framework
+status: Active
+version: 0.1
+author: Futures Project
+last_updated: 2026-03-12
+dependencies:
+  - existential-stability-axiom
+  - incentive-structure-coherence
+related_initiatives:
+  - adaptive-governance-evidence-protocol
+  - department-of-data-and-accountability
+tags:
+  - system-axioms
+  - civilizational-stability
+  - mortality-salience
+  - continuity-portfolio
+  - governance-theory
+---
+
+# Executive Summary
 Human stability hinges on both **survival security** and **meaning security**. We propose splitting *mortality salience* (perceived physical-threat risk) from *existential salience* (perceived meaning/identity-threat risk) and modeling society as a network of **continuity anchors** – the future-oriented roles and beliefs people invest in. Each person’s **continuity portfolio** (family, job, faith, nationality, ideology, etc.) carries weights that shift over life. Societal destabilization rises when these portfolios become concentrated or cross-cut by antagonistic anchors and when shocks hit multiple high-weight anchors simultaneously. 
 
 To make this operational at scale, we define a **latent “stability” state** (civilizational threat load or collective continuity confidence) driven by observable indicators. High *mortality salience* (war, pandemic, crime, economic insecurity) and high *existential salience* (cultural displacement, status loss narratives, ideological conflict) both erode *cooperative capacity*. Indicators include horizon compression (short-termism in investment, fertility, migration), rising polarization measures, trust decay, and proliferation of threat-themed narratives. Historical cases (e.g. post-2008 financial crisis, pandemic- or war-spurred unrest) show that declines in these composite indicators often precede conflict, populism, or economic collapse. 
 
-We sketch a state-space model where physical and symbolic threat inputs feed into a latent stability index. Formally, individual fragility might be modeled as: 
+For the purpose of illustration, we sketch a state-space model where physical and symbolic threat inputs feed into a latent stability index. Formally, individual fragility might be modeled as: 
 
-- F_i = f\Big(\sum_j w_{ij}T_j,\;\sum_j w_{ij}X_j,\;\text{anchor concentration/covariance},\;\text{antagonism}\Big)
+\[
+F_i \;=\; \sum_{j=1}^J b_{ij} \Bigl( x_{ij} \;-\; \bigl[t_j^{(m)} + t_j^{(e)}\bigr]\Bigr)\,. 
+\]
 
-where w_{ij} are person i’s weights on anchors j, T_j and X_j are the anchors’ exposures to mortality and existential threats. Population stability is then an aggregate of fragilities. This yields a **civilizational cost function**: e.g.
+where b_{ij} are person i’s weights on anchors j, T_j denotes a threat salience (comprising both mortality, existential, or both). Population stability is then an aggregate of individuals' continuity profiles at a population scale. This allows explicit modeling of societal impacts of anchor loss on a national level (e.g. economic insecurity, declining religiousity, etc.). And helps to simulate second order effects of policy shifts. Long term accumulation of successful reasearch even has potential to yield a **civilizational cost function**: e.g.
 
 C = \alpha \,\mathrm{Var}(F_i) + \beta\,\mathrm{Cov}(F_i,F_{i'}) + \gamma\,E[F_i],  
 
@@ -17,21 +46,23 @@ We identify candidate metrics: survey items (World Values Survey, Gallup Trust, 
 
 Causally, we can test this framework via natural experiments: e.g. compare regions hit by sudden shocks (pandemics, natural disasters, terrorism) using diff-in-diff or synthetic controls to see if our composite index predicts subsequent unrest or policy failure; use instrumental variables (e.g. distance from conflict zones) to isolate threat perception effects; and panel methods to see if indicator shifts precede conflict onset. Validation comes from back-testing: e.g. check if spikes in our **stability index** occurred before the Arab Spring, Eurozone crisis, or recent populist waves.  
 
-Policy levers then aim to *diversify and legitimize anchors* while dampening correlated shocks. Examples include universal healthcare (reduces mortality anxiety), housing security (anchors family), civic education and inclusive narratives (legitimize multiple identities), progressive taxation and corporate purpose regulation (limit predatory anchors like “maximize shareholder value” from externalizing costs), and multilateral security commitments (reducing geopolitical threat). Evaluation should track whether interventions increase our stability index. To mitigate Goodhart effects, we rotate proxy indicators and embed qualitative oversight. We also propose governance innovations like an independent **Stability Council** to monitor sentinel signals. 
+Policy levers then aim to *diversify and legitimize anchors* while dampening correlated shocks. Examples include universal healthcare (reduces mortality anxiety), housing security (anchors family), civic education and inclusive narratives (legitimize multiple identities), progressive taxation and corporate purpose regulation (limit predatory anchors like unchecked “maximize shareholder value” mechanics from externalizing costs), and multilateral security commitments (reducing geopolitical threat). Evaluation should track whether interventions increase our stability index. To mitigate Goodhart effects, we rotate proxy indicators and embed qualitative oversight. We also propose governance innovations like an independent **Stability Council** to monitor sentinel signals. 
 
 The following sections flesh out these concepts, models, and data in detail.
 
 ## Key Definitions  
 
-- **Mortality Salience:** The *perceived likelihood of personal survival threat* (e.g. violence, pandemic, disaster, economic collapse) within an actionable horizon. Triggers cognitive risk-response shifts (shortened time preference, demand for security)【13†L237-L245】. At population scale, measured by metrics like violence rates, pandemic worry, unemployment, and climate risk exposure.  
+- **Mortality Salience:** The *perceived likelihood of personal survival threat* (e.g. violence, pandemic, disaster, increased physical threats from economic collapse) within an actionable horizon. Triggers cognitive risk-response shifts (shortened time preference, demand for security). At population scale, measured by metrics like violence rates, pandemic worry, unemployment, and climate risk exposure.  
 
-- **Existential Salience:** The *perceived risk to identity-meaning systems or symbolic continuity*. This covers fears of cultural displacement, status loss, meaninglessness, or future irrelevance. Though intangible, it manifests as increased polarization, ideologically-driven anger, or spiritual anxiety. For example, large youth surveys report global “eco-anxiety” driven by the sense that governments fail existentially【27†L64-L68】.  
+- **Existential Salience:** The *perceived risk to identity-meaning systems or symbolic continuity*. This covers fears of cultural displacement, status loss, meaninglessness, or future irrelevance. Though intangible, it manifests as increased polarization, ideologically-driven anger, or spiritual anxiety. For example, large youth surveys report global “eco-anxiety” driven by the sense that governments fail existentially.  
 
-- **Continuity Anchor / Immortality Project:** Any *role, project, or belief that people invest in to give their lives a future-oriented purpose or meaning*. Examples: family, profession, religion, community, nation, ideology, or legacy projects. Each anchor has an *exposure coefficient* to mortality and existential threat (e.g. a fragile job is high mortality-risk; a contested national identity is high existential-risk). Anchors may overlap or conflict between individuals.  
+- **Threat Salience:** The accumulated *threat perception* induced in an individual from *Mortality and Existential Salience*.
 
-- **Continuity Portfolio:** Each individual’s **vector of anchors and their weights** (how much identity or future investment they have in each). Weights evolve over life (e.g. youth emphasize education, mid-life family or career, elders legacy). Diversity in the portfolio (many medium-weight anchors) confers resilience; concentration (one mega-anchor) yields efficiency but high fragility.  
+- **Identity Anchor / Immortality Project:** Any *role, project, or belief that people invest in to give their lives a future-oriented purpose or meaning*. Examples: family, profession, religion, community, nation, ideology, or legacy projects. Each anchor has an *exposure coefficient* to mortality and existential threat (e.g. a fragile job is high mortality-risk; a contested national identity is high existential-risk). Anchors may overlap or conflict between individuals.  
 
-- **Continuity Fragility:** A scalar measure for an individual’s vulnerability. It combines high average threat exposure (weighted sum of anchor risks), high concentration (uneven weight distribution), and high covariance among the anchor risks. E.g. if one loses a heavily weighted anchor to threat, overall fragility spikes.  
+- **Continuity Portfolio:** Each individual’s **vector of anchors and their weights** (how much identity or future investment they have in each). Weights evolve over life (e.g. youth emphasize education, mid-life family or career, elders legacy). Diversity in the portfolio (many medium-weight anchors) confers resilience both to any single anchor loss and to mitigate threat salience ; concentration (one mega-anchor) yields efficiency but high fragility. 
+
+- **Continuity Fragility:** A scalar measure for an individual’s vulnerability. It combines high average threat exposure (weighted sum across anchor risks), high concentration (uneven weight distribution in one anchor), and high covariance among the anchor risks. E.g. if one loses a heavily weighted anchor to threat, overall fragility spikes.  
 
 - **Civilizational Threat Load / Collective Continuity Confidence:** The **aggregate latent state** we aim to track. Think of it as an economy’s “output gap” but for societal stability: low threat load (high confidence) means high cooperation and long-term planning; high threat load means stress, polarization, short-termism. Ideally this is one or a few latent factors extracted via dynamic factor analysis or state-space models from all indicators.  
 
@@ -224,7 +255,7 @@ To counter Goodhart’s Law:
 
 ## Summary  
 
-By reframing social stability as a control problem over a latent *continuity/confidence* state, we gain a toolbox: clear definitions, measurable proxies, and a way to evaluate policies by their effect on systemic resilience, not just GDP. The concept of **continuity portfolios** integrates psychological theory (fear of death driving symbolic projects) with socio-economic measurement, enabling interdisciplinary analysis【13†L237-L245】【35†L133-L142】. This yields *decision-grade* intelligence: understand trade-offs (e.g. the productivity boost vs stability cost of deregulating labor markets), model second-order effects (how surveillance tech might raise existential salience), and quantify risks (probability that current threat levels tip into instability). 
+By reframing social stability as a control problem over a latent *continuity/confidence* state, we gain a toolbox: clear definitions, measurable proxies, and a way to evaluate policies by their effect on systemic resilience, not just GDP. The concept of **continuity portfolios** integrates psychological theory (fear of death driving symbolic projects) with socio-economic measurement, enabling interdisciplinary analysis. This yields *decision-grade* intelligence: understand trade-offs (e.g. the productivity boost vs stability cost of deregulating labor markets), model second-order effects (how surveillance tech might raise existential salience), and quantify risks (probability that current threat levels tip into instability). 
 
 Ultimately, reducing destabilization means expanding **collective continuity confidence** – ensuring people feel their lives matter within a stable future. Actions from secure healthcare to inclusive narratives become part of a grand “stability budget.” This report lays the groundwork for that framework.
 

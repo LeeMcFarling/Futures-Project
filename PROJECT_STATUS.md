@@ -2,8 +2,8 @@
 
 **Generated:** 2026-03-12
 **Total Domains:** 11
-**Total Policy Files:** 121
-**Estimated Total Words:** ~132,000
+**Total Policy Files:** 123
+**Estimated Total Words:** ~137,000
 
 ---
 
@@ -135,16 +135,18 @@ Primary remaining gaps: Criminal Justice (no domain), carbon pricing / demand-si
 
 ---
 
-## Meta Principles Layer (Cross-Cutting)
+## Operating Theory & Meta-Research Layer (Cross-Cutting)
 
-Located at `guiding-principles/Meta Principles - System Physics/` — outside the Policy_Domains structure.
+Located at `guiding-principles/Operating-Theory-Meta-Research/` — outside the Policy_Domains structure. This layer provides the theoretical and empirical backbone of platform design.
 
-| File | ID | Purpose |
-|------|----|---------|
-| existential-stability-mechanism.md | existential-stability-axiom | Mortality salience as platform through-line: all policies reduce existential threat perception and sustain democratic cooperation |
-| incentive-meaning-cohearance.md | incentive-structure-coherence | Structural principle: governance instability occurs when systems punish previously incentivized behavior without recalibrating incentives first |
+| File | ID | Subdomain | Purpose |
+|------|----|-----------|---------|
+| Central Axioms.md | central-axioms-civilizational-stability | Theoretical_Foundations | Full research framework: civilizational stability theory, continuity portfolios, state-space model, measurable indicators (WVS/Gallup/OECD), causal identification strategies (DiD, synthetic control, IV), Goodhart mitigations |
+| model definitions.md | civilizational-cost-function-model | Theoretical_Foundations | Mathematical formalization: individual continuity score F_i, civilizational cost function C (mean fragility + variance + antagonism terms), two-anchor worked example |
+| existential-stability-mechanism.md | existential-stability-axiom | System_Axioms | Policy-level axiom: mortality salience as platform through-line; all policies reduce existential threat perception and sustain democratic cooperation |
+| incentive-meaning-cohearance.md | incentive-structure-coherence | System_Design_Principles | Governance design principle: instability arises when systems punish previously incentivized behavior without recalibrating incentives or renegotiating legitimacy |
 
-These files ground the platform's design logic. Both are `status: Active`.
+All four files are `status: Active`. Central Axioms and Model Definitions are the theoretical foundation; the two axiom files translate that theory into actionable policy design constraints.
 
 ---
 
@@ -231,7 +233,7 @@ All files mentioning SSI or UPI in prose have been tagged with the appropriate `
 | IDP continuous competitive production YAML completed (sidebar fields) | idp-continuous-competitive-development.md |
 | Procurement_Reform 1→3 files, Phase 2→3; IDP 9→10 files; National_Security tracker updated | _MATURITY_TRACKER.md |
 | United-Nations-and-Global-Institutional-Reform domain created; Domain-articulation.md YAML standardized | Domain-articulation.md |
-| Meta Principles — System Physics layer added; YAML standardized on 2 axiom files | existential-stability-mechanism.md, incentive-meaning-cohearance.md |
+| Operating-Theory-Meta-Research layer established (renamed from Meta Principles - System Physics); 2 new files added; YAML standardized on all 4 files | Central Axioms.md, model definitions.md, existential-stability-mechanism.md, incentive-meaning-cohearance.md |
 | Economic_Prosperity tracker updated (Climate_and_Resilience subdomain, 4 files) | _MATURITY_TRACKER.md |
 | PROJECT_STATUS.md updated (121 files, 11 domains) | This file |
 

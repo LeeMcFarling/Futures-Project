@@ -1,4 +1,29 @@
-# Defining the Model  
+---
+id: civilizational-cost-function-model
+title: Model Definitions — Continuity Portfolio & Civilizational Cost Function
+sidebar_label: Model Definitions
+sidebar_position: 2
+slug: /framework-foundations/model-definitions
+domain: Framework_Foundations
+subdomain: Theoretical_Foundations
+policy_type: Research Framework
+status: Active
+version: 0.1
+author: Futures Project
+last_updated: 2026-03-12
+dependencies:
+  - central-axioms-civilizational-stability
+  - existential-stability-axiom
+related_initiatives:
+  - adaptive-governance-evidence-protocol
+tags:
+  - formal-model
+  - continuity-portfolio
+  - cost-function
+  - civilizational-stability
+---
+
+# Defining the Model
 
 To formalize, let each individual \(i\) have a **continuity portfolio** composed of anchors \(j=1,\dots,J\). Each anchor has a base value \(x_{ij}\) (positive meaning or utility the person derives) and is subject to threats. Let \(t_j^{(m)}\) be the *mortality*-threat to anchor \(j\) and \(t_j^{(e)}\) the *existential*-threat to that anchor (both per-unit costs). Each individual assigns a weight \(b_{ij}\) to anchor \(j\) (reflecting how central that anchor is to their identity). One simple linear model of individual stability \(F_i\) (a “continuity score”) is:  
 
