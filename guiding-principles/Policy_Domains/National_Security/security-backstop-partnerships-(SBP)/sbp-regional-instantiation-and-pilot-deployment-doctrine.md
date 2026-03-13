@@ -1,11 +1,26 @@
 ---
 id: sbp-regional-instantiation-and-pilot-deployment-doctrine
 title: Security Backstop Partnerships — Regional Instantiation and Pilot Deployment Doctrine
+sidebar_label: Regional Instantiation Doctrine
+sidebar_position: 5
+slug: /national-security/sbp/regional-instantiation
 domain: National_Security
 subdomain: Security_Backstop_Partnerships
 policy_type: Institutional Deployment Strategy
 status: Draft
 version: 1.0
+author: Futures Project
+last_updated: 2026-03-12
+dependencies:
+  - security-backstop-partnerships-overview
+  - regional-security-council-development-phases
+related_initiatives:
+  - gdic-phase-1-framework
+  - sbp-economic-stabilization-and-continuity-framework
+tags:
+  - regional-security
+  - pilot-deployment
+  - institutional-design
 ---
 
 ## Purpose

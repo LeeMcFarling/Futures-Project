@@ -1,11 +1,27 @@
 ---
 id: security-backstop-partnerships-overview
 title: Security Backstop Partnerships (SBP) — Overview
+sidebar_label: SBP Overview
+sidebar_position: 1
+slug: /national-security/sbp/overview
 domain: National_Security
 subdomain: Security_Backstop_Partnerships
 policy_type: Institutional Framework
 status: Draft
 version: 1.0
+author: Futures Project
+last_updated: 2026-03-12
+dependencies:
+  - defense-posture
+  - idp-partner-integrated-defense-production
+related_initiatives:
+  - security-backstop-partnerships-regional-security-councils
+  - regional-security-council-development-phases
+  - sbp-regional-instantiation-and-pilot-deployment-doctrine
+tags:
+  - regional-security
+  - sovereignty
+  - coordination-architecture
 ---
 
 ## Security Backstop Partnerships (SBP)

@@ -1,11 +1,25 @@
 ---
 id: aligned-defense-partnerships-overview
 title: Aligned Defense Partnerships — Framework Overview
+sidebar_label: ADP Framework Overview
+sidebar_position: 1
+slug: /national-security/adp/overview
 domain: National_Security
-subdomain: Defense_Posture
+subdomain: Aligned_Defense_Partnerships
 policy_type: Strategic Alignment Doctrine
 status: Draft
 version: 1.0
+author: Futures Project
+last_updated: 2026-03-12
+dependencies:
+  - defense-posture
+related_initiatives:
+  - security-backstop-partnerships-overview
+  - idp-partner-integrated-defense-production
+tags:
+  - aligned-partnerships
+  - cooperation
+  - defense-posture
 ---
 
 ## Purpose

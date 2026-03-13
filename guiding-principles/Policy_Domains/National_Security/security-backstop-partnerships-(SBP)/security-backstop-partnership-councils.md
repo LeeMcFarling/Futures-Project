@@ -1,11 +1,25 @@
 ---
 id: security-backstop-partnerships-regional-security-councils
 title: Security Backstop Partnerships (SBP) and Regional Security Councils
+sidebar_label: Regional Security Councils
+sidebar_position: 2
+slug: /national-security/sbp/regional-security-councils
 domain: National_Security
 subdomain: Security_Backstop_Partnerships
 policy_type: Institutional Architecture
 status: Draft
 version: 1.0
+author: Futures Project
+last_updated: 2026-03-12
+dependencies:
+  - security-backstop-partnerships-overview
+related_initiatives:
+  - sbp-external-engagement-and-backstop-decision-framework
+  - regional-security-council-development-phases
+tags:
+  - regional-security
+  - governance
+  - legitimacy
 ---
 
 ## Strategic Rationale

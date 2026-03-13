@@ -1,11 +1,26 @@
 ---
 id: regional-security-council-development-phases
 title: Regional Security Council Development Phase Model
+sidebar_label: RSC Development Phases
+sidebar_position: 6
+slug: /national-security/sbp/development-phases
 domain: National_Security
 subdomain: Security_Backstop_Partnerships
 policy_type: Institutional Development Doctrine
 status: Draft
 version: 1.0
+author: Futures Project
+last_updated: 2026-03-12
+dependencies:
+  - security-backstop-partnerships-overview
+  - gdic-phase-1-framework
+related_initiatives:
+  - gdic-phase-2-economic-resilience
+  - middle-east-phase-3-political-conditioning
+tags:
+  - regional-security
+  - phase-model
+  - institutional-maturation
 ---
 
 ## Purpose

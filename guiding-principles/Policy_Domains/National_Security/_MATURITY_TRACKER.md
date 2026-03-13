@@ -1,6 +1,6 @@
 # Domain Maturity Tracker: National_Security
 
-**Last Updated:** 2026-03-05
+**Last Updated:** 2026-03-12
 **Overall Domain Phase:** 2
 **Domain Owner:** TBD
 
@@ -21,7 +21,7 @@
 ## Domain Overview
 
 **Purpose:**
-Define America's security posture, alliance structures, and strategic approach to adversaries and global challenges through Integrated Defense Partnerships (IDPs) that distribute risk and build collective capacity.
+Define America's security posture, alliance structures, and strategic approach to adversaries and global challenges through a three-tier partnership architecture — Integrated Defense Partnerships (IDP), Security Backstop Partnerships (SBP), and Aligned Defense Partnerships (ADP) — that distributes risk, builds collective capacity, and sequences regional political conditioning through Gulf- and US-co-governed frameworks.
 
 **Key Questions:**
 - How do we maintain alliance commitments while reducing single-point-of-failure risk?
@@ -43,8 +43,11 @@ Define America's security posture, alliance structures, and strategic approach t
 | Defense_Posture | 2 | 1 | ~900 | Country-specific strategies | None | Add regional frameworks | TBD |
 | Integrated_Defense_Partnerships | 3 | 10 | ~13,500 | Implementation roadmaps | Defense_Posture | Continue expansion | TBD |
 | Procurement_Reform | 3 | 3 | ~4,500 | Alliance expansion preconditions | IDP Framework | Monitor DoD pilot progress | TBD |
-| Gulf_Defense_Compact | 2 | 2 | ~2,000 | Phase 3+ operational protocols | gdic-phase-1-framework | Add operational compacts | TBD |
-| Foreign_Policy | 0 | 0 | 0 | **Not started** | Defense_Posture | Create initial file | TBD |
+| Gulf_Defense_Compact | 3 | 3 | ~6,500 | Operational compacts; institutionalization pathway | gdic-phase-1-framework | Phase III political conditioning in place | — |
+| Security_Backstop_Partnerships | 2 | 6 | ~6,000 | Regional pilot selection; operational protocols | Defense_Posture, IDP | Add pilot region selection criteria | TBD |
+| Middle_East_Framework | 3 | 1 | ~4,500 | Formal PCF charter; Iran snapback mechanics | gdic-phase-1-framework, gdic-phase-2-economic-resilience | Add PCF governance spec | TBD |
+| Aligned_Defense_Partnerships | 2 | 1 | ~600 | Regional ADP mapping; upgrade criteria to SBP | Defense_Posture | Define upgrade pathway | TBD |
+| Foreign_Policy | 0 | 0 | 0 | **In progress** | Defense_Posture | In development | TBD |
 | China_Strategy | 0 | 0 | 0 | **Not started** | Economic_Prosperity.Trade | Create initial file | TBD |
 | Cyber_Security | 0 | 0 | 0 | **Not started** | Technology_and_Data | Create initial file | TBD |
 
@@ -95,12 +98,15 @@ Define America's security posture, alliance structures, and strategic approach t
 ### Tier 1: Critical Gaps (Missing Foundation)
 - [x] **Defense Posture** – Strategic framework established ✅ COMPLETED
 - [x] **IDP Framework** – Core alliance architecture defined ✅ COMPLETED
-- [ ] **Foreign Policy** – Comprehensive framework beyond defense – Target: Phase 2
+- [x] **SBP Framework** – Regional backstop architecture defined ✅ COMPLETED
+- [x] **Middle East Framework** – Phase-gated political conditioning (Israel-Palestine, Iran) ✅ COMPLETED
+- [ ] **Foreign Policy** – Comprehensive diplomatic framework – Target: Phase 2 (in progress)
 
 ### Tier 2: Structural Gaps (Incomplete Coverage)
 - [ ] **China Strategy** – Comprehensive approach to competition – Target: Phase 2
 - [ ] **Cyber Security** – National cyber defense strategy – Target: Phase 2
-- [ ] **Regional Strategies** – Middle East, Indo-Pacific frameworks – Target: Phase 2
+- [ ] **Indo-Pacific Framework** – Regional SBP instantiation and ADP mapping – Target: Phase 2
+- [ ] **PCF Governance Spec** – Political Coordination Forum formal charter – Target: Phase 3
 
 ### Tier 3: Enhancement Gaps (Nice-to-Have)
 - [ ] **Nuclear Policy** – Deterrence, arms control details – Target: Phase 3
@@ -112,11 +118,14 @@ Define America's security posture, alliance structures, and strategic approach t
 
 ### Requirements for Phase 3 (Outcomes & Decision Rules)
 - [x] Defense posture defined
-- [x] Partnership taxonomy established (IDP/Backstop/Aligned)
+- [x] Three-tier partnership taxonomy established (IDP/SBP/ADP) ✅
 - [x] Industrial capacity framework created
 - [x] Gray-zone response architecture defined
-- [ ] Regional implementation strategies drafted
-- [ ] Procurement reform pilot criteria established
+- [x] Middle East political conditioning framework (Phase III GDIC) ✅
+- [x] SBP governance architecture and pilot doctrine ✅
+- [ ] Indo-Pacific SBP instantiation strategy
+- [ ] PCF formal governance charter
+- [ ] Procurement reform alliance expansion criteria
 
 ---
 
@@ -124,6 +133,10 @@ Define America's security posture, alliance structures, and strategic approach t
 
 | Date | Subdomain | Change | Phase Impact |
 |------|-----------|--------|--------------|
+| 2026-03-12 | Security_Backstop_Partnerships | Added 6-file SBP stack: overview, RSC architecture, engagement protocol, economic stabilization, regional instantiation doctrine, development phases; YAML standardized | 0 → 2 |
+| 2026-03-12 | Middle_East_Framework | Added GDIC Phase 3 — political conditioning framework (Israel-Palestine + Iran tracks, PCF governance, phase-gate system); YAML standardized | 0 → 3 |
+| 2026-03-12 | Aligned_Defense_Partnerships | Added ADP framework overview (third tier of alliance architecture); subdomain created; YAML standardized | 0 → 2 |
+| 2026-03-12 | Gulf_Defense_Compact | Phase III political conditioning adds political superstructure above GDIC Phases I + II; 2 → 3 files | 2 → 3 |
 | 2026-03-05 | Gulf_Defense_Compact | Added GDIC Phase 1 (defensive coordination) + Phase 2 (economic resilience); YAML standardized | 0 → 2 |
 | 2026-03-05 | Procurement_Reform | Added continuous competitive procurement + continuous test & certification pilots | 1 → 3 files; Phase 2 → 3 |
 | 2026-03-05 | Integrated_Defense_Partnerships | Added IDP continuous competitive production (extends DoD pilot to alliance scale) | 9 → 10 files |
@@ -136,11 +149,11 @@ Define America's security posture, alliance structures, and strategic approach t
 
 ## Notes & Context
 
-- Domain has **16 substantive files** (up from 11); IDP + procurement reform driving expansion
-- IDP framework is the most developed subdomain with 10 files covering industrial, financial, logistics, digital, social, and competitive production dimensions
-- Procurement reform now at Phase 3 with continuous competitive procurement + test/certification pair
-- Gulf Defense Compact (GDIC) new subdomain: Phase 1 defensive coordination + Phase 2 economic resilience deterrence
-- Novel alliance architecture: three-tier partnership model with automatic response curves
-- Strong integration with Technology_and_Data domain (SSI, UPI dependencies)
-- Foreign policy proper still needs development beyond defense posture
-- Procurement reform creates new subdomain addressing industrial readiness
+- Domain has **25 substantive files** (up from 16); SBP framework + Middle East Phase III driving latest expansion
+- Three-tier alliance architecture now complete: IDP (deep integration) → SBP (regional backstop councils) → ADP (bilateral cooperation)
+- IDP: 10 files; Procurement_Reform: 3 files (Phase 3); Gulf_Defense_Compact: 3 files (Phase I → II → III)
+- Security_Backstop_Partnerships: 6-file stack — first regional governance architecture (non-alliance coordination councils)
+- Middle_East_Framework: Phase III political conditioning — phase-gated access/isolation for Israel, Palestine, Iran; PCF governance
+- GDIC Phase III is the political superstructure above the defensive (Phase I) and economic (Phase II) foundations
+- SBP pilot deployment doctrine includes illustrative regional variants: Gulf, Central America/Caribbean, East Asia maritime
+- Foreign policy in development; China Strategy and Indo-Pacific framework remain as next major gaps

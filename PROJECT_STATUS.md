@@ -2,16 +2,16 @@
 
 **Generated:** 2026-03-12
 **Total Domains:** 11
-**Total Policy Files:** 123
-**Estimated Total Words:** ~137,000
+**Total Policy Files:** 132
+**Estimated Total Words:** ~152,000
 
 ---
 
 ## Executive Summary
 
-The repository has grown substantially — from 65 files across 8 domains (January 2025) to **121 files across 11 domains**. Healthcare remains the largest domain at 23 files. National Security grew from empty to 16 substantive files, with Procurement_Reform now at Phase 3 (continuous competitive procurement + test/certification pair) and a new Gulf Integrated Defense Compact (GDIC) subdomain. Economic_Prosperity added a 4-file Climate and Resilience stack (climate risk framework, catastrophe reinsurance, water resilience, wildfire governance). A new United-Nations-and-Global-Institutional-Reform domain has been established at Phase 0, exploring regional signaling and constrained veto mechanics for multilateral system modernization. A Meta Principles (System Physics) layer has been added outside the domain structure — two foundational axioms (existential stability, incentive-meaning coherence) grounding the platform's design logic. Public_Infrastructure was renamed Housing_and_Public_Infrastructure to reflect the integrated housing supply stack (17 files, ~27,700 words). SSI/UPI accelerant tagging is complete across Immigration, National Security, Healthcare, and Education.
+The repository has grown substantially — from 65 files across 8 domains (January 2025) to **132 files across 11 domains**. National Security is now the largest and most architecturally complete domain at 25 files, with a full three-tier alliance architecture: Integrated Defense Partnerships (IDP, 10 files), Security Backstop Partnerships (SBP, 6 files — new regional coordination council framework), and Aligned Defense Partnerships (ADP, 1 file). The Gulf Integrated Defense Compact (GDIC) now has all three phases: Phase I defensive coordination, Phase II economic resilience, and Phase III Middle East political conditioning (phase-gated access for Israel, Palestinian authorities, and Iran with Gulf co-governance). Economic_Prosperity added a 4-file Climate and Resilience stack. The Operating-Theory-Meta-Research layer now has 5 files including the full civilizational stability research framework with formal model definitions, state-space architecture, and Goodhart mitigations. Foreign Policy is in development.
 
-Primary remaining gaps: Criminal Justice (no domain), carbon pricing / demand-side climate policy, Foreign Policy, Trade Policy, and the legal/property overlay for energy transmission siting (eminent domain, FERC vs. state authority).
+Primary remaining gaps: Criminal Justice (no domain), carbon pricing / demand-side climate policy, Foreign Policy (in progress), Trade Policy, and the legal/property overlay for energy transmission siting.
 
 ### Overall Maturity Distribution
 
@@ -29,7 +29,7 @@ Primary remaining gaps: Criminal Justice (no domain), carbon pricing / demand-si
 |--------|-------|-------|------------|--------|---------------|
 | Healthcare | 3 | 23 | ~18,700 | Strong | Mental health, maternal health, rural access |
 | Economic_Prosperity | 2–3 | 26 | ~27,000 | Strong | Trade policy, antitrust, carbon pricing/demand-side |
-| National_Security | 2 | 16 | ~17,500 | Good | Foreign policy, China strategy, cyber |
+| National_Security | 2–3 | 25 | ~28,500 | Strong | Foreign policy (in progress), China strategy, cyber; Indo-Pacific SBP instantiation |
 | Immigration | 2 | 11 | ~7,560 | Good | DACA resolution, citizenship backlog |
 | Housing_and_Public_Infrastructure | 3 | 17 | ~27,700 | Strong | Broadband, water, STZ legal framework; rural housing + homelessness depth deferred to Social domain |
 | Institutional-Modernization | 3 | 9 | ~9,700 | Strong | Process redesign, domain instantiations; pre-deployment validation section needed in adaptive governance doc |
@@ -67,14 +67,17 @@ Primary remaining gaps: Criminal Justice (no domain), carbon pricing / demand-si
 | Antitrust | 0 | 0 | Not started |
 | Small_Business | 0 | 0 | Not started |
 
-### National_Security (16 files)
+### National_Security (25 files)
 | Subdomain | Phase | Files | Notes |
 |-----------|-------|-------|-------|
-| Integrated_Defense_Partnerships | 3 | 10 | Industrial, logistics, digital, financial, gray zone, info integrity, shipbuilding, social mobility, defense production, continuous competitive production |
-| Procurement_Reform | 3 | 3 | Defense acquisition reform + continuous competitive procurement pilot + continuous test & certification pilot |
-| Gulf_Defense_Compact | 2 | 2 | Phase 1 (defensive coordination: RAMCC, early warning, maritime) + Phase 2 (economic resilience deterrence) |
+| Integrated_Defense_Partnerships | 3 | 10 | Industrial, logistics, digital, financial, gray zone, info integrity, shipbuilding, social mobility, defense production, competitive production |
+| Security_Backstop_Partnerships | 2 | 6 | Overview, RSC architecture, engagement protocol, economic stabilization, regional instantiation doctrine, development phase model — non-alliance regional coordination councils |
+| Procurement_Reform | 3 | 3 | Defense acquisition reform + continuous competitive procurement + continuous test & certification |
+| Gulf_Defense_Compact | 3 | 3 | Phase I (defensive coordination) + Phase II (economic resilience) + Phase III (Middle East political conditioning) |
+| Middle_East_Framework | 3 | 1 | Phase III — phase-gated political conditioning for Israel, Palestinian authorities, Iran; PCF governance with Gulf co-ownership; proxy linkage rule; nuclear governance principle |
+| Aligned_Defense_Partnerships | 2 | 1 | Third tier of alliance architecture — bilateral cooperation without institutional membership |
 | Defense_Posture | 2 | 1 | Strategic framework |
-| Foreign_Policy | 0 | 0 | Not started |
+| Foreign_Policy | 0 | 0 | In development |
 | China_Strategy | 0 | 0 | Not started — blocked by Trade_Policy |
 | Cyber_Security | 0 | 0 | Not started |
 
@@ -141,7 +144,8 @@ Located at `guiding-principles/Operating-Theory-Meta-Research/` — outside the 
 
 | File | ID | Subdomain | Purpose |
 |------|----|-----------|---------|
-| Central Axioms.md | central-axioms-civilizational-stability | Theoretical_Foundations | Full research framework: civilizational stability theory, continuity portfolios, state-space model, measurable indicators (WVS/Gallup/OECD), causal identification strategies (DiD, synthetic control, IV), Goodhart mitigations |
+| central-axioms-of-civilizational-stability.md | central-axioms-civilizational-stability | Theoretical_Foundations | Full research framework: civilizational stability theory, continuity portfolios, state-space model, measurable indicators (WVS/Gallup/OECD), causal identification strategies (DiD, synthetic control, IV), Goodhart mitigations, Civilizational Resilience Office governance structure |
+| Central Axioms.md | central-axioms-civilizational-stability | Theoretical_Foundations | ⚠️ DUPLICATE ID — shorter draft version; same id as above. Needs resolution: archive or differentiate |
 | model definitions.md | civilizational-cost-function-model | Theoretical_Foundations | Mathematical formalization: individual continuity score F_i, civilizational cost function C (mean fragility + variance + antagonism terms), two-anchor worked example |
 | existential-stability-mechanism.md | existential-stability-axiom | System_Axioms | Policy-level axiom: mortality salience as platform through-line; all policies reduce existential threat perception and sustain democratic cooperation |
 | incentive-meaning-cohearance.md | incentive-structure-coherence | System_Design_Principles | Governance design principle: instability arises when systems punish previously incentivized behavior without recalibrating incentives or renegotiating legitimacy |
@@ -233,6 +237,11 @@ All files mentioning SSI or UPI in prose have been tagged with the appropriate `
 | IDP continuous competitive production YAML completed (sidebar fields) | idp-continuous-competitive-development.md |
 | Procurement_Reform 1→3 files, Phase 2→3; IDP 9→10 files; National_Security tracker updated | _MATURITY_TRACKER.md |
 | United-Nations-and-Global-Institutional-Reform domain created; Domain-articulation.md YAML standardized | Domain-articulation.md |
+| Security_Backstop_Partnerships 6-file stack added; YAML standardized | secutiy-backstop-partnerships-overview.md, security-backstop-partnership-councils.md, sbp-backstop-engagement-protocol.md, sbp-economic-stabilization-and-continuity-framework.md, sbp-regional-instantiation-and-pilot-deployment-doctrine.md, regional-security-council-development-phases.md |
+| Middle_East_Framework — GDIC Phase III political conditioning added; YAML standardized | DRAFT-GDIC-Phase-3-political-conditioning.md |
+| Aligned_Defense_Partnerships subdomain created; ADP framework overview added; YAML standardized | aligned-defense-partnerships-overview.md |
+| central-axioms-of-civilizational-stability.md (detailed version) added to Operating-Theory-Meta-Research | Already has YAML |
+| National_Security tracker updated (25 files, new subdomains) | _MATURITY_TRACKER.md |
 | Operating-Theory-Meta-Research layer established (renamed from Meta Principles - System Physics); 2 new files added; YAML standardized on all 4 files | Central Axioms.md, model definitions.md, existential-stability-mechanism.md, incentive-meaning-cohearance.md |
 | Economic_Prosperity tracker updated (Climate_and_Resilience subdomain, 4 files) | _MATURITY_TRACKER.md |
 | PROJECT_STATUS.md updated (121 files, 11 domains) | This file |

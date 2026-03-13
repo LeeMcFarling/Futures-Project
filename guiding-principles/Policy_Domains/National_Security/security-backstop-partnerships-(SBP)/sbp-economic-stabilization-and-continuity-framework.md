@@ -1,11 +1,25 @@
 ---
 id: sbp-economic-stabilization-and-continuity-framework
 title: Security Backstop Partnerships — Economic Stabilization and Continuity Framework
+sidebar_label: Economic Stabilization Framework
+sidebar_position: 4
+slug: /national-security/sbp/economic-stabilization
 domain: National_Security
 subdomain: Security_Backstop_Partnerships
 policy_type: Regional Resilience Architecture
 status: Draft
 version: 1.0
+author: Futures Project
+last_updated: 2026-03-12
+dependencies:
+  - security-backstop-partnerships-overview
+  - security-backstop-partnerships-regional-security-councils
+related_initiatives:
+  - gdic-phase-2-economic-resilience
+tags:
+  - regional-security
+  - economic-resilience
+  - continuity
 ---
 
 ## Purpose

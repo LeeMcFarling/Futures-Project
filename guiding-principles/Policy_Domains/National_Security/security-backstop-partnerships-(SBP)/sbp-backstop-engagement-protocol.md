@@ -1,11 +1,26 @@
 ---
 id: sbp-external-engagement-and-backstop-decision-framework
 title: Security Backstop Partnerships — External Engagement and Backstop Decision Framework
+sidebar_label: External Engagement Protocol
+sidebar_position: 3
+slug: /national-security/sbp/engagement-protocol
 domain: National_Security
 subdomain: Security_Backstop_Partnerships
 policy_type: Operational Governance Doctrine
 status: Draft
 version: 1.1
+author: Futures Project
+last_updated: 2026-03-12
+dependencies:
+  - security-backstop-partnerships-overview
+  - security-backstop-partnerships-regional-security-councils
+related_initiatives:
+  - gdic-phase-1-framework
+  - sbp-economic-stabilization-and-continuity-framework
+tags:
+  - regional-security
+  - engagement-doctrine
+  - escalation-management
 ---
 
 ## Purpose

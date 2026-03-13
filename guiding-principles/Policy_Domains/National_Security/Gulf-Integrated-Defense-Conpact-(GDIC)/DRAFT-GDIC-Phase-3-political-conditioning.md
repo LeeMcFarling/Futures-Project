@@ -15,10 +15,12 @@ dependencies:
   - gdic-phase-1-framework
   - gdic-phase-2-economic-resilience
   - idp-gray-zone-escalation
+author: Futures Project
 related_initiatives:
-  - Foreign Policy Orientation
-  - Gulf Defense Compact
-  - Sanctions Reform
+  - gdic-phase-1-framework
+  - gdic-phase-2-economic-resilience
+  - security-backstop-partnerships-overview
+  - regional-security-council-development-phases
 tags:
   - middle-east
   - israel-palestine
