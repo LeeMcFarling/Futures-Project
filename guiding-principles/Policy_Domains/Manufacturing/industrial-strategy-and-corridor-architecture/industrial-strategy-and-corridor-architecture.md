@@ -12,9 +12,14 @@ version: 0.1
 author: Futures Project
 dependencies:
   - manufacturing-domain-overview
-  - alliance-industrial-strategy
+  - idp-industrial-capacity-defense-production
   - energy-abundance-strategy
-  - housing-pattern-book-overlays
+  - regional-architectural-skins
+related_initiatives:
+  - industrial-corridor-viability-criteria
+  - climate-shock-absorption-industrial-corridors
+  - localized-dutch-disease-mitigation
+  - housing-supply-stabilization-overlay
 tags:
   - manufacturing
   - regional-development

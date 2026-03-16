@@ -13,8 +13,13 @@ author: Futures Project
 dependencies:
   - public-capital-authority
   - energy-abundance-strategy
-  - housing-pattern-book-overlays
-  - alliance-industrial-strategy
+  - regional-architectural-skins
+  - idp-industrial-capacity-defense-production
+related_initiatives:
+  - industrial-strategy-corridor-architecture
+  - noram-critical-materials
+  - housing-supply-stabilization-overlay
+  - idp-critical-materials-energy
 tags:
   - manufacturing
   - industrial-policy

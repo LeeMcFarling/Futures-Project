@@ -1,17 +1,17 @@
 # Futures Project - Policy Repository Status Report
 
-**Generated:** 2026-03-12
+**Generated:** 2026-03-15
 **Total Domains:** 11
-**Total Policy Files:** 132
-**Estimated Total Words:** ~152,000
+**Total Policy Files:** 139
+**Estimated Total Words:** ~159,800
 
 ---
 
 ## Executive Summary
 
-The repository has grown substantially — from 65 files across 8 domains (January 2025) to **132 files across 11 domains**. National Security is now the largest and most architecturally complete domain at 25 files, with a full three-tier alliance architecture: Integrated Defense Partnerships (IDP, 10 files), Security Backstop Partnerships (SBP, 6 files — new regional coordination council framework), and Aligned Defense Partnerships (ADP, 1 file). The Gulf Integrated Defense Compact (GDIC) now has all three phases: Phase I defensive coordination, Phase II economic resilience, and Phase III Middle East political conditioning (phase-gated access for Israel, Palestinian authorities, and Iran with Gulf co-governance). Economic_Prosperity added a 4-file Climate and Resilience stack. The Operating-Theory-Meta-Research layer now has 5 files including the full civilizational stability research framework with formal model definitions, state-space architecture, and Goodhart mitigations. Foreign Policy is in development.
+The repository has grown substantially — from 65 files across 8 domains (January 2025) to **138 files across 11 domains**. National Security is now the largest and most architecturally complete domain at 25 files, with a full three-tier alliance architecture: Integrated Defense Partnerships (IDP, 10 files), Security Backstop Partnerships (SBP, 6 files — new regional coordination council framework), and Aligned Defense Partnerships (ADP, 1 file). The Gulf Integrated Defense Compact (GDIC) now has all three phases: Phase I defensive coordination, Phase II economic resilience, and Phase III Middle East political conditioning (phase-gated access for Israel, Palestinian authorities, and Iran with Gulf co-governance). Economic_Prosperity added a 4-file Climate and Resilience stack and a 6-file Manufacturing expansion stack (industrial corridor architecture, viability criteria, climate absorption corridors, Dutch disease mitigation, and land-use stabilization / anti-gentrification framework). The Operating-Theory-Meta-Research layer now has 5 files including the full civilizational stability research framework with formal model definitions, state-space architecture, and Goodhart mitigations. Foreign Policy is in development.
 
-Primary remaining gaps: Criminal Justice (no domain), carbon pricing / demand-side climate policy, Foreign Policy (in progress), Trade Policy, and the legal/property overlay for energy transmission siting.
+Primary remaining gaps: Criminal Justice (no domain), carbon pricing / demand-side climate policy, Foreign Policy (in progress), Trade Policy (overview scaffold exists — sub-files pending), and the legal/property overlay for energy transmission siting.
 
 ### Overall Maturity Distribution
 
@@ -28,7 +28,7 @@ Primary remaining gaps: Criminal Justice (no domain), carbon pricing / demand-si
 | Domain | Phase | Files | Est. Words | Status | Priority Gaps |
 |--------|-------|-------|------------|--------|---------------|
 | Healthcare | 3 | 23 | ~18,700 | Strong | Mental health, maternal health, rural access |
-| Economic_Prosperity | 2–3 | 26 | ~27,000 | Strong | Trade policy, antitrust, carbon pricing/demand-side |
+| Economic_Prosperity | 2–3 | 33 | ~35,300 | Strong | Trade policy (started — China strategy, tariff framework, export controls pending), antitrust, carbon pricing/demand-side |
 | National_Security | 2–3 | 25 | ~28,500 | Strong | Foreign policy (in progress), China strategy, cyber; Indo-Pacific SBP instantiation |
 | Immigration | 2 | 11 | ~7,560 | Good | DACA resolution, citizenship backlog |
 | Housing_and_Public_Infrastructure | 3 | 17 | ~27,700 | Strong | Broadband, water, STZ legal framework; rural housing + homelessness depth deferred to Social domain |
@@ -54,16 +54,16 @@ Primary remaining gaps: Criminal Justice (no domain), carbon pricing / demand-si
 | Maternal_Health | 0 | 0 | Not started |
 | Rural_Access | 0 | 0 | Not started |
 
-### Economic_Prosperity (26 files)
+### Economic_Prosperity (32 files)
 | Subdomain | Phase | Files | Notes |
 |-----------|-------|-------|-------|
 | Agriculture | 3 | 8 | Data rights, finance, supply chain, water, seed IP |
 | Energy | 3 | 5 | Strategy, portfolio mix, PCA finance/exit, RMS overlay, pilot architecture |
 | Climate_and_Resilience | 3 | 4 | Climate risk framework, catastrophe reinsurance (3-layer system), water/aquifer resilience (5-level escalation), wildfire governance |
+| Manufacturing | 2 | 7 | NORAM critical materials + domain overview + 5-file corridor architecture stack: industrial strategy, viability criteria (DoDa dashboard, 8-criteria scoring), climate absorption corridors, Dutch disease mitigation (ROFR, housing elasticity), land-use stabilization (anti-gentrification pilots — PCA pre-acquisition, mixed-income vertical integration, tourism pressure dividend via SSI/UPI rails). Files live in `Policy_Domains/Manufacturing/` folder — reconcile to `Economic_Prosperity/Manufacturing/` eventually. |
 | Labor_and_Wellfare | 2 | 4 | Benefits floor, EITC, welfare gradient, worker classification |
 | Budget_and_Fiscal_Policy | 2 | 4 | Guiding principles, PCA, capital allocation, Social Security |
-| Manufacturing | 2 | 1 | NORAM critical materials |
-| Trade_Policy | 0 | 0 | Not started — blocks National_Security.China_Strategy |
+| Trade_Policy | 1 | 1 | Overview scaffold: sector-tiered framework (Strategic-Critical / Industrial Anchor / Competitive), allied trade architecture, adversarial decoupling principles, 5 identified sub-files pending — China strategy, tariff/market-access, export controls, enforcement modernization, supply chain mapping |
 | Antitrust | 0 | 0 | Not started |
 | Small_Business | 0 | 0 | Not started |
 
@@ -183,7 +183,7 @@ All files mentioning SSI or UPI in prose have been tagged with the appropriate `
 |-----|--------|---------|
 | **Energy Legal/Zoning Overlay** | Economic_Prosperity.Energy | 🔴 — RMS handles permitting; eminent domain, FERC vs. state authority, HVDC right-of-way still unaddressed |
 | **Foreign Policy** | National_Security | 🟠 — defense posture exists, no diplomatic layer |
-| **Trade Policy** | Economic_Prosperity | 🟠 — blocks China Strategy; no tariff/trade agreement framework |
+| **Trade Policy** | Economic_Prosperity | 🟡 — overview scaffold exists; China strategy, tariff framework, export controls, enforcement, supply chain mapping still pending; partially unblocks China Strategy |
 | **Macro/Economic Validation Layer** | Platform-wide | 🟠 — pre-deployment modeling, parameter calibration, DiD comparisons not yet commissioned |
 
 ### Tier 2: Structural Gaps
@@ -221,10 +221,24 @@ All files mentioning SSI or UPI in prose have been tagged with the appropriate `
 | `healthcare-infrastructure-layer.md` SSI/UPI role | Healthcare | Flagged — prose reads as dependency not accelerant; user to review |
 | 2 files with ambiguous SSI/UPI prose | Immigration, Labor | User will revisit |
 | Inline `[Agriculture / ...]` cross-reference annotations | Water and Wildfire files | Authoring artifacts in prose; not yet cleaned |
+| Manufacturing folder/domain inconsistency | `Policy_Domains/Manufacturing/` | Files use `domain: Economic_Prosperity` in YAML but sit in standalone folder; should move to `Policy_Domains/Economic_Prosperity/Manufacturing/` |
+| `workforce-skill-mobility` dependency missing | Manufacturing/localized-dutch-disease-mitigation.md | Referenced slug has no corresponding file yet; placeholder for future workforce mobility doc |
 
 ---
 
-## Recent Session Activity (Mar 12, 2026)
+## Recent Session Activity (Mar 15, 2026)
+
+| Change | Files Affected |
+|--------|---------------|
+| Trade Policy overview scaffold created: sector-tiered framework (Tier I Strategic-Critical / Tier II Industrial Anchor / Tier III Competitive), allied trade architecture, adversarial decoupling staging, 5 sub-file roadmap | trade-policy-overview.md (new) |
+| NORAM YAML completed — was missing domain, subdomain, policy_type, status, version, author, last_updated, dependencies, related_initiatives | NORAM_Critical_Materials_and_Manufacturing.md |
+| Manufacturing 6-file stack added: domain overview, industrial strategy/corridor architecture, viability criteria (DoDa dashboard, Tier I/II/III), climate absorption corridors, Dutch disease mitigation (ROFR + housing elasticity), land-use stabilization (anti-gentrification: PCA pre-acquisition, mixed-income vertical integration, tourism dividend via SSI/UPI rails) | manufacturing-domain-overview.md, industrial-strategy-and-corridor-architecture.md, industrial-corridor-viability-criteria.md, climate-shock-absorbtion-industrial-corridors.md, localized-dutch-disease-mitigation.md, land-use-stabilization-and-inclusive-growth.md |
+| Manufacturing YAML dependencies corrected: `housing-pattern-book-overlays` → `regional-architectural-skins`; `alliance-industrial-strategy` → `idp-industrial-capacity-defense-production`; `noram-critical-materials-strategy` → `noram-critical-materials`; `infrastructure-spine-neighborhood-seam` → `transit-escalation-stz-interface`; `workforce-skill-mobility` removed (file doesn't exist yet) | All 6 manufacturing files |
+| `related_initiatives` fields added to all 6 manufacturing files | All 6 manufacturing files |
+| Economic_Prosperity tracker updated: Manufacturing 1→7 files; Trade Policy 0→1 file, phase 0→1 | _MATURITY_TRACKER.md |
+| GDIC Phase 3 duplicate `author:` field removed | DRAFT-GDIC-Phase-3-political-conditioning.md |
+
+## Prior Session Activity (Mar 12, 2026)
 
 | Change | Files Affected |
 |--------|---------------|

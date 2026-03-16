@@ -11,11 +11,16 @@ status: Draft
 version: 0.4
 author: Futures Project
 dependencies:
-  - housing-pattern-book-overlays
-  - infrastructure-spine-neighborhood-seam
+  - regional-architectural-skins
+  - transit-escalation-stz-interface
   - industrial-strategy-corridor-architecture
   - localized-dutch-disease-mitigation
   - climate-shock-absorption-industrial-corridors
+related_initiatives:
+  - tenure-convertible-mid-rise-typology
+  - national-seam-infrastructure-coordinated-development
+  - housing-supply-stabilization-overlay
+  - modular-reurbanization-overview
 tags:
   - housing
   - land-use

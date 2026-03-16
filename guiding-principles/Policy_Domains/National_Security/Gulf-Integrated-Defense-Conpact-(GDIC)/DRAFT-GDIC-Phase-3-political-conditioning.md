@@ -15,7 +15,6 @@ dependencies:
   - gdic-phase-1-framework
   - gdic-phase-2-economic-resilience
   - idp-gray-zone-escalation
-author: Futures Project
 related_initiatives:
   - gdic-phase-1-framework
   - gdic-phase-2-economic-resilience

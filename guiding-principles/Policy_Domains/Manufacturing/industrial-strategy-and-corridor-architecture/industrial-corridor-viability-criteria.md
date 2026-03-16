@@ -13,7 +13,12 @@ author: Futures Project
 dependencies:
   - industrial-strategy-corridor-architecture
   - energy-abundance-strategy
-  - noram-critical-materials-strategy
+  - noram-critical-materials
+related_initiatives:
+  - climate-shock-absorption-industrial-corridors
+  - localized-dutch-disease-mitigation
+  - land-use-stabilization-inclusive-growth
+  - housing-supply-stabilization-overlay
 tags:
   - manufacturing
   - regional-development

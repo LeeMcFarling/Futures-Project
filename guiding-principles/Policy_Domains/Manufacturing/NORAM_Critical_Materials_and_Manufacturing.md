@@ -4,6 +4,22 @@ title: North American Critical Materials & Manufacturing Authorities
 sidebar_label: Critical Materials
 sidebar_position: 1
 slug: /economic-prosperity/manufacturing/critical-materials
+domain: Economic_Prosperity
+subdomain: Manufacturing
+policy_type: Institutional Design Framework
+status: Draft
+version: 0.1
+author: Futures Project
+last_updated: 2026-03-15
+dependencies:
+  - manufacturing-domain-overview
+  - public-capital-authority
+  - energy-abundance-strategy
+  - idp-critical-materials-energy
+related_initiatives:
+  - industrial-strategy-corridor-architecture
+  - industrial-corridor-viability-criteria
+  - idp-industrial-capacity-defense-production
 tags:
   - batteries
   - rare-earths

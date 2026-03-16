@@ -14,8 +14,13 @@ dependencies:
   - industrial-strategy-corridor-architecture
   - industrial-corridor-viability-criteria
   - climate-shock-absorption-industrial-corridors
-  - housing-pattern-book-overlays
-  - workforce-skill-mobility
+  - regional-architectural-skins
+  - housing-supply-stabilization-overlay
+related_initiatives:
+  - land-use-stabilization-inclusive-growth
+  - tenure-convertible-mid-rise-typology
+  - modular-reurbanization-overview
+  - national-seam-infrastructure-coordinated-development
 tags:
   - manufacturing
   - regional-economics

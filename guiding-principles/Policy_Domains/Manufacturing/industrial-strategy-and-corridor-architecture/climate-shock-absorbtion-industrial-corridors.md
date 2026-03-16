@@ -13,8 +13,13 @@ author: Futures Project
 dependencies:
   - industrial-strategy-corridor-architecture
   - industrial-corridor-viability-criteria
-  - housing-pattern-book-overlays
+  - regional-architectural-skins
   - national-catastrophe-reinsurance-system
+related_initiatives:
+  - localized-dutch-disease-mitigation
+  - land-use-stabilization-inclusive-growth
+  - housing-supply-stabilization-overlay
+  - modular-reurbanization-overview
 tags:
   - manufacturing
   - climate-adaptation
