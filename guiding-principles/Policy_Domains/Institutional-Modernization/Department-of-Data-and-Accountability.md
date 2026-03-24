@@ -2,15 +2,31 @@
 id: department-of-data-and-accountability
 title: Department of Data and Accountability (DoDA) — National Measurement Backbone
 sidebar_label: DoDA
-sidebar_position: 0
+sidebar_position: 7
 slug: /institutional-modernization/department-of-data-and-accountability
+domain: Institutional_Modernization
+subdomain: Measurement_and_Accountability
+policy_type: Institutional Design Framework
+status: Draft
+version: 0.3
+author: Futures Project
+last_updated: 2026-03-23
+dependencies:
+  - execution-corps-spec
+  - public-capital-authority
+  - adaptive-governance-evidence-protocol
+related_initiatives:
+  - institutional-modernization
+  - cost-performance-backstop
+  - heta-revised-charter
+  - congressional-operating-system-interface
+  - industrial-corridor-viability-criteria
 tags:
   - data
   - accountability
   - measurement
   - governance
   - institutional-modernization
-status: Phase 3 — Deployment Ready
 description: >
   A legislatively chartered standing institutional backbone responsible for
   certifying policy outcomes, maintaining trigger integrity, and publishing

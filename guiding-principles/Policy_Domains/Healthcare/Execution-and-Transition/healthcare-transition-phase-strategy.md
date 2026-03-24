@@ -1,20 +1,24 @@
 ---
+id: healthcare-transition-phase-strategy
 title: Healthcare Transition Phase Strategy
-author: Futures Project
-domain: Healthcare System Reform
+sidebar_label: Transition Phase Strategy
+slug: /healthcare/execution/transition-phase-strategy
+domain: Healthcare
+subdomain: Execution_and_Transition
 policy_type: Phased Transition Framework
-status: Draft – Integrated Transition Plan
+status: Draft
 version: 0.3
-time_horizon: Multi-year, state-sequenced
+author: Futures Project
+last_updated: 2026-03-23
 dependencies:
-  - Healthcare Infrastructure Layer
-  - Insurance Architecture Changes
-  - Emergency and Trauma Service Reform
-  - Employer-Sponsored Coverage Framework
+  - healthcare-infrastructure-layer
+  - insurance-architecture-sec
+  - emergency-trauma-services
+  - employer-sponsored-coverage-transition
 related_initiatives:
-  - HETA Establishment
-  - Public Capital Authority (PCA)
-  - Digital Health Utilities (App + Payment Rails)
+  - heta-revised-charter
+  - public-capital-authority
+  - cost-performance-backstop
 non_goals:
   - Immediate single-payer conversion
   - National rate-setting in early phases

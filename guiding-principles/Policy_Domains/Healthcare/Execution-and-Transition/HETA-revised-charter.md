@@ -1,21 +1,38 @@
 ---
+id: heta-revised-charter
 title: Healthcare Execution and Transition Authority (HETA) — Revised Charter
-author: Futures Project
+sidebar_label: HETA Revised Charter
+sidebar_position: 8
+slug: /healthcare/execution/heta-revised-charter
+domain: Healthcare
+subdomain: Execution_and_Transition
 policy_type: Execution Authority Charter
 status: Draft
 version: 0.2
-time_horizon: Year One (Initial Stand-Up) through Pilot Expansion
-execution_corps_type: Mission-Bound with Standing Provider Transition Function
+author: Futures Project
+last_updated: 2026-03-23
 dependencies:
-  - Healthcare Transition and State Pilot Framework
-  - Care Delivery — Market Design Reform
-  - Emergency and Trauma Services — Regulated Utility Framework
-  - Insurance Architecture — Severe Event Coverage (SEC)
-  - Healthcare Infrastructure Layer
-  - Execution Corps — Instrument Specification
-  - Public Capital Authority (PCA)
-  - Employer-Sponsored Coverage Transition Framework
-  - Dental, Vision, and Mental Health Market Integration (forthcoming)
+  - healthcare-state-pilot-framework
+  - care-delivery-market-design
+  - emergency-trauma-services
+  - insurance-architecture-sec
+  - healthcare-infrastructure-layer
+  - execution-corps-spec
+  - public-capital-authority
+  - employer-sponsored-coverage-transition
+  - dental-vision-mental-health-integration
+related_initiatives:
+  - cost-performance-backstop
+  - regional-health-center-network
+  - department-of-data-and-accountability
+  - healthcare-execution-authority
+tags:
+  - healthcare
+  - execution
+  - heta
+  - transition
+  - institutional-design
+  - provider-transition
 changelog:
   - v0.2: Added Section 2A (Provider Transition Corps), revised Section 2
     to reflect regional office model, added Section 9 (Enforcement Firewall),

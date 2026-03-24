@@ -4,6 +4,27 @@ title: Regional Health Center Network — Coverage Infrastructure Framework
 sidebar_label: Regional Health Centers
 sidebar_position: 6
 slug: /healthcare/care-delivery/regional-health-centers
+domain: Healthcare
+subdomain: Care_Delivery_and_Infrastructure
+policy_type: Network Infrastructure Framework
+status: Draft
+version: 0.1
+author: Futures Project
+last_updated: 2026-03-23
+dependencies:
+  - care-delivery-market-design
+  - emergency-trauma-services
+  - dental-vision-mental-health-integration
+  - insurance-architecture-sec
+  - healthcare-infrastructure-layer
+  - heta-revised-charter
+  - public-capital-authority
+  - department-of-data-and-accountability
+related_initiatives:
+  - cost-performance-backstop
+  - healthcare-state-pilot-framework
+  - pca-enabled-consortium-financing
+  - modular-reurbanization-overview
 tags:
   - healthcare
   - access
@@ -13,18 +34,6 @@ tags:
   - pca
   - network-coverage
   - transport
-status: Draft
-version: 0.1
-author: Futures Project
-dependencies:
-  - care-delivery-market-design
-  - emergency-and-trauma-services
-  - dental-vision-mental-health-market-integration
-  - insurance-architecture-sec
-  - healthcare-infrastructure-layer
-  - HETA-revised-charter
-  - public-capital-authority
-  - doda-framework (forthcoming)
 description: >
   Defines the Regional Health Center Network as federally backstopped,
   contractor-operated integrated care facilities that close the rural and

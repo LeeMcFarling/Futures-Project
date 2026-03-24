@@ -1,4 +1,36 @@
-# Sample Futures Legislative Instrument  
+---
+id: sample-legislative-mechanism-wildfire
+title: Sample Futures Legislative Instrument — Regional Wildfire Risk Reduction Pilot Act
+sidebar_label: Legislative Mechanism Template
+sidebar_position: 8
+slug: /institutional-modernization/legislative-mechanism-wildfire-sample
+domain: Institutional_Modernization
+subdomain: Legislative_Design
+policy_type: Sample Legislative Instrument
+status: Draft
+version: 0.1
+author: Futures Project
+last_updated: 2026-03-23
+dependencies:
+  - execution-corps-spec
+  - public-capital-authority
+  - department-of-data-and-accountability
+  - wildfire-mitigation-and-landscape-risk-governance
+related_initiatives:
+  - congressional-operating-system-interface
+  - adaptive-governance-evidence-protocol
+  - institutional-modernization
+tags:
+  - legislation
+  - wildfire
+  - pilot
+  - execution-corps
+  - pca
+  - legislative-design
+  - template
+---
+
+# Sample Futures Legislative Instrument
 ## Regional Wildfire Risk Reduction Pilot Act
 
 ---

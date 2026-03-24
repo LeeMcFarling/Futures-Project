@@ -1,6 +1,6 @@
 # Domain Maturity Tracker: Housing_and_Public_Infrastructure
 
-**Last Updated:** 2026-03-04
+**Last Updated:** 2026-03-23
 **Overall Domain Phase:** 3
 **Domain Owner:** TBD
 
@@ -48,7 +48,7 @@ Build housing capacity and connected public infrastructure together as a unified
 | Subdomain | Phase | File Count | Word Count | Key Gaps | Dependencies | Next Action | Target Date |
 |-----------|-------|------------|------------|----------|--------------|-------------|-------------|
 | Infrastructure_Spine | 3 | 1 | ~1,200 | Cost model | Budget.Capital | Add financing details | TBD |
-| Modular_Reurbanization | 3 | 1 | ~900 | Pilot selection | None | Define pilot criteria | TBD |
+| Modular_Reurbanization | 3 | 2 | ~2,600 | Broader pilot portfolio | None | Add second pilot for different metro type | TBD |
 | Node_Typologies | 3 | 1 | ~800 | Site-specific guidance | None | Add implementation guide | TBD |
 | Regional_Architecture | 2 | 1 | ~700 | Pattern book details | None | Develop pattern examples | TBD |
 | Special_Transit_Zones | 3 | 1 | ~1,400 | Legal framework | Democratic_Integrity | Add model legislation | TBD |
@@ -121,7 +121,7 @@ Build housing capacity and connected public infrastructure together as a unified
 - [x] Neighborhood overlay mechanism (NCO)
 - [x] Fiscal sustainability test (LIFT)
 - [ ] Implementation timeline created
-- [ ] Pilot jurisdiction selection criteria
+- [x] Pilot jurisdiction selection criteria — Colorado density pilot defined ✅
 - [ ] Resource requirements estimated
 - [ ] Coordination mechanisms with Healthcare/Agriculture defined
 
@@ -131,6 +131,7 @@ Build housing capacity and connected public infrastructure together as a unified
 
 | Date | Subdomain | Change | Phase Impact |
 |------|-----------|--------|--------------|
+| 2026-03-23 | Modular_Reurbanization | DRAFT-colorado-density-pilot.md added (v0.2): parking lot + park-and-ride redevelopment pilot; structurally inefficient transit-adjacent land; YAML fixed (transit-escalation-stz-interface slug corrected); related_initiatives added | 1 → 2 files |
 | 2026-03-04 | All | Domain renamed Public_Infrastructure → Housing_and_Public_Infrastructure; all YAML domain fields updated; tracker updated | N/A |
 | 2026-03-01 | Housing_Integration | Added tenure-convertible typology, PCA consortium financing, healthcare-enabled housing pilot | Phase 3 complete |
 | 2026-03-01 | Housing_Integration | Added density trigger overlay, CTMI, executive backstop | New subdomain — Phase 3 |

@@ -1,15 +1,15 @@
 # Futures Project - Policy Repository Status Report
 
-**Generated:** 2026-03-15
+**Generated:** 2026-03-23
 **Total Domains:** 11
-**Total Policy Files:** 139
-**Estimated Total Words:** ~159,800
+**Total Policy Files:** 147
+**Estimated Total Words:** ~172,000
 
 ---
 
 ## Executive Summary
 
-The repository has grown substantially — from 65 files across 8 domains (January 2025) to **138 files across 11 domains**. National Security is now the largest and most architecturally complete domain at 25 files, with a full three-tier alliance architecture: Integrated Defense Partnerships (IDP, 10 files), Security Backstop Partnerships (SBP, 6 files — new regional coordination council framework), and Aligned Defense Partnerships (ADP, 1 file). The Gulf Integrated Defense Compact (GDIC) now has all three phases: Phase I defensive coordination, Phase II economic resilience, and Phase III Middle East political conditioning (phase-gated access for Israel, Palestinian authorities, and Iran with Gulf co-governance). Economic_Prosperity added a 4-file Climate and Resilience stack and a 6-file Manufacturing expansion stack (industrial corridor architecture, viability criteria, climate absorption corridors, Dutch disease mitigation, and land-use stabilization / anti-gentrification framework). The Operating-Theory-Meta-Research layer now has 5 files including the full civilizational stability research framework with formal model definitions, state-space architecture, and Goodhart mitigations. Foreign Policy is in development.
+The repository has grown substantially — from 65 files across 8 domains (January 2025) to **147 files across 11 domains**. National Security is now the largest and most architecturally complete domain at 25 files, with a full three-tier alliance architecture: Integrated Defense Partnerships (IDP, 10 files), Security Backstop Partnerships (SBP, 6 files — new regional coordination council framework), and Aligned Defense Partnerships (ADP, 1 file). The Gulf Integrated Defense Compact (GDIC) now has all three phases: Phase I defensive coordination, Phase II economic resilience, and Phase III Middle East political conditioning (phase-gated access for Israel, Palestinian authorities, and Iran with Gulf co-governance). Economic_Prosperity added a 4-file Climate and Resilience stack and a 6-file Manufacturing expansion stack (industrial corridor architecture, viability criteria, climate absorption corridors, Dutch disease mitigation, and land-use stabilization / anti-gentrification framework). The Operating-Theory-Meta-Research layer now has 5 files including the full civilizational stability research framework with formal model definitions, state-space architecture, and Goodhart mitigations. Foreign Policy is in development.
 
 Primary remaining gaps: Criminal Justice (no domain), carbon pricing / demand-side climate policy, Foreign Policy (in progress), Trade Policy (overview scaffold exists — sub-files pending), and the legal/property overlay for energy transmission siting.
 
@@ -27,12 +27,12 @@ Primary remaining gaps: Criminal Justice (no domain), carbon pricing / demand-si
 
 | Domain | Phase | Files | Est. Words | Status | Priority Gaps |
 |--------|-------|-------|------------|--------|---------------|
-| Healthcare | 3 | 23 | ~18,700 | Strong | Mental health, maternal health, rural access |
+| Healthcare | 3 | 28 | ~23,200 | Strong | Mental health, maternal health |
 | Economic_Prosperity | 2–3 | 33 | ~35,300 | Strong | Trade policy (started — China strategy, tariff framework, export controls pending), antitrust, carbon pricing/demand-side |
 | National_Security | 2–3 | 25 | ~28,500 | Strong | Foreign policy (in progress), China strategy, cyber; Indo-Pacific SBP instantiation |
 | Immigration | 2 | 11 | ~7,560 | Good | DACA resolution, citizenship backlog |
-| Housing_and_Public_Infrastructure | 3 | 17 | ~27,700 | Strong | Broadband, water, STZ legal framework; rural housing + homelessness depth deferred to Social domain |
-| Institutional-Modernization | 3 | 9 | ~9,700 | Strong | Process redesign, domain instantiations; pre-deployment validation section needed in adaptive governance doc |
+| Housing_and_Public_Infrastructure | 3 | 18 | ~29,400 | Strong | Broadband, water, STZ legal framework; rural housing + homelessness depth deferred to Social domain |
+| Institutional-Modernization | 3 | 12 | ~14,700 | Strong | Process redesign; legislative template library; pre-deployment validation section needed in adaptive governance doc |
 | Technology_and_Data | 2 | 5 | ~5,600 | Moderate | Platform regulation, data privacy, cybersecurity |
 | Education | 2 | 6 | ~4,700 | Moderate | Higher ed, early childhood, vocational |
 | Democratic_Integrity | 2 | 5 | ~3,600 | Moderate | Voting rights, judicial reform |
@@ -43,16 +43,16 @@ Primary remaining gaps: Criminal Justice (no domain), carbon pricing / demand-si
 
 ## Subdomain Detail
 
-### Healthcare (23 files)
+### Healthcare (28 files)
 | Subdomain | Phase | Files | Notes |
 |-----------|-------|-------|-------|
 | Pharmaceutical_Reform | 3 | 8 | Full R&D stack: pricing, trials, manufacturing, stage-based authorization |
-| Execution_and_Transition | 3 | 6 | HETA charter, state pilot framework, infrastructure layer, transition strategy |
-| Care_Delivery_and_Insurance | 3 | 4 | SEC framework, market design, clarifications |
+| Execution_and_Transition | 3 | 8 | HETA revised charter (v0.2 — Provider Transition Corps, enforcement firewall), cost performance backstop (DoDA-triggered escalation + glide path + capital recycling), state pilot framework, infrastructure layer, transition strategy |
+| Care_Delivery_and_Insurance | 3 | 6 | SEC framework, market design, clarifications, dental/vision/mental health market integration |
+| Care_Delivery_and_Infrastructure | 3 | 1 | Regional Health Center Network — federally backstopped contractor-operated facilities; network adequacy as closure gate for legacy subsidies |
 | Public_Health_Nutrition | 2 | 5 | Ingredient disclosure, vertical farms, metabolic research |
 | Mental_Health | 0 | 0 | Not started |
 | Maternal_Health | 0 | 0 | Not started |
-| Rural_Access | 0 | 0 | Not started |
 
 ### Economic_Prosperity (32 files)
 | Subdomain | Phase | Files | Notes |
@@ -86,7 +86,7 @@ Primary remaining gaps: Criminal Justice (no domain), carbon pricing / demand-si
 |-----------|-------|-------|-------|
 | Domain_Articulation | 0 | 1 | Conceptual foundation: regional signaling authority + constrained veto mechanics; layered legitimacy model; Phase 0 — detailed institutional proposals will develop from regional strategy + defense workstreams |
 
-### Institutional-Modernization (9 files)
+### Institutional-Modernization (12 files)
 | Subdomain | Phase | Files | Notes |
 |-----------|-------|-------|-------|
 | Execution_Corps_Spec | 3 | 1 | Core instrument spec |
@@ -95,6 +95,9 @@ Primary remaining gaps: Criminal Justice (no domain), carbon pricing / demand-si
 | Guiding_Principles | 3 | 1 | Institutional modernization overview |
 | Adaptive_Governance | 3 | 1 | Evidence protocol; RD/DiD framing; learning cycle; gaps: pre-deployment validation section, parameter adjustment governance |
 | Regulatory_Compression | 2 | 2 | ULRR + RMC; Energy RMS sector overlay lives in Energy domain |
+| Measurement_and_Accountability | 3 | 1 | DoDA — national measurement backbone; outcome certification; trigger maintenance; telemetry publishing; standing institution alongside Execution Corps and PCA |
+| Democratic_Execution_Interface | 3 | 1 | Congressional OS Interface — envelope-based authorization; outcome-triggered reporting; oversight without operational specification |
+| Legislative_Design | 2 | 1 | Sample wildfire pilot act — demonstrates envelope-based statutory language with PCA capital deployment + Execution Corps authorization |
 | Process_Redesign | 0 | 0 | Not started |
 
 ### Housing_and_Public_Infrastructure (17 files)
@@ -226,7 +229,21 @@ All files mentioning SSI or UPI in prose have been tagged with the appropriate `
 
 ---
 
-## Recent Session Activity (Mar 15, 2026)
+## Recent Session Activity (Mar 23, 2026)
+
+| Change | Files Affected |
+|--------|---------------|
+| HETA revised charter added (v0.2): Provider Transition Corps, regional office model, enforcement firewall, field intelligence reporting; full YAML added | HETA-revised-charter.md (new) |
+| Cost performance backstop added: DoDA-triggered escalation framework, healthcare cost glide path, state sequencing + capital recycling model; YAML completed | cost-performance-backstop.md (new) |
+| Dental/vision/mental health market integration added: SEC trigger boundaries, discount wrap instrument, UPI price display requirement; YAML completed | dental-vision-mental-health-market-integration.md (new) |
+| Regional Health Center Network added (moved from Education→ Healthcare/Care-Delivery-and-Insurance): federally backstopped contractor-operated coverage network; YAML completed | draft-regional-health-center-network.md (new) |
+| healthcare-transition-phase-strategy.md YAML standardized (id added, slugified dependencies) | healthcare-transition-phase-strategy.md |
+| Colorado parking lot + park-and-ride re-urbanization pilot added (v0.2); YAML dependency slug corrected (transit-escalation-and-stz-interface → transit-escalation-stz-interface); related_initiatives added | DRAFT-colorado-density-pilot.md (new) |
+| DoDA framework added: national measurement backbone, outcome certification, trigger maintenance, telemetry publishing; full YAML added | Department-of-Data-and-Accountability.md (new) |
+| Congressional OS Interface added: envelope-based authorization model, oversight accountability architecture; last_updated + related_initiatives added | congressional-operating-system-interface.md (new) |
+| Sample legislative mechanism added: wildfire risk reduction pilot act demonstrating envelope-based statutory language; full YAML added | DRAFT-new-legislative-mechanism.md (new) |
+
+## Prior Session Activity (Mar 15, 2026)
 
 | Change | Files Affected |
 |--------|---------------|

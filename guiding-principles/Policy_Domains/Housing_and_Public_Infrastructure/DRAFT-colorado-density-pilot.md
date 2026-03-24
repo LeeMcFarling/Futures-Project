@@ -18,7 +18,12 @@ dependencies:
   - pca-enabled-consortium-financing
   - construction-throughput-mapping-initiative
   - neighborhood-civic-overlay
-  - transit-escalation-and-stz-interface
+  - transit-escalation-stz-interface
+related_initiatives:
+  - modular-reurbanization-overview
+  - phased-reurbanization-rollout
+  - regional-architectural-skins
+  - node-typologies
 tags:
   - housing
   - transit

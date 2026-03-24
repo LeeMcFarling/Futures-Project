@@ -10,10 +10,16 @@ policy_type: Governance Architecture
 status: Draft
 version: 0.1
 author: Futures Project
+last_updated: 2026-03-23
 dependencies:
   - execution-corps-spec
   - public-capital-authority
   - department-of-data-and-accountability
+related_initiatives:
+  - institutional-modernization
+  - adaptive-governance-evidence-protocol
+  - regulatory-modernization-corps
+  - unified-law-regulation-repository
 tags:
   - congress
   - governance

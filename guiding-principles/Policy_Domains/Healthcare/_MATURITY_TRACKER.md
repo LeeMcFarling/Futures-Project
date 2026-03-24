@@ -1,6 +1,6 @@
 # Domain Maturity Tracker: Healthcare
 
-**Last Updated:** 2026-03-12
+**Last Updated:** 2026-03-23
 **Overall Domain Phase:** 3
 **Domain Owner:** TBD
 
@@ -39,8 +39,9 @@ Create a healthcare system with transparent pricing, competitive markets for rou
 
 | Subdomain | Phase | File Count | Word Count | Key Gaps | Dependencies | Next Action | Target Date |
 |-----------|-------|------------|------------|----------|--------------|-------------|-------------|
-| Care_Delivery_and_Insurance | 3 | 4 | ~3,200 | Payer transition details | Budget.Healthcare | Add transition mechanics | TBD |
-| Execution_and_Transition | 3 | 6 | ~5,200 | State pilot criteria | None | Define pilot selection | TBD |
+| Care_Delivery_and_Insurance | 3 | 6 | ~5,800 | Payer transition details | Budget.Healthcare | Add transition mechanics | TBD |
+| Care_Delivery_and_Infrastructure | 3 | 1 | ~1,800 | Rural facility density; telehealth integration | Housing_and_Public_Infrastructure | Expand facility siting criteria | TBD |
+| Execution_and_Transition | 3 | 8 | ~9,500 | State pilot selection criteria; cost glide-path validation | DoDA, DepartmentOfData | Define pilot selection; finalize glide-path thresholds | TBD |
 | Pharmaceutical_Reform | 3 | 8 | ~6,500 | FDA coordination | None | Add regulatory pathway | TBD |
 | Public_Health_Nutrition | 2 | 5 | ~3,800 | Pilot program design | Agriculture | Add pilot selection criteria | TBD |
 | Mental_Health | 0 | 0 | 0 | **Not started** | None | Create initial file | TBD |
@@ -81,7 +82,7 @@ Create a healthcare system with transparent pricing, competitive markets for rou
 
 ### Tier 3: Enhancement Gaps (Nice-to-Have)
 - [ ] **Long-term care** – Elder care, nursing homes – Target: Phase 3
-- [ ] **Dental/vision** – Coverage expansion – Target: Phase 3
+- [x] **Dental/vision/mental health market integration** – Coverage expansion framework and SEC trigger boundaries now defined ✅
 
 ---
 
@@ -99,6 +100,10 @@ Create a healthcare system with transparent pricing, competitive markets for rou
 
 | Date | Subdomain | Change | Phase Impact |
 |------|-----------|--------|--------------|
+| 2026-03-23 | Care_Delivery_and_Insurance | dental-vision-mental-health-market-integration.md added: SEC trigger boundaries for dental/vision/outpatient mental health, optional discount wrap, UPI price display requirement | 3 → 3 (deepened) |
+| 2026-03-23 | Care_Delivery_and_Infrastructure | regional-health-center-network.md added (new subdomain): federally backstopped contractor-operated network; population density coverage standard; network adequacy as closure gate for legacy subsidies | 0 → 3 |
+| 2026-03-23 | Execution_and_Transition | HETA-revised-charter.md added (v0.2): Provider Transition Corps, regional office model, enforcement firewall; cost-performance-backstop.md added: DoDA-triggered escalation framework, healthcare cost glide path, state sequencing + capital recycling model | 6 → 8 files; deepened to Phase 4-adjacent |
+| 2026-03-23 | Execution_and_Transition | healthcare-transition-phase-strategy.md YAML standardized (id, domain, slug, slugified dependencies) | N/A |
 | 2026-02-26 | Care_Delivery_and_Insurance, Execution_and_Transition, Pharmaceutical_Reform | SSI/UPI accelerants added to 4 files | N/A |
 | 2026-03-12 | All | Public_Infrastructure reference updated to Housing_and_Public_Infrastructure | N/A |
 | 2025-01-25 | All | YAML standardized, moved from People_Skills_Health | N/A |
@@ -107,8 +112,9 @@ Create a healthcare system with transparent pricing, competitive markets for rou
 
 ## Notes & Context
 
-- Domain has 23 files totaling ~18,700 words (largest domain)
-- Most mature domain in repository
+- Domain has 28 files totaling ~23,200 words (largest domain)
+- Most mature domain in repository — Execution_and_Transition now approaching Phase 4 with HETA revised charter + cost backstop + DoDA telemetry
 - OLD-* files show policy evolution (preserved as archived)
 - Strong pharmaceutical reform coverage
 - Emergency/trauma as utility model is innovative
+- New Care_Delivery_and_Infrastructure subdomain created for Regional Health Center Network

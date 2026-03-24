@@ -13,18 +13,26 @@ tags:
   - workforce
   - state-sequencing
   - capital-recycling
+domain: Healthcare
+subdomain: Execution_and_Transition
+policy_type: Escalation and Telemetry Framework
 status: Draft
 version: 0.1
 author: Futures Project
+last_updated: 2026-03-23
 dependencies:
   - department-of-data-and-accountability
   - healthcare-transition-phase-strategy
-  - healthcare-transition-and-state-pilot-framework
+  - healthcare-state-pilot-framework
   - insurance-architecture-sec
   - healthcare-infrastructure-layer
   - regional-health-center-network
-  - HETA-revised-charter
+  - heta-revised-charter
   - public-capital-authority
+related_initiatives:
+  - heta-revised-charter
+  - dental-vision-mental-health-integration
+  - adaptive-governance-evidence-protocol
 description: >
   Defines the pre-specified escalation pathway that activates if the healthcare
   transition fails to reduce total consumer cost to the defined glide path,

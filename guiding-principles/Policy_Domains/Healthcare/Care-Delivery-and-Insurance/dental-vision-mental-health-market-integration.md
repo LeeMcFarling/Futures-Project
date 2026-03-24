@@ -14,14 +14,22 @@ tags:
   - price-transparency
   - upi
   - ssi
+domain: Healthcare
+subdomain: Care_Delivery_and_Insurance
+policy_type: Market Integration Framework
+status: Draft
+version: 0.1
+author: Futures Project
+last_updated: 2026-03-23
 dependencies:
   - care-delivery-market-design
   - insurance-architecture-sec
   - healthcare-infrastructure-layer
-  - HETA-revised-charter
-status: Draft
-version: 0.1
-author: Futures Project
+  - heta-revised-charter
+related_initiatives:
+  - regional-health-center-network
+  - cost-performance-backstop
+  - emergency-trauma-services
 description: >
   Integrates dental, vision, and outpatient mental health into the restructured
   healthcare market as shoppable direct-pay services, defines SEC trigger events

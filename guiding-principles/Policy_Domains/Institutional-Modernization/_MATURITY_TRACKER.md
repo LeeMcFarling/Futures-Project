@@ -1,6 +1,6 @@
 # Domain Maturity Tracker: Institutional-Modernization
 
-**Last Updated:** 2026-03-04
+**Last Updated:** 2026-03-23
 **Overall Domain Phase:** 3
 **Domain Owner:** TBD
 
@@ -45,6 +45,9 @@ Modernize democratic institutions through reusable execution instruments that tr
 | Public_Capital_Authority | 3 | 1 | ~1,500 | Portfolio definitions | Budget.Fiscal_Policy | Define initial portfolios | TBD |
 | Regulatory_Compression | 2 | 2 | ~1,800 | Sector-specific overlays in progress (Energy RMS done), eminent domain/property rights gap | execution-corps-spec | Add Housing/land-use RMS overlay | TBD |
 | Adaptive_Governance | 3 | 1 | ~1,800 | Pre-deployment validation section; parameter adjustment governance process | department-of-data-and-accountability, execution-corps-spec | Add validation section; specify adjustment authority | TBD |
+| Measurement_and_Accountability | 3 | 1 | ~2,200 | Cross-domain trigger catalog; telemetry API standards | execution-corps-spec, public-capital-authority | Define trigger catalog; specify reporting cadence per domain | TBD |
+| Democratic_Execution_Interface | 3 | 1 | ~2,000 | Specific accountability mechanism design; inter-branch authority handoff protocols | execution-corps-spec, department-of-data-and-accountability | Define oversight accountability mechanisms | TBD |
+| Legislative_Design | 2 | 1 | ~1,000 | Broader template library; domain-specific statutory language samples | execution-corps-spec | Add samples for healthcare, manufacturing, housing domains | TBD |
 | Process_Redesign | 0 | 0 | 0 | **Not started** | None | Create initial file | TBD |
 
 ---
@@ -80,12 +83,15 @@ Modernize democratic institutions through reusable execution instruments that tr
 
 ### Tier 2: Structural Gaps (Incomplete Coverage)
 - [x] **Regulatory Compression** – ULRR + RMC spec in place ✅; Energy RMS sector overlay done; Housing/land-use RMS still needed
+- [x] **Measurement Backbone** – DoDA framework defined ✅
+- [x] **Congressional Interface** – Congress operating model defined ✅
 - [ ] **Process Redesign** – Administrative burden reduction – Target: Phase 2
 - [ ] **Domain Instantiations** – Sector-specific Execution Corps deployments – Target: Phase 3
 
 ### Tier 3: Enhancement Gaps (Nice-to-Have)
 - [ ] **Case Studies** – Industry interface examples – Target: Phase 4
-- [ ] **Metrics Framework** – Standardized execution measurement – Target: Phase 4
+- [x] **Metrics Framework** – DoDA provides standardized execution measurement backbone ✅
+- [ ] **Legislative Template Library** – One wildfire sample exists; need healthcare, manufacturing, housing samples
 
 ---
 
@@ -104,6 +110,9 @@ Modernize democratic institutions through reusable execution instruments that tr
 
 | Date | Subdomain | Change | Phase Impact |
 |------|-----------|--------|--------------|
+| 2026-03-23 | Measurement_and_Accountability | Department-of-Data-and-Accountability.md added: national measurement backbone, outcome certification, trigger maintenance, telemetry publishing — standing institution alongside Execution Corps and PCA | 0 → 3 |
+| 2026-03-23 | Democratic_Execution_Interface | congressional-operating-system-interface.md added: Congress governance model, envelope-based authorization, outcome-triggered reporting, oversight without operational specification | 0 → 3 |
+| 2026-03-23 | Legislative_Design | DRAFT-new-legislative-mechanism.md added: sample wildfire risk reduction pilot act demonstrating envelope-based statutory language with PCA capital deployment | 0 → 2 |
 | 2026-03-04 | Adaptive_Governance | adaptive-governance-model.md added; YAML standardized; subdomain created | 0 → 3 |
 | 2026-02-26 | Regulatory_Compression | ULRR + RMC moved from Economic_Prosperity; YAML updated to reflect new domain | 0 → 2 |
 | 2026-02-08 | All | Created maturity tracker | N/A |
@@ -114,7 +123,7 @@ Modernize democratic institutions through reusable execution instruments that tr
 
 ## Notes & Context
 
-- Domain has 7 active policy files totaling ~9,700 words (excluding archives)
+- Domain has 10 active policy files totaling ~14,700 words (excluding archives)
 - 2 archive files preserved (old_* prefix) showing policy evolution
 - Execution Corps is a cross-cutting instrument used by multiple domains
 - Public Capital Authority is Phase 3 deployment-ready
