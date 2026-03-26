@@ -1,9 +1,9 @@
 # Futures Project - Policy Repository Status Report
 
-**Generated:** 2026-03-23
+**Generated:** 2026-03-25
 **Total Domains:** 11
-**Total Policy Files:** 147
-**Estimated Total Words:** ~172,000
+**Total Policy Files:** 150
+**Estimated Total Words:** ~175,000
 
 ---
 
@@ -33,7 +33,7 @@ Primary remaining gaps: Criminal Justice (no domain), carbon pricing / demand-si
 | Immigration | 2 | 11 | ~7,560 | Good | DACA resolution, citizenship backlog |
 | Housing_and_Public_Infrastructure | 3 | 18 | ~29,400 | Strong | Broadband, water, STZ legal framework; rural housing + homelessness depth deferred to Social domain |
 | Institutional-Modernization | 3 | 12 | ~14,700 | Strong | Process redesign; legislative template library; pre-deployment validation section needed in adaptive governance doc |
-| Technology_and_Data | 2 | 5 | ~5,600 | Moderate | Platform regulation, data privacy, cybersecurity |
+| Technology_and_Data | 2 | 8 | ~8,100 | Moderate | Data privacy, cybersecurity; platform regulation started |
 | Education | 2 | 6 | ~4,700 | Moderate | Higher ed, early childhood, vocational |
 | Democratic_Integrity | 2 | 5 | ~3,600 | Moderate | Voting rights, judicial reform |
 | **United-Nations-and-Global-Institutional-Reform** | **0** | **1** | **~1,500** | **Phase 0 Foundation** | All subdomains — domain articulation complete |
@@ -112,7 +112,7 @@ Primary remaining gaps: Criminal Justice (no domain), carbon pricing / demand-si
 | Existing_Neighborhood_Treatment | 3 | 5 | Civic overlay, solvency test, seam infra, STZ interface, incentive alignment |
 | Housing_Integration | 3 | 6 | DoDa triggers, CTMI/CBI, executive backstop, tenure-convertible typology, PCA financing, healthcare-enabled housing pilot |
 
-### Technology_and_Data (5 files)
+### Technology_and_Data (8 files)
 | Subdomain | Phase | Files | Notes |
 |-----------|-------|-------|-------|
 | SSI / Digital Identity | 3 | 1 | Framework complete; tagged as accelerant in 10+ files across domains |
@@ -120,7 +120,8 @@ Primary remaining gaps: Criminal Justice (no domain), carbon pricing / demand-si
 | AI_Governance | 2 | 1 | Exists; enforcement mechanisms gap |
 | Synthetic_Media | 2 | 1 | Provenance framework |
 | Information_Integrity | 2 | 1 | Digital nutrition label |
-| Platform_Regulation | 0 | 0 | Not started |
+| Market_Structure_and_Digital_Competition | 2 | 1 | Anti-capture framework: chokepoint power, algorithmic coordination, interoperability/portability rights, structural separation — defines fair digital competition standards |
+| Algorithmic_Governance | 1 | 2 | Discussion paper (engagement arms race problem, coordination failure, working group proposal) + year-one implementation stub — both written as industry/practitioner-voice pieces rather than standard framework docs |
 | Data_Privacy | 0 | 0 | Not started |
 | Cybersecurity | 0 | 0 | Not started |
 
@@ -198,7 +199,7 @@ All files mentioning SSI or UPI in prose have been tagged with the appropriate `
 | Cyber Security | Nat. Security + Tech | Gap in both domains |
 | Higher Education | Education | Student debt, cost, access |
 | Mental Health | Healthcare | Crisis services, parity |
-| Platform Regulation | Technology_and_Data | Antitrust, content moderation |
+| Platform Regulation (depth) | Technology_and_Data | Anti-capture framework started; enforcement mechanisms, algorithmic audit detail still missing |
 
 ### Tier 3: Enhancement Gaps
 | Gap | Domain |
@@ -226,6 +227,16 @@ All files mentioning SSI or UPI in prose have been tagged with the appropriate `
 | Inline `[Agriculture / ...]` cross-reference annotations | Water and Wildfire files | Authoring artifacts in prose; not yet cleaned |
 | Manufacturing folder/domain inconsistency | `Policy_Domains/Manufacturing/` | Files use `domain: Economic_Prosperity` in YAML but sit in standalone folder; should move to `Policy_Domains/Economic_Prosperity/Manufacturing/` |
 | `workforce-skill-mobility` dependency missing | Manufacturing/localized-dutch-disease-mitigation.md | Referenced slug has no corresponding file yet; placeholder for future workforce mobility doc |
+
+---
+
+## Recent Session Activity (Mar 25, 2026)
+
+| Change | Files Affected |
+|--------|---------------|
+| Anti-capture competition framework added: chokepoint power, algorithmic price coordination, interoperability/portability rights, structural separation, anti-tying rules — defines 21st-century fair digital competition standard; YAML completed | anti-capture-competition-framework.md (new) |
+| Algorithmic attention initiative added (Discussion Paper): engagement arms race problem, coordination failure model, working group proposal — first-person practitioner voice; YAML added | algorithmic-attention-initiative.md (new) |
+| Year-one attention stability initiative added (Implementation Specification stub): same framing for now — needs concrete year-one working group design and measurement pipeline | year-one-attention-algorithm-stability-initiative.md (new) |
 
 ---
 

@@ -1,6 +1,6 @@
 # Domain Maturity Tracker: Technology_and_Data
 
-**Last Updated:** 2026-03-12
+**Last Updated:** 2026-03-25
 **Overall Domain Phase:** 2
 **Domain Owner:** TBD
 
@@ -44,7 +44,8 @@ Modernize government technology, establish digital identity infrastructure, and 
 | Synthetic_Media | 2 | 1 | ~1,100 | Platform adoption pathway | Digital_Identity | Add implementation roadmap | TBD |
 | Information_Integrity | 2 | 1 | ~1,000 | Pilot program design | Digital_Identity, Platform_Regulation | Define pilot scope | TBD |
 | Payments_Infrastructure / UPI | 3 | 1 | ~800 | Technical specifications | Digital_Identity | Add UPI technical spec | TBD |
-| Platform_Regulation | 0 | 0 | 0 | **Not started** | Economic_Prosperity.Antitrust | Create initial file | TBD |
+| Market_Structure_and_Digital_Competition | 2 | 1 | ~1,500 | Algorithmic pricing enforcement; structural separation triggers | Economic_Prosperity.Antitrust | Add platform chokepoint detail; enforcement mechanism | TBD |
+| Algorithmic_Governance | 1 | 2 | ~1,500 | Year-one doc is framing stub; working group design; measurement methodology | ai-data-and-governance, synthetic-media-provenance | Develop year-one implementation spec; define measurement pipeline | TBD |
 | Data_Privacy | 0 | 0 | 0 | **Not started** | None | Create initial file | TBD |
 | Cybersecurity | 0 | 0 | 0 | **Not started** | National_Security | Create initial file | TBD |
 | Gov_Tech | 0 | 0 | 0 | **Not started** | None | Create initial file | TBD |
@@ -80,7 +81,7 @@ Modernize government technology, establish digital identity infrastructure, and 
 - [ ] **Data Privacy** – No comprehensive data protection policy – Target: Phase 2
 
 ### Tier 2: Structural Gaps (Incomplete Coverage)
-- [ ] **Platform Regulation** – Big Tech, content moderation, competition – Target: Phase 2
+- [~] **Platform Regulation / Market Structure** – Anti-capture framework added (Phase 2); enforcement mechanisms and platform chokepoint detail still needed
 - [ ] **Cybersecurity** – National cyber strategy (links to National_Security) – Target: Phase 2
 - [ ] **Government Technology** – Procurement, legacy modernization – Target: Phase 2
 
@@ -104,6 +105,8 @@ Modernize government technology, establish digital identity infrastructure, and 
 
 | Date | Subdomain | Change | Phase Impact |
 |------|-----------|--------|--------------|
+| 2026-03-25 | Market_Structure_and_Digital_Competition | Added anti-capture-competition-framework.md: chokepoint power, algorithmic coordination, interoperability/portability rights, structural separation — pro-market competition governance | 0 → 2 |
+| 2026-03-25 | Algorithmic_Governance | Added algorithmic-attention-initiative.md (Discussion Paper: engagement arms race problem, coordination failure, working group proposal) and year-one-attention-stability (Implementation Specification stub) | 0 → 1 |
 | 2026-03-12 | Digital_Identity / SSI | Phase updated 2 → 3; tagged as accelerant across 12+ files platform-wide | N/A |
 | 2026-03-12 | Payments_Infrastructure / UPI | Phase updated 2 → 3; tagged as accelerant across 12+ files platform-wide | N/A |
 | 2026-01-28 | AI_Governance | Added ai-data-and-governance.md | 0 → 2 |
@@ -118,9 +121,10 @@ Modernize government technology, establish digital identity infrastructure, and 
 
 ## Notes & Context
 
-- Domain has 5 policy files totaling ~5,600 words
+- Domain has 8 policy files totaling ~8,100 words
 - AI governance gap closed (was marked **CRITICAL**)
 - SSI and UPI frameworks both at Phase 3; serve as accelerants in 12+ files across platform
-- New subdomains added: Payments, Synthetic Media, Information Integrity
+- New subdomains added: Payments, Synthetic Media, Information Integrity, Market_Structure_and_Digital_Competition, Algorithmic_Governance
 - Institutional Modernization moved to separate domain
-- Remaining gaps: Platform Regulation, Data Privacy, Cybersecurity, Gov_Tech
+- Platform Regulation substantially started: anti-capture framework (Phase 2) + algorithmic attention initiative (Phase 1 discussion paper + year-one stub)
+- Remaining gaps: Data Privacy, Cybersecurity, Gov_Tech; year-one attention spec needs real implementation content
