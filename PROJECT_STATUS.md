@@ -1,24 +1,24 @@
 # Futures Project - Policy Repository Status Report
 
-**Generated:** 2026-03-25
+**Generated:** 2026-03-26
 **Total Domains:** 11
-**Total Policy Files:** 150
-**Estimated Total Words:** ~175,000
+**Total Policy Files:** 154
+**Estimated Total Words:** ~187,000
 
 ---
 
 ## Executive Summary
 
-The repository has grown substantially — from 65 files across 8 domains (January 2025) to **147 files across 11 domains**. National Security is now the largest and most architecturally complete domain at 25 files, with a full three-tier alliance architecture: Integrated Defense Partnerships (IDP, 10 files), Security Backstop Partnerships (SBP, 6 files — new regional coordination council framework), and Aligned Defense Partnerships (ADP, 1 file). The Gulf Integrated Defense Compact (GDIC) now has all three phases: Phase I defensive coordination, Phase II economic resilience, and Phase III Middle East political conditioning (phase-gated access for Israel, Palestinian authorities, and Iran with Gulf co-governance). Economic_Prosperity added a 4-file Climate and Resilience stack and a 6-file Manufacturing expansion stack (industrial corridor architecture, viability criteria, climate absorption corridors, Dutch disease mitigation, and land-use stabilization / anti-gentrification framework). The Operating-Theory-Meta-Research layer now has 5 files including the full civilizational stability research framework with formal model definitions, state-space architecture, and Goodhart mitigations. Foreign Policy is in development.
+The repository has grown substantially — from 65 files across 8 domains (January 2025) to **154 files across 11 domains**. National Security is now the largest and most architecturally complete domain at 25 files, with a full three-tier alliance architecture: Integrated Defense Partnerships (IDP, 10 files), Security Backstop Partnerships (SBP, 6 files — new regional coordination council framework), and Aligned Defense Partnerships (ADP, 1 file). The Gulf Integrated Defense Compact (GDIC) now has all three phases: Phase I defensive coordination, Phase II economic resilience, and Phase III Middle East political conditioning (phase-gated access for Israel, Palestinian authorities, and Iran with Gulf co-governance). Economic_Prosperity added a 4-file Climate and Resilience stack and a 6-file Manufacturing expansion stack (industrial corridor architecture, viability criteria, climate absorption corridors, Dutch disease mitigation, and land-use stabilization / anti-gentrification framework). The Operating-Theory-Meta-Research layer now has 5 files including the full civilizational stability research framework with formal model definitions, state-space architecture, and Goodhart mitigations. Foreign Policy is in development.
 
-Primary remaining gaps: Criminal Justice (no domain), carbon pricing / demand-side climate policy, Foreign Policy (in progress), Trade Policy (overview scaffold exists — sub-files pending), and the legal/property overlay for energy transmission siting.
+Primary remaining gaps: Criminal Justice (no domain), carbon pricing / demand-side climate policy, Foreign Policy (in progress), Trade Policy (overview scaffold exists — sub-files pending), the legal/property overlay for energy transmission siting, and Judicial Reform (Democratic_Integrity).
 
 ### Overall Maturity Distribution
 
 | Phase | Domains |
 |-------|---------|
 | Phase 3 | Healthcare, Housing_and_Public_Infrastructure, Institutional-Modernization, Economic_Prosperity (Energy + Climate_and_Resilience subdomains) |
-| Phase 2 | Democratic_Integrity, Education, Immigration, National_Security, Technology_and_Data |
+| Phase 2–3 | Democratic_Integrity, Education, Immigration, National_Security, Technology_and_Data |
 | Phase 0 | Criminal_Justice ❌, United-Nations-and-Global-Institutional-Reform (foundation established) |
 
 ---
@@ -35,7 +35,7 @@ Primary remaining gaps: Criminal Justice (no domain), carbon pricing / demand-si
 | Institutional-Modernization | 3 | 12 | ~14,700 | Strong | Process redesign; legislative template library; pre-deployment validation section needed in adaptive governance doc |
 | Technology_and_Data | 2 | 8 | ~8,100 | Moderate | Data privacy, cybersecurity; platform regulation started |
 | Education | 2 | 6 | ~4,700 | Moderate | Higher ed, early childhood, vocational |
-| Democratic_Integrity | 2 | 5 | ~3,600 | Moderate | Voting rights, judicial reform |
+| Democratic_Integrity | 2–3 | 9 | ~16,300 | Strong | Judicial reform; anti-corruption enforcement depth |
 | **United-Nations-and-Global-Institutional-Reform** | **0** | **1** | **~1,500** | **Phase 0 Foundation** | All subdomains — domain articulation complete |
 | **Criminal_Justice** | **0** | **0** | **0** | **❌ Missing** | Entire domain |
 
@@ -125,6 +125,16 @@ Primary remaining gaps: Criminal Justice (no domain), carbon pricing / demand-si
 | Data_Privacy | 0 | 0 | Not started |
 | Cybersecurity | 0 | 0 | Not started |
 
+### Democratic_Integrity (9 files)
+| Subdomain | Phase | Files | Notes |
+|-----------|-------|-------|-------|
+| Anti_Corruption | 2 | 3 | Ban gerrymandering (independent redistricting commissions + NRAP), ban stock trading (blind trust + blockchain disclosure), impeachment reform (Special Counsel + automatic suspension + judicial fast-track) |
+| Campaign_Finance_Reform | 2 | 1 | National Democracy Fund (5:1 small-donor matching), individual-only donations, dark money ban, blockchain disclosure |
+| Term_and_Age_Limits | 2 | 1 | Uniform age/term limits across all branches; retirement-age anchor; 10-year judicial terms; advisory pathways |
+| Electoral_Reform | 3 | 3 | Election Day national holiday + unified national Primary Day 1 year before general; voter ID 3-phase framework (universal free ID → numeric matching → SSI cryptographic identity); National Referendum Mechanism (7-part anti-capture architecture — spending limits, deliberation window, tiered thresholds, red-team tested) |
+| Digital_Democracy | 3 | 1 | 5-phase Digital Democracy Platform: SSI identity layer, ULRR jurisdictional routing, DoDA signal processing, lawmaker accountability dashboards, semi-annual townhalls, 10-year mandate formation → referendum infrastructure. Note: YAML declares `domain: Institutional_Modernization` but physically in Democratic_Integrity folder. |
+| Judicial_Reform | 0 | 0 | Not started — Supreme Court structure, expansion, ethics |
+
 ### Immigration (11 files)
 | Subdomain | Phase | Files | Notes |
 |-----------|-------|-------|-------|
@@ -211,7 +221,6 @@ All files mentioning SSI or UPI in prose have been tagged with the appropriate `
 | Broadband | Housing_and_Public_Infrastructure |
 | Data Privacy | Technology_and_Data |
 | Judicial Reform | Democratic_Integrity |
-| Voting Rights | Democratic_Integrity |
 
 ---
 
@@ -227,6 +236,18 @@ All files mentioning SSI or UPI in prose have been tagged with the appropriate `
 | Inline `[Agriculture / ...]` cross-reference annotations | Water and Wildfire files | Authoring artifacts in prose; not yet cleaned |
 | Manufacturing folder/domain inconsistency | `Policy_Domains/Manufacturing/` | Files use `domain: Economic_Prosperity` in YAML but sit in standalone folder; should move to `Policy_Domains/Economic_Prosperity/Manufacturing/` |
 | `workforce-skill-mobility` dependency missing | Manufacturing/localized-dutch-disease-mitigation.md | Referenced slug has no corresponding file yet; placeholder for future workforce mobility doc |
+
+---
+
+## Recent Session Activity (Mar 26, 2026)
+
+| Change | Files Affected |
+|--------|---------------|
+| Election Day reform added: federal holiday designation, unified national Primary Day (1 year before general), 1-year deliberative window, third-party ballot access standardization, election administration modernization; YAML added | election-day-and-primary-reform.md (new) |
+| Voter ID & Registration Reform added: 3-phase framework — Phase 1 universal free ID (proactive issuance, coverage thresholds, auto-registration at 18), Phase 2 numeric ID matching (activates only at 99% coverage), Phase 3 SSI cryptographic identity; employer retaliation protection; guardrails against regression; YAML added | voter-id-registration-reform.md (new) |
+| National Referendum Mechanism added: 7-part anti-capture architecture — trigger authority (congressional + citizen petition Phase 2), certification process (Referendum Certification Panel), campaign architecture (spending limits, equal public matching, misinformation accountability), 180-day deliberation window, tiered thresholds (Tier 1/2/3), implementation architecture (mandatory congressional response + default pathway), scope limitations; 7 red-team scenarios; YAML added | DRAFT-national-referendum-mechanism.md (new) |
+| Digital Democracy Platform added: 5-phase platform architecture — Layer 1 SSI identity, Layer 2 ULRR jurisdictional routing engine, Layer 3 signal capture, Layer 4 DoDA processing, Layer 5 lawmaker accountability dashboards; semi-annual townhalls; 10-year mandate formation; Phase 5 referendum infrastructure integration; YAML corrected (self-sovereign-identity → ssi-self-sovereign-identity-framework; voter-id-registration-reform → voter-id-and-registration-reform) | DRAFT-digital-democracy-platform.md (new) |
+| YAML standardized across all 7 existing Democratic_Integrity files missing domain/subdomain/policy_type/status/version/author/last_updated fields | Ban Gerrymandering.md, Ban_stock_trading.md, Impeachment Reform.md, Campaign_Finance.md, federal-employee-age-and-term-limits.md, election-day-and-primary-reform.md, voter-id-registration-reform.md |
 
 ---
 

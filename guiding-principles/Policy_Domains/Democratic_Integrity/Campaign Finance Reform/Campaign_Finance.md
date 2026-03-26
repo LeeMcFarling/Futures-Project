@@ -15,6 +15,21 @@ description: >
   Creates a transparent, citizen-led campaign funding system where all
   contributions come from verified individuals, with public matching for
   small donations through the National Democracy Fund.
+domain: Democratic_Integrity
+subdomain: Campaign_Finance_Reform
+policy_type: Policy Framework
+status: Draft
+version: 0.1
+author: Futures Project
+last_updated: 2026-03-26
+dependencies:
+  - department-of-data-and-accountability
+  - ssi-self-sovereign-identity-framework
+related_initiatives:
+  - ban-gerrymandering
+  - ban-stock-trading
+  - impeachment-reform
+  - national-referendum-mechanism
 ---
 
 # Campaign Finance Reform: Tiered Individual Donations & the National Democracy Fund

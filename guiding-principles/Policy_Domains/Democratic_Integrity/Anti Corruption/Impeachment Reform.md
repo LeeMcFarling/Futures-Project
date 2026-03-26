@@ -15,6 +15,19 @@ description: >
   Creates a fair, depoliticized, and automatic process for removing federal
   officials who face credible evidence of criminal misconduct through an
   independent Special Counsel and Oversight Commission.
+domain: Democratic_Integrity
+subdomain: Anti_Corruption
+policy_type: Governance Framework
+status: Draft
+version: 0.1
+author: Futures Project
+last_updated: 2026-03-26
+related_initiatives:
+  - ban-gerrymandering
+  - ban-stock-trading
+  - campaign-finance-reform
+  - federal-age-and-term-limits
+  - national-referendum-mechanism
 ---
 
 # Federal Oversight and Impeachment Reform

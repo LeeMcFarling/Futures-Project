@@ -15,6 +15,19 @@ description: >
   Creates independent redistricting commissions supported by transparent
   algorithmic tools to eliminate partisan gerrymandering and guarantee
   fair, competitive districts.
+domain: Democratic_Integrity
+subdomain: Anti_Corruption
+policy_type: Policy Brief
+status: Draft
+version: 0.1
+author: Futures Project
+last_updated: 2026-03-26
+related_initiatives:
+  - ban-stock-trading
+  - impeachment-reform
+  - campaign-finance-reform
+  - federal-age-and-term-limits
+  - national-referendum-mechanism
 ---
 
 # Abolish Gerrymandering: Independent Redistricting & Algorithmic Fairness

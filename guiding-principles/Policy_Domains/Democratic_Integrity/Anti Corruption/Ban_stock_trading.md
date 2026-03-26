@@ -14,6 +14,19 @@ description: >
   Prohibits members of Congress, Execution Corps, and Executive Branch from
   owning or trading individual stocks, options, or cryptocurrencies while
   in office to eliminate financial conflicts of interest.
+domain: Democratic_Integrity
+subdomain: Anti_Corruption
+policy_type: Policy Brief
+status: Draft
+version: 0.1
+author: Futures Project
+last_updated: 2026-03-26
+related_initiatives:
+  - ban-gerrymandering
+  - impeachment-reform
+  - campaign-finance-reform
+  - federal-age-and-term-limits
+  - national-referendum-mechanism
 ---
 
 # **Title: Ban Congressional and Executive Stock Trading**
