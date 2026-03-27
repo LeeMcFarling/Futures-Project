@@ -1,15 +1,15 @@
 # Futures Project - Policy Repository Status Report
 
 **Generated:** 2026-03-26
-**Total Domains:** 11
-**Total Policy Files:** 154
-**Estimated Total Words:** ~187,000
+**Total Domains:** 12
+**Total Policy Files:** 163
+**Estimated Total Words:** ~232,000
 
 ---
 
 ## Executive Summary
 
-The repository has grown substantially — from 65 files across 8 domains (January 2025) to **154 files across 11 domains**. National Security is now the largest and most architecturally complete domain at 25 files, with a full three-tier alliance architecture: Integrated Defense Partnerships (IDP, 10 files), Security Backstop Partnerships (SBP, 6 files — new regional coordination council framework), and Aligned Defense Partnerships (ADP, 1 file). The Gulf Integrated Defense Compact (GDIC) now has all three phases: Phase I defensive coordination, Phase II economic resilience, and Phase III Middle East political conditioning (phase-gated access for Israel, Palestinian authorities, and Iran with Gulf co-governance). Economic_Prosperity added a 4-file Climate and Resilience stack and a 6-file Manufacturing expansion stack (industrial corridor architecture, viability criteria, climate absorption corridors, Dutch disease mitigation, and land-use stabilization / anti-gentrification framework). The Operating-Theory-Meta-Research layer now has 5 files including the full civilizational stability research framework with formal model definitions, state-space architecture, and Goodhart mitigations. Foreign Policy is in development.
+The repository has grown substantially — from 65 files across 8 domains (January 2025) to **163 files across 12 domains**. National Security is now the largest and most architecturally complete domain at 25 files, with a full three-tier alliance architecture: Integrated Defense Partnerships (IDP, 10 files), Security Backstop Partnerships (SBP, 6 files — new regional coordination council framework), and Aligned Defense Partnerships (ADP, 1 file). The Gulf Integrated Defense Compact (GDIC) now has all three phases: Phase I defensive coordination, Phase II economic resilience, and Phase III Middle East political conditioning (phase-gated access for Israel, Palestinian authorities, and Iran with Gulf co-governance). Economic_Prosperity added a 4-file Climate and Resilience stack and a 6-file Manufacturing expansion stack (industrial corridor architecture, viability criteria, climate absorption corridors, Dutch disease mitigation, and land-use stabilization / anti-gentrification framework). The Operating-Theory-Meta-Research layer now has 7 files including the full civilizational stability research framework with formal model definitions, state-space architecture, Goodhart mitigations, plus three new foundational theory documents (prestige architecture, built environment, threat salience reduction). The Social domain is now formally established with 6 files: a full four-layer prestige stack (NPP, EIT, Gala, Acropolis) plus the National Capability Tour architecture. Foreign Policy is in development.
 
 Primary remaining gaps: Criminal Justice (no domain), carbon pricing / demand-side climate policy, Foreign Policy (in progress), Trade Policy (overview scaffold exists — sub-files pending), the legal/property overlay for energy transmission siting, and Judicial Reform (Democratic_Integrity).
 
@@ -36,6 +36,7 @@ Primary remaining gaps: Criminal Justice (no domain), carbon pricing / demand-si
 | Technology_and_Data | 2 | 8 | ~8,100 | Moderate | Data privacy, cybersecurity; platform regulation started |
 | Education | 2 | 6 | ~4,700 | Moderate | Higher ed, early childhood, vocational |
 | Democratic_Integrity | 2–3 | 9 | ~16,300 | Strong | Judicial reform; anti-corruption enforcement depth |
+| **Social** | **3** | **6** | **~32,200** | **Strong (conceptual)** | Criminal Justice, rural housing, homelessness; pilot architecture; governing bodies |
 | **United-Nations-and-Global-Institutional-Reform** | **0** | **1** | **~1,500** | **Phase 0 Foundation** | All subdomains — domain articulation complete |
 | **Criminal_Justice** | **0** | **0** | **0** | **❌ Missing** | Entire domain |
 
@@ -86,7 +87,18 @@ Primary remaining gaps: Criminal Justice (no domain), carbon pricing / demand-si
 |-----------|-------|-------|-------|
 | Domain_Articulation | 0 | 1 | Conceptual foundation: regional signaling authority + constrained veto mechanics; layered legitimacy model; Phase 0 — detailed institutional proposals will develop from regional strategy + defense workstreams |
 
-### Institutional-Modernization (12 files)
+### Social (6 files)
+| Subdomain | Phase | Files | Notes |
+|-----------|-------|-------|-------|
+| National_Capability_Tour | 3 | 2 | NCT civic formation pathway + CECU deployment model (Civic Execution Coordination Units); cross-regional mixed-cohort deployment; portable national service credential |
+| National_Problem_Portfolio | 3 | 1 | Full NPP–CPF spec: Big Ask selection criteria (6-criterion filter), competitive ecosystem, DoDa measurement integration, CPF payout structure (50/25/25 outcome/milestone/diffusion), anti-gaming mechanisms, phase logic |
+| National_Contribution_Gala | 3 | 1 | Production architecture: Outcome Unit format (9-min/presentation), personalization layer, dual-channel broadcast strategy (formal + creator amplification), anti-drift guardrails, governance — designed for ~2032 first event |
+| Emergent_Impact_Track | 3 | 1 | Three-track unsolicited contribution recognition (Track A: Crisis/Acute, Track B: Practice Innovation, Track C: Discovery/Breakthrough), counterfactual requirement, EIT Governing Body, anti-capture architecture, prize tiers ($500K–$50M) |
+| Civic_Acropolis | 3 | 1 | Two-tier architecture (Outer Registry: all validated contributors; Inner Canon: 25-year minimum, supermajority, lifetime assessment), Smithsonian governance model, physical design spec, revisability framework — first inductions expected mid-2040s |
+| Criminal_Justice | 0 | 0 | Not started |
+| Rural_Housing_and_Homelessness | 0 | 0 | Deferred from Housing domain; structural home assigned |
+
+### Institutional-Modernization (13 files)
 | Subdomain | Phase | Files | Notes |
 |-----------|-------|-------|-------|
 | Execution_Corps_Spec | 3 | 1 | Core instrument spec |
@@ -98,6 +110,7 @@ Primary remaining gaps: Criminal Justice (no domain), carbon pricing / demand-si
 | Measurement_and_Accountability | 3 | 1 | DoDA — national measurement backbone; outcome certification; trigger maintenance; telemetry publishing; standing institution alongside Execution Corps and PCA |
 | Democratic_Execution_Interface | 3 | 1 | Congressional OS Interface — envelope-based authorization; outcome-triggered reporting; oversight without operational specification |
 | Legislative_Design | 2 | 1 | Sample wildfire pilot act — demonstrates envelope-based statutory language with PCA capital deployment + Execution Corps authorization |
+| Civic_Formation_and_Leadership | 3 | 1 | Civic Competence Pipeline — three-stage model (NCT → Execution Corps → NPP), money/celebrity pipeline critique, competence credential as political legitimacy basis, DoDA accountability loop through political career, connection to meaning crisis literature |
 | Process_Redesign | 0 | 0 | Not started |
 
 ### Housing_and_Public_Infrastructure (17 files)
@@ -163,8 +176,11 @@ Located at `guiding-principles/Operating-Theory-Meta-Research/` — outside the 
 | model definitions.md | civilizational-cost-function-model | Theoretical_Foundations | Mathematical formalization: individual continuity score F_i, civilizational cost function C (mean fragility + variance + antagonism terms), two-anchor worked example |
 | existential-stability-mechanism.md | existential-stability-axiom | System_Axioms | Policy-level axiom: mortality salience as platform through-line; all policies reduce existential threat perception and sustain democratic cooperation |
 | incentive-meaning-cohearance.md | incentive-structure-coherence | System_Design_Principles | Governance design principle: instability arises when systems punish previously incentivized behavior without recalibrating incentives or renegotiating legitimacy |
+| prestige-architecture-and-meaning.md | prestige-architecture-and-meaning | Civilizational_Design | Prestige architecture as civilizational design: TMT/Becker foundation, current prestige architecture diagnosis (financial accumulation + celebrity), four-mechanism redesign (visibility/reward/canonization/emulation), coercion and authenticity constraints, relationship to continuity portfolio and meaning crisis literature (Vervaeke, Taylor, Bellah) |
+| built-environment-community-anchors.md | built-environment-community-anchors | Civilizational_Design | Spatial design as community anchor infrastructure: Oldenburg third places, Granovetter weak ties, Putnam bridging social capital, Jacobs four conditions, Alexander pattern language, single-use zoning failure, conditions-not-outcomes design philosophy, tension with Jacobs critique |
+| DRAFT-threat-salience-reduction-theory.md | threat-salience-reduction-theory | Theoretical_Foundations | Constructive complement to the diagnostic axioms: six-mechanism taxonomy (material security, anchor diversification, bridging social capital, institutional credibility, time horizon extension, narrative coherence), interaction structure, spatial nucleation theory (crystal of density), measurement implications for pilot design, honest uncertainties |
 
-All four files are `status: Active`. Central Axioms and Model Definitions are the theoretical foundation; the two axiom files translate that theory into actionable policy design constraints.
+All files are `status: Draft`. The meta layer now constitutes a complete theoretical arc: Central Axioms (model) → Existential Stability (diagnosis) → Incentive-Meaning Coherence (failure loop) → Prestige Architecture (cultural response) → Built Environment (spatial response) → Threat Salience Reduction (synthetic constructive theory). The Civic Competence Pipeline (Institutional-Modernization) and Social domain prestige stack are the operational translations of this theoretical layer.
 
 ---
 
@@ -236,10 +252,28 @@ All files mentioning SSI or UPI in prose have been tagged with the appropriate `
 | Inline `[Agriculture / ...]` cross-reference annotations | Water and Wildfire files | Authoring artifacts in prose; not yet cleaned |
 | Manufacturing folder/domain inconsistency | `Policy_Domains/Manufacturing/` | Files use `domain: Economic_Prosperity` in YAML but sit in standalone folder; should move to `Policy_Domains/Economic_Prosperity/Manufacturing/` |
 | `workforce-skill-mobility` dependency missing | Manufacturing/localized-dutch-disease-mitigation.md | Referenced slug has no corresponding file yet; placeholder for future workforce mobility doc |
+| Social domain folder naming convention | `Policy_Domains/Social/national-prestige-mechanics-framework.md/` | Folder has `.md` extension — technically valid but non-standard; 4 prestige files live inside it; worth renaming to `national-prestige-mechanics-framework/` |
 
 ---
 
-## Recent Session Activity (Mar 26, 2026)
+## Recent Session Activity (Mar 26, 2026 — Afternoon)
+
+| Change | Files Affected |
+|--------|---------------|
+| Prestige Architecture & Meaning added: TMT/Becker theoretical foundation, diagnosis of current US prestige architecture (financial accumulation + celebrity), four-mechanism redesign response (visibility/reward/canonization/emulation), coercion and authenticity constraints, continuity portfolio implications, engagement with Vervaeke/Taylor/Bellah meaning crisis literature; YAML completed | prestige-architecture-and-meaning.md (new, Operating-Theory-Meta-Research) |
+| Built Environment & Community Anchors added: Oldenburg third places, Granovetter weak ties, Putnam bridging vs bonding social capital, Jacobs four conditions for urban vitality, Alexander pattern language, postwar zoning failure diagnosis, conditions-not-outcomes design philosophy, crystal of density spatial nucleation theory, honest tension with Jacobs critique; YAML completed | built-environment-community-anchors.md (new, Operating-Theory-Meta-Research) |
+| Threat Salience Reduction Theory added: six-mechanism taxonomy (material security, anchor diversification, bridging social capital, institutional credibility, time horizon extension, narrative coherence), interaction structure and substitution risks, crystal of density spatial nucleation theory, measurement implications for pilot design, Digital Democracy Platform as longitudinal TMT dataset, honest uncertainties — completes the meta-layer theoretical arc; YAML completed; dependency `model-definitions` corrected to `civilizational-cost-function-model` | DRAFT-threat-salience-reduction-theory.md (new, Operating-Theory-Meta-Research) |
+| Civic Competence Pipeline added: three-stage pipeline (NCT → Execution Corps → NPP), money/celebrity pipeline critique, portable national service credential, DoDA accountability loop through political career arc, connection to meaning crisis and Meaning in Society framework; YAML completed | civic-competence-pipeline.md (new, Institutional-Modernization) |
+| National Problem Portfolio v3 added: full NPP–CPF spec with Big Ask selection criteria (6-criterion filter), competitive ecosystem, DoDa measurement integration, CPF payout structure (50/25/25), anti-Goodhart mechanisms, phase logic; YAML completed; `ssi-upi-infrastructure` corrected to `ssi-self-sovereign-identity-framework` + `upi-privacy-preserving-payment-rail` | national-problem-portfolio-v3.md (new, Social/national-prestige-mechanics-framework.md/) |
+| National Contribution Gala v3 added: full production architecture — Outcome Unit format, personalization layer, dual-channel broadcast (formal + creator amplification), anti-drift guardrails, governance; YAML completed; `ssi-upi-infrastructure` corrected | national-contribution-gala-v3.md (new, Social/national-prestige-mechanics-framework.md/) |
+| Emergent Impact Track added: three-track recognition system (Track A/B/C), counterfactual requirement, validation governance, anti-capture architecture, prize tiers $500K–$50M; YAML completed; `ssi-upi-infrastructure` corrected | emergent-impact-prestige-track.md (new, Social/national-prestige-mechanics-framework.md/) |
+| Civic Acropolis v2 added: two-tier architecture (Outer Registry + Inner Canon), lifetime standard (25-year minimum), imperfection standard, revisability framework, Smithsonian governance model, physical design spec — Canon Chamber + Registry Hall + Digital Acropolis; YAML completed | civic-acropolis-v2.md (new, Social/national-prestige-mechanics-framework.md/) |
+| Social domain _MATURITY_TRACKER.md created — 6 files, ~32,200 words; structural note logged re: folder naming convention | _MATURITY_TRACKER.md (new, Social) |
+| YAML standardized across National Capability Tour + SPEC files — missing sidebar_label, sidebar_position, author fields added; related_initiatives added | DRAFT-national-capability-tour.md, DRAFT-national-capability-tour-SPEC.md |
+
+---
+
+## Recent Session Activity (Mar 26, 2026 — Morning)
 
 | Change | Files Affected |
 |--------|---------------|

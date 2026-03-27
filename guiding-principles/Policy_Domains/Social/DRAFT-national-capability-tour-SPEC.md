@@ -1,21 +1,28 @@
 ---
 id: civic-execution-coordination-units
 title: Civic Execution Coordination Units — Deployment Model for National Capability Tour
+sidebar_label: Civic Execution Coordination Units
+sidebar_position: 3
+slug: /social/civic-execution-coordination-units
 domain: Institutional_Capacity
 subdomain: Execution Operations
 policy_type: Operational Architecture
 status: Draft
 version: 0.1
+author: Futures Project
+last_updated: 2026-03-24
 dependencies:
   - national-capability-tour
   - execution-corps-spec
   - department-of-data-and-accountability
+related_initiatives:
+  - civic-competence-pipeline
+  - public-capital-authority
 tags:
   - coordination
   - civic-service
   - execution
   - deployment
-last_updated: 2026-03-24
 ---
 
 # Civic Execution Coordination Units (CECU)

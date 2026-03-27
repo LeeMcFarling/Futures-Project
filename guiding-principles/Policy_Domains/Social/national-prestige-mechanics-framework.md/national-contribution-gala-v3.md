@@ -15,7 +15,8 @@ dependencies:
   - national-problem-portfolio-and-competitive-fund
   - emergent-impact-track
   - department-of-data-and-accountability
-  - ssi-upi-infrastructure
+  - ssi-self-sovereign-identity-framework
+  - upi-privacy-preserving-payment-rail
 related_initiatives:
   - civic-acropolis
   - civic-competence-pipeline

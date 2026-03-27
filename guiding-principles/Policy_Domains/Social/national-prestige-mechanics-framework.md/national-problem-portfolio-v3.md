@@ -1,16 +1,21 @@
 ---
 id: national-problem-portfolio-and-competitive-fund
 title: National Problem Portfolio & Competitive Fund (NPP–CPF)
+sidebar_label: National Problem Portfolio
+sidebar_position: 1
 slug: /public-capital/national-problem-portfolio
 domain: Public_Capital
 subdomain: Innovation_and_Problem_Solving
 policy_type: Incentive System
 status: Draft
 version: 0.3
+author: Futures Project
+last_updated: 2026-03-26
 dependencies:
   - department-of-data-and-accountability
   - execution-corps-spec
-  - ssi-upi-infrastructure
+  - ssi-self-sovereign-identity-framework
+  - upi-privacy-preserving-payment-rail
   - digital-democracy-platform
 related_initiatives:
   - national-contribution-gala
@@ -22,7 +27,6 @@ tags:
   - measurement
   - public-goods
   - competition
-last_updated: 2026-03-26
 ---
 
 # Executive Summary

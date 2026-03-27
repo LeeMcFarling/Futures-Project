@@ -1,22 +1,30 @@
 ---
 id: national-capability-tour
 title: National Capability Tour — Civic Service and Execution Capacity Pipeline
+sidebar_label: National Capability Tour
+sidebar_position: 2
+slug: /social/national-capability-tour
 domain: Institutional_Capacity
 subdomain: Civic Formation and Execution Readiness
 policy_type: Capacity Architecture
 status: Draft
 version: 0.1
+author: Futures Project
+last_updated: 2026-03-24
 dependencies:
   - execution-corps-spec
   - department-of-data-and-accountability
   - public-capital-authority
+related_initiatives:
+  - civic-competence-pipeline
+  - national-problem-portfolio-and-competitive-fund
+  - meaning-in-society
 tags:
   - civic-service
   - workforce
   - execution
   - social-cohesion
   - institutional-legitimacy
-last_updated: 2026-03-24
 ---
 
 # National Capability Tour (NCT)

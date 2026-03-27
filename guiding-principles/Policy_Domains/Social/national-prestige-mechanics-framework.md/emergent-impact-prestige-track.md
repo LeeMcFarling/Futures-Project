@@ -14,7 +14,8 @@ last_updated: 2026-03-26
 dependencies:
   - national-problem-portfolio-and-competitive-fund
   - department-of-data-and-accountability
-  - ssi-upi-infrastructure
+  - ssi-self-sovereign-identity-framework
+  - upi-privacy-preserving-payment-rail
 related_initiatives:
   - national-contribution-gala
   - civic-acropolis

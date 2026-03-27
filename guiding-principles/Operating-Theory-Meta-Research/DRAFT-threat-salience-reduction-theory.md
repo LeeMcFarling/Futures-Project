@@ -15,7 +15,7 @@ dependencies:
   - existential-stability-axiom
   - incentive-structure-coherence
   - central-axioms-civilizational-stability
-  - model-definitions
+  - civilizational-cost-function-model
   - prestige-architecture-and-meaning
   - built-environment-community-anchors
 related_initiatives:

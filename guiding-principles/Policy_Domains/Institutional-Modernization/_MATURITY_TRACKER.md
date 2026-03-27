@@ -1,6 +1,6 @@
 # Domain Maturity Tracker: Institutional-Modernization
 
-**Last Updated:** 2026-03-23
+**Last Updated:** 2026-03-26
 **Overall Domain Phase:** 3
 **Domain Owner:** TBD
 
@@ -48,6 +48,7 @@ Modernize democratic institutions through reusable execution instruments that tr
 | Measurement_and_Accountability | 3 | 1 | ~2,200 | Cross-domain trigger catalog; telemetry API standards | execution-corps-spec, public-capital-authority | Define trigger catalog; specify reporting cadence per domain | TBD |
 | Democratic_Execution_Interface | 3 | 1 | ~2,000 | Specific accountability mechanism design; inter-branch authority handoff protocols | execution-corps-spec, department-of-data-and-accountability | Define oversight accountability mechanisms | TBD |
 | Legislative_Design | 2 | 1 | ~1,000 | Broader template library; domain-specific statutory language samples | execution-corps-spec | Add samples for healthcare, manufacturing, housing domains | TBD |
+| Civic_Formation_and_Leadership | 3 | 1 | ~3,500 | Domain instantiations; CJ/manufacturing pipeline scenarios | national-capability-tour, execution-corps-spec, department-of-data-and-accountability | Add sector-specific pipeline scenarios | TBD |
 | Process_Redesign | 0 | 0 | 0 | **Not started** | None | Create initial file | TBD |
 
 ---
@@ -110,6 +111,7 @@ Modernize democratic institutions through reusable execution instruments that tr
 
 | Date | Subdomain | Change | Phase Impact |
 |------|-----------|--------|--------------|
+| 2026-03-26 | Civic_Formation_and_Leadership | civic-competence-pipeline.md added: three-stage competence pipeline (NCT → Execution Corps → NPP), money/celebrity pipeline critique, DoDA accountability loop, connection to meaning crisis literature; YAML completed | 0 → 3 |
 | 2026-03-23 | Measurement_and_Accountability | Department-of-Data-and-Accountability.md added: national measurement backbone, outcome certification, trigger maintenance, telemetry publishing — standing institution alongside Execution Corps and PCA | 0 → 3 |
 | 2026-03-23 | Democratic_Execution_Interface | congressional-operating-system-interface.md added: Congress governance model, envelope-based authorization, outcome-triggered reporting, oversight without operational specification | 0 → 3 |
 | 2026-03-23 | Legislative_Design | DRAFT-new-legislative-mechanism.md added: sample wildfire risk reduction pilot act demonstrating envelope-based statutory language with PCA capital deployment | 0 → 2 |
@@ -123,7 +125,7 @@ Modernize democratic institutions through reusable execution instruments that tr
 
 ## Notes & Context
 
-- Domain has 10 active policy files totaling ~14,700 words (excluding archives)
+- Domain has 11 active policy files totaling ~18,200 words (excluding archives)
 - 2 archive files preserved (old_* prefix) showing policy evolution
 - Execution Corps is a cross-cutting instrument used by multiple domains
 - Public Capital Authority is Phase 3 deployment-ready
