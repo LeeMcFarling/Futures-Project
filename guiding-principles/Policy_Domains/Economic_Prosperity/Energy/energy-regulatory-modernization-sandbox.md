@@ -8,7 +8,7 @@ domain: Economic_Prosperity
 subdomain: Energy
 policy_type: Sector Overlay
 status: Draft
-version: 1.1
+version: 1.2
 author: Futures Project
 dependencies:
   - regulatory-modernization-corps
@@ -23,7 +23,7 @@ tags:
   - transmission
   - grid-expansion
   - sandbox-governance
-last_updated: 2026-02-26
+last_updated: 2026-03-31
 ---
 
 # Energy Regulatory Modernization Sandbox (Energy RMS)
@@ -105,7 +105,9 @@ A single federal coordinating agency may be designated to:
 
 ## C. Shot Clocks
 
-Agencies must make decisions within a defined time window. If they fail to act, the process moves forward procedurally, but projects are not automatically approved. This creates accountability without eliminating review.
+Agencies must make decisions within a defined time window. If they
+fail to act, two consequences activate simultaneously — ensuring
+accountability without eliminating review.
 
 Statutorily authorized decision clocks may apply to:
 
@@ -113,7 +115,39 @@ Statutorily authorized decision clocks may apply to:
 - Permit determinations  
 - Interconnection study phases  
 
-Failure to respond within the clock results in procedural completion, not automatic approval i.e. The process moves forward authomatically, not the entire permitting pathway. 
+**Dual consequence on expiry.** When a shot clock expires without
+required agency action:
+
+*Auto-advance:* The permitting stage advances to the next procedural
+step as if the agency had acted. This does not create an approval —
+it creates a procedural completion that allows the process to
+continue. The agency's substantive review continues and may still
+produce conditions or requirements that must be addressed.
+
+*Execution Corps escalation:* Simultaneously, the Execution Corps
+initiates active escalation to the agency head and to the RMC,
+with public logging of the clock expiry, formal notification to the
+agency, and a defined resolution window.
+
+**Hard safety carve-out.** Auto-advance does not apply where the
+pending agency action covers structural or occupational safety
+systems, environmental containment or discharge controls, community
+health or hazardous materials risk, grid reliability requirements,
+or any element where delay exists because of genuine unresolved
+safety or harm concern. In these cases, clock expiry triggers
+escalation only. The process does not advance until the agency
+acts or the dispute is resolved through the RMC's formal conflict
+resolution process.
+
+The carve-out applies based on the nature of the pending action,
+not the agency's characterization of it. An agency cannot invoke
+the safety carve-out to protect a delay that is not genuinely
+safety-related. The RMC determines applicability in disputed
+cases with published rationale.
+
+Repeated clock expiries by the same agency trigger escalation to
+the RMC Board and, if unresolved, to congressional reporting under
+the RMC's diagnostic and legislative interface protocols.
 
 ---
 
@@ -251,9 +285,12 @@ Energy RMS deployments may receive temporary priority staffing allocation. If su
 
 ---
 
-# IX. Diagnostic Reporting to Congress
+# IX. Diagnostic Reporting, Regulatory Modernization Packet, and Baseline Integrity
 
-After each sandbox cycle, Congress receives a detailed report showing what changed, how much faster projects moved, whether reliability or environmental performance shifted, and whether broader reforms should be considered.
+After each sandbox cycle, Congress receives a detailed report showing
+what changed, how much faster projects moved, whether reliability or
+environmental performance shifted, and whether broader reforms should
+be considered.
 
 Upon completion of an Energy RMS cycle, RMC shall submit:
 
@@ -266,6 +303,48 @@ Upon completion of an Energy RMS cycle, RMC shall submit:
 - Legislative Harmonization Recommendations (if warranted)  
 
 Reports must be public, plain-language accessible, and machine-readable.
+
+**Regulatory Modernization Packet**
+
+At the conclusion of each Energy RMS cycle, the RMC produces a
+Regulatory Modernization Packet as specified in RMC Charter Section XII.
+The packet translates sandbox learning into decision-ready reform
+artifacts registered in the ULRR and distributed to all jurisdictions
+through its public API.
+
+For Energy RMS cycles, the packet includes the five standard components
+— regulatory diff, validated module set, removal list, harmonization
+path, and bundle integrity flags — plus the deployment readiness score
+for each validated module. The deployment readiness score enables state
+energy regulators, utility commissions, and legislative staff to assess
+not just whether a module worked but whether their jurisdiction can
+implement it, accounting for legal friction, inter-agency dependency
+count, estimated implementation time, and political risk classification.
+
+Energy RMS packets are registered in the same ULRR system as
+manufacturing and housing RMS packets, enabling cross-sector module
+comparison. An interconnection queue reform that validates in the energy
+context may have direct analogues in manufacturing grid interconnection;
+the ULRR's AI-assisted analysis layer identifies these cross-sector
+patterns automatically.
+
+**Baseline Drift Detection**
+
+Energy regulatory baselines shift across a 3–5 year RMS cycle through
+statutory change, FERC rulemaking, court decisions affecting
+interconnection requirements, and changing NERC reliability standards.
+DoDA maintains continuous baseline monitoring for all active Energy RMS
+deployments and re-normalizes comparisons when material baseline changes
+are detected.
+
+Every Energy RMS packet includes a baseline integrity statement
+confirming whether the comparison baseline remained stable during the
+cycle or documenting the adjustments applied. Packets produced under
+significantly drifted baselines carry a methodological disclosure
+flagging which findings may be affected. Baseline integrity is a
+precondition for packet validity — the RMC may not publish a packet
+without it. See RMC Charter Section XII for the full baseline drift
+detection specification.
 
 ---
 
@@ -284,10 +363,16 @@ Each Energy RMS:
 
 # Guiding Principle
 
-Energy capacity expansion is often delayed by procedural friction rather than substantive legal standards.
+Energy capacity expansion is often delayed by procedural friction
+rather than substantive legal standards.
 
 Energy RMS reduces friction while preserving safeguards.
 
 It accelerates execution without altering democratic choice.
 
 It refactors process. It does not decide outcomes.
+
+At the conclusion of each cycle, it produces a Regulatory
+Modernization Packet that turns validated learning into exportable,
+machine-readable reform artifacts — making the sandbox not just a
+faster track but a source of upgrades to the default system.
