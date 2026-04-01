@@ -16,14 +16,14 @@ dependencies:
   - upi-privacy-preserving-payment-rail
   - immutable-government-ledger
   - government-outflow-integrity-framework
-  - housing_arrival_transition_stack_v2
-  - housing_workforce_stabilization_pilots_v2
+  - housing-arrival-transition-stack
+  - housing-workforce-stabilization-pilots
   - healthcare-enabled-housing-pilot-v2
   - housing-supply-stabilization-overlay
 downstream_dependents:
-  - housing_workforce_stabilization_pilots_v2
+  - housing-workforce-stabilization-pilots
   - healthcare-enabled-housing-pilot-v2
-  - housing_arrival_transition_stack_v2
+  - housing-arrival-transition-stack
 related_initiatives:
   - modular-reurbanization-overview
   - special-transit-zones

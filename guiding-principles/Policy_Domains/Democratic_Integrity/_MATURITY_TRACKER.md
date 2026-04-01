@@ -1,6 +1,6 @@
 # Domain Maturity Tracker: Democratic_Integrity
 
-**Last Updated:** 2026-03-26
+**Last Updated:** 2026-03-29
 **Overall Domain Phase:** 2–3
 **Domain Owner:** TBD
 
@@ -39,7 +39,7 @@ Strengthen democratic institutions against corruption, ensure fair representatio
 
 | Subdomain | Phase | File Count | Word Count | Key Gaps | Dependencies | Next Action | Target Date |
 |-----------|-------|------------|------------|----------|--------------|-------------|-------------|
-| Anti_Corruption | 2 | 3 | ~2,100 | Enforcement mechanisms | None | Add implementation details | TBD |
+| Anti_Corruption | 2 | 5 | ~5,500 | Enforcement mechanisms | None | Add implementation details | TBD |
 | Campaign_Finance_Reform | 2 | 1 | ~800 | Public financing details | Budget.Campaign_Funding | Expand financing model | TBD |
 | Term_and_Age_Limits | 2 | 1 | ~700 | Constitutional pathway | None | Add constitutional amendment strategy | TBD |
 | Electoral_Reform | 3 | 3 | ~7,200 | Third-party ballot access implementation timeline; automatic registration tech integration | ssi-self-sovereign-identity-framework, department-of-data-and-accountability | Expand implementation sequencing | TBD |
@@ -97,6 +97,7 @@ Strengthen democratic institutions against corruption, ensure fair representatio
 
 | Date | Subdomain | Change | Phase Impact |
 |------|-----------|--------|--------------|
+| 2026-03-29 | Anti_Corruption | Added impeachment-reform-enumerated-triggers-v0.4.md (enumerated triggers, democratic override, enforcement doctrine — 12 triggers, supermajority override) and impeachment-reform-oversight-commission-v0.1.md (oversight commission architecture, special counsel framework, suspension mechanism governance); YAML standardized with sidebar fields | 3 → 5 files |
 | 2026-03-26 | Electoral_Reform | Added election-day-and-primary-reform.md (federal holiday + unified national Primary Day, 1-year deliberative window, ballot access standardization), voter-id-registration-reform.md (3-phase framework: universal free ID, numeric matching, SSI cryptographic identity), national-referendum-mechanism.md (NRM: circuit breaker for institutional capture — 7-part anti-capture architecture with red-team analysis) | 0 → 3 |
 | 2026-03-26 | Digital_Democracy | Added digital-democracy-platform.md (5-phase platform: SSI identity layer, ULRR jurisdictional routing, signal capture, DoDA processing, lawmaker dashboards, semi-annual townhalls, 10-year mandate formation, referendum infrastructure) — domain declared as Institutional_Modernization but lives in Democratic_Integrity folder | 0 → 3 |
 | 2026-03-26 | All (YAML) | Added full YAML front matter to all 7 files missing domain/subdomain/policy_type/status/version/author/last_updated; corrected dependency slugs in national-referendum-mechanism.md and digital-democracy-platform.md | N/A |
@@ -107,7 +108,7 @@ Strengthen democratic institutions against corruption, ensure fair representatio
 
 ## Notes & Context
 
-- Domain has 9 files totaling ~16,300 words (major expansion)
+- Domain has **11 files** totaling ~18,700 words
 - Voting rights gap closed: election day, voter ID, national referendum mechanism all at Phase 3
 - Digital Democracy Platform added (massive doc, ~5,500 words) — declares domain: Institutional_Modernization but lives in Democratic_Integrity folder; structural note for future reconciliation
 - Anti-corruption stack still needs enforcement mechanism detail; constitutional amendment strategy for term limits unwritten

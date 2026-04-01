@@ -1,16 +1,20 @@
 ---
-id: housing_arrival_transition_stack_v2
+id: housing-arrival-transition-stack
 title: Arrival, Travel, and Transition Stack
+sidebar_label: Arrival and Transition Stack
+sidebar_position: 1
 slug: arrival-travel-transition-stack
-domain: housing
-subdomain: mobility_layer
-policy_type: infrastructure_system
-status: draft
-version: v2.0
+domain: Housing_and_Public_Infrastructure
+subdomain: Mobility_Layer
+policy_type: Infrastructure System
+status: Draft
+version: 0.2
+author: Futures Project
 dependencies:
   - housing_flex_capacity_doctrine
   - mixed_income_midrise_overlays
-  - ssi_upi_identity_rails
+  - ssi-self-sovereign-identity-framework
+  - upi-privacy-preserving-payment-rail
   - modular-reurbanization-overview
   - special-transit-zones
   - tenure-convertible-mid-rise-typology

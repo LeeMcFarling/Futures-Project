@@ -1,17 +1,17 @@
 # Futures Project - Policy Repository Status Report
 
-**Generated:** 2026-03-26
+**Generated:** 2026-03-29
 **Total Domains:** 12
-**Total Policy Files:** 163
-**Estimated Total Words:** ~232,000
+**Total Policy Files:** 186
+**Estimated Total Words:** ~260,000
 
 ---
 
 ## Executive Summary
 
-The repository has grown substantially — from 65 files across 8 domains (January 2025) to **163 files across 12 domains**. National Security is now the largest and most architecturally complete domain at 25 files, with a full three-tier alliance architecture: Integrated Defense Partnerships (IDP, 10 files), Security Backstop Partnerships (SBP, 6 files — new regional coordination council framework), and Aligned Defense Partnerships (ADP, 1 file). The Gulf Integrated Defense Compact (GDIC) now has all three phases: Phase I defensive coordination, Phase II economic resilience, and Phase III Middle East political conditioning (phase-gated access for Israel, Palestinian authorities, and Iran with Gulf co-governance). Economic_Prosperity added a 4-file Climate and Resilience stack and a 6-file Manufacturing expansion stack (industrial corridor architecture, viability criteria, climate absorption corridors, Dutch disease mitigation, and land-use stabilization / anti-gentrification framework). The Operating-Theory-Meta-Research layer now has 7 files including the full civilizational stability research framework with formal model definitions, state-space architecture, Goodhart mitigations, plus three new foundational theory documents (prestige architecture, built environment, threat salience reduction). The Social domain is now formally established with 6 files: a full four-layer prestige stack (NPP, EIT, Gala, Acropolis) plus the National Capability Tour architecture. Foreign Policy is in development.
+The repository has grown substantially — from 65 files across 8 domains (January 2025) to **186 files across 12 domains**. Economic_Prosperity is now the largest domain at 42 files including a 9-file PCA instruments and industrial deployment stack (manufacturing PCA instruments, cluster financing, JV deployment model, land value capture, supplier credit facilities, alliance target map, regional pilot playbooks, manufacturing RMS, industrial demand coordination). Social domain expanded significantly from 6 to 13 files: Homelessness subdomain established (3 files: healthcare-enabled housing pilot, automatic stabilizer, workforce stabilization pilots), Criminal Justice started (2 files: domain scaffold + crisis response infrastructure), IDP Social Stack added (2 files: arrival/transition stack, outbound mobility scaffold). Technology_and_Data added a 3-file Government Integrity Infrastructure stack (immutable ledger, outflow integrity, budget accountability). Democratic_Integrity Anti_Corruption expanded to 5 files with two new impeachment reform documents (enumerated triggers, oversight commission). Venezuela resource sovereignty framework added to National_Security. Healthcare Public_Health_Nutrition grew to 6 files with national health month campaign.
 
-Primary remaining gaps: Criminal Justice (no domain), carbon pricing / demand-side climate policy, Foreign Policy (in progress), Trade Policy (overview scaffold exists — sub-files pending), the legal/property overlay for energy transmission siting, and Judicial Reform (Democratic_Integrity).
+Primary remaining gaps: Carbon pricing / demand-side climate policy, Foreign Policy (Venezuela framework added; broader diplomatic layer pending), Trade Policy (overview scaffold exists — sub-files pending), the legal/property overlay for energy transmission siting, Judicial Reform (Democratic_Integrity), full Criminal Justice coverage (sentencing, reentry, non-violent rehab, justice gap).
 
 ### Overall Maturity Distribution
 
@@ -19,7 +19,7 @@ Primary remaining gaps: Criminal Justice (no domain), carbon pricing / demand-si
 |-------|---------|
 | Phase 3 | Healthcare, Housing_and_Public_Infrastructure, Institutional-Modernization, Economic_Prosperity (Energy + Climate_and_Resilience subdomains) |
 | Phase 2–3 | Democratic_Integrity, Education, Immigration, National_Security, Technology_and_Data |
-| Phase 0 | Criminal_Justice ❌, United-Nations-and-Global-Institutional-Reform (foundation established) |
+| Phase 0 | United-Nations-and-Global-Institutional-Reform (foundation established) |
 
 ---
 
@@ -27,48 +27,47 @@ Primary remaining gaps: Criminal Justice (no domain), carbon pricing / demand-si
 
 | Domain | Phase | Files | Est. Words | Status | Priority Gaps |
 |--------|-------|-------|------------|--------|---------------|
-| Healthcare | 3 | 28 | ~23,200 | Strong | Mental health, maternal health |
-| Economic_Prosperity | 2–3 | 33 | ~35,300 | Strong | Trade policy (started — China strategy, tariff framework, export controls pending), antitrust, carbon pricing/demand-side |
-| National_Security | 2–3 | 25 | ~28,500 | Strong | Foreign policy (in progress), China strategy, cyber; Indo-Pacific SBP instantiation |
+| Healthcare | 3 | 29 | ~24,600 | Strong | Mental health, maternal health |
+| Economic_Prosperity | 2–3 | 42 | ~53,300 | Strong | Trade policy (started — China strategy, tariff framework, export controls pending), antitrust, carbon pricing/demand-side |
+| National_Security | 2–3 | 26 | ~31,000 | Strong | Foreign policy (Venezuela framework added; broader diplomatic layer pending), China strategy, cyber; Indo-Pacific SBP instantiation |
 | Immigration | 2 | 11 | ~7,560 | Good | DACA resolution, citizenship backlog |
 | Housing_and_Public_Infrastructure | 3 | 18 | ~29,400 | Strong | Broadband, water, STZ legal framework; rural housing + homelessness depth deferred to Social domain |
 | Institutional-Modernization | 3 | 12 | ~14,700 | Strong | Process redesign; legislative template library; pre-deployment validation section needed in adaptive governance doc |
-| Technology_and_Data | 2 | 8 | ~8,100 | Moderate | Data privacy, cybersecurity; platform regulation started |
+| Technology_and_Data | 2 | 11 | ~12,600 | Moderate | Data privacy, cybersecurity; platform regulation started; government integrity infrastructure added |
 | Education | 2 | 6 | ~4,700 | Moderate | Higher ed, early childhood, vocational |
-| Democratic_Integrity | 2–3 | 9 | ~16,300 | Strong | Judicial reform; anti-corruption enforcement depth |
-| **Social** | **3** | **6** | **~32,200** | **Strong (conceptual)** | Criminal Justice, rural housing, homelessness; pilot architecture; governing bodies |
+| Democratic_Integrity | 2–3 | 11 | ~18,700 | Strong | Judicial reform; anti-corruption enforcement depth |
+| **Social** | **2–3** | **13** | **~44,700** | **Growing** | Criminal Justice (started), rural housing; homelessness stack added; pilot architecture; governing bodies |
 | **United-Nations-and-Global-Institutional-Reform** | **0** | **1** | **~1,500** | **Phase 0 Foundation** | All subdomains — domain articulation complete |
-| **Criminal_Justice** | **0** | **0** | **0** | **❌ Missing** | Entire domain |
 
 ---
 
 ## Subdomain Detail
 
-### Healthcare (28 files)
+### Healthcare (29 files)
 | Subdomain | Phase | Files | Notes |
 |-----------|-------|-------|-------|
 | Pharmaceutical_Reform | 3 | 8 | Full R&D stack: pricing, trials, manufacturing, stage-based authorization |
 | Execution_and_Transition | 3 | 8 | HETA revised charter (v0.2 — Provider Transition Corps, enforcement firewall), cost performance backstop (DoDA-triggered escalation + glide path + capital recycling), state pilot framework, infrastructure layer, transition strategy |
 | Care_Delivery_and_Insurance | 3 | 6 | SEC framework, market design, clarifications, dental/vision/mental health market integration |
 | Care_Delivery_and_Infrastructure | 3 | 1 | Regional Health Center Network — federally backstopped contractor-operated facilities; network adequacy as closure gate for legacy subsidies |
-| Public_Health_Nutrition | 2 | 5 | Ingredient disclosure, vertical farms, metabolic research |
+| Public_Health_Nutrition | 2 | 6 | Ingredient disclosure, vertical farms, metabolic research, national health month campaign (fall activation: health month + school procurement pilot + ingredient disclosure rollout) |
 | Mental_Health | 0 | 0 | Not started |
 | Maternal_Health | 0 | 0 | Not started |
 
-### Economic_Prosperity (32 files)
+### Economic_Prosperity (42 files)
 | Subdomain | Phase | Files | Notes |
 |-----------|-------|-------|-------|
 | Agriculture | 3 | 8 | Data rights, finance, supply chain, water, seed IP |
 | Energy | 3 | 5 | Strategy, portfolio mix, PCA finance/exit, RMS overlay, pilot architecture |
 | Climate_and_Resilience | 3 | 4 | Climate risk framework, catastrophe reinsurance (3-layer system), water/aquifer resilience (5-level escalation), wildfire governance |
-| Manufacturing | 2 | 7 | NORAM critical materials + domain overview + 5-file corridor architecture stack: industrial strategy, viability criteria (DoDa dashboard, 8-criteria scoring), climate absorption corridors, Dutch disease mitigation (ROFR, housing elasticity), land-use stabilization (anti-gentrification pilots — PCA pre-acquisition, mixed-income vertical integration, tourism pressure dividend via SSI/UPI rails). Files live in `Policy_Domains/Manufacturing/` folder — reconcile to `Economic_Prosperity/Manufacturing/` eventually. |
+| Manufacturing | 2 | 16 | NORAM + corridor architecture stack (7 files) + PCA instruments stack (9 new files): manufacturing-pca-instruments-framework, cluster-infrastructure-financing, factory-jv-deployment-model, land-value-capture-resident-equity, supplier-credit-facilities, alliance-industrial-target-map, regional-manufacturing-pilot-playbooks, manufacturing-regulatory-modernization-sandbox, industrial-demand-coordination-system. Files live in `Policy_Domains/Manufacturing/` folder — reconcile to `Economic_Prosperity/Manufacturing/` eventually. |
 | Labor_and_Wellfare | 2 | 4 | Benefits floor, EITC, welfare gradient, worker classification |
 | Budget_and_Fiscal_Policy | 2 | 4 | Guiding principles, PCA, capital allocation, Social Security |
 | Trade_Policy | 1 | 1 | Overview scaffold: sector-tiered framework (Strategic-Critical / Industrial Anchor / Competitive), allied trade architecture, adversarial decoupling principles, 5 identified sub-files pending — China strategy, tariff/market-access, export controls, enforcement modernization, supply chain mapping |
 | Antitrust | 0 | 0 | Not started |
 | Small_Business | 0 | 0 | Not started |
 
-### National_Security (25 files)
+### National_Security (26 files)
 | Subdomain | Phase | Files | Notes |
 |-----------|-------|-------|-------|
 | Integrated_Defense_Partnerships | 3 | 10 | Industrial, logistics, digital, financial, gray zone, info integrity, shipbuilding, social mobility, defense production, competitive production |
@@ -78,6 +77,7 @@ Primary remaining gaps: Criminal Justice (no domain), carbon pricing / demand-si
 | Middle_East_Framework | 3 | 1 | Phase III — phase-gated political conditioning for Israel, Palestinian authorities, Iran; PCF governance with Gulf co-ownership; proxy linkage rule; nuclear governance principle |
 | Aligned_Defense_Partnerships | 2 | 1 | Third tier of alliance architecture — bilateral cooperation without institutional membership |
 | Defense_Posture | 2 | 1 | Strategic framework |
+| Trump_Reactions | 2 | 1 | Venezuela resource sovereignty framework — predatory debt architecture, post-transition resource sovereignty, odious debt doctrine, SBP linkage |
 | Foreign_Policy | 0 | 0 | In development |
 | China_Strategy | 0 | 0 | Not started — blocked by Trade_Policy |
 | Cyber_Security | 0 | 0 | Not started |
@@ -87,7 +87,7 @@ Primary remaining gaps: Criminal Justice (no domain), carbon pricing / demand-si
 |-----------|-------|-------|-------|
 | Domain_Articulation | 0 | 1 | Conceptual foundation: regional signaling authority + constrained veto mechanics; layered legitimacy model; Phase 0 — detailed institutional proposals will develop from regional strategy + defense workstreams |
 
-### Social (6 files)
+### Social (13 files)
 | Subdomain | Phase | Files | Notes |
 |-----------|-------|-------|-------|
 | National_Capability_Tour | 3 | 2 | NCT civic formation pathway + CECU deployment model (Civic Execution Coordination Units); cross-regional mixed-cohort deployment; portable national service credential |
@@ -95,8 +95,9 @@ Primary remaining gaps: Criminal Justice (no domain), carbon pricing / demand-si
 | National_Contribution_Gala | 3 | 1 | Production architecture: Outcome Unit format (9-min/presentation), personalization layer, dual-channel broadcast strategy (formal + creator amplification), anti-drift guardrails, governance — designed for ~2032 first event |
 | Emergent_Impact_Track | 3 | 1 | Three-track unsolicited contribution recognition (Track A: Crisis/Acute, Track B: Practice Innovation, Track C: Discovery/Breakthrough), counterfactual requirement, EIT Governing Body, anti-capture architecture, prize tiers ($500K–$50M) |
 | Civic_Acropolis | 3 | 1 | Two-tier architecture (Outer Registry: all validated contributors; Inner Canon: 25-year minimum, supermajority, lifetime assessment), Smithsonian governance model, physical design spec, revisability framework — first inductions expected mid-2040s |
-| Criminal_Justice | 0 | 0 | Not started |
-| Rural_Housing_and_Homelessness | 0 | 0 | Deferred from Housing domain; structural home assigned |
+| Criminal_Justice | 1 | 2 | Domain scaffold (5 subdomains scoped) + crisis-response-infrastructure.md (Fourth Dispatch Framework — Denver STAR expanded nationally, 711 routing, opt-in jurisdictions, SSI/UPI/IGL integration) |
+| IDP_Social_Stack | 2 | 2 | housing-arrival-transition-stack (labor mobility + familiarity density infrastructure) + idp-american-outbound-mobility-scaffold (American outbound mobility — trades certification, exchange, return pipeline) |
+| Homelessness | 2 | 3 | healthcare-enabled-housing-pilot-v2 (clinical integration for chronic high-acuity), homelessness-prevention-automatic-stabilizer (eviction/discharge/rent-surge trigger framework), housing-workforce-stabilization-pilots (tiny homes + transitional clusters for work-capable individuals) |
 
 ### Institutional-Modernization (13 files)
 | Subdomain | Phase | Files | Notes |
@@ -125,11 +126,12 @@ Primary remaining gaps: Criminal Justice (no domain), carbon pricing / demand-si
 | Existing_Neighborhood_Treatment | 3 | 5 | Civic overlay, solvency test, seam infra, STZ interface, incentive alignment |
 | Housing_Integration | 3 | 6 | DoDa triggers, CTMI/CBI, executive backstop, tenure-convertible typology, PCA financing, healthcare-enabled housing pilot |
 
-### Technology_and_Data (8 files)
+### Technology_and_Data (11 files)
 | Subdomain | Phase | Files | Notes |
 |-----------|-------|-------|-------|
 | SSI / Digital Identity | 3 | 1 | Framework complete; tagged as accelerant in 10+ files across domains |
 | UPI / Payments | 3 | 1 | Framework complete; tagged as accelerant in 10+ files across domains |
+| Government_Integrity_Infrastructure | 2 | 3 | immutable-government-ledger (append-only cryptographic audit trail), government-outflow-integrity-framework (AI-augmented fraud detection), official-budget-accountability-framework (budget-to-execution integrity, appropriations compliance, DoDA integration) |
 | AI_Governance | 2 | 1 | Exists; enforcement mechanisms gap |
 | Synthetic_Media | 2 | 1 | Provenance framework |
 | Information_Integrity | 2 | 1 | Digital nutrition label |
@@ -138,10 +140,10 @@ Primary remaining gaps: Criminal Justice (no domain), carbon pricing / demand-si
 | Data_Privacy | 0 | 0 | Not started |
 | Cybersecurity | 0 | 0 | Not started |
 
-### Democratic_Integrity (9 files)
+### Democratic_Integrity (11 files)
 | Subdomain | Phase | Files | Notes |
 |-----------|-------|-------|-------|
-| Anti_Corruption | 2 | 3 | Ban gerrymandering (independent redistricting commissions + NRAP), ban stock trading (blind trust + blockchain disclosure), impeachment reform (Special Counsel + automatic suspension + judicial fast-track) |
+| Anti_Corruption | 2 | 5 | Ban gerrymandering (independent redistricting commissions + NRAP), ban stock trading (blind trust + blockchain disclosure), impeachment reform (Special Counsel + automatic suspension + judicial fast-track), impeachment enumerated triggers (12 categories, democratic override doctrine), impeachment oversight commission architecture |
 | Campaign_Finance_Reform | 2 | 1 | National Democracy Fund (5:1 small-donor matching), individual-only donations, dark money ban, blockchain disclosure |
 | Term_and_Age_Limits | 2 | 1 | Uniform age/term limits across all branches; retirement-age anchor; 10-year judicial terms; advisory pathways |
 | Electoral_Reform | 3 | 3 | Election Day national holiday + unified national Primary Day 1 year before general; voter ID 3-phase framework (universal free ID → numeric matching → SSI cryptographic identity); National Referendum Mechanism (7-part anti-capture architecture — spending limits, deliberation window, tiered thresholds, red-team tested) |
@@ -219,7 +221,7 @@ All files mentioning SSI or UPI in prose have been tagged with the appropriate `
 ### Tier 2: Structural Gaps
 | Gap | Domain | Notes |
 |-----|--------|-------|
-| Criminal Justice | Missing Domain | Policing, sentencing, reentry — absent |
+| Criminal Justice | Social Domain | Scaffold + crisis response started; policing, sentencing, reentry, non-violent rehab, justice gap still absent |
 | Carbon Pricing / Demand-Side Climate | Economic_Prosperity.Climate_and_Resilience | Risk management (Phase 3) is covered; carbon pricing, demand-side policy, and decarbonization roadmap still missing |
 | China Strategy | National_Security | Blocked by Trade_Policy |
 | Cyber Security | Nat. Security + Tech | Gap in both domains |

@@ -8,6 +8,8 @@ policy_type: Institutional Architecture
 status: Draft
 version: 0.1
 author: Futures Project
+sidebar_label: Oversight Commission
+sidebar_position: 3
 dependencies:
   - impeachment-reform
   - impeachment-reform-suspension-and-prosecution-clarification

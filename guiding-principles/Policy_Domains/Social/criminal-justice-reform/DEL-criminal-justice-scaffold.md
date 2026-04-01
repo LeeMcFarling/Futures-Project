@@ -1,3 +1,15 @@
+---
+id: criminal-justice-reform-scaffold
+title: Criminal Justice Reform — Domain Scaffold
+domain: Social
+subdomain: Criminal_Justice
+policy_type: Domain Scaffold
+status: Draft
+version: 0.1
+author: Futures Project
+last_updated: 2026-03-29
+---
+
 1. Crisis Response Infrastructure
 Denver STAR model expanded nationally. Fourth dispatch option alongside police, fire, EMS. Dedicated routing number (711 or equivalent). Opt-in framework for jurisdictions. Triage logic for when other forces are called in. This connects to your healthcare-enabled housing and discharge planning work — the same population cycling through crisis response is cycling through ERs and jails.
 

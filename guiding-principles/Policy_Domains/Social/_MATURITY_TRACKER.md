@@ -1,6 +1,6 @@
 # Domain Maturity Tracker: Social
 
-**Last Updated:** 2026-03-26
+**Last Updated:** 2026-03-29
 **Overall Domain Phase:** 3
 **Domain Owner:** TBD
 
@@ -46,8 +46,9 @@ Build the social and cultural infrastructure of civilizational stability — thr
 | National_Contribution_Gala | 3 | 1 | ~6,500 | Broadcaster partnerships; curatorial authority identification; production timeline | national-problem-portfolio-and-competitive-fund, emergent-impact-track | Begin Phase 1 production planning | TBD |
 | Emergent_Impact_Track | 3 | 1 | ~5,500 | EIT Governing Body composition; domain expert pool design; nomination portal spec | department-of-data-and-accountability | Define first pilot nominations | TBD |
 | Civic_Acropolis | 3 | 1 | ~5,200 | Site selection; Board of Regents initial composition; Canon Council constitution | national-problem-portfolio-and-competitive-fund, emergent-impact-track | Draft Congressional charter language | TBD |
-| Criminal_Justice | 0 | 0 | 0 | **Entire subdomain** | None | Create initial framing doc | TBD |
-| Rural_Housing_and_Homelessness | 0 | 0 | 0 | **Deferred from Housing domain** | housing-supply-stabilization-overlay | Create initial framing doc | TBD |
+| Criminal_Justice | 1 | 2 | ~3,500 | Sentencing, reentry, non-violent rehab, justice gap — all absent | None | Add non-violent rehabilitation and justice gap files | TBD |
+| IDP_Social_Stack | 2 | 2 | ~5,000 | Full travel/transition stack + outbound mobility scaffold | idp-social-mobility-layer, housing-supply-stabilization-overlay | Connect to NCT deployment scenarios | TBD |
+| Homelessness | 2 | 3 | ~7,500 | Workforce stabilization pilots, automatic stabilizer, healthcare-enabled housing pilot | ssi-self-sovereign-identity-framework, upi-privacy-preserving-payment-rail | Add rural homelessness coverage | TBD |
 
 ---
 
@@ -84,7 +85,7 @@ Build the social and cultural infrastructure of civilizational stability — thr
 - [x] **National Contribution Gala** — Cultural recognition layer designed ✅
 - [x] **Civic Acropolis** — Permanence and canonization system designed ✅
 - [x] **National Capability Tour** — Civic formation pathway defined ✅
-- [ ] **Criminal Justice** — Policing, sentencing, reentry — entire subdomain absent
+- [~] **Criminal Justice** — Scaffold + crisis response infrastructure exist; policing reform, sentencing, reentry, non-violent rehab, justice gap still absent
 
 ### Tier 2: Structural Gaps (Incomplete Coverage)
 - [ ] **NPP Phase 1 pilot design** — First Big Asks, governing board, DoDa metric framework
@@ -116,6 +117,9 @@ Build the social and cultural infrastructure of civilizational stability — thr
 
 | Date | Subdomain | Change | Phase Impact |
 |------|-----------|--------|--------------|
+| 2026-03-29 | Criminal_Justice | Added DEL-criminal-justice-scaffold.md (domain scaffold — 5 subdomains scoped: crisis response, community stabilization, school/neighborhood stabilization, non-violent rehabilitation, justice gap) and crisis-response-infrastructure.md (Fourth Dispatch Framework — Denver STAR expanded nationally, 711 routing, opt-in jurisdictions, SSI/UPI/IGL integration) | 0 → 2 files; Phase 0 → 1 |
+| 2026-03-29 | IDP_Social_Stack | Added housing-arrival-transition-stack (full travel/transition infrastructure: labor mobility, familiarity density, modular reurbanization links) and idp-american-outbound-mobility-scaffold.md (American outbound mobility — trades certification, exchange, return pipeline); YAML normalized to kebab IDs | 0 → 2 files; Phase 0 → 2 |
+| 2026-03-29 | Homelessness | Added healthcare-enabled-housing-pilot-v2.md (corridor-based clinical integration for chronic high-acuity homelessness), homelessness-prevention-automatic-stabilizer-v2.md (automatic trigger framework: eviction risk, discharge, rent surge), housing-workforce-stabilization-pilots-v2.md (tiny homes + transitional clusters for work-capable individuals); YAML normalized; cross-references to housing-arrival-transition-stack and housing-workforce-stabilization-pilots standardized | 0 → 3 files; Phase 0 → 2 |
 | 2026-03-26 | National_Problem_Portfolio | national-problem-portfolio-v3.md added: full NPP–CPF spec — Big Ask selection criteria, competitive ecosystem, DoDa measurement, CPF payout structure (50/25/25), EIT integration, phase logic, failure modes; YAML completed | 0 → 3 |
 | 2026-03-26 | National_Contribution_Gala | national-contribution-gala-v3.md added: full production architecture — Outcome Unit format, personalization layer, dual-channel broadcast, anti-drift guardrails, governance; YAML completed | 0 → 3 |
 | 2026-03-26 | Emergent_Impact_Track | emergent-impact-prestige-track.md added: three-track EIT (Crisis/Acute, Practice Innovation, Discovery/Breakthrough), counterfactual requirement, validation governance, anti-capture architecture, prize tiers; YAML completed | 0 → 3 |
@@ -126,9 +130,10 @@ Build the social and cultural infrastructure of civilizational stability — thr
 
 ## Notes & Context
 
-- Social domain currently has 6 files totaling ~32,200 words
+- Social domain currently has **13 files** totaling ~44,700 words
 - **Structural note:** Four files (NPP, Gala, EIT, Acropolis) live inside a folder named `national-prestige-mechanics-framework.md/` — unusual folder naming convention with `.md` extension; functionally intact but worth renaming to `national-prestige-mechanics-framework/` for clarity
 - Domain sits at a high maturity level conceptually (all four prestige stack layers fully designed) but at Phase 0 operationally (no pilot architecture finalized, no governing bodies chartered)
-- Criminal Justice is the largest remaining gap — no files exist; the social layer implicitly implicates CJ reform but no explicit brief yet
-- Rural housing and homelessness formally deferred here from Housing domain — structural home assigned but no content yet
+- Criminal Justice now has 2 files (scaffold + crisis response infrastructure); sentencing, reentry, non-violent rehab, justice gap still absent
+- Homelessness subdomain now has 3 files (healthcare-enabled pilot, automatic stabilizer, workforce pilots); rural homelessness still absent
+- IDP_Social_Stack now has 2 files (arrival/transition stack + outbound mobility scaffold); files physically in Social folder but YAML cross-references National_Security/Housing domains
 - The NPP/EIT/Gala/Acropolis stack is internally coherent: NPP → EIT → Gala → Acropolis forms a complete prestige pipeline from problem-solving to permanent canonization

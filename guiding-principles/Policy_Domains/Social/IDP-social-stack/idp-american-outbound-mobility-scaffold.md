@@ -12,8 +12,8 @@ version: 0.1
 author: Futures Project
 dependencies:
   - idp-social-mobility-layer
-  - housing_arrival_transition_stack_v1
-  - idp-continuous-competitive-development
+  - housing-arrival-transition-stack
+  - idp-continuous-competitive-production
   - ssi-self-sovereign-identity-framework
   - upi-privacy-preserving-payment-rail
 related_initiatives:

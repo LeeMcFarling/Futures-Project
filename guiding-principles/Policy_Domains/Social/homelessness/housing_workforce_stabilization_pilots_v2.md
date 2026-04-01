@@ -1,19 +1,23 @@
 ---
-id: housing_workforce_stabilization_pilots_v2
+id: housing-workforce-stabilization-pilots
 title: Workforce-Capable Stabilization Pilots (Tiny Homes and Transitional Clusters)
+sidebar_label: Workforce Stabilization Pilots
+sidebar_position: 2
 slug: housing-workforce-stabilization-pilots
-domain: housing
-subdomain: flex_capacity
-policy_type: pilot_program
-status: draft
-version: v2.0
+domain: Housing_and_Public_Infrastructure
+subdomain: Flex_Capacity
+policy_type: Pilot Program
+status: Draft
+version: 0.2
+author: Futures Project
 dependencies:
   - housing_flex_capacity_doctrine
   - mixed_income_midrise_overlays
-  - ssi_upi_identity_rails
+  - ssi-self-sovereign-identity-framework
+  - upi-privacy-preserving-payment-rail
   - housing-supply-stabilization-overlay
-  - housing_arrival_transition_stack_v2
-  - healthcare-enabled-housing-pilot
+  - housing-arrival-transition-stack
+  - healthcare-enabled-housing-pilot-v2
 tags:
   - housing
   - homelessness

@@ -8,13 +8,13 @@ domain: Housing_and_Public_Infrastructure
 subdomain: Housing_Integration
 policy_type: Targeted Stabilization Pilot
 status: Draft
-version: v2.0
+version: 0.2
 author: Futures Project
 dependencies:
   - housing-supply-stabilization-overlay
   - pca-enabled-consortium-financing
-  - housing_workforce_stabilization_pilots_v2
-  - housing_arrival_transition_stack_v2
+  - housing-workforce-stabilization-pilots
+  - housing-arrival-transition-stack
   - healthcare-infrastructure-layer
 non_goals:
   - comprehensive homelessness policy

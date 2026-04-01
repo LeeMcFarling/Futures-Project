@@ -2,16 +2,18 @@
 id: venezuela-resource-sovereignty-framework
 title: Venezuela and the Architecture of Predatory Debt — A Post-Transition Framework
 slug: /economic-stabilization/venezuela-resource-sovereignty-framework
-domain: Economic_Prosperity / Foreign_Relations
-subdomain: Resource_Governance / Trump_Reactions
+domain: National_Security
+subdomain: Trump_Reactions
 policy_type: Strategic Policy Brief
 status: Draft
 version: 0.3
 author: Futures Project
+sidebar_label: Venezuela Resource Framework
+sidebar_position: 1
 dependencies:
   - venezuela-pre-sovereign-resource-trust
   - security-backstop-partnerships-overview
-  - security-backstop-partnership-councils
+  - security-backstop-partnerships-regional-security-councils
   - sbp-economic-stabilization-and-continuity-framework
   - regional-security-council-development-phases
 tags:

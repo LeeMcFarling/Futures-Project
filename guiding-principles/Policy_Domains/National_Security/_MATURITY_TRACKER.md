@@ -1,6 +1,6 @@
 # Domain Maturity Tracker: National_Security
 
-**Last Updated:** 2026-03-12
+**Last Updated:** 2026-03-29
 **Overall Domain Phase:** 2
 **Domain Owner:** TBD
 
@@ -47,7 +47,8 @@ Define America's security posture, alliance structures, and strategic approach t
 | Security_Backstop_Partnerships | 2 | 6 | ~6,000 | Regional pilot selection; operational protocols | Defense_Posture, IDP | Add pilot region selection criteria | TBD |
 | Middle_East_Framework | 3 | 1 | ~4,500 | Formal PCF charter; Iran snapback mechanics | gdic-phase-1-framework, gdic-phase-2-economic-resilience | Add PCF governance spec | TBD |
 | Aligned_Defense_Partnerships | 2 | 1 | ~600 | Regional ADP mapping; upgrade criteria to SBP | Defense_Posture | Define upgrade pathway | TBD |
-| Foreign_Policy | 0 | 0 | 0 | **In progress** | Defense_Posture | In development | TBD |
+| Foreign_Policy | 1 | 1 | ~2,500 | Venezuela framework only; broader diplomatic layer still missing | Defense_Posture | Add broader diplomatic framework | TBD |
+| Trump_Reactions | 2 | 1 | ~2,500 | Needs additional case studies | National_Security | Expand reaction framework | TBD |
 | China_Strategy | 0 | 0 | 0 | **Not started** | Economic_Prosperity.Trade | Create initial file | TBD |
 | Cyber_Security | 0 | 0 | 0 | **Not started** | Technology_and_Data | Create initial file | TBD |
 
@@ -133,6 +134,7 @@ Define America's security posture, alliance structures, and strategic approach t
 
 | Date | Subdomain | Change | Phase Impact |
 |------|-----------|--------|--------------|
+| 2026-03-29 | Trump_Reactions | Added venezuela-resource-sovereignty-framework-v0.3.md (predatory debt architecture, post-transition resource sovereignty, odious debt doctrine, SBP economic stabilization linkage); lives in National_Security/trump-reactions/; YAML standardized | 0 → 1 file |
 | 2026-03-12 | Security_Backstop_Partnerships | Added 6-file SBP stack: overview, RSC architecture, engagement protocol, economic stabilization, regional instantiation doctrine, development phases; YAML standardized | 0 → 2 |
 | 2026-03-12 | Middle_East_Framework | Added GDIC Phase 3 — political conditioning framework (Israel-Palestine + Iran tracks, PCF governance, phase-gate system); YAML standardized | 0 → 3 |
 | 2026-03-12 | Aligned_Defense_Partnerships | Added ADP framework overview (third tier of alliance architecture); subdomain created; YAML standardized | 0 → 2 |
@@ -149,7 +151,7 @@ Define America's security posture, alliance structures, and strategic approach t
 
 ## Notes & Context
 
-- Domain has **25 substantive files** (up from 16); SBP framework + Middle East Phase III driving latest expansion
+- Domain has **26 substantive files** (up from 25); Venezuela resource sovereignty framework added to Trump_Reactions subdomain
 - Three-tier alliance architecture now complete: IDP (deep integration) → SBP (regional backstop councils) → ADP (bilateral cooperation)
 - IDP: 10 files; Procurement_Reform: 3 files (Phase 3); Gulf_Defense_Compact: 3 files (Phase I → II → III)
 - Security_Backstop_Partnerships: 6-file stack — first regional governance architecture (non-alliance coordination councils)

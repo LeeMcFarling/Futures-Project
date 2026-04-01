@@ -15,8 +15,8 @@ dependencies:
   - upi-privacy-preserving-payment-rail
   - immutable-government-ledger
   - healthcare-enabled-housing-pilot-v2
-  - housing_workforce_stabilization_pilots_v2
-  - housing_arrival_transition_stack_v2
+  - housing-workforce-stabilization-pilots
+  - housing-arrival-transition-stack
   - homelessness-prevention-automatic-stabilizer
   - department-of-data-and-accountability
 related_initiatives:

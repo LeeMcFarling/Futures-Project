@@ -1,31 +1,21 @@
 ---
+id: national-health-month-food-legibility-campaign
+title: National Health Month and Food Legibility Campaign
+sidebar_label: National Health Month Campaign
+sidebar_position: 1
+slug: /healthcare/public-health-nutrition/national-health-month-campaign
 domain: Healthcare
 subdomain: Public_Health_Nutrition
-phase: 2
+policy_type: Campaign Architecture
+status: Draft
+version: 0.1
+author: Futures Project
 dependencies:
-  - type: hard
-    target: Healthcare.Public_Health_Nutrition.Comparative_Ingredient_Disclosure
-    reason: Ingredient disclosure rollout is bundled with campaign launch window
-  - type: hard
-    target: Healthcare.Public_Health_Nutrition.Farmer_Demand_via_Real_Consumption_Data
-    reason: School procurement pilot is a core campaign component and creates anchor demand
-  - type: soft
-    target: Healthcare.Public_Health_Nutrition.Truth_in_Nutrition_Advertising_Standards
-    reason: Coordinated anti-deception messaging runs alongside campaign public education layer
-  - type: soft
-    target: Healthcare.Public_Health_Nutrition.Food_Nutrition_and_Metabolic_Research_Track
-    reason: Plain-language research summaries feed the public education layer
-  - type: soft
-    target: Agriculture.Supply_Chain
-    reason: Year-one pilot announces slack capacity for ranchers and producers; year-two creates forward demand signal aligned to spring-fall growth cycle
-  - type: soft
-    target: Agriculture.Farmer_Economics_and_Risk_Reduction
-    reason: Predictable institutional demand from school procurement reduces volatility for participating producers
-  - type: soft
-    target: Technology_and_Data.Data_Infrastructure
-    reason: Aggregate participation and procurement data feeds demand-signal publication layer
-status: draft
-last_updated: 2025-01-25
+  - comparative-ingredient-disclosure-for-packaged-foods
+  - farmer-demand-via-real-consumption-data
+  - truth-in-nutrition-advertising-standards
+  - food-nutrition-and-metabolic-reasearch-track
+last_updated: 2026-03-29
 ---
 
 ## Summary

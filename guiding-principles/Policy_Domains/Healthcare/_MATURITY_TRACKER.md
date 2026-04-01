@@ -1,6 +1,6 @@
 # Domain Maturity Tracker: Healthcare
 
-**Last Updated:** 2026-03-23
+**Last Updated:** 2026-03-29
 **Overall Domain Phase:** 3
 **Domain Owner:** TBD
 
@@ -43,7 +43,7 @@ Create a healthcare system with transparent pricing, competitive markets for rou
 | Care_Delivery_and_Infrastructure | 3 | 1 | ~1,800 | Rural facility density; telehealth integration | Housing_and_Public_Infrastructure | Expand facility siting criteria | TBD |
 | Execution_and_Transition | 3 | 8 | ~9,500 | State pilot selection criteria; cost glide-path validation | DoDA, DepartmentOfData | Define pilot selection; finalize glide-path thresholds | TBD |
 | Pharmaceutical_Reform | 3 | 8 | ~6,500 | FDA coordination | None | Add regulatory pathway | TBD |
-| Public_Health_Nutrition | 2 | 5 | ~3,800 | Pilot program design | Agriculture | Add pilot selection criteria | TBD |
+| Public_Health_Nutrition | 2 | 6 | ~5,200 | Pilot program design | Agriculture | Add pilot selection criteria | TBD |
 | Mental_Health | 0 | 0 | 0 | **Not started** | None | Create initial file | TBD |
 | Maternal_Health | 0 | 0 | 0 | **Not started** | None | Create initial file | TBD |
 | Rural_Access | 0 | 0 | 0 | **Not started** | Housing_and_Public_Infrastructure | Create initial file | TBD |
@@ -100,6 +100,7 @@ Create a healthcare system with transparent pricing, competitive markets for rou
 
 | Date | Subdomain | Change | Phase Impact |
 |------|-----------|--------|--------------|
+| 2026-03-29 | Public_Health_Nutrition | Added national-health-month-and-food-legibility-campaign.md (fall public activation: national health month + school procurement pilot announcements + ingredient disclosure rollout bundled as single seasonal campaign); YAML overhauled from legacy typed-dependency format to standard slug list | 5 → 6 files |
 | 2026-03-23 | Care_Delivery_and_Insurance | dental-vision-mental-health-market-integration.md added: SEC trigger boundaries for dental/vision/outpatient mental health, optional discount wrap, UPI price display requirement | 3 → 3 (deepened) |
 | 2026-03-23 | Care_Delivery_and_Infrastructure | regional-health-center-network.md added (new subdomain): federally backstopped contractor-operated network; population density coverage standard; network adequacy as closure gate for legacy subsidies | 0 → 3 |
 | 2026-03-23 | Execution_and_Transition | HETA-revised-charter.md added (v0.2): Provider Transition Corps, regional office model, enforcement firewall; cost-performance-backstop.md added: DoDA-triggered escalation framework, healthcare cost glide path, state sequencing + capital recycling model | 6 → 8 files; deepened to Phase 4-adjacent |
@@ -112,7 +113,7 @@ Create a healthcare system with transparent pricing, competitive markets for rou
 
 ## Notes & Context
 
-- Domain has 28 files totaling ~23,200 words (largest domain)
+- Domain has **29 files** totaling ~24,600 words
 - Most mature domain in repository — Execution_and_Transition now approaching Phase 4 with HETA revised charter + cost backstop + DoDA telemetry
 - OLD-* files show policy evolution (preserved as archived)
 - Strong pharmaceutical reform coverage

@@ -4,7 +4,7 @@ title: Regulatory Modernization Corps (RMC) — Phase III Charter
 sidebar_label: Regulatory Modernization Corps
 sidebar_position: 5
 slug: /institutional-modernization/regulatory-modernization-corps
-domain: Institutional-Modernization
+domain: Institutional_Modernization
 subdomain: Regulatory_Compression
 policy_type: Execution Instrument
 status: Draft

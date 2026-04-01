@@ -8,6 +8,8 @@ policy_type: Constitutional Clarification
 status: Draft
 version: 0.4
 author: Futures Project
+sidebar_label: Impeachment Triggers
+sidebar_position: 2
 dependencies:
   - impeachment-reform
   - impeachment-reform-suspension-and-prosecution-clarification

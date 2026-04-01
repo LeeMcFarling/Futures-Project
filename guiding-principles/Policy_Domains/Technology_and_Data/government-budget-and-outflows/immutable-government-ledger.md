@@ -2,7 +2,7 @@
 id: immutable-government-ledger
 title: Immutable Government Ledger
 sidebar_label: Immutable Government Ledger
-sidebar_position: 3
+sidebar_position: 2
 slug: /technology-and-data/immutable-government-ledger
 domain: Technology_and_Data
 subdomain: Government_Integrity_Infrastructure
