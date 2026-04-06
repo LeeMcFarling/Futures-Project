@@ -54,7 +54,7 @@ Build housing capacity and connected public infrastructure together as a unified
 | Special_Transit_Zones | 3 | 1 | ~1,400 | Legal framework | Democratic_Integrity | Add model legislation | TBD |
 | Phased_Rollout | 2 | 1 | ~700 | Timeline specifics | None | Add milestone dates | TBD |
 | Existing_Neighborhood_Treatment | 3 | 5 | ~6,500 | None | None | Complete | — |
-| Housing_Integration | 3 | 6 | ~10,000 | Rural housing, homelessness depth (broader social policy needed) | construction-throughput-mapping-initiative | Complete at this layer — homelessness depth deferred to Social domain | — |
+| Housing_Integration | 3 | 6 | ~10,000 | Rural housing | construction-throughput-mapping-initiative | Complete at this layer — homelessness stack now live in Social domain (3 files) | — |
 | Broadband | 0 | 0 | 0 | **Not started** | Technology_and_Data | Create initial file | TBD |
 | Water_Systems | 0 | 0 | 0 | **Not started** | None | Create initial file | TBD |
 

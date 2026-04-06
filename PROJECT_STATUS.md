@@ -27,7 +27,7 @@ Primary remaining gaps: Carbon pricing / demand-side climate policy, Foreign Pol
 
 | Domain | Phase | Files | Est. Words | Status | Priority Gaps |
 |--------|-------|-------|------------|--------|---------------|
-| Healthcare | 3 | 29 | ~24,600 | Strong | Mental health, maternal health |
+| Healthcare | 3 | 29 | ~24,600 | Strong | Mental health depth (market integration exists), maternal health |
 | Economic_Prosperity | 2–3 | 42 | ~53,300 | Strong | Trade policy (started — China strategy, tariff framework, export controls pending), antitrust, carbon pricing/demand-side |
 | National_Security | 2–3 | 26 | ~31,000 | Strong | Foreign policy (Venezuela framework added; broader diplomatic layer pending), China strategy, cyber; Indo-Pacific SBP instantiation |
 | Immigration | 2 | 11 | ~7,560 | Good | DACA resolution, citizenship backlog |
@@ -226,7 +226,7 @@ All files mentioning SSI or UPI in prose have been tagged with the appropriate `
 | China Strategy | National_Security | Blocked by Trade_Policy |
 | Cyber Security | Nat. Security + Tech | Gap in both domains |
 | Higher Education | Education | Student debt, cost, access |
-| Mental Health | Healthcare | Crisis services, parity |
+| Mental Health (depth) | Healthcare | Market integration covered; crisis services, parity, standalone framework still needed |
 | Platform Regulation (depth) | Technology_and_Data | Anti-capture framework started; enforcement mechanisms, algorithmic audit detail still missing |
 
 ### Tier 3: Enhancement Gaps

@@ -44,7 +44,7 @@ Create a healthcare system with transparent pricing, competitive markets for rou
 | Execution_and_Transition | 3 | 8 | ~9,500 | State pilot selection criteria; cost glide-path validation | DoDA, DepartmentOfData | Define pilot selection; finalize glide-path thresholds | TBD |
 | Pharmaceutical_Reform | 3 | 8 | ~6,500 | FDA coordination | None | Add regulatory pathway | TBD |
 | Public_Health_Nutrition | 2 | 6 | ~5,200 | Pilot program design | Agriculture | Add pilot selection criteria | TBD |
-| Mental_Health | 0 | 0 | 0 | **Not started** | None | Create initial file | TBD |
+| Mental_Health | 3 | 1 | ~800 | Crisis services, parity, access depth — partially covered via Care_Delivery_and_Insurance | None | Add standalone mental health crisis + parity framework | TBD |
 | Maternal_Health | 0 | 0 | 0 | **Not started** | None | Create initial file | TBD |
 | Rural_Access | 0 | 0 | 0 | **Not started** | Housing_and_Public_Infrastructure | Create initial file | TBD |
 
@@ -74,15 +74,15 @@ Create a healthcare system with transparent pricing, competitive markets for rou
 ## Gap Analysis
 
 ### Tier 1: Critical Gaps (Missing Foundation)
-- [ ] **Mental Health** – Crisis services, parity, access – Target: Phase 2
+- [~] **Mental Health** – Market integration covered via dental-vision-mental-health-market-integration.md; crisis services and parity depth still needed
 
 ### Tier 2: Structural Gaps (Incomplete Coverage)
 - [ ] **Maternal Health** – Prenatal, delivery, postpartum – Target: Phase 2
 - [ ] **Rural Access** – Telehealth, facility sustainability – Target: Phase 2
+- [ ] **Mental Health (depth)** – Standalone crisis services, parity enforcement, access framework – Target: Phase 3
 
 ### Tier 3: Enhancement Gaps (Nice-to-Have)
 - [ ] **Long-term care** – Elder care, nursing homes – Target: Phase 3
-- [x] **Dental/vision/mental health market integration** – Coverage expansion framework and SEC trigger boundaries now defined ✅
 
 ---
 
