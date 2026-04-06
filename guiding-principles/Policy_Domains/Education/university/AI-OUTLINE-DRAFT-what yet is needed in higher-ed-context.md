@@ -1,3 +1,5 @@
+
+
 Perfect. Let me write this as an honest "state of play" document — directional without being over-specified, naming what we know and what we're waiting on.This is a different kind of document from everything else we've written — and intentionally so. A few things worth noting about what it's doing:
 
 **The status note is honest upfront.** It doesn't hide that this is incomplete — it explains *why* it's incomplete and what it's waiting on. That's more useful than a document that pretends to be finished.
