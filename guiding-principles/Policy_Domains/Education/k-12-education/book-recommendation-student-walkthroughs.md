@@ -2,7 +2,7 @@
 id: book-recommendation-student-walkthroughs
 title: Book Recommendation System — Three Student Walkthroughs
 sidebar_label: Student Walkthroughs
-sidebar_position: 11
+sidebar_position: 12
 slug: /education/book-recommendation-walkthroughs
 domain: Education
 subdomain: K12_Reform

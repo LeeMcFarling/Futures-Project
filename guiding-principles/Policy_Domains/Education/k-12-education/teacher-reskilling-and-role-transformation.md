@@ -2,7 +2,7 @@
 id: teacher-reskilling-and-role-transformation
 title: Teacher Reskilling & Role Transformation Framework
 sidebar_label: Teacher Reskilling
-sidebar_position: 5
+sidebar_position: 8
 slug: /education/teacher-reskilling
 domain: Education
 subdomain: K12_Reform

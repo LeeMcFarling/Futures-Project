@@ -1,9 +1,9 @@
 # Futures Project - Policy Repository Status Report
 
-**Generated:** 2026-03-29
+**Generated:** 2026-04-06
 **Total Domains:** 12
-**Total Policy Files:** 186
-**Estimated Total Words:** ~260,000
+**Total Policy Files:** 197
+**Estimated Total Words:** ~283,000
 
 ---
 
@@ -34,10 +34,10 @@ Primary remaining gaps: Carbon pricing / demand-side climate policy, Foreign Pol
 | Housing_and_Public_Infrastructure | 3 | 18 | ~29,400 | Strong | Broadband, water, STZ legal framework; rural housing + homelessness depth deferred to Social domain |
 | Institutional-Modernization | 3 | 12 | ~14,700 | Strong | Process redesign; legislative template library; pre-deployment validation section needed in adaptive governance doc |
 | Technology_and_Data | 2 | 11 | ~12,600 | Moderate | Data privacy, cybersecurity; platform regulation started; government integrity infrastructure added |
-| Education | 2 | 6 | ~4,700 | Moderate | Higher ed, early childhood, vocational |
+| Education | 2–3 | 16 | ~23,000 | Growing | Higher ed depth (overview exists), early childhood, vocational/trades |
 | Democratic_Integrity | 2–3 | 11 | ~18,700 | Strong | Judicial reform; anti-corruption enforcement depth |
 | **Social** | **2–3** | **13** | **~44,700** | **Growing** | Criminal Justice (started), rural housing; homelessness stack added; pilot architecture; governing bodies |
-| **United-Nations-and-Global-Institutional-Reform** | **0** | **1** | **~1,500** | **Phase 0 Foundation** | All subdomains — domain articulation complete |
+| **United-Nations-and-Global-Institutional-Reform** | **1** | **2** | **~4,000** | **Phase 0–1** | Domain articulation + structural diagnosis; reform proposals still needed |
 
 ---
 
@@ -82,10 +82,11 @@ Primary remaining gaps: Carbon pricing / demand-side climate policy, Foreign Pol
 | China_Strategy | 0 | 0 | Not started — blocked by Trade_Policy |
 | Cyber_Security | 0 | 0 | Not started |
 
-### United-Nations-and-Global-Institutional-Reform (1 file)
+### United-Nations-and-Global-Institutional-Reform (2 files)
 | Subdomain | Phase | Files | Notes |
 |-----------|-------|-------|-------|
-| Domain_Articulation | 0 | 1 | Conceptual foundation: regional signaling authority + constrained veto mechanics; layered legitimacy model; Phase 0 — detailed institutional proposals will develop from regional strategy + defense workstreams |
+| Domain_Articulation | 0 | 1 | Conceptual foundation: regional signaling authority + constrained veto mechanics; layered legitimacy model — detailed institutional proposals will develop from regional strategy + defense workstreams |
+| Diagnosis | 1 | 1 | international-order-diagnosis.md — structural failure analysis: Security Council enforcement paradox, great-power capture, aspirational vs. functional sovereignty gap; YAML declares domain: National_Security (intentional cross-domain placement) |
 
 ### Social (13 files)
 | Subdomain | Phase | Files | Notes |
@@ -149,6 +150,16 @@ Primary remaining gaps: Carbon pricing / demand-side climate policy, Foreign Pol
 | Electoral_Reform | 3 | 3 | Election Day national holiday + unified national Primary Day 1 year before general; voter ID 3-phase framework (universal free ID → numeric matching → SSI cryptographic identity); National Referendum Mechanism (7-part anti-capture architecture — spending limits, deliberation window, tiered thresholds, red-team tested) |
 | Digital_Democracy | 3 | 1 | 5-phase Digital Democracy Platform: SSI identity layer, ULRR jurisdictional routing, DoDA signal processing, lawmaker accountability dashboards, semi-annual townhalls, 10-year mandate formation → referendum infrastructure. Note: YAML declares `domain: Institutional_Modernization` but physically in Democratic_Integrity folder. |
 | Judicial_Reform | 0 | 0 | Not started — Supreme Court structure, expansion, ethics |
+
+### Education (16 files)
+| Subdomain | Phase | Files | Notes |
+|-----------|-------|-------|-------|
+| K12_Reform | 3 | 12 | Overview, competency framework, DES standards, DES triggers, AI personalization pilot, student-based funding, principal autonomy pilot + counterfactuals, teacher reskilling, book rating + recommendation stack, distillate |
+| Governance | 3 | 1 | DES reform — standards body architecture, trigger-based intervention escalation |
+| Higher_Education | 1 | 2 | Domain overview (directional, pending labor signal + debt integration) + university research pre-seeding infrastructure |
+| University_Admissions | 2 | 1 | Competency alignment framework — lives in k-12 folder, bridges both subdomains |
+| Early_Childhood | 0 | 0 | Not started |
+| Vocational_Training | 0 | 0 | Not started — high IDP linkage |
 
 ### Immigration (11 files)
 | Subdomain | Phase | Files | Notes |

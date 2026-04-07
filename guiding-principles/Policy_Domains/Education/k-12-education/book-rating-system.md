@@ -2,7 +2,7 @@
 id: book-rating-system
 title: Standardized Book Rating System for Education
 sidebar_label: Book Rating System
-sidebar_position: 9
+sidebar_position: 10
 slug: /education/book-rating-system
 domain: Education
 subdomain: K12_Reform

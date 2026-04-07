@@ -7,7 +7,7 @@ slug: /higher-education/overview
 domain: Higher_Education
 subdomain: Domain_Foundation
 policy_type: Strategic Framework
-status: Active Draft — Pending Integration
+status: Draft
 version: 0.1
 author: Futures Project
 dependencies:

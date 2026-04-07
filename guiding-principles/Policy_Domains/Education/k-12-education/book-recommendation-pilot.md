@@ -2,7 +2,7 @@
 id: book-recommendation-pilot
 title: Book Recommendation & Supervised Social Learning Pilot
 sidebar_label: Book Recommendations
-sidebar_position: 10
+sidebar_position: 11
 slug: /education/book-recommendation-pilot
 domain: Education
 subdomain: K12_Reform

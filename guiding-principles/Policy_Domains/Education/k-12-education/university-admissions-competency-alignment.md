@@ -2,7 +2,7 @@
 id: university-admissions-competency-alignment
 title: University Admissions Alignment with Competency-Based Education
 sidebar_label: University Alignment
-sidebar_position: 11
+sidebar_position: 13
 slug: /education/university-alignment
 domain: Education
 subdomain: Higher_Education

@@ -2,7 +2,7 @@
 id: university-research-preseeding
 title: University Research as Discovery Pre-Seeding Infrastructure
 sidebar_label: University Research
-sidebar_position: 1
+sidebar_position: 2
 slug: /higher-education/university-research-preseeding
 domain: Higher_Education
 subdomain: Research_Infrastructure
