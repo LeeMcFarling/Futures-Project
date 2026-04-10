@@ -12,7 +12,7 @@ version: 0.1
 author: Futures Project
 last_updated: 2026-04-07
 dependencies:
-  - industrial-corridor-architecture
+  - industrial-strategy-corridor-architecture
   - industrial-corridor-viability-criteria
   - land-use-stabilization-and-inclusive-growth
   - localized-dutch-disease-mitigation

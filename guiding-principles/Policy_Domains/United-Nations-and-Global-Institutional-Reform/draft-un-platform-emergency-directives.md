@@ -15,13 +15,12 @@ dependencies:
   - international-order-diagnosis
   - un-layered-legitimacy-and-security-council-reform
   - un-mediation-council
-  - un-conflict-screening-and-selective-recusal
   - un-graduated-enforcement-and-collective-action-ladder
 related_initiatives:
-  - Regional Security Councils
-  - Mediation Council
-  - Information Integrity & Digital Nutrition
-  - UN Reform Agenda
+  - regional-security-council-development-phases
+  - un-mediation-council
+  - idp-information-integrity-digital-nutrition
+  - global-institutional-reform-domain
 tags:
   - national-security
   - united-nations

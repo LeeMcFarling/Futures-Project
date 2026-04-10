@@ -5,7 +5,7 @@ sidebar_label: Pharma Anti-Gaming
 sidebar_position: 7
 slug: /healthcare/pharma/cost-attestation-anti-gaming
 domain: Healthcare
-subdomain: Pharmaceuticals
+subdomain: Pharmaceutical_Reform
 policy_type: Enforcement Framework
 status: Draft
 version: 0.1

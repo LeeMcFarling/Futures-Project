@@ -1,6 +1,6 @@
 # Domain Maturity Tracker: Immigration
 
-**Last Updated:** 2026-03-12
+**Last Updated:** 2026-04-10
 **Overall Domain Phase:** 2
 **Domain Owner:** TBD
 
@@ -102,6 +102,7 @@ Create a coherent immigration system that aligns legal immigration with labor ma
 
 | Date | Subdomain | Change | Phase Impact |
 |------|-----------|--------|--------------|
+| 2026-04-10 | Cross-domain note | immigration-services-and-administration.md and workforce-immigration-skill-mobility-system.md added to Immigration folder but declare domain: Economic_Prosperity, subdomain: Labor_Mobility — tracked under Economic_Prosperity/Labor_Mobility | N/A |
 | 2026-02-26 | All | SSI/UPI accelerants added to 6 immigration files | N/A |
 | 2025-01-25 | All | YAML standardized, moved from People_Skills_Health | N/A |
 

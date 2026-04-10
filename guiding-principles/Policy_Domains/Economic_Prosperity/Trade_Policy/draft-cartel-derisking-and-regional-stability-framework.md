@@ -249,6 +249,246 @@ It ensures that:
 > Industrial capital flows reinforce stability wherever it emerges
 
 ---
+## 12. Regional Stability Scoring Model & Investment Response System
+
+### Purpose
+
+This section defines the **quantitative scoring model and capital allocation response curve** used to operationalize the Cartel De-Risking Framework.
+
+The system converts:
+
+> Security, governance, and infrastructure conditions → into → capital allocation decisions
+
+---
+
+## 12.1 Stability Score (S-Score)
+
+Each region (state or sub-state corridor) is assigned a **Stability Score (S-Score)** on a 0–100 scale.
+
+The score is composed of five weighted components:
+
+### A. Security Conditions (30%)
+
+- Violent crime rate (normalized)  
+- Cartel activity indicators (intelligence + incident reports)  
+- Trend direction (improving vs deteriorating)  
+
+---
+
+### B. Rule of Law & Governance (20%)
+
+- Law enforcement effectiveness  
+- Judicial reliability  
+- Corruption indicators  
+- Contract enforcement outcomes  
+
+---
+
+### C. Infrastructure & Industrial Readiness (20%)
+
+- Power reliability  
+- Logistics access (road, rail, port proximity)  
+- Industrial zoning availability  
+- Telecommunications capacity  
+
+---
+
+### D. Workforce & Labor Stability (15%)
+
+- Skilled labor availability  
+- Training pipeline capacity  
+- Labor participation rates  
+- Workforce retention stability  
+
+---
+
+### E. Economic Formalization (15%)
+
+- Share of formal vs informal economy  
+- Tax base stability  
+- Business registration rates  
+- SME ecosystem density  
+
+---
+
+### S-Score Calculation
+
+S-Score = Weighted composite of all five categories
+
+Scores are:
+
+- Updated quarterly  
+- Based on rolling 12-month data  
+- Published publicly  
+
+---
+
+## 12.2 Tier Classification
+
+Regions are classified based on S-Score:
+
+| Tier | Score Range | Classification |
+|------|------------|----------------|
+| Tier 1 | 70–100 | Low-Risk / Stabilized |
+| Tier 2 | 50–69  | Transitional |
+| Tier 3 | 0–49   | High-Risk |
+
+---
+
+## 12.3 Investment Response Curve
+
+Capital allocation follows a **non-linear response curve**.
+
+### Tier 1 (70–100)
+
+- Full industrial deployment  
+- Corridor-level investment  
+- Supplier ecosystem activation  
+- Priority nearshoring destination  
+
+---
+
+### Tier 2 (50–69)
+
+- Selective sector deployment  
+- Smaller-scale manufacturing  
+- Monitoring + conditional expansion  
+- Workforce pipeline activation  
+
+---
+
+### Tier 3 (0–49)
+
+- No strategic manufacturing deployment  
+- Limited non-critical investment allowed  
+- Monitoring only  
+
+---
+
+## 12.4 Gradient-Based Allocation (Within Tiers)
+
+Within each tier, capital allocation scales continuously.
+
+Example:
+
+- S-Score 72 → baseline Tier 1 deployment  
+- S-Score 88 → priority Tier 1 (accelerated investment)  
+
+This prevents:
+
+> Cliff effects and abrupt investment discontinuities
+
+---
+
+## 12.5 Transition Rules
+
+### Upward Movement (Reward Acceleration)
+
+If a region improves:
+
+- +5 point increase sustained over 2 quarters → early access to next-tier benefits  
+- +10 point increase → accelerated investment deployment  
+
+---
+
+### Downward Movement (Controlled Withdrawal)
+
+If a region deteriorates:
+
+- −5 point drop → pause new investment  
+- −10 point drop → gradual capital reallocation  
+
+Critical rule:
+
+> Withdrawal is slower than expansion to avoid destabilization shocks
+
+---
+
+## 12.6 Investment Flow Dynamics
+
+### Positive Flow (Stabilization)
+
+Higher S-Score → Increased:
+
+- Capital investment  
+- Job creation  
+- Supplier density  
+- Infrastructure buildout  
+
+---
+
+### Negative Flow (Risk Containment)
+
+Lower S-Score → Reduced:
+
+- New project approvals  
+- Strategic sector participation  
+- Capital intensity  
+
+---
+
+## 12.7 Time Horizon Dynamics
+
+The system operates across three timeframes:
+
+### Short-Term (0–2 Years)
+- Stabilize investment in Tier 1 regions  
+- Avoid exposure to Tier 3 regions  
+
+---
+
+### Mid-Term (2–5 Years)
+- Expand Tier 1 footprint  
+- Upgrade Tier 2 regions  
+
+---
+
+### Long-Term (5–10 Years)
+- Expand total stabilized geographic area  
+- Enable regional industrial network formation  
+
+---
+
+## 12.8 Feedback Loop Integration
+
+The system continuously updates based on:
+
+- Real investment outcomes  
+- Security condition changes  
+- Workforce and infrastructure development  
+
+This creates a **closed feedback loop**:
+
+Security → Investment → Jobs → Local Pressure → Security
+
+---
+
+## 12.9 Anti-Gaming Safeguards
+
+To maintain integrity:
+
+- Independent data verification required  
+- No self-reported scoring by local authorities  
+- Lagged scoring to prevent short-term manipulation  
+- Multi-source data inputs (public + intelligence + private sector)  
+
+---
+
+## 12.10 System-Level Outcome
+
+Over time, the scoring system produces:
+
+- Expansion of Tier 1 regions  
+- Contraction of high-risk zones  
+- Alignment of capital flows with stability  
+
+The system does not force outcomes.
+
+It ensures that:
+
+> Stability is consistently rewarded with economic growth
+
+---
 
 # PUBLIC FACING DRAFT: Invest Where It Works
 

@@ -7,7 +7,7 @@ slug: /economic-prosperity/trade/wto-modernization-coalition
 domain: Economic_Prosperity
 subdomain: Trade_and_Industrial_Policy
 policy_type: International Trade Governance Framework
-status: Tentative
+status: Draft
 version: 0.1
 author: Futures Project
 dependencies:

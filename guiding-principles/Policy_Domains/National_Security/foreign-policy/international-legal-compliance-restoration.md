@@ -16,9 +16,8 @@ dependencies:
   - foreign-policy-internal-stability-and-external-reorientation
   - international-order-diagnosis
 related_initiatives:
-  - UN Reform Agenda
-  - ICC Reform and Compliance
-  - Democratic Integrity
+  - international-order-diagnosis
+  - un-layered-legitimacy-and-security-council-reform
 tags:
   - foreign-policy
   - international-law

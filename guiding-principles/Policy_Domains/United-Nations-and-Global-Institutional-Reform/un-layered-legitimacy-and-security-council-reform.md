@@ -16,10 +16,10 @@ dependencies:
   - security-backstop-partnerships-overview
   - regional-security-council-development-phases
 related_initiatives:
-  - Security Backstop Partnerships
-  - Regional Security Councils
-  - UN Reform Agenda
-  - Mediation Council
+  - security-backstop-partnerships-overview
+  - regional-security-council-development-phases
+  - global-institutional-reform-domain
+  - un-mediation-council
 tags:
   - national-security
   - united-nations

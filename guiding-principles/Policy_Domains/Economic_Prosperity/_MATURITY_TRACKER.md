@@ -1,6 +1,6 @@
 # Domain Maturity Tracker: Economic_Prosperity
 
-**Last Updated:** 2026-03-29
+**Last Updated:** 2026-04-10
 **Overall Domain Phase:** 2
 **Domain Owner:** TBD
 
@@ -41,11 +41,12 @@ Create conditions for broad-based economic prosperity through agricultural resil
 |-----------|-------|------------|------------|----------|--------------|-------------|-------------|
 | Agriculture | 3 | 8 | ~8,500 | Implementation timeline | Public_Infrastructure.Rural | Add pilot program details | TBD |
 | Budget_and_Fiscal_Policy | 2 | 4 | ~4,000 | Tax reform details | None | Expand revenue mechanisms | TBD |
-| Manufacturing | 2 | 18 | ~34,500 | Workforce-skill-mobility doc missing; Trade Policy gap remains | Technology_and_Data, National_Security | Add workforce mobility doc; resolve folder/domain placement | TBD |
+| Manufacturing | 2 | 26 | ~50,000 | Urban-industrial integration needs depth; workforce training linkages new | Technology_and_Data, National_Security | Expand urban-industrial integration depth | TBD |
+| Labor_Mobility | 2 | 3 | ~5,500 | WCA/ISA deployment models covered; employer accountability depth | department-of-data-and-accountability | Add employer accountability detail | TBD |
 | Energy | 3 | 5 | ~9,000 | Zoning/legal overlay for siting, FERC vs. state authority, eminent domain for transmission corridors | public-capital-authority | Add legal/zoning overlay doc | TBD |
 | Labor_and_Wellfare | 2 | 4 | ~3,500 | Automation/AI impacts, union policy | Immigration, Healthcare | Expand coverage | TBD |
 | Climate_and_Resilience | 3 | 4 | ~9,000 | Carbon pricing/demand-side; rural adaptation depth | department-of-data-and-accountability | Add carbon framework; expand rural coverage | TBD |
-| Trade_Policy | 1 | 1 | ~1,800 | China decoupling strategy; tariff/market-access framework; export controls; enforcement modernization; supply chain mapping | National_Security, Manufacturing | Add China strategy, tariff framework, export controls files | TBD |
+| Trade_Policy | 2 | 7 | ~14,000 | China decoupling strategy; export controls; enforcement modernization — still unwritten | National_Security, Manufacturing | Add China decoupling + export controls | TBD |
 | Antitrust | 0 | 0 | 0 | **Not started** | Technology_and_Data | Create initial file | TBD |
 | Small_Business | 0 | 0 | 0 | **Not started** | Budget | Create initial file | TBD |
 
@@ -104,6 +105,9 @@ Create conditions for broad-based economic prosperity through agricultural resil
 
 | Date | Subdomain | Change | Phase Impact |
 |------|-----------|--------|--------------|
+| 2026-04-10 | Trade_Policy | Added 6-file trade stack: draft-adversarial-trade-partner-risk-management.md, draft-cartel-derisking-and-regional-stability-framework.md, draft-idp-nations-trade-overview.md (dep slugs fixed: impeachment-reform → impeachment-reform-enumerated-triggers, integrated-defense-partnerships removed, regulatory-version-control-system → regulatory-modernization-packet-spec), draft-noram-manufacturing-and-nearshoring-framework.md (integrated-defense-partnerships dep removed), draft-tariff-governance-and-industrial-activation.md, draft-wto-trade-modernization-coalition-framework.md (status Tentative → Draft) | 1 → 7 files; Phase 1 → 2 |
+| 2026-04-10 | Manufacturing | Added 8-file workforce + regulatory + urban-industrial stack: DRAFT-industrial-permitting-shot-clock-v0.2.md + DRAFT-example-industrial-permitting-shot-clock-semiconductor-fab.md + regulatory-modernization-deployments-v0.3.md (regulatory-modernization/); workforce-training-and-education-alignment.md + workforce-access-points-and-local-deployment.md + wca-execution-corps-deployment.md + isa-execution-corps-deployment.md (workforce-training-and-immigration/; execution-corps-public-capital-authority dep split → exec-corps-spec + public-capital-authority); urban-industrial-integration-overview.md (industrial-corridor-architecture dep → industrial-strategy-corridor-architecture) | 18 → 26 files |
+| 2026-04-10 | Labor_Mobility | Added 3 cross-domain files (domain: Economic_Prosperity, subdomain: Labor_Mobility, physically in Immigration/Institutional-Modernization folders): workforce-immigration-skill-mobility-system.md (system doctrine), immigration-services-and-administration.md (ISA lifecycle), wca-workforce-coordination-authority.md / workforce-coordination-authority.md (WCA allocation + activation) | New subdomain, 0 → 3 files |
 | 2026-04-08 | Manufacturing | Added industrial-logistics-spine.md (freight/rail corridor throughput + proximity logic) and industrial-siting-compact.md (integrated deployment framework — corridor activation, siting doctrine, phased rollout); NORAM moved to supply-chain-and-critical-materials/ subfolder; industrial-materials-and-supply-chain-overview.md and supplier-ecosystem-and-input-access.md updated to v0.2; dep ID fixes applied | 16 → 18 files |
 | 2026-04-08 | Climate_and_Resilience | wildfire-mitigation-and-landscape-risk-governance.md redrafted (v0.1 — prescribed burns, tribal partnerships, NASA/NOAA risk modeling, insurance eligibility linkage); replaces earlier version | N/A |
 | 2026-03-29 | Manufacturing | Added 9-file PCA instruments and industrial deployment stack: manufacturing-pca-instruments-framework.md (5-instrument PCA stack), cluster-infrastructure-financing.md (corridor-scale PCA deployment), factory-jv-deployment-model.md (JV structure + deployment logic), land-value-capture-resident-equity.md (anti-gentrification mechanism), supplier-credit-facilities.md (credit facility architecture), alliance-industrial-target-map.md (target industries by tier), regional-manufacturing-pilot-playbooks.md (pilot execution blueprints), manufacturing-regulatory-modernization-sandbox.md (sector RMS overlay), industrial-demand-coordination-system.md (demand signal architecture); all YAML clean | 7 → 16 files |
@@ -118,9 +122,11 @@ Create conditions for broad-based economic prosperity through agricultural resil
 
 ## Notes & Context
 
-- Domain has **44 files** totaling ~61,300 words (largest domain)
-- Agriculture is most developed subdomain; Manufacturing now second-most developed at 16 files with full PCA instruments stack
-- Manufacturing files live in `Policy_Domains/Manufacturing/` — folder/domain placement should eventually be reconciled to `Policy_Domains/Economic_Prosperity/Manufacturing/`
-- `workforce-skill-mobility` dependency referenced in Dutch Disease file — placeholder for a future workforce mobility doc
+- Domain has **~57 files** totaling ~85,000 words (largest domain, including cross-domain Labor_Mobility files)
+- Agriculture is most developed subdomain; Manufacturing now 26 files — largest subdomain
+- Trade_Policy now at 7 files (Phase 2); tariff governance, adversarial risk management, NORAM alignment, cartel de-risking, IDP compact, WTO coalition
+- New Labor_Mobility subdomain: 3 cross-domain files (system doctrine, ISA, WCA) that live in Immigration/IM folders but declare Economic_Prosperity domain; workforce training files (4) counted under Manufacturing
+- Manufacturing files still live in `Policy_Domains/Manufacturing/` — folder/domain placement should eventually be reconciled
+- `workforce-skill-mobility` gap now substantially addressed by Labor_Mobility subdomain
 - "Efficiancy" folder has typo (should be Efficiency)
-- Strong fiscal policy foundation, weak on trade/labor
+- China decoupling strategy + export controls still missing from Trade_Policy

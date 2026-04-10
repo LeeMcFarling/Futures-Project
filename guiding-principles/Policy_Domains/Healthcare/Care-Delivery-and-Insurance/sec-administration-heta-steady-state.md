@@ -14,7 +14,7 @@ last_updated: 2026-04-10
 dependencies:
   - insurance-architecture-sec
   - healthcare-execution-authority
-  - HETA-revised-charter
+  - heta-revised-charter
   - healthcare-infrastructure-layer
   - ssi-self-sovereign-identity-framework
   - upi-privacy-preserving-payment-rail

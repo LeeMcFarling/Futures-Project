@@ -16,10 +16,8 @@ dependencies:
   - defense-posture
   - security-backstop-partnerships-overview
 related_initiatives:
-  - Integrated Defense Partnerships
-  - Security Backstop Partnerships
-  - UN Reform Agenda
-  - Democratic Integrity
+  - security-backstop-partnerships-overview
+  - international-order-diagnosis
 tags:
   - foreign-policy
   - alliance-architecture

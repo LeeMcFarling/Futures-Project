@@ -14,7 +14,7 @@ dependencies:
   - department-of-data-and-accountability
   - public-capital-authority
   - digital-nutrition-label
-  - regulatory-version-control-system
+  - regulatory-modernization-packet-spec
 related_initiatives:
   - healthcare-price-transparency
   - food-system-modernization

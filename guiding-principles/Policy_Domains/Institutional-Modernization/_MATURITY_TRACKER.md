@@ -1,6 +1,6 @@
 # Domain Maturity Tracker: Institutional-Modernization
 
-**Last Updated:** 2026-03-26
+**Last Updated:** 2026-04-10
 **Overall Domain Phase:** 3
 **Domain Owner:** TBD
 
@@ -43,7 +43,8 @@ Modernize democratic institutions through reusable execution instruments that tr
 | Execution_Corps_Spec | 3 | 1 | ~2,100 | Domain instantiations | None | Add domain-specific deployments | TBD |
 | Industry_Interface | 3 | 1 | ~1,300 | Sector examples | Execution_Corps_Spec | Add case studies | TBD |
 | Public_Capital_Authority | 3 | 1 | ~1,500 | Portfolio definitions | Budget.Fiscal_Policy | Define initial portfolios | TBD |
-| Regulatory_Compression | 2 | 2 | ~1,800 | Sector-specific overlays in progress (Energy RMS done), eminent domain/property rights gap | execution-corps-spec | Add Housing/land-use RMS overlay | TBD |
+| Regulatory_Compression | 2 | 3 | ~3,500 | Sector-specific overlays in progress (Energy RMS done), eminent domain/property rights gap | execution-corps-spec | Add Housing/land-use RMS overlay | TBD |
+| Market_Integrity_and_Public_Trust | 3 | 1 | ~5,500 | Enforcement capacity; multi-agency coordination; safe-harbor boundary testing | department-of-data-and-accountability, public-capital-authority | Add enforcement capacity spec | TBD |
 | Adaptive_Governance | 3 | 1 | ~1,800 | Pre-deployment validation section; parameter adjustment governance process | department-of-data-and-accountability, execution-corps-spec | Add validation section; specify adjustment authority | TBD |
 | Measurement_and_Accountability | 3 | 1 | ~2,200 | Cross-domain trigger catalog; telemetry API standards | execution-corps-spec, public-capital-authority | Define trigger catalog; specify reporting cadence per domain | TBD |
 | Democratic_Execution_Interface | 3 | 1 | ~2,000 | Specific accountability mechanism design; inter-branch authority handoff protocols | execution-corps-spec, department-of-data-and-accountability | Define oversight accountability mechanisms | TBD |
@@ -111,6 +112,8 @@ Modernize democratic institutions through reusable execution instruments that tr
 
 | Date | Subdomain | Change | Phase Impact |
 |------|-----------|--------|--------------|
+| 2026-04-10 | Market_Integrity_and_Public_Trust | coordinated-deceptive-practices-enforcement-framework-v0.5.md added (v0.5 CDE framework — coordinated deceptive practices enforcement + transition; domain: Institutional_Modernization; physically lives in Democratic_Integrity folder); dep regulatory-version-control-system → regulatory-modernization-packet-spec | 0 → 1 file |
+| 2026-04-10 | Regulatory_Compression | regulatory-modernization-packet-spec.md added (canonical RMS packet artifact specification; ULRR + RMC integration; version control + governance) | 2 → 3 files |
 | 2026-03-26 | Civic_Formation_and_Leadership | civic-competence-pipeline.md added: three-stage competence pipeline (NCT → Execution Corps → NPP), money/celebrity pipeline critique, DoDA accountability loop, connection to meaning crisis literature; YAML completed | 0 → 3 |
 | 2026-03-23 | Measurement_and_Accountability | Department-of-Data-and-Accountability.md added: national measurement backbone, outcome certification, trigger maintenance, telemetry publishing — standing institution alongside Execution Corps and PCA | 0 → 3 |
 | 2026-03-23 | Democratic_Execution_Interface | congressional-operating-system-interface.md added: Congress governance model, envelope-based authorization, outcome-triggered reporting, oversight without operational specification | 0 → 3 |
@@ -125,7 +128,7 @@ Modernize democratic institutions through reusable execution instruments that tr
 
 ## Notes & Context
 
-- Domain has 11 active policy files totaling ~18,200 words (excluding archives)
+- Domain has 13 active policy files totaling ~27,200 words (excluding archives)
 - 2 archive files preserved (old_* prefix) showing policy evolution
 - Execution Corps is a cross-cutting instrument used by multiple domains
 - Public Capital Authority is Phase 3 deployment-ready

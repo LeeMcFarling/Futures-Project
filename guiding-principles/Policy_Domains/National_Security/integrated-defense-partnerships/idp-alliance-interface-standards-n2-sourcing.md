@@ -18,9 +18,8 @@ dependencies:
   - defense-acquisition-reform
   - dod-continuous-competitive-procurement-pilot
 related_initiatives:
-  - IDP Continuous Competitive Production
-  - Alliance Test Range Infrastructure
-  - Defense Acquisition Reform
+  - idp-continuous-competitive-production
+  - defense-acquisition-reform
 tags:
   - national-security
   - integrated-defense-partnerships

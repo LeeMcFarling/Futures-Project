@@ -11,10 +11,9 @@ status: Draft
 version: 0.1
 author: Futures Project
 dependencies:
-  - impeachment-reform
-  - integrated-defense-partnerships
+  - impeachment-reform-enumerated-triggers
   - public-capital-authority
-  - regulatory-version-control-system
+  - regulatory-modernization-packet-spec
 tags:
   - trade
   - alliance

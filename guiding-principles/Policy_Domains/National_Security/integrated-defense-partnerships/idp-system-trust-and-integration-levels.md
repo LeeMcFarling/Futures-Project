@@ -17,9 +17,8 @@ dependencies:
   - defense-posture
   - security-backstop-partnerships-overview
 related_initiatives:
-  - Alliance Conduct Framework
-  - IDP Continuous Competitive Production
-  - UN Reform Agenda
+  - idp-continuous-competitive-production
+  - global-institutional-reform-domain
 tags:
   - national-security
   - integrated-defense-partnerships

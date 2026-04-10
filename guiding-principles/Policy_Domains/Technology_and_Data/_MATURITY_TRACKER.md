@@ -1,6 +1,6 @@
 # Domain Maturity Tracker: Technology_and_Data
 
-**Last Updated:** 2026-03-29
+**Last Updated:** 2026-04-10
 **Overall Domain Phase:** 2
 **Domain Owner:** TBD
 
@@ -47,6 +47,7 @@ Modernize government technology, establish digital identity infrastructure, and 
 | Market_Structure_and_Digital_Competition | 2 | 1 | ~1,500 | Algorithmic pricing enforcement; structural separation triggers | Economic_Prosperity.Antitrust | Add platform chokepoint detail; enforcement mechanism | TBD |
 | Algorithmic_Governance | 1 | 2 | ~1,500 | Year-one doc is framing stub; working group design; measurement methodology | ai-data-and-governance, synthetic-media-provenance | Develop year-one implementation spec; define measurement pipeline | TBD |
 | Government_Integrity_Infrastructure | 2 | 3 | ~4,500 | Integration with DOGE-style audit tooling; inter-agency ledger access | immutable-government-ledger, ssi-self-sovereign-identity-framework | Add audit API spec | TBD |
+| Government_Infrastructure | 2 | 1 | ~2,500 | IRS modernization live; broader gov-tech stack still unbuilt | ssi-self-sovereign-identity-framework, upi-privacy-preserving-payment-rail | Add automated filing + direct deposit | TBD |
 | Data_Privacy | 0 | 0 | 0 | **Not started** | None | Create initial file | TBD |
 | Cybersecurity | 0 | 0 | 0 | **Not started** | National_Security | Create initial file | TBD |
 | Gov_Tech | 0 | 0 | 0 | **Not started** | None | Create initial file | TBD |
@@ -106,6 +107,7 @@ Modernize government technology, establish digital identity infrastructure, and 
 
 | Date | Subdomain | Change | Phase Impact |
 |------|-----------|--------|--------------|
+| 2026-04-10 | Government_Infrastructure | Added irs-modernization-automated-income-attestation.md (IRS modernization — automated income attestation + SSI/UPI credential-based tax infra; sidebar_position: 1, top-level Tech domain folder) | 0 → 1 file |
 | 2026-03-29 | Government_Integrity_Infrastructure | Added 3-file stack: immutable-government-ledger.md (append-only cryptographic audit trail for all government transactions), government-outflow-integrity-framework.md (AI-augmented fraud detection — pattern analysis, behavioral risk scoring, cross-domain anomaly detection), official-budget-accountability-framework.md (budget-to-execution integrity layer — appropriations compliance, spend velocity monitoring, DoDA integration); YAML complete including sidebar positions | 0 → 3 files; Phase 0 → 2 |
 | 2026-03-25 | Market_Structure_and_Digital_Competition | Added anti-capture-competition-framework.md: chokepoint power, algorithmic coordination, interoperability/portability rights, structural separation — pro-market competition governance | 0 → 2 |
 | 2026-03-25 | Algorithmic_Governance | Added algorithmic-attention-initiative.md (Discussion Paper: engagement arms race problem, coordination failure, working group proposal) and year-one-attention-stability (Implementation Specification stub) | 0 → 1 |
@@ -123,7 +125,7 @@ Modernize government technology, establish digital identity infrastructure, and 
 
 ## Notes & Context
 
-- Domain has **11 policy files** totaling ~12,600 words
+- Domain has **12 policy files** totaling ~15,100 words
 - AI governance gap closed (was marked **CRITICAL**)
 - SSI and UPI frameworks both at Phase 3; serve as accelerants in 12+ files across platform
 - New subdomains added: Payments, Synthetic Media, Information Integrity, Market_Structure_and_Digital_Competition, Algorithmic_Governance

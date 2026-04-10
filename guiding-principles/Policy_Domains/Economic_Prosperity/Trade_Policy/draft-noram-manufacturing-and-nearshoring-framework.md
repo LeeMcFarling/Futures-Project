@@ -14,7 +14,6 @@ dependencies:
   - tariff-governance-and-industrial-activation
   - industrial-demand-coordination-system
   - noram-critical-materials
-  - integrated-defense-partnerships
   - execution-corps-spec
 tags:
   - manufacturing

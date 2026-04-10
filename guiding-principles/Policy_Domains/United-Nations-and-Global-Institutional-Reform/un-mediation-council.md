@@ -15,9 +15,8 @@ dependencies:
   - international-order-diagnosis
   - un-layered-legitimacy-and-security-council-reform
 related_initiatives:
-  - Regional Security Councils
-  - UN Reform Agenda
-  - Conflict Screening & Recusal Architecture
+  - regional-security-council-development-phases
+  - global-institutional-reform-domain
 tags:
   - national-security
   - united-nations

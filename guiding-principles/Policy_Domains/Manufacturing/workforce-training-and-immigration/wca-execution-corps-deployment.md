@@ -2,16 +2,26 @@
 id: wca-execution-corps-deployment
 title: Workforce Coordination Authority — Execution Corps Deployment Model
 sidebar_label: WCA Deployment
+sidebar_position: 7
 slug: /economic-prosperity/workforce-immigration/wca-deployment
 domain: Economic_Prosperity
 subdomain: Labor_Mobility
 policy_type: Operational Deployment
 status: Draft
 version: 0.1
+author: Futures Project
+last_updated: 2026-04-07
 dependencies:
   - workforce-coordination-authority
-  - execution-corps-public-capital-authority
+  - execution-corps-spec
+  - public-capital-authority
   - industrial-demand-coordination-system
+tags:
+  - workforce
+  - coordination
+  - execution-corps
+  - deployment
+  - labor-mobility
 ---
 
 # Workforce Coordination Authority — Execution Corps Deployment Model

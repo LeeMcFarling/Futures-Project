@@ -1,6 +1,6 @@
 # Domain Maturity Tracker: Healthcare
 
-**Last Updated:** 2026-03-29
+**Last Updated:** 2026-04-10
 **Overall Domain Phase:** 3
 **Domain Owner:** TBD
 
@@ -39,10 +39,10 @@ Create a healthcare system with transparent pricing, competitive markets for rou
 
 | Subdomain | Phase | File Count | Word Count | Key Gaps | Dependencies | Next Action | Target Date |
 |-----------|-------|------------|------------|----------|--------------|-------------|-------------|
-| Care_Delivery_and_Insurance | 3 | 6 | ~5,800 | Payer transition details | Budget.Healthcare | Add transition mechanics | TBD |
+| Care_Delivery_and_Insurance | 3 | 7 | ~7,500 | Payer transition details | Budget.Healthcare | Add transition mechanics | TBD |
 | Care_Delivery_and_Infrastructure | 3 | 1 | ~1,800 | Rural facility density; telehealth integration | Housing_and_Public_Infrastructure | Expand facility siting criteria | TBD |
 | Execution_and_Transition | 3 | 8 | ~9,500 | State pilot selection criteria; cost glide-path validation | DoDA, DepartmentOfData | Define pilot selection; finalize glide-path thresholds | TBD |
-| Pharmaceutical_Reform | 3 | 8 | ~6,500 | FDA coordination | None | Add regulatory pathway | TBD |
+| Pharmaceutical_Reform | 3 | 9 | ~8,000 | FDA coordination | None | Add regulatory pathway | TBD |
 | Public_Health_Nutrition | 2 | 6 | ~5,200 | Pilot program design | Agriculture | Add pilot selection criteria | TBD |
 | Mental_Health | 3 | 1 | ~800 | Crisis services, parity, access depth — partially covered via Care_Delivery_and_Insurance | None | Add standalone mental health crisis + parity framework | TBD |
 | Maternal_Health | 0 | 0 | 0 | **Not started** | None | Create initial file | TBD |
@@ -100,6 +100,8 @@ Create a healthcare system with transparent pricing, competitive markets for rou
 
 | Date | Subdomain | Change | Phase Impact |
 |------|-----------|--------|--------------|
+| 2026-04-10 | Care_Delivery_and_Insurance | Added sec-administration-heta-steady-state.md (SEC Administration — HETA Steady-State Operating Model; lives in Care-Delivery folder, subdomain Execution_and_Transition); dep HETA-revised-charter case fixed to heta-revised-charter | 6 → 7 files |
+| 2026-04-10 | Pharmaceutical_Reform | Added pharmaceutical-cost-attestation-anti-gaming.md (cost attestation + anti-gaming enforcement framework; subdomain fixed Pharmaceuticals → Pharmaceutical_Reform) | 8 → 9 files |
 | 2026-03-29 | Public_Health_Nutrition | Added national-health-month-and-food-legibility-campaign.md (fall public activation: national health month + school procurement pilot announcements + ingredient disclosure rollout bundled as single seasonal campaign); YAML overhauled from legacy typed-dependency format to standard slug list | 5 → 6 files |
 | 2026-03-23 | Care_Delivery_and_Insurance | dental-vision-mental-health-market-integration.md added: SEC trigger boundaries for dental/vision/outpatient mental health, optional discount wrap, UPI price display requirement | 3 → 3 (deepened) |
 | 2026-03-23 | Care_Delivery_and_Infrastructure | regional-health-center-network.md added (new subdomain): federally backstopped contractor-operated network; population density coverage standard; network adequacy as closure gate for legacy subsidies | 0 → 3 |
@@ -113,7 +115,7 @@ Create a healthcare system with transparent pricing, competitive markets for rou
 
 ## Notes & Context
 
-- Domain has **29 files** totaling ~24,600 words
+- Domain has **31 files** totaling ~27,100 words
 - Most mature domain in repository — Execution_and_Transition now approaching Phase 4 with HETA revised charter + cost backstop + DoDA telemetry
 - OLD-* files show policy evolution (preserved as archived)
 - Strong pharmaceutical reform coverage

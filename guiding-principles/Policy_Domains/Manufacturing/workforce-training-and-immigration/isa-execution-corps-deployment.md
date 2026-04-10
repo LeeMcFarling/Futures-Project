@@ -2,16 +2,26 @@
 id: isa-execution-corps-deployment
 title: Immigration Services and Administration — Execution Corps Deployment Model
 sidebar_label: ISA Deployment
+sidebar_position: 6
 slug: /economic-prosperity/workforce-immigration/isa-deployment
 domain: Economic_Prosperity
 subdomain: Labor_Mobility
 policy_type: Operational Deployment
 status: Draft
 version: 0.1
+author: Futures Project
+last_updated: 2026-04-07
 dependencies:
   - immigration-services-and-administration
   - workforce-coordination-authority
-  - execution-corps-public-capital-authority
+  - execution-corps-spec
+  - public-capital-authority
+tags:
+  - immigration
+  - workforce
+  - execution-corps
+  - deployment
+  - labor-mobility
 ---
 
 # Immigration Services and Administration — Execution Corps Deployment Model

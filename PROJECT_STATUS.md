@@ -1,17 +1,17 @@
 # Futures Project - Policy Repository Status Report
 
-**Generated:** 2026-04-08
+**Generated:** 2026-04-10
 **Total Domains:** 12
-**Total Policy Files:** 207
-**Estimated Total Words:** ~307,000
+**Total Policy Files:** ~238
+**Estimated Total Words:** ~373,000
 
 ---
 
 ## Executive Summary
 
-The repository has grown substantially — from 65 files across 8 domains (January 2025) to **186 files across 12 domains**. Economic_Prosperity is now the largest domain at 42 files including a 9-file PCA instruments and industrial deployment stack (manufacturing PCA instruments, cluster financing, JV deployment model, land value capture, supplier credit facilities, alliance target map, regional pilot playbooks, manufacturing RMS, industrial demand coordination). Social domain expanded significantly from 6 to 13 files: Homelessness subdomain established (3 files: healthcare-enabled housing pilot, automatic stabilizer, workforce stabilization pilots), Criminal Justice started (2 files: domain scaffold + crisis response infrastructure), IDP Social Stack added (2 files: arrival/transition stack, outbound mobility scaffold). Technology_and_Data added a 3-file Government Integrity Infrastructure stack (immutable ledger, outflow integrity, budget accountability). Democratic_Integrity Anti_Corruption expanded to 5 files with two new impeachment reform documents (enumerated triggers, oversight commission). Venezuela resource sovereignty framework added to National_Security. Healthcare Public_Health_Nutrition grew to 6 files with national health month campaign.
+The repository has grown to **~238 files across 12 domains**. Three major new stacks since Apr 8: (1) Trade Policy expanded from 1 → 7 files (Phase 1→2) — tariff governance, adversarial trade risk management, NORAM manufacturing alignment, cartel de-risking, IDP trade compact, WTO modernization coalition; (2) Manufacturing expanded from 18 → 26 files — permitting shot clock + example deployment, RMC industrial deployment model, urban-industrial integration, and a 4-file workforce-training/immigration stack (WCA deployment, ISA deployment, access points, training alignment); (3) National_Security added 8 files — 4-file UN Reform stack (SC reform + layered legitimacy, mediation council, enforcement ladder, platform emergency directives) + 2 new IDP files (alliance interface standards + system trust/integration levels) + 2 Foreign Policy doctrine files (internal stability/external reorientation + international legal compliance). Also added: 2 Healthcare files (SEC Administration steady-state, pharma anti-gaming enforcement), 1 IRS Modernization file (Technology), 1 territorial self-determination file (Democratic_Integrity), 2 Institutional-Modernization files (RMS packet spec, CDE enforcement framework).
 
-Primary remaining gaps: Carbon pricing / demand-side climate policy, Foreign Policy (Venezuela framework added; broader diplomatic layer pending), Trade Policy (overview scaffold exists — sub-files pending), the legal/property overlay for energy transmission siting, Judicial Reform (Democratic_Integrity), full Criminal Justice coverage (sentencing, reentry, non-violent rehab, justice gap).
+Primary remaining gaps: China decoupling strategy + export controls (Trade_Policy), Foreign Policy (2 doctrine files added; Indo-Pacific bilateral + deeper diplomatic execution still missing), Carbon pricing/demand-side climate, energy transmission legal/zoning overlay, Judicial Reform, school/neighborhood stabilization (Criminal Justice).
 
 ### Overall Maturity Distribution
 
@@ -27,66 +27,72 @@ Primary remaining gaps: Carbon pricing / demand-side climate policy, Foreign Pol
 
 | Domain | Phase | Files | Est. Words | Status | Priority Gaps |
 |--------|-------|-------|------------|--------|---------------|
-| Healthcare | 3 | 29 | ~24,600 | Strong | Mental health depth (market integration exists), maternal health |
-| Economic_Prosperity | 2–3 | 44 | ~61,300 | Strong | Trade policy (started — China strategy, tariff framework, export controls pending), antitrust, carbon pricing/demand-side |
-| National_Security | 2–3 | 26 | ~31,000 | Strong | Foreign policy (Venezuela framework added; broader diplomatic layer pending), China strategy, cyber; Indo-Pacific SBP instantiation |
-| Immigration | 2 | 11 | ~7,560 | Good | DACA resolution, citizenship backlog |
+| Healthcare | 3 | 31 | ~27,100 | Strong | Mental health depth (market integration exists), maternal health |
+| Economic_Prosperity | 2–3 | ~57 | ~85,000 | Strong | China decoupling + export controls (Trade_Policy), antitrust, carbon pricing/demand-side |
+| National_Security | 2–3 | 34 | ~40,000 | Strong | Foreign Policy (doctrine established; Indo-Pacific bilateral pending), China strategy, cyber; conflict-screening file missing |
+| Immigration | 2 | 11 | ~7,560 | Good | DACA resolution, citizenship backlog; 2 cross-domain files (domain: Economic_Prosperity) in folder |
 | Housing_and_Public_Infrastructure | 3 | 18 | ~29,400 | Strong | Broadband, water, STZ legal framework; rural housing + homelessness depth deferred to Social domain |
-| Institutional-Modernization | 3 | 12 | ~14,700 | Strong | Process redesign; legislative template library; pre-deployment validation section needed in adaptive governance doc |
-| Technology_and_Data | 2 | 11 | ~12,600 | Moderate | Data privacy, cybersecurity; platform regulation started; government integrity infrastructure added |
+| Institutional-Modernization | 3 | 13 | ~27,200 | Strong | Process redesign; CDE framework + RMS packet spec added; domain instantiations still needed |
+| Technology_and_Data | 2 | 12 | ~15,100 | Moderate | Data privacy, cybersecurity; IRS modernization added |
 | Education | 2–3 | 16 | ~23,000 | Growing | Higher ed depth (overview exists), early childhood, vocational/trades |
-| Democratic_Integrity | 2–3 | 11 | ~18,700 | Strong | Judicial reform; anti-corruption enforcement depth |
+| Democratic_Integrity | 2–3 | 12 | ~22,200 | Strong | Judicial reform; territorial self-determination added; CDE framework cross-domain |
 | **Social** | **2–3** | **19** | **~66,700** | **Growing fast** | School/neighborhood stabilization; rural housing; CJ sentencing depth |
-| **United-Nations-and-Global-Institutional-Reform** | **1** | **2** | **~4,000** | **Phase 0–1** | Domain articulation + structural diagnosis; reform proposals still needed |
+| **United-Nations-and-Global-Institutional-Reform** | **2** | **6** | **~13,000** | **Growing** | SC reform, mediation council, enforcement ladder, platform directives added; conflict-screening still missing |
 
 ---
 
 ## Subdomain Detail
 
-### Healthcare (29 files)
+### Healthcare (31 files)
 | Subdomain | Phase | Files | Notes |
 |-----------|-------|-------|-------|
-| Pharmaceutical_Reform | 3 | 8 | Full R&D stack: pricing, trials, manufacturing, stage-based authorization |
+| Pharmaceutical_Reform | 3 | 9 | Full R&D stack: pricing, trials, manufacturing, stage-based authorization; pharma anti-gaming enforcement added |
 | Execution_and_Transition | 3 | 8 | HETA revised charter (v0.2 — Provider Transition Corps, enforcement firewall), cost performance backstop (DoDA-triggered escalation + glide path + capital recycling), state pilot framework, infrastructure layer, transition strategy |
-| Care_Delivery_and_Insurance | 3 | 6 | SEC framework, market design, clarifications, dental/vision/mental health market integration |
+| Care_Delivery_and_Insurance | 3 | 7 | SEC framework, market design, clarifications, dental/vision/mental health market integration; SEC Administration HETA steady-state added (subdomain Execution_and_Transition in YAML, lives in Care-Delivery folder) |
 | Care_Delivery_and_Infrastructure | 3 | 1 | Regional Health Center Network — federally backstopped contractor-operated facilities; network adequacy as closure gate for legacy subsidies |
 | Public_Health_Nutrition | 2 | 6 | Ingredient disclosure, vertical farms, metabolic research, national health month campaign (fall activation: health month + school procurement pilot + ingredient disclosure rollout) |
 | Mental_Health | 0 | 0 | Not started |
 | Maternal_Health | 0 | 0 | Not started |
 
-### Economic_Prosperity (42 files)
+### Economic_Prosperity (~57 files)
 | Subdomain | Phase | Files | Notes |
 |-----------|-------|-------|-------|
 | Agriculture | 3 | 8 | Data rights, finance, supply chain, water, seed IP |
 | Energy | 3 | 5 | Strategy, portfolio mix, PCA finance/exit, RMS overlay, pilot architecture |
 | Climate_and_Resilience | 3 | 4 | Climate risk framework, catastrophe reinsurance (3-layer system), water/aquifer resilience (5-level escalation), wildfire governance |
-| Manufacturing | 2 | 18 | NORAM (moved to supply-chain-and-critical-materials/) + corridor architecture stack + PCA instruments stack + industrial-logistics-spine (freight/rail throughput + proximity logic) + industrial-siting-compact (corridor activation + integrated deployment framework). Files live in `Policy_Domains/Manufacturing/` folder — reconcile to `Economic_Prosperity/Manufacturing/` eventually. |
+| Manufacturing | 2 | 26 | NORAM + corridor architecture stack + PCA instruments stack + logistics spine + siting compact + permitting shot clock (v0.2 + semiconductor fab example) + RMC industrial deployment + urban-industrial integration + 4-file workforce-training stack (training alignment, access points, ISA deployment, WCA deployment). Files live in `Policy_Domains/Manufacturing/` folder. |
+| Labor_Mobility | 2 | 3 | New subdomain (cross-domain files, domain: Economic_Prosperity physically in Immigration/IM folders): workforce-immigration-skill-mobility-system (system doctrine), immigration-services-and-administration (ISA lifecycle), workforce-coordination-authority (WCA labor allocation + activation) |
 | Labor_and_Wellfare | 2 | 4 | Benefits floor, EITC, welfare gradient, worker classification |
 | Budget_and_Fiscal_Policy | 2 | 4 | Guiding principles, PCA, capital allocation, Social Security |
-| Trade_Policy | 1 | 1 | Overview scaffold: sector-tiered framework (Strategic-Critical / Industrial Anchor / Competitive), allied trade architecture, adversarial decoupling principles, 5 identified sub-files pending — China strategy, tariff/market-access, export controls, enforcement modernization, supply chain mapping |
+| Trade_Policy | 2 | 7 | Overview scaffold + 6 new: tariff-governance-and-industrial-activation, adversarial-trade-partner-risk-management, noram-manufacturing-alignment-and-nearshoring-framework, cartel-derisking-and-regional-stability-framework, idp-trade-and-industrial-integration-compact, wto-modernization-coalition-framework. China strategy + export controls still missing. |
 | Antitrust | 0 | 0 | Not started |
 | Small_Business | 0 | 0 | Not started |
 
-### National_Security (26 files)
+### National_Security (34 files)
 | Subdomain | Phase | Files | Notes |
 |-----------|-------|-------|-------|
-| Integrated_Defense_Partnerships | 3 | 10 | Industrial, logistics, digital, financial, gray zone, info integrity, shipbuilding, social mobility, defense production, competitive production |
+| Integrated_Defense_Partnerships | 3 | 12 | Industrial, logistics, digital, financial, gray zone, info integrity, shipbuilding, social mobility, defense production, competitive production, alliance interface standards (N+2 sourcing), system trust/integration levels |
 | Security_Backstop_Partnerships | 2 | 6 | Overview, RSC architecture, engagement protocol, economic stabilization, regional instantiation doctrine, development phase model — non-alliance regional coordination councils |
+| UN_Reform | 2 | 4 | SC reform + layered legitimacy architecture, mediation council, graduated enforcement + collective action ladder, platform emergency directives + transnational digital crisis governance; conflict-screening file still missing |
 | Procurement_Reform | 3 | 3 | Defense acquisition reform + continuous competitive procurement + continuous test & certification |
 | Gulf_Defense_Compact | 3 | 3 | Phase I (defensive coordination) + Phase II (economic resilience) + Phase III (Middle East political conditioning) |
-| Middle_East_Framework | 3 | 1 | Phase III — phase-gated political conditioning for Israel, Palestinian authorities, Iran; PCF governance with Gulf co-ownership; proxy linkage rule; nuclear governance principle |
-| Aligned_Defense_Partnerships | 2 | 1 | Third tier of alliance architecture — bilateral cooperation without institutional membership |
+| Middle_East_Framework | 3 | 1 | Phase III — phase-gated political conditioning for Israel, Palestinian authorities, Iran; PCF governance with Gulf co-ownership |
+| Foreign_Policy | 2 | 3 | foreign-policy-internal-stability-and-external-reorientation (doctrine + reorientation), international-legal-compliance-restoration (ICC + treaty compliance), Venezuela (Trump_Reactions). Note: pan-american-champions-league (Sports_and_Cultural_Institutions) + territorial-self-determination (Democratic_Integrity) live in folder but are cross-domain |
+| Aligned_Defense_Partnerships | 2 | 1 | Third tier of alliance architecture |
 | Defense_Posture | 2 | 1 | Strategic framework |
-| Trump_Reactions | 2 | 1 | Venezuela resource sovereignty framework — predatory debt architecture, post-transition resource sovereignty, odious debt doctrine, SBP linkage |
-| Foreign_Policy | 0 | 0 | In development |
-| China_Strategy | 0 | 0 | Not started — blocked by Trade_Policy |
+| Trump_Reactions | 2 | 1 | Venezuela resource sovereignty framework |
+| China_Strategy | 0 | 0 | Not started — trade policy now established |
 | Cyber_Security | 0 | 0 | Not started |
 
-### United-Nations-and-Global-Institutional-Reform (2 files)
+### United-Nations-and-Global-Institutional-Reform (6 files)
 | Subdomain | Phase | Files | Notes |
 |-----------|-------|-------|-------|
-| Domain_Articulation | 0 | 1 | Conceptual foundation: regional signaling authority + constrained veto mechanics; layered legitimacy model — detailed institutional proposals will develop from regional strategy + defense workstreams |
-| Diagnosis | 1 | 1 | international-order-diagnosis.md — structural failure analysis: Security Council enforcement paradox, great-power capture, aspirational vs. functional sovereignty gap; YAML declares domain: National_Security (intentional cross-domain placement) |
+| Domain_Articulation | 0 | 1 | Conceptual foundation: regional signaling authority + constrained veto mechanics; layered legitimacy model |
+| Diagnosis | 1 | 1 | international-order-diagnosis.md — structural failure analysis: SC enforcement paradox, great-power capture, aspirational vs. functional sovereignty gap; domain: National_Security in YAML |
+| Security_Council_Reform | 2 | 1 | un-layered-legitimacy-and-security-council-reform — SC reform + layered legitimacy architecture (domain: National_Security) |
+| Mediation_Council | 2 | 1 | un-mediation-council — narrow-jurisdiction appellate review body; elected by UNGA; reviews RSC/SC procedural compliance (domain: National_Security) |
+| Enforcement_Architecture | 2 | 1 | graduated enforcement + collective action ladder — escalation curves, sanctions mechanics; dep conflict-screening file missing (domain: National_Security) |
+| Digital_Crisis_Governance | 2 | 1 | platform emergency directives — transnational platform governance during crisis events; digital crisis escalation (domain: National_Security) |
 
 ### Social (13 files)
 | Subdomain | Phase | Files | Notes |
@@ -107,12 +113,13 @@ Primary remaining gaps: Carbon pricing / demand-side climate policy, Foreign Pol
 | Public_Capital_Authority | 3 | 1 | Standing capital corps |
 | Industry_Interface | 3 | 1 | Private-sector translation |
 | Guiding_Principles | 3 | 1 | Institutional modernization overview |
-| Adaptive_Governance | 3 | 1 | Evidence protocol; RD/DiD framing; learning cycle; gaps: pre-deployment validation section, parameter adjustment governance |
-| Regulatory_Compression | 2 | 2 | ULRR + RMC; Energy RMS sector overlay lives in Energy domain |
-| Measurement_and_Accountability | 3 | 1 | DoDA — national measurement backbone; outcome certification; trigger maintenance; telemetry publishing; standing institution alongside Execution Corps and PCA |
-| Democratic_Execution_Interface | 3 | 1 | Congressional OS Interface — envelope-based authorization; outcome-triggered reporting; oversight without operational specification |
-| Legislative_Design | 2 | 1 | Sample wildfire pilot act — demonstrates envelope-based statutory language with PCA capital deployment + Execution Corps authorization |
-| Civic_Formation_and_Leadership | 3 | 1 | Civic Competence Pipeline — three-stage model (NCT → Execution Corps → NPP), money/celebrity pipeline critique, competence credential as political legitimacy basis, DoDA accountability loop through political career, connection to meaning crisis literature |
+| Adaptive_Governance | 3 | 1 | Evidence protocol; RD/DiD framing; learning cycle |
+| Regulatory_Compression | 2 | 3 | ULRR + RMC + RMS packet specification (canonical artifact spec — version control, governance, ULRR integration) |
+| Market_Integrity_and_Public_Trust | 3 | 1 | coordinated-deceptive-practices-enforcement-framework v0.5 — CDE framework: epistemic threshold schema, grace period decay, safe harbor, amnesty window, government institution coverage; physically lives in Democratic_Integrity folder (cross-domain placement) |
+| Measurement_and_Accountability | 3 | 1 | DoDA — national measurement backbone; outcome certification; trigger maintenance; telemetry publishing |
+| Democratic_Execution_Interface | 3 | 1 | Congressional OS Interface — envelope-based authorization; outcome-triggered reporting |
+| Legislative_Design | 2 | 1 | Sample wildfire pilot act — envelope-based statutory language with PCA + Execution Corps |
+| Civic_Formation_and_Leadership | 3 | 1 | Civic Competence Pipeline — three-stage model (NCT → Execution Corps → NPP) |
 | Process_Redesign | 0 | 0 | Not started |
 
 ### Housing_and_Public_Infrastructure (17 files)
@@ -127,28 +134,30 @@ Primary remaining gaps: Carbon pricing / demand-side climate policy, Foreign Pol
 | Existing_Neighborhood_Treatment | 3 | 5 | Civic overlay, solvency test, seam infra, STZ interface, incentive alignment |
 | Housing_Integration | 3 | 6 | DoDa triggers, CTMI/CBI, executive backstop, tenure-convertible typology, PCA financing, healthcare-enabled housing pilot |
 
-### Technology_and_Data (11 files)
+### Technology_and_Data (12 files)
 | Subdomain | Phase | Files | Notes |
 |-----------|-------|-------|-------|
 | SSI / Digital Identity | 3 | 1 | Framework complete; tagged as accelerant in 10+ files across domains |
 | UPI / Payments | 3 | 1 | Framework complete; tagged as accelerant in 10+ files across domains |
 | Government_Integrity_Infrastructure | 2 | 3 | immutable-government-ledger (append-only cryptographic audit trail), government-outflow-integrity-framework (AI-augmented fraud detection), official-budget-accountability-framework (budget-to-execution integrity, appropriations compliance, DoDA integration) |
+| Government_Infrastructure | 2 | 1 | irs-modernization-automated-income-attestation — automated income attestation + SSI/UPI credential-based tax infrastructure; IRS modernization stack |
 | AI_Governance | 2 | 1 | Exists; enforcement mechanisms gap |
 | Synthetic_Media | 2 | 1 | Provenance framework |
 | Information_Integrity | 2 | 1 | Digital nutrition label |
-| Market_Structure_and_Digital_Competition | 2 | 1 | Anti-capture framework: chokepoint power, algorithmic coordination, interoperability/portability rights, structural separation — defines fair digital competition standards |
-| Algorithmic_Governance | 1 | 2 | Discussion paper (engagement arms race problem, coordination failure, working group proposal) + year-one implementation stub — both written as industry/practitioner-voice pieces rather than standard framework docs |
+| Market_Structure_and_Digital_Competition | 2 | 1 | Anti-capture framework: chokepoint power, algorithmic coordination, interoperability/portability rights, structural separation |
+| Algorithmic_Governance | 1 | 2 | Discussion paper + year-one implementation stub |
 | Data_Privacy | 0 | 0 | Not started |
 | Cybersecurity | 0 | 0 | Not started |
 
-### Democratic_Integrity (11 files)
+### Democratic_Integrity (12 files)
 | Subdomain | Phase | Files | Notes |
 |-----------|-------|-------|-------|
-| Anti_Corruption | 2 | 5 | Ban gerrymandering (independent redistricting commissions + NRAP), ban stock trading (blind trust + blockchain disclosure), impeachment reform (Special Counsel + automatic suspension + judicial fast-track), impeachment enumerated triggers (12 categories, democratic override doctrine), impeachment oversight commission architecture |
-| Campaign_Finance_Reform | 2 | 1 | National Democracy Fund (5:1 small-donor matching), individual-only donations, dark money ban, blockchain disclosure |
-| Term_and_Age_Limits | 2 | 1 | Uniform age/term limits across all branches; retirement-age anchor; 10-year judicial terms; advisory pathways |
-| Electoral_Reform | 3 | 3 | Election Day national holiday + unified national Primary Day 1 year before general; voter ID 3-phase framework (universal free ID → numeric matching → SSI cryptographic identity); National Referendum Mechanism (7-part anti-capture architecture — spending limits, deliberation window, tiered thresholds, red-team tested) |
-| Digital_Democracy | 3 | 1 | 5-phase Digital Democracy Platform: SSI identity layer, ULRR jurisdictional routing, DoDA signal processing, lawmaker accountability dashboards, semi-annual townhalls, 10-year mandate formation → referendum infrastructure. Note: YAML declares `domain: Institutional_Modernization` but physically in Democratic_Integrity folder. |
+| Anti_Corruption | 2 | 5 | Ban gerrymandering, ban stock trading, impeachment reform, enumerated triggers (12 categories), oversight commission |
+| Campaign_Finance_Reform | 2 | 1 | National Democracy Fund (5:1 small-donor matching), dark money ban, blockchain disclosure |
+| Term_and_Age_Limits | 2 | 1 | Uniform age/term limits across all branches; 10-year judicial terms |
+| Electoral_Reform | 3 | 3 | Election Day holiday + unified Primary Day; voter ID 3-phase framework; National Referendum Mechanism (7-part anti-capture architecture) |
+| Representation_and_Self_Government | 2 | 1 | territorial-self-determination — DC statehood + US territory representation normalization; lives in National_Security/foreign-policy/ folder (cross-domain placement) |
+| Digital_Democracy | 3 | 1 | 5-phase Digital Democracy Platform; YAML declares `domain: Institutional_Modernization` but physically in DI folder. |
 | Judicial_Reform | 0 | 0 | Not started — Supreme Court structure, expansion, ethics |
 
 ### Education (16 files)
@@ -225,8 +234,8 @@ All files mentioning SSI or UPI in prose have been tagged with the appropriate `
 | Gap | Domain | Urgency |
 |-----|--------|---------|
 | **Energy Legal/Zoning Overlay** | Economic_Prosperity.Energy | 🔴 — RMS handles permitting; eminent domain, FERC vs. state authority, HVDC right-of-way still unaddressed |
-| **Foreign Policy** | National_Security | 🟠 — defense posture exists, no diplomatic layer |
-| **Trade Policy** | Economic_Prosperity | 🟡 — overview scaffold exists; China strategy, tariff framework, export controls, enforcement, supply chain mapping still pending; partially unblocks China Strategy |
+| **China Decoupling + Export Controls** | Economic_Prosperity.Trade_Policy | 🟠 — Trade Policy now at Phase 2 (7 files); China strategy, export controls, enforcement modernization still missing |
+| **Foreign Policy (depth)** | National_Security | 🟡 — doctrine established (reorientation + legal compliance); Indo-Pacific bilateral framework and deeper diplomatic execution still pending |
 | **Macro/Economic Validation Layer** | Platform-wide | 🟠 — pre-deployment modeling, parameter calibration, DiD comparisons not yet commissioned |
 
 ### Tier 2: Structural Gaps
@@ -234,8 +243,9 @@ All files mentioning SSI or UPI in prose have been tagged with the appropriate `
 |-----|--------|-------|
 | Criminal Justice (depth) | Social Domain | Immediate stabilization layer complete; school/neighborhood stabilization, sentencing detail, prosecutor incentive reform still needed |
 | Carbon Pricing / Demand-Side Climate | Economic_Prosperity.Climate_and_Resilience | Risk management (Phase 3) is covered; carbon pricing, demand-side policy, and decarbonization roadmap still missing |
-| China Strategy | National_Security | Blocked by Trade_Policy |
+| China Strategy | National_Security | Trade Policy now established; China decoupling strategy can now begin |
 | Cyber Security | Nat. Security + Tech | Gap in both domains |
+| UN Conflict-Screening Architecture | National_Security.UN_Reform | Referenced as dep in enforcement ladder + platform directives; file does not yet exist |
 | Higher Education | Education | Student debt, cost, access |
 | Mental Health (depth) | Healthcare | Market integration covered; crisis services, parity, standalone framework still needed |
 | Platform Regulation (depth) | Technology_and_Data | Anti-capture framework started; enforcement mechanisms, algorithmic audit detail still missing |
@@ -264,8 +274,25 @@ All files mentioning SSI or UPI in prose have been tagged with the appropriate `
 | 2 files with ambiguous SSI/UPI prose | Immigration, Labor | User will revisit |
 | Inline `[Agriculture / ...]` cross-reference annotations | Water and Wildfire files | Authoring artifacts in prose; not yet cleaned |
 | Manufacturing folder/domain inconsistency | `Policy_Domains/Manufacturing/` | Files use `domain: Economic_Prosperity` in YAML but sit in standalone folder; should move to `Policy_Domains/Economic_Prosperity/Manufacturing/` |
-| `workforce-skill-mobility` dependency missing | Manufacturing/localized-dutch-disease-mitigation.md | Referenced slug has no corresponding file yet; placeholder for future workforce mobility doc |
+| `workforce-skill-mobility` dep resolved | Manufacturing files | Dep removed from files in earlier session; workforce-immigration-skill-mobility-system.md now exists and covers this gap |
 | Social domain folder naming convention | `Policy_Domains/Social/national-prestige-mechanics-framework.md/` | Folder has `.md` extension — technically valid but non-standard; 4 prestige files live inside it; worth renaming to `national-prestige-mechanics-framework/` |
+
+---
+
+## Recent Session Activity (Apr 10, 2026)
+
+| Change | Files Affected |
+|--------|---------------|
+| Trade Policy: 6 new files added (Phase 1→2) — tariff-governance-and-industrial-activation, adversarial-trade-partner-risk-management-framework, noram-manufacturing-alignment-and-nearshoring-framework, cartel-derisking-and-regional-stability-framework, idp-trade-and-industrial-integration-compact, wto-modernization-coalition-framework (status: Tentative → Draft); dep fixes: impeachment-reform → impeachment-reform-enumerated-triggers, integrated-defense-partnerships removed (no overview file), regulatory-version-control-system → regulatory-modernization-packet-spec | Trade_Policy/ (6 new) |
+| Manufacturing: 8 new files — DRAFT-industrial-permitting-shot-clock-v0.2.md, DRAFT-example-industrial-permitting-shot-clock-semiconductor-fab.md, regulatory-modernization-deployments-v0.3.md (regulatory-modernization/); workforce-training-and-education-alignment, workforce-access-points-and-local-deployment, wca-execution-corps-deployment, isa-execution-corps-deployment (workforce-training-and-immigration/); urban-industrial-integration-overview; YAML fixes: industrial-corridor-architecture → industrial-strategy-corridor-architecture, execution-corps-public-capital-authority split | Manufacturing/ (+8 files) |
+| Labor_Mobility: 3 new cross-domain files (domain: Economic_Prosperity) — workforce-immigration-skill-mobility-system + immigration-services-and-administration (Immigration folder), workforce-coordination-authority (IM folder) | Immigration/ + Institutional-Modernization/ |
+| National_Security Foreign_Policy: 4 new files — draft-foreign-policy-under-conditions-of-volatility (doctrine + reorientation), international-legal-compliance-restoration (ICC + treaty compliance), pan-american-champions-league (domain: Sports_and_Cultural_Institutions — cross-domain), territorial-self-determination-and-representation-normalization (domain: Democratic_Integrity — cross-domain); related_initiatives converted to slugs | National_Security/foreign-policy/ (+4 files) |
+| National_Security UN_Reform: 4 new files — un-layered-legitimacy-and-security-council-reform, un-mediation-council, draft-un-graduated-enforcement-and-collective-action-ladder (typo in original filename fixed), draft-un-platform-emergency-directives; related_initiatives converted to slugs; un-conflict-screening dep removed (file doesn't exist) | United-Nations-and-Global-Institutional-Reform/ (+4 files) |
+| National_Security IDP: 2 new files — idp-alliance-interface-standards-n2-sourcing (N+2 theater sourcing doctrine), idp-system-trust-and-integration-levels (governance trust framework); related_initiatives converted to slugs | National_Security/integrated-defense-partnerships/ (+2) |
+| Healthcare: 2 new files — sec-administration-heta-steady-state (HETA steady-state operating model; dep HETA-revised-charter case fixed), pharmaceutical-cost-attestation-anti-gaming (anti-gaming enforcement; subdomain Pharmaceuticals → Pharmaceutical_Reform) | Healthcare/ (+2 files) |
+| Technology_and_Data: irs-modernization-automated-income-attestation (IRS modernization + SSI/UPI credential-based tax infra) | Technology_and_Data/ (+1 file) |
+| Institutional-Modernization: regulatory-modernization-packet-spec (RMS packet artifact specification) + coordinated-deceptive-practices-enforcement-framework v0.5 (CDE enforcement + transition; dep regulatory-version-control-system → regulatory-modernization-packet-spec; lives in Democratic_Integrity folder) | Institutional-Modernization/ + Democratic_Integrity/ (+2 files) |
+| All trackers updated: National_Security, Healthcare, Technology_and_Data, Democratic_Integrity, Immigration, Institutional-Modernization, Economic_Prosperity, PROJECT_STATUS.md | _MATURITY_TRACKER.md files |
 
 ---
 

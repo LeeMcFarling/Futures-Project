@@ -16,7 +16,8 @@ dependencies:
   - immigration-services-and-administration
   - workforce-training-and-education-alignment
 related_initiatives:
-  - execution-corps-public-capital-authority
+  - execution-corps-spec
+  - public-capital-authority
 tags:
   - workforce
   - labor
