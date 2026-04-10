@@ -1,9 +1,9 @@
 # Futures Project - Policy Repository Status Report
 
-**Generated:** 2026-04-06
+**Generated:** 2026-04-08
 **Total Domains:** 12
-**Total Policy Files:** 197
-**Estimated Total Words:** ~283,000
+**Total Policy Files:** 207
+**Estimated Total Words:** ~307,000
 
 ---
 
@@ -28,7 +28,7 @@ Primary remaining gaps: Carbon pricing / demand-side climate policy, Foreign Pol
 | Domain | Phase | Files | Est. Words | Status | Priority Gaps |
 |--------|-------|-------|------------|--------|---------------|
 | Healthcare | 3 | 29 | ~24,600 | Strong | Mental health depth (market integration exists), maternal health |
-| Economic_Prosperity | 2–3 | 42 | ~53,300 | Strong | Trade policy (started — China strategy, tariff framework, export controls pending), antitrust, carbon pricing/demand-side |
+| Economic_Prosperity | 2–3 | 44 | ~61,300 | Strong | Trade policy (started — China strategy, tariff framework, export controls pending), antitrust, carbon pricing/demand-side |
 | National_Security | 2–3 | 26 | ~31,000 | Strong | Foreign policy (Venezuela framework added; broader diplomatic layer pending), China strategy, cyber; Indo-Pacific SBP instantiation |
 | Immigration | 2 | 11 | ~7,560 | Good | DACA resolution, citizenship backlog |
 | Housing_and_Public_Infrastructure | 3 | 18 | ~29,400 | Strong | Broadband, water, STZ legal framework; rural housing + homelessness depth deferred to Social domain |
@@ -36,7 +36,7 @@ Primary remaining gaps: Carbon pricing / demand-side climate policy, Foreign Pol
 | Technology_and_Data | 2 | 11 | ~12,600 | Moderate | Data privacy, cybersecurity; platform regulation started; government integrity infrastructure added |
 | Education | 2–3 | 16 | ~23,000 | Growing | Higher ed depth (overview exists), early childhood, vocational/trades |
 | Democratic_Integrity | 2–3 | 11 | ~18,700 | Strong | Judicial reform; anti-corruption enforcement depth |
-| **Social** | **2–3** | **13** | **~44,700** | **Growing** | Criminal Justice (started), rural housing; homelessness stack added; pilot architecture; governing bodies |
+| **Social** | **2–3** | **19** | **~66,700** | **Growing fast** | School/neighborhood stabilization; rural housing; CJ sentencing depth |
 | **United-Nations-and-Global-Institutional-Reform** | **1** | **2** | **~4,000** | **Phase 0–1** | Domain articulation + structural diagnosis; reform proposals still needed |
 
 ---
@@ -60,7 +60,7 @@ Primary remaining gaps: Carbon pricing / demand-side climate policy, Foreign Pol
 | Agriculture | 3 | 8 | Data rights, finance, supply chain, water, seed IP |
 | Energy | 3 | 5 | Strategy, portfolio mix, PCA finance/exit, RMS overlay, pilot architecture |
 | Climate_and_Resilience | 3 | 4 | Climate risk framework, catastrophe reinsurance (3-layer system), water/aquifer resilience (5-level escalation), wildfire governance |
-| Manufacturing | 2 | 16 | NORAM + corridor architecture stack (7 files) + PCA instruments stack (9 new files): manufacturing-pca-instruments-framework, cluster-infrastructure-financing, factory-jv-deployment-model, land-value-capture-resident-equity, supplier-credit-facilities, alliance-industrial-target-map, regional-manufacturing-pilot-playbooks, manufacturing-regulatory-modernization-sandbox, industrial-demand-coordination-system. Files live in `Policy_Domains/Manufacturing/` folder — reconcile to `Economic_Prosperity/Manufacturing/` eventually. |
+| Manufacturing | 2 | 18 | NORAM (moved to supply-chain-and-critical-materials/) + corridor architecture stack + PCA instruments stack + industrial-logistics-spine (freight/rail throughput + proximity logic) + industrial-siting-compact (corridor activation + integrated deployment framework). Files live in `Policy_Domains/Manufacturing/` folder — reconcile to `Economic_Prosperity/Manufacturing/` eventually. |
 | Labor_and_Wellfare | 2 | 4 | Benefits floor, EITC, welfare gradient, worker classification |
 | Budget_and_Fiscal_Policy | 2 | 4 | Guiding principles, PCA, capital allocation, Social Security |
 | Trade_Policy | 1 | 1 | Overview scaffold: sector-tiered framework (Strategic-Critical / Industrial Anchor / Competitive), allied trade architecture, adversarial decoupling principles, 5 identified sub-files pending — China strategy, tariff/market-access, export controls, enforcement modernization, supply chain mapping |
@@ -96,7 +96,7 @@ Primary remaining gaps: Carbon pricing / demand-side climate policy, Foreign Pol
 | National_Contribution_Gala | 3 | 1 | Production architecture: Outcome Unit format (9-min/presentation), personalization layer, dual-channel broadcast strategy (formal + creator amplification), anti-drift guardrails, governance — designed for ~2032 first event |
 | Emergent_Impact_Track | 3 | 1 | Three-track unsolicited contribution recognition (Track A: Crisis/Acute, Track B: Practice Innovation, Track C: Discovery/Breakthrough), counterfactual requirement, EIT Governing Body, anti-capture architecture, prize tiers ($500K–$50M) |
 | Civic_Acropolis | 3 | 1 | Two-tier architecture (Outer Registry: all validated contributors; Inner Canon: 25-year minimum, supermajority, lifetime assessment), Smithsonian governance model, physical design spec, revisability framework — first inductions expected mid-2040s |
-| Criminal_Justice | 1 | 2 | Domain scaffold (5 subdomains scoped) + crisis-response-infrastructure.md (Fourth Dispatch Framework — Denver STAR expanded nationally, 711 routing, opt-in jurisdictions, SSI/UPI/IGL integration) |
+| Criminal_Justice | 2 | 8 | Full immediate stabilization layer: overview, community-stabilization (environmental design + STZ linkage), violence-interruption-youth-off-ramps (credible messenger model), justice-gap-procedural-legitimacy (bail, public defenders, SSI/UPI equal process), non-violent-rehabilitation (Norwegian model — sentencing, facility, reentry), equal-justice-anti-impunity (elite accountability + IGL linkage), crisis-response-infrastructure |
 | IDP_Social_Stack | 2 | 2 | housing-arrival-transition-stack (labor mobility + familiarity density infrastructure) + idp-american-outbound-mobility-scaffold (American outbound mobility — trades certification, exchange, return pipeline) |
 | Homelessness | 2 | 3 | healthcare-enabled-housing-pilot-v2 (clinical integration for chronic high-acuity), homelessness-prevention-automatic-stabilizer (eviction/discharge/rent-surge trigger framework), housing-workforce-stabilization-pilots (tiny homes + transitional clusters for work-capable individuals) |
 
@@ -232,7 +232,7 @@ All files mentioning SSI or UPI in prose have been tagged with the appropriate `
 ### Tier 2: Structural Gaps
 | Gap | Domain | Notes |
 |-----|--------|-------|
-| Criminal Justice | Social Domain | Scaffold + crisis response started; policing, sentencing, reentry, non-violent rehab, justice gap still absent |
+| Criminal Justice (depth) | Social Domain | Immediate stabilization layer complete; school/neighborhood stabilization, sentencing detail, prosecutor incentive reform still needed |
 | Carbon Pricing / Demand-Side Climate | Economic_Prosperity.Climate_and_Resilience | Risk management (Phase 3) is covered; carbon pricing, demand-side policy, and decarbonization roadmap still missing |
 | China Strategy | National_Security | Blocked by Trade_Policy |
 | Cyber Security | Nat. Security + Tech | Gap in both domains |

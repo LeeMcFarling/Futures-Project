@@ -1,6 +1,6 @@
 ---
 id: supplier-ecosystem-and-input-access
-title: Supplier Ecosystem & Input Access — Tiered Supply Chains, Financing & Input Platforms
+title: Supplier Ecosystem & Input Access — Tiered Supply Chains, Routing & Input Platforms
 sidebar_label: Supplier Ecosystem & Inputs
 sidebar_position: 8
 slug: /economic-prosperity/materials-supply-chain/supplier-ecosystem
@@ -8,13 +8,14 @@ domain: Economic_Prosperity
 subdomain: Industrial_Development
 policy_type: Execution Framework
 status: Draft
-version: 0.1
+version: 0.2
 author: Futures Project
 last_updated: 2026-04-07
 dependencies:
   - industrial-materials-and-supply-chain-system
   - supplier-credit-facilities
   - industrial-demand-coordination-system
+  - department-of-data-and-accountability
 related_initiatives:
   - cluster-infrastructure-financing
 tags:
@@ -22,7 +23,6 @@ tags:
   - suppliers
   - manufacturing
   - inputs
-  - logistics
 ---
 
 # Supplier Ecosystem & Input Access
@@ -31,15 +31,15 @@ tags:
 
 This system ensures that manufacturers can reliably access the inputs required for production.
 
-Industrial capacity depends not only on large facilities, but on:
+Industrial capacity depends on:
 
 - Tier 2 and Tier 3 suppliers  
-- intermediate goods production  
-- input availability and delivery  
+- intermediate goods  
+- coordinated supply chains  
 
-This layer ensures that:
+This layer ensures:
 
-> supply chains are complete, financed, and accessible at the point of production
+> manufacturers can source inputs reliably, without fragmentation or delay
 
 ---
 
@@ -47,31 +47,26 @@ This layer ensures that:
 
 Manufacturing fails at the margins.
 
-> The absence of small suppliers or intermediate inputs can halt large-scale production.
+> the absence of small suppliers or intermediate inputs can halt large-scale production
 
-This system prioritizes:
+The system prioritizes:
 
-- supplier completeness  
-- input availability  
-- system-wide coordination  
+- completeness of supply chains  
+- reliability of inputs  
+- structural simplicity  
+- coordinated scaling  
 
 ---
 
 ## System Role
 
-This layer functions as the **manufacturer-facing interface** of the supply chain system.
+This system functions as the **manufacturer-facing interface layer** of the supply chain.
 
-It connects:
+It translates underlying coordination systems into:
 
-- manufacturers  
-- suppliers (Tier 2 / Tier 3)  
-- financing systems  
-- logistics networks  
-- input sourcing pathways  
-
-It ensures:
-
-> manufacturers can source required inputs without fragmentation, delay, or uncertainty
+- supplier access  
+- input routing  
+- real-time sourcing decisions  
 
 ---
 
@@ -81,17 +76,17 @@ It ensures:
 
 ### I. Tier 2 / Tier 3 Supplier Development
 
-The system actively develops supplier ecosystems through:
+The system develops supplier ecosystems through:
 
 - cluster-based supplier seeding  
 - co-location with industrial corridors  
-- targeted support for missing supply chain nodes  
+- targeted development of missing nodes  
 - onboarding of small and mid-sized manufacturers  
 
-Supplier development is driven by:
+Development is driven by:
 
-- demand signals from industrial deployment  
-- gaps identified through coordination systems  
+- demand signals  
+- identified supply gaps  
 
 ---
 
@@ -108,163 +103,186 @@ Financing is tied to:
 
 - verified demand  
 - participation in coordinated supply chains  
-- performance and delivery outcomes  
 
 The objective is:
 
-> to eliminate capital constraints for critical supply chain nodes
+> eliminate capital constraints in critical supply nodes
 
 ---
 
 ### III. Industrial Demand Coordination Integration
 
-Supplier ecosystems are coordinated through the industrial demand system.
+The Industrial Demand Coordination System functions as the **backend coordination layer**.
 
-This includes:
+It maintains:
 
-- visibility into:
-  - required inputs  
-  - volumes  
-  - timelines  
-- matching suppliers to:
-  - manufacturers  
-  - contracts  
-  - production schedules  
+- supplier registries  
+- input classifications and criticality  
+- supply chain gap identification  
+- demand commitments  
 
-This reduces:
+This system defines:
 
-- search costs  
-- coordination failures  
-- supply fragmentation  
+> what inputs are required and where gaps exist
+
+The Supplier Ecosystem & Input Access system operates as the **interface layer**, translating this into:
+
+- manufacturer-facing sourcing options  
+- routing decisions  
+- dynamic allocation of demand  
 
 ---
 
-### IV. Input Access Platform
+### IV. Supplier Alignment
 
-Manufacturers access inputs through a structured system that provides:
+Suppliers are categorized by alignment:
 
-- visibility into available suppliers  
-- pricing and availability signals  
+- **Made in America**  
+- **Made in IDP Nations**
+
+These tiers guide system behavior through:
+
+- routing preference  
+- platform visibility  
+- financing access  
+
+They do not impose rigid sourcing requirements.
+
+---
+
+### V. Input Access Platform
+
+Manufacturers access inputs through a structured platform providing:
+
+- supplier visibility  
+- availability and pricing  
 - delivery timelines  
-- qualification and compliance status  
+- alignment status  
 
-This functions as:
+The platform prioritizes:
 
-> a coordinated marketplace for industrial inputs
-
-The platform integrates:
-
-- domestic suppliers  
-- certified international sources (where required)  
-- logistics routing  
+> reliability, transparency, and simplified supply chains
 
 ---
 
-### V. Input Sequencing & Trade Bridging
+### VI. Domestic Supply Priority & Circuit Breaker
 
-Where domestic supply is not yet available:
+For designated inputs, the system applies **priority routing with an automatic circuit breaker**.
 
-- temporary import pathways are enabled  
-- tariff exemptions or adjustments may be applied  
-- inputs are sourced from stable or allied partners  
+Demand is routed to domestic and aligned suppliers when:
 
-These measures are:
+- capacity is sufficient  
+- delivery timelines are met  
+- pricing falls within an acceptable cost band  
 
-- conditional  
-- time-bound  
-- linked to domestic capacity development  
+If any condition fails:
+
+- demand is automatically routed to alternative suppliers  
+- no discretionary approval is required  
+
+Routing is continuously re-evaluated.
+
+As domestic and aligned capacity improves:
+
+> demand automatically flows back toward aligned suppliers
+
+This ensures:
+
+> capacity development over time without constraining production
+
+---
+
+### VII. Supply Chain Structure
+
+Supply chains are designed for:
+
+- reduced complexity  
+- fewer tiers  
+- geographic coherence  
+- transparent sourcing  
 
 The objective is:
 
-> to prevent production delays while domestic supply scales
+> resilient and legible supply systems
 
 ---
 
 ## Deployment Timing
 
-Supplier ecosystem development is activated at **corridor designation**.
+Supplier systems activate at **corridor designation**.
 
 At designation:
 
-- supply chain gaps are identified  
-- supplier capacity requirements are mapped  
-- financing pathways are initiated  
-- input access systems are configured  
+- gaps are identified  
+- suppliers are mapped  
+- financing is initiated  
+- routing systems are configured  
 
-Supplier systems scale in parallel with:
-
-- workforce development  
-- facility construction  
-- logistics infrastructure  
+All systems scale in parallel with industrial deployment.
 
 ---
 
-## Interaction with Industrial Deployment
+## System Monitoring & Feedback (DoDA)
 
-This system ensures that:
+DoDA evaluates:
 
-- production inputs are available when facilities come online  
-- supplier capacity grows alongside manufacturing capacity  
-- supply chains are resilient and complete  
+- sourcing distribution  
+- circuit breaker frequency  
+- cost differentials  
+- delivery performance  
+- capacity growth  
 
-It eliminates:
+This informs:
 
-> the gap between facility readiness and supply chain readiness
+- supplier development  
+- financing priorities  
+- system adjustments  
 
----
-
-## Interaction with Logistics System
-
-The input system is tightly coupled with the logistics spine:
-
-- suppliers are aligned with transport capacity  
-- delivery timelines match production schedules  
-- bottlenecks are identified and resolved early  
+DoDA does not intervene in routing decisions.
 
 ---
 
-## System Properties
+## Strategic Cost Band (Dependency)
 
-When functioning correctly, this system produces:
+The cost band used in routing is a strategic parameter governed by trade and industrial policy.
 
-- complete and resilient supply chains  
-- reduced reliance on fragile external suppliers  
-- faster scaling of industrial production  
-- lower coordination costs for manufacturers  
-- improved performance of small and mid-sized suppliers  
+It reflects:
+
+- global pricing  
+- strategic value of domestic capacity  
+- resilience considerations  
+
+This brief assumes its existence but does not define it.
 
 ---
 
 ## Guardrails
 
 1. **No Supplier Fragmentation**  
-   Supply chains must be coordinated and visible.
-
-2. **No Unbounded Import Reliance**  
-   External sourcing must remain transitional.
-
-3. **No Capital Bottlenecks**  
-   Supplier financing must match demand growth.
-
-4. **Demand-Linked Development**  
-   Supplier capacity must be tied to verified industrial demand.
+2. **No Production Bottlenecks from Policy**  
+3. **No Unbounded Import Dependence**  
+4. **Demand-Linked Development**
 
 ---
 
 ## Plain-English Explanation
 
-Large factories depend on thousands of smaller suppliers.
+Factories depend on thousands of smaller suppliers.
 
-If even a few of those suppliers are missing, production slows down or stops.
+This system makes sure:
 
-This system makes sure that:
+- those suppliers exist  
+- they can grow  
+- manufacturers can find and use them  
 
-- the smaller companies that supply parts and materials exist  
-- they have the financing they need to grow  
-- manufacturers can easily find and work with them  
+It prioritizes domestic and allied suppliers when they can deliver.
 
-If something isn’t available domestically yet, the system allows temporary imports so production doesn’t stall—while building up domestic supply at the same time.
+If they can’t, the system automatically finds alternatives so production doesn’t stop.
+
+Over time, as domestic capacity improves:
+
+> more and more of the supply chain moves closer to home
 
 The goal is simple:
 
-> when a factory is ready to produce, every part of its supply chain is ready too.
+> when a factory is ready, its entire supply chain is ready too

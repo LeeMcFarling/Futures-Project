@@ -41,7 +41,7 @@ Create conditions for broad-based economic prosperity through agricultural resil
 |-----------|-------|------------|------------|----------|--------------|-------------|-------------|
 | Agriculture | 3 | 8 | ~8,500 | Implementation timeline | Public_Infrastructure.Rural | Add pilot program details | TBD |
 | Budget_and_Fiscal_Policy | 2 | 4 | ~4,000 | Tax reform details | None | Expand revenue mechanisms | TBD |
-| Manufacturing | 2 | 16 | ~26,500 | Workforce-skill-mobility doc missing; Trade Policy gap remains | Technology_and_Data, National_Security | Add workforce mobility doc; resolve folder/domain placement | TBD |
+| Manufacturing | 2 | 18 | ~34,500 | Workforce-skill-mobility doc missing; Trade Policy gap remains | Technology_and_Data, National_Security | Add workforce mobility doc; resolve folder/domain placement | TBD |
 | Energy | 3 | 5 | ~9,000 | Zoning/legal overlay for siting, FERC vs. state authority, eminent domain for transmission corridors | public-capital-authority | Add legal/zoning overlay doc | TBD |
 | Labor_and_Wellfare | 2 | 4 | ~3,500 | Automation/AI impacts, union policy | Immigration, Healthcare | Expand coverage | TBD |
 | Climate_and_Resilience | 3 | 4 | ~9,000 | Carbon pricing/demand-side; rural adaptation depth | department-of-data-and-accountability | Add carbon framework; expand rural coverage | TBD |
@@ -104,6 +104,8 @@ Create conditions for broad-based economic prosperity through agricultural resil
 
 | Date | Subdomain | Change | Phase Impact |
 |------|-----------|--------|--------------|
+| 2026-04-08 | Manufacturing | Added industrial-logistics-spine.md (freight/rail corridor throughput + proximity logic) and industrial-siting-compact.md (integrated deployment framework — corridor activation, siting doctrine, phased rollout); NORAM moved to supply-chain-and-critical-materials/ subfolder; industrial-materials-and-supply-chain-overview.md and supplier-ecosystem-and-input-access.md updated to v0.2; dep ID fixes applied | 16 → 18 files |
+| 2026-04-08 | Climate_and_Resilience | wildfire-mitigation-and-landscape-risk-governance.md redrafted (v0.1 — prescribed burns, tribal partnerships, NASA/NOAA risk modeling, insurance eligibility linkage); replaces earlier version | N/A |
 | 2026-03-29 | Manufacturing | Added 9-file PCA instruments and industrial deployment stack: manufacturing-pca-instruments-framework.md (5-instrument PCA stack), cluster-infrastructure-financing.md (corridor-scale PCA deployment), factory-jv-deployment-model.md (JV structure + deployment logic), land-value-capture-resident-equity.md (anti-gentrification mechanism), supplier-credit-facilities.md (credit facility architecture), alliance-industrial-target-map.md (target industries by tier), regional-manufacturing-pilot-playbooks.md (pilot execution blueprints), manufacturing-regulatory-modernization-sandbox.md (sector RMS overlay), industrial-demand-coordination-system.md (demand signal architecture); all YAML clean | 7 → 16 files |
 | 2026-03-29 | Energy | energy-regulatory-modernization-sandbox.md confirmed at v1.2; YAML clean | N/A |
 | 2026-03-15 | Trade_Policy | Trade policy overview scaffold created: sector-tiered framework (Strategic-Critical / Industrial Anchor / Competitive), allied trade architecture, adversarial decoupling principles, five pending sub-files identified | 0 → 1 |
@@ -116,7 +118,7 @@ Create conditions for broad-based economic prosperity through agricultural resil
 
 ## Notes & Context
 
-- Domain has **42 files** totaling ~53,300 words (largest domain)
+- Domain has **44 files** totaling ~61,300 words (largest domain)
 - Agriculture is most developed subdomain; Manufacturing now second-most developed at 16 files with full PCA instruments stack
 - Manufacturing files live in `Policy_Domains/Manufacturing/` — folder/domain placement should eventually be reconciled to `Policy_Domains/Economic_Prosperity/Manufacturing/`
 - `workforce-skill-mobility` dependency referenced in Dutch Disease file — placeholder for a future workforce mobility doc
