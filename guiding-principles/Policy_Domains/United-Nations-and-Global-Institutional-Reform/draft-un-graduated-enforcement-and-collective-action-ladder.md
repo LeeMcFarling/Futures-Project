@@ -15,6 +15,7 @@ dependencies:
   - international-order-diagnosis
   - un-layered-legitimacy-and-security-council-reform
   - un-mediation-council
+  - un-conflict-screening-and-selective-recusal
 related_initiatives:
   - regional-security-council-development-phases
   - un-mediation-council

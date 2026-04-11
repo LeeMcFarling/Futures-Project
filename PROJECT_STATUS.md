@@ -2,8 +2,8 @@
 
 **Generated:** 2026-04-10
 **Total Domains:** 12
-**Total Policy Files:** ~238
-**Estimated Total Words:** ~373,000
+**Total Policy Files:** ~245
+**Estimated Total Words:** ~396,000
 
 ---
 
@@ -29,15 +29,15 @@ Primary remaining gaps: China decoupling strategy + export controls (Trade_Polic
 |--------|-------|-------|------------|--------|---------------|
 | Healthcare | 3 | 31 | ~27,100 | Strong | Mental health depth (market integration exists), maternal health |
 | Economic_Prosperity | 2–3 | ~57 | ~85,000 | Strong | China decoupling + export controls (Trade_Policy), antitrust, carbon pricing/demand-side |
-| National_Security | 2–3 | 34 | ~40,000 | Strong | Foreign Policy (doctrine established; Indo-Pacific bilateral pending), China strategy, cyber; conflict-screening file missing |
+| National_Security | 2–3 | 36 | ~46,000 | Strong | Indo-Pacific bilateral framework pending; China strategy can now begin |
 | Immigration | 2 | 11 | ~7,560 | Good | DACA resolution, citizenship backlog; 2 cross-domain files (domain: Economic_Prosperity) in folder |
 | Housing_and_Public_Infrastructure | 3 | 18 | ~29,400 | Strong | Broadband, water, STZ legal framework; rural housing + homelessness depth deferred to Social domain |
 | Institutional-Modernization | 3 | 13 | ~27,200 | Strong | Process redesign; CDE framework + RMS packet spec added; domain instantiations still needed |
-| Technology_and_Data | 2 | 12 | ~15,100 | Moderate | Data privacy, cybersecurity; IRS modernization added |
+| Technology_and_Data | 2 | 13 | ~19,600 | Moderate | Data privacy; cybersecurity framework added (SSI-grounded) |
 | Education | 2–3 | 16 | ~23,000 | Growing | Higher ed depth (overview exists), early childhood, vocational/trades |
-| Democratic_Integrity | 2–3 | 12 | ~22,200 | Strong | Judicial reform; territorial self-determination added; CDE framework cross-domain |
+| Democratic_Integrity | 2–3 | 13 | ~25,700 | Strong | Judicial reform drafted; ethics enforcement depth + constitutional amendment pathway still needed |
 | **Social** | **2–3** | **19** | **~66,700** | **Growing fast** | School/neighborhood stabilization; rural housing; CJ sentencing depth |
-| **United-Nations-and-Global-Institutional-Reform** | **2** | **6** | **~13,000** | **Growing** | SC reform, mediation council, enforcement ladder, platform directives added; conflict-screening still missing |
+| **United-Nations-and-Global-Institutional-Reform** | **2** | **7** | **~15,500** | **Complete stack** | Full 5-file reform stack + domain articulation + diagnosis; dep graph closed |
 
 ---
 
@@ -64,7 +64,7 @@ Primary remaining gaps: China decoupling strategy + export controls (Trade_Polic
 | Labor_Mobility | 2 | 3 | New subdomain (cross-domain files, domain: Economic_Prosperity physically in Immigration/IM folders): workforce-immigration-skill-mobility-system (system doctrine), immigration-services-and-administration (ISA lifecycle), workforce-coordination-authority (WCA labor allocation + activation) |
 | Labor_and_Wellfare | 2 | 4 | Benefits floor, EITC, welfare gradient, worker classification |
 | Budget_and_Fiscal_Policy | 2 | 4 | Guiding principles, PCA, capital allocation, Social Security |
-| Trade_Policy | 2 | 7 | Overview scaffold + 6 new: tariff-governance-and-industrial-activation, adversarial-trade-partner-risk-management, noram-manufacturing-alignment-and-nearshoring-framework, cartel-derisking-and-regional-stability-framework, idp-trade-and-industrial-integration-compact, wto-modernization-coalition-framework. China strategy + export controls still missing. |
+| Trade_Policy | 2 | 8 | Full stack: overview scaffold, tariff governance, adversarial risk management, NORAM alignment, cartel de-risking, IDP compact, WTO coalition, export controls (phase-gated — behavior-conditioned control tiers, reversible de-escalation pathways, IDP alliance linkage). |
 | Antitrust | 0 | 0 | Not started |
 | Small_Business | 0 | 0 | Not started |
 
@@ -233,9 +233,13 @@ All files mentioning SSI or UPI in prose have been tagged with the appropriate `
 ### Tier 1: Critical Gaps (Missing Foundations)
 | Gap | Domain | Urgency |
 |-----|--------|---------|
-| **Energy Legal/Zoning Overlay** | Economic_Prosperity.Energy | 🔴 — RMS handles permitting; eminent domain, FERC vs. state authority, HVDC right-of-way still unaddressed |
-| **China Decoupling + Export Controls** | Economic_Prosperity.Trade_Policy | 🟠 — Trade Policy now at Phase 2 (7 files); China strategy, export controls, enforcement modernization still missing |
-| **Foreign Policy (depth)** | National_Security | 🟡 — doctrine established (reorientation + legal compliance); Indo-Pacific bilateral framework and deeper diplomatic execution still pending |
+| **Energy Legal/Zoning Overlay** | Economic_Prosperity.Energy | ✅ CLOSED — energy-siting-and-distributed-participation-overlay.md adds FERC/state authority, eminent domain, transmission corridor, prosumer participation |
+| **Decarbonization Framework** | Economic_Prosperity.Energy | ✅ CLOSED — abundance-first-decarbonization-and-reliability-transition.md adds coal community phase-gates, grid reliability requirements, regional sequencing |
+| **Judicial Reform** | Democratic_Integrity | ✅ CLOSED (Phase 2) — draft-scotus-judicial-reform.md: Article III modernization, 18-year terms, structured appointment cadence; ethics enforcement depth still needed |
+| **Cybersecurity** | Technology_and_Data + National_Security | ✅ CLOSED (Phase 2) — cybersecurity-architecture-and-identity-modernization.md: SSI-grounded zero-trust + post-quantum architecture; sector-specific overlays still needed |
+| **China/Adversarial State Doctrine** | National_Security.Foreign_Policy | ✅ CLOSED — trade-and-diplomacy-in-low-trust-environments.md: phase-gated conditional engagement; doctrine applies to China/Russia/North Korea/Iran without naming China as headline |
+| **UN Conflict-Screening Dep** | National_Security.UN_Reform | ✅ CLOSED — un-conflict-screening-and-selective-recusal.md: recusal architecture for SC/RSC/Mediation Council; dep graph now complete |
+| **China Export Controls** | Economic_Prosperity.Trade_Policy | ✅ CLOSED — export-controls-phase-gated-framework.md: behavior-conditioned control tiers, reversible de-escalation pathways, phase-gate logic extends low-trust engagement doctrine |
 | **Macro/Economic Validation Layer** | Platform-wide | 🟠 — pre-deployment modeling, parameter calibration, DiD comparisons not yet commissioned |
 
 ### Tier 2: Structural Gaps

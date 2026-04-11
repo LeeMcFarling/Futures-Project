@@ -47,8 +47,8 @@ Define America's security posture, alliance structures, and strategic approach t
 | Security_Backstop_Partnerships | 2 | 6 | ~6,000 | Regional pilot selection; operational protocols | Defense_Posture, IDP | Add pilot region selection criteria | TBD |
 | Middle_East_Framework | 3 | 1 | ~4,500 | Formal PCF charter; Iran snapback mechanics | gdic-phase-1-framework, gdic-phase-2-economic-resilience | Add PCF governance spec | TBD |
 | Aligned_Defense_Partnerships | 2 | 1 | ~600 | Regional ADP mapping; upgrade criteria to SBP | Defense_Posture | Define upgrade pathway | TBD |
-| Foreign_Policy | 2 | 3 | ~6,000 | Pan-American / territorial files cross-domain; deeper diplomatic execution still needed | Defense_Posture | Add Indo-Pacific bilateral framework | TBD |
-| UN_Reform | 2 | 4 | ~9,000 | Conflict-screening architecture not yet written; platform directive enforcement unclear | international-order-diagnosis, security-backstop-partnerships-overview | Add conflict-screening file | TBD |
+| Foreign_Policy | 2 | 4 | ~9,000 | Indo-Pacific bilateral framework still needed | Defense_Posture | Add Indo-Pacific bilateral framework | TBD |
+| UN_Reform | 2 | 5 | ~11,500 | Platform directive enforcement depth; regional SC implementation detail | international-order-diagnosis, security-backstop-partnerships-overview | Add regional SC instantiation | TBD |
 | Trump_Reactions | 2 | 1 | ~2,500 | Needs additional case studies | National_Security | Expand reaction framework | TBD |
 | China_Strategy | 0 | 0 | 0 | **Not started** | Economic_Prosperity.Trade | Create initial file | TBD |
 | Cyber_Security | 0 | 0 | 0 | **Not started** | Technology_and_Data | Create initial file | TBD |
@@ -137,6 +137,8 @@ Define America's security posture, alliance structures, and strategic approach t
 
 | Date | Subdomain | Change | Phase Impact |
 |------|-----------|--------|--------------|
+| 2026-04-10 | UN_Reform | Added un-conflict-screening-and-selective-recusal.md (v0.2 — conflict-of-interest screening rules for reformed SC, RSCs, and Mediation Council; recusal architecture + entanglement thresholds); dep restored in enforcement-ladder.md and platform-emergency-directives.md | 4 → 5 files; dep gap closed |
+| 2026-04-10 | Foreign_Policy | Added trade-and-diplomacy-in-low-trust-environments.md (v0.3 — phase-gated conditional engagement doctrine for adversarial/low-trust states; multi-track system; preserves negotiating position; phase gates tied to observable behavior; applies to China, Russia, North Korea, Iran; references IDP financial and gray-zone layers); dep slugs fixed | 3 → 4 files |
 | 2026-04-10 | UN_Reform | Added 4-file UN Reform stack (all domain: National_Security, subdomain: UN_Reform): un-layered-legitimacy-and-security-council-reform.md (SC reform, layered legitimacy architecture), un-mediation-council.md (appellate review framework), draft-un-graduated-enforcement-and-collective-action-ladder.md (enforcement ladder), draft-un-platform-emergency-directives.md (transnational digital crisis governance); related_initiatives converted to slugs; un-conflict-screening dep removed (file doesn't exist yet) | 0 → 4 files |
 | 2026-04-10 | Integrated_Defense_Partnerships | Added idp-alliance-interface-standards-n2-sourcing.md (N+2 theater sourcing doctrine) and idp-system-trust-and-integration-levels.md (governance trust/integration framework); related_initiatives converted to slugs | 10 → 12 files |
 | 2026-04-10 | Foreign_Policy | Added draft-foreign-policy-under-conditions-of-volatility.md (internal stability + external reorientation) and international-legal-compliance-restoration.md (executive doctrine + institutional restoration); related_initiatives converted to slugs. Note: pan-american-champions-league.md (domain: Sports_and_Cultural_Institutions) and territorial-self-determination.md (domain: Democratic_Integrity) live in foreign-policy folder but are cross-domain | 1 → 3 files (NS domain) |
@@ -157,7 +159,7 @@ Define America's security posture, alliance structures, and strategic approach t
 
 ## Notes & Context
 
-- Domain has **34 substantive files** (up from 26); +8 files: 4 UN Reform, 2 IDP, 2 Foreign Policy
+- Domain has **36 substantive files** (up from 34); +2: UN conflict-screening (gap closed), low-trust engagement doctrine
 - Three-tier alliance architecture now complete: IDP (deep integration) → SBP (regional backstop councils) → ADP (bilateral cooperation)
 - IDP: 12 files; Procurement_Reform: 3 files (Phase 3); Gulf_Defense_Compact: 3 files (Phase I → II → III)
 - Security_Backstop_Partnerships: 6-file stack — first regional governance architecture (non-alliance coordination councils)
@@ -165,5 +167,5 @@ Define America's security posture, alliance structures, and strategic approach t
 - GDIC Phase III is the political superstructure above the defensive (Phase I) and economic (Phase II) foundations
 - SBP pilot deployment doctrine includes illustrative regional variants: Gulf, Central America/Caribbean, East Asia maritime
 - Foreign policy: 3 files (reorientation + legal compliance + Venezuela); pan-american-champions-league + territorial-self-determination live in folder but are cross-domain
-- UN Reform: 4-file stack (SC reform, mediation council, enforcement ladder, platform emergency directives); conflict-screening file still missing
+- UN Reform: 5-file stack (SC reform, mediation council, conflict-screening, enforcement ladder, platform emergency directives); dep graph now complete
 - China Strategy and Indo-Pacific framework remain as next major gaps

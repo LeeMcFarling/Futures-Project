@@ -45,7 +45,7 @@ Strengthen democratic institutions against corruption, ensure fair representatio
 | Electoral_Reform | 3 | 3 | ~7,200 | Third-party ballot access implementation timeline; automatic registration tech integration | ssi-self-sovereign-identity-framework, department-of-data-and-accountability | Expand implementation sequencing | TBD |
 | Digital_Democracy | 3 | 1 | ~5,500 | Phase 0 infrastructure dependencies; SSI deployment prerequisite — no timeline yet | unified-law-regulation-repository, ssi-self-sovereign-identity-framework, department-of-data-and-accountability | Define Phase 0 pilot jurisdiction plan | TBD |
 | Representation_and_Self_Government | 2 | 1 | ~3,500 | Statehood pathway depth; USVI/Guam specific strategies | democratic-integrity, foreign-policy-guiding-principles | Add implementation pathway | TBD |
-| Judicial_Reform | 0 | 0 | 0 | **Not started** | None | Create initial file | TBD |
+| Judicial_Reform | 2 | 1 | ~3,500 | Appointment enforcement mechanisms; constitutional amendment pathway | federal-age-and-term-limits | Expand with ethics enforcement + court size doctrine | TBD |
 
 ---
 
@@ -72,7 +72,7 @@ Strengthen democratic institutions against corruption, ensure fair representatio
 
 ### Tier 1: Critical Gaps (Missing Foundation)
 - [x] **Voting Rights & Access** – Election Day holiday, voter ID reform, and voter registration reform all added at Phase 3 ✅
-- [ ] **Judicial Reform** – Supreme Court structure, term limits – Target: Phase 2
+- [~] **Judicial Reform** – draft-scotus-judicial-reform.md added (Article III modernization, SCOTUS term structure, appointment cadence); ethics enforcement + constitutional amendment pathway still needed
 
 ### Tier 2: Structural Gaps (Incomplete Coverage)
 - [ ] **Enforcement mechanisms** – How corruption rules are enforced – Target: Phase 3
@@ -98,6 +98,7 @@ Strengthen democratic institutions against corruption, ensure fair representatio
 
 | Date | Subdomain | Change | Phase Impact |
 |------|-----------|--------|--------------|
+| 2026-04-10 | Judicial_Reform | Added draft-scotus-judicial-reform.md (Article III modernization — fixed nonrenewable 18-year terms, structured appointment cadence, constrained nomination process, bounded authority doctrine); full YAML added | 0 → 1 file |
 | 2026-04-10 | Representation_and_Self_Government | Added territorial-self-determination-and-representation-normalization.md (DC statehood + territory representation normalization; domain: Democratic_Integrity, physically in National_Security/foreign-policy/ folder — structural cross-placement) | 0 → 1 file |
 | 2026-04-10 | Cross-domain note | coordinated-deceptive-practices-enforcement-framework-v0.5.md lives in Democratic_Integrity folder but declares domain: Institutional_Modernization (market integrity / CDE framework) — tracked under Institutional-Modernization | N/A |
 | 2026-03-29 | Anti_Corruption | Added impeachment-reform-enumerated-triggers-v0.4.md (enumerated triggers, democratic override, enforcement doctrine — 12 triggers, supermajority override) and impeachment-reform-oversight-commission-v0.1.md (oversight commission architecture, special counsel framework, suspension mechanism governance); YAML standardized with sidebar fields | 3 → 5 files |
@@ -111,7 +112,7 @@ Strengthen democratic institutions against corruption, ensure fair representatio
 
 ## Notes & Context
 
-- Domain has **12 files** totaling ~22,200 words
+- Domain has **13 files** totaling ~25,700 words
 - Voting rights gap closed: election day, voter ID, national referendum mechanism all at Phase 3
 - Digital Democracy Platform added (massive doc, ~5,500 words) — declares domain: Institutional_Modernization but lives in Democratic_Integrity folder; structural note for future reconciliation
 - Anti-corruption stack still needs enforcement mechanism detail; constitutional amendment strategy for term limits unwritten
