@@ -28,6 +28,55 @@ last_updated: 2026-02-26
 
 # Regulatory Modernization Corps (RMC)
 
+## What This Is About
+
+Regulations are good. They encode the lessons of industrial disasters,
+financial crises, environmental damage, workplace deaths, and consumer
+fraud. Every meaningful regulation exists because something went wrong
+without it, and society decided it should not go wrong the same way
+again.
+
+The problem is not that we have regulations. The problem is that we
+built them as permanent law with no update function.
+
+Regulatory code accumulates over decades without a structured mechanism
+for patching known bugs, deprecating obsolete requirements, or updating
+standards to reflect new evidence. The result is a legal stack that
+looks less like an intentionally designed system and more like
+sedimentary rock — layers of legitimate response to real problems,
+compressed over time into a framework that no one fully understands,
+that no one can easily modify, and that often contradicts itself at
+the seams.
+
+Every software engineer understands this failure mode. It is called
+technical debt. You build for the problem in front of you. The next
+team patches around it. The next team patches around the patch.
+Eventually you have a system no one designed, no one fully understands,
+and no one can confidently change without risking something unexpected
+breaking downstream. The U.S. regulatory system is running on exactly
+this accumulated debt.
+
+The solution is not deregulation — stripping out the stack because it
+has grown unwieldy. That is not maintenance; it is vandalism. You do
+not fix technical debt by deleting the codebase. You fix it through
+a refactoring discipline: a systematic practice of identifying what
+the code is doing, testing what can safely be changed, removing what
+is genuinely no longer serving its purpose, and updating what still
+serves a purpose but has degraded in effectiveness.
+
+New regulations will be developed as new problems emerge. Old
+regulations will be deprecated when the problems they were designed
+for are resolved by better mechanisms, when evidence shows they are
+not achieving their stated purpose, or when their protective function
+can be delivered more precisely through updated architecture. This is
+not an attack on regulation. It is how you maintain a regulatory system
+that continues to work.
+
+The Regulatory Modernization Corps is the institution that performs
+this maintenance.
+
+---
+
 ## Executive Summary
 
 The Regulatory Modernization Corps (RMC) is a **standing execution body** tasked with modernizing the procedural architecture of American governance without altering substantive law.

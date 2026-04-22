@@ -118,6 +118,71 @@ Its authority is executional, bounded, and reversible. Its legitimacy derives fr
 
 ---
 
+## Market Distortion Guardrails and Automatic Sunset
+
+The PCA's instruments are designed to make markets possible, not to replace them. This distinction requires ongoing enforcement — not just at instrument design but at regular intervals throughout deployment.
+
+**Market Health Signals**
+
+Each portfolio carries a designated set of market health indicators
+specified at instrument authorization and published. These indicators
+define the conditions under which private capital has sufficiently
+absorbed risk and PCA support is no longer required: private co-
+investment ratios, pricing normalization, liquidity formation, and
+credit availability benchmarks appropriate to the sector.
+
+When indicators cross predefined thresholds, the PCA is required to
+begin drawdown on a published schedule. Instrument persistence without
+demonstrated market failure recurrence is itself a performance failure.
+The PCA may not sustain an instrument because it has become
+operationally comfortable, politically familiar, or institutionally
+embedded.
+
+**Automatic Sunset Provisions**
+
+All PCA instruments carry automatic sunset dates specified at
+authorization. No instrument may exceed an initial term defined by
+its authorizing statute without affirmative congressional reauthorization.
+Reauthorization requires:
+
+- DoDA certification that the original market failure condition has
+  not been resolved
+- Independent market assessment confirming private capital remains
+  unable to absorb the relevant risk without PCA support
+- Public justification for extended deployment published before the
+  reauthorization vote
+
+Reauthorization is not routine renewal. It requires demonstrating that
+the original problem persists. The default is termination, not
+continuation. An instrument that cannot clear this bar should not exist.
+
+**Crowding Out Detection**
+
+If DoDA analysis detects that PCA capital is systematically displacing
+private capital rather than complementing it — evident through declining
+private co-investment ratios, crowding-out in credit markets, or
+suppression of market pricing — the PCA is required to publish a
+crowding-out risk disclosure and reduce deployment rates within 90 days
+of the determination.
+
+The crowding-out determination is made by DoDA, not the PCA. The
+Authority may not self-certify that its own instruments are not
+distorting markets.
+
+**Instrument Deprecation Registry**
+
+All sunset instruments are formally deprecated and their records
+transferred to a public registry maintained by DoDA. Deprecated
+instruments may not be reconstituted under different names or through
+different portfolio designations without explicit legislative
+reauthorization. The registry enables Congress, researchers, and
+the public to track what the state deployed, what it cost, what it
+produced, and when it was retired. This is the accountability record
+that distinguishes deliberate public investment from permanent
+subsidy drift.
+
+---
+
 ## End State
 
 When fully deployed, the Public Capital Authority completes the structural separation between revenue collection, capital strategy, and execution.

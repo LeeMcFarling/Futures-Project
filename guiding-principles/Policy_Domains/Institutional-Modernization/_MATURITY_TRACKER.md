@@ -40,6 +40,7 @@ Modernize democratic institutions through reusable execution instruments that tr
 | Subdomain | Phase | File Count | Word Count | Key Gaps | Dependencies | Next Action | Target Date |
 |-----------|-------|------------|------------|----------|--------------|-------------|-------------|
 | Guiding_Principles | 3 | 1 | ~1,200 | None | None | Complete | — |
+| Conversion_Doctrine | 3 | 1 | ~2,800 | Stakeholder-specific views; pilot case studies; system diagrams | execution-corps-spec, public-capital-authority | Develop stakeholder views + pilot case studies | TBD |
 | Execution_Corps_Spec | 3 | 1 | ~2,100 | Domain instantiations | None | Add domain-specific deployments | TBD |
 | Industry_Interface | 3 | 1 | ~1,300 | Sector examples | Execution_Corps_Spec | Add case studies | TBD |
 | Public_Capital_Authority | 3 | 1 | ~1,500 | Portfolio definitions | Budget.Fiscal_Policy | Define initial portfolios | TBD |

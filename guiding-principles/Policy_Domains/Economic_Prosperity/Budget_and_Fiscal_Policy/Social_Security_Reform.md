@@ -14,7 +14,9 @@ description: >
   Replaces Social Security retirement accruals for future birth cohorts with a
   universal, prefunded superannuation system, shifting retirement financing from
   demographic dependence to owned, portable capital while preserving all legacy
-  promises.
+  promises. Below $50M in total assets: seed capital, tax-free compounding,
+  tax-free inheritance. Above $50M: unrealized gains realize at death or 100
+  years. One threshold, two directions, one coherent social contract.
 ---
 
 # Problem Statement
@@ -78,7 +80,7 @@ This structure eliminates late-life tax shocks, improves revenue certainty, and 
 ## Lifetime Cap (Bucket A) and Above-Cap (Bucket B) Treatment
 
 #### Bucket A — Protected Superannuation (Retirement Capital)
-- Each individual receives a lifetime superannuation special-treatment cap of $15 million, indexed annually to CPI-U.
+- Each individual receives a lifetime superannuation special-treatment cap of $50 million, indexed annually to CPI-U.
 - Mandatory payroll contributions accrue to Bucket A until the indexed cap is reached.
 - Contributions to Bucket A are made from after-tax income.
 - Investment growth within Bucket A is untaxed.
@@ -98,8 +100,12 @@ Bucket A exists solely to provide secure retirement income and bounded intergene
 
 #### Clarifying Principle
 
+The $50 million threshold is symmetrical in intent: below it, the country is actively invested in your wealth accumulation — seed capital, tax-free compounding, tax-free inheritance. Above it, the social contract changes. The same number that defines the ceiling of the national gift defines the floor of the dynasty tax. This is one coherent statement, not two separate systems.
+
+The cap governs total assets, not superannuation balances alone. At death (or at the 100-year trigger, whichever comes first), all assets are aggregated across all holdings — superannuation accounts, real estate, private equity, public market positions, trust assets, and all other forms of capital — to determine whether the $50 million threshold is met. The Bucket A/B structure is the retirement account implementation of this broader total-assets framework.
+
 For clarity, the cap limits preferential tax treatment, not ownership or portfolio size.
-Balances up to the indexed cap function as protected retirement capital (Bucket A), while balances above the cap function as ordinary taxable capital (Bucket B), governed by the same tax and estate rules applicable to other large capital holdings
+Balances and assets up to the indexed cap function as protected capital, while balances and assets above the cap function as ordinary taxable capital, governed by the estate taxation framework defined below.
 
 #### Anti-Avoidance Rule
 
@@ -126,6 +132,84 @@ Borrowing, leverage, or liquidity access associated with Bucket B assets may not
 - Inherited balances count toward the heir’s lifetime indexed cap.
 
 This preserves intergenerational compounding while preventing early consumption or dynastic cashouts.
+
+---
+
+## Dynasty Tax: Realization Framework for Total Assets Above the Cap
+
+### Triggering Events
+
+Unrealized gains on total assets above the $50 million indexed threshold
+are realized and taxed at the capital gains rate upon either of the
+following events, whichever occurs first:
+
+- **Death of the asset holder**
+- **100-year holding trigger** — for assets held in trust, family
+  limited partnerships, or any other structure designed to defer
+  realization beyond a natural lifetime, a mandatory realization
+  event occurs at the 100-year mark from the date of original
+  contribution or formation, regardless of whether a death event
+  has occurred
+
+The 100-year trigger closes the dynastic trust loophole. Assets
+cannot be structured to permanently defer realization by avoiding
+a death event through perpetual trust architecture.
+
+### Aggregation
+
+At a triggering event, all assets are aggregated across all legal
+forms of ownership attributable to the holder or estate: superannuation
+accounts, real estate, private and public market holdings, trust
+interests, partnership interests, closely held business equity, and
+all other capital. The $50 million indexed threshold is applied
+against the aggregate. Only the portion above the threshold is
+subject to realization.
+
+### Transfer to Public Capital Authority
+
+Assets subject to realization above the threshold are not liquidated
+immediately. They are transferred to the Public Capital Authority
+(or a designated PCA-administered estate settlement facility) and
+wound down in an orderly fashion over a statutory wind-down period,
+calibrated by asset class to avoid market disruption.
+
+- Publicly traded positions are wound down over a defined schedule.
+- Private equity and closely held business interests are wound down
+  over a longer schedule with independent valuation.
+- Real estate is handled through structured disposition rather than
+  forced sale.
+- The wind-down schedule is set in statute with asset-class parameters
+  and is not subject to discretionary extension.
+
+Tax liability accrues at the triggering event. The wind-down schedule
+governs payment timing, not liability recognition.
+
+### Prepayment Election
+
+Asset holders who anticipate crossing the threshold may elect to
+prepay capital gains liability on a voluntary schedule prior to a
+triggering event. Prepayment:
+
+- Is irrevocable once elected for the assets designated
+- Locks in the capital gains rate at the time of election
+- Transfers the designated assets to PCA administration on the
+  prepayment schedule
+- Eliminates the realization event for those assets at death
+
+The prepayment election benefits holders who prefer to control
+timing and rate certainty. It benefits the public by delivering
+capital to the PCA in an orderly, planned manner rather than through
+a compressed estate process. It is not a penalty reduction — the
+rate is the same. It is a timing and certainty mechanism.
+
+### Anti-Avoidance
+
+Borrowing against above-threshold assets does not defer, reduce, or
+eliminate capital gains liability. Realization occurs at the
+triggering event regardless of leverage, gifting patterns, or
+interim restructuring. Transfers to related parties within ten years
+of a triggering event are clawed back into the estate for threshold
+calculation purposes.
 
 ---
 

@@ -94,6 +94,18 @@ Each issue in this section will be examined using the same basic sequence:
 
 **What would we have to give up to get there?** Honest settlements require honest trade-offs. What would each side need to accept, and what would each side need to let go of?
 
+## How the Activation Mechanism Works
+
+Each framework proposed in this section follows the same enactment structure. Congress writes and passes the full law first — including each severable title, its findings, definitions, enforcement provisions, and activation conditions — and the President signs it. The Act is enacted at that point, but a severable title becomes operative only if it is later activated by the required public vote. Each severable title goes to the public in a national activation vote held on a defined Election Day. A title that receives the required affirmative vote becomes operative on the effective date written into that title. A title that does not receive the required affirmative vote by that date sunsets and expires — it does not become dormant law pending future activation, it ceases to exist. Re-enactment requires returning to Congress.
+
+The sunset structure is not incidental. A title that expires if not ratified by a defined date is not a shelf of loaded legislation waiting for a future administration to trigger without public consent. It is a law with a hard democratic deadline. That distinction matters both legally and politically, and it is built into every title in this series from the start.
+
+This structure fits within the contingent-legislation logic recognized in *Field v. Clark* (1892), under which Congress may enact law subject to a defined triggering condition, without violating the bicameralism and presentment requirements the Court enforced in *Clinton v. City of New York* (1998). The national activation vote is not a legislative act. It is the triggering condition that Congress itself wrote into law. The distinction is load-bearing: lawmaking remains with Congress and the President; the public vote activates or sunsets law already made.
+
+To state it plainly: the national activation vote does not enact federal law. It activates or sunsets law already enacted by Congress and signed by the President. That is the constitutional box this mechanism is designed to occupy, and every title in this series is written with that distinction in mind. If the mechanism is successfully challenged in court, Congress retains the demonstrated public mandate to re-enact each approved title as standalone legislation through ordinary process — a legal challenge changes the enactment path, it does not erase the vote.
+
+---
+
 The aim in every case is to move past slogans and toward arrangements that reduce harm, preserve legitimacy, and create conditions of social peace. That means replacing oscillation with settlement, replacing symbolic maximalism with practical safeguards, and replacing chaotic ambiguity with rules that are clear enough to follow and humane enough to endure.
 
 That is a high bar. It will not always be cleared. But it is the right bar to set, because the alternative — continuing to lurch between absolutist regimes, selective enforcement, and mutual distrust — is not stability. It is managed collapse. And the people paying the price for it are not the politicians or the media organizations or the advocacy groups. They are the Americans caught inside the chaos that everyone else is profiting from.
