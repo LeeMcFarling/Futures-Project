@@ -1,9 +1,22 @@
 ---
 id: culture-war-trans-issues
-title: Trans Issues
+title: Trans Issues — Decomposed Settlement Framework
 sidebar_label: Trans Issues
 sidebar_position: 5
 slug: /culture-war/trans-issues
+domain: Social
+subdomain: Culture_War_Issues
+policy_type: Democratic Settlement Framework
+status: Draft
+version: 0.10
+author: Futures Project
+last_updated: 2026-04-21
+dependencies:
+  - culture-war-overview
+  - culture-war-conversion-therapy-final
+related_initiatives:
+  - national-competency-framework
+  - care-delivery-reform-market-design
 tags:
   - culture-war
   - transgender
@@ -15,10 +28,19 @@ tags:
   - parental-rights
   - child-protection
   - democratic-legitimacy
+  - activation-mechanism
+  - decomposition
 description: >
-  A framework for examining trans issues not as a single collapsed moral fight,
-  but as several distinct legal and institutional questions involving child
-  protection, medical risk, dignity, sports, coercion, and democratic legitimacy.
+  A decomposed settlement framework for trans issues — five distinct legal and
+  institutional questions submitted to separate national activation votes rather
+  than collapsed into a single binary fight. Covers civil dignity protections,
+  anti-coercion therapy standards, puberty blocker and hormone research-gating,
+  surgery prohibition for minors, and a three-category sports framework. Each
+  title is severable. The sex-segregated spaces question is explicitly deferred
+  to a subsequent round pending conditions for a federal settlement that protects
+  rather than endangers. Conservative fears addressed on the merits; federal
+  dignity floor established; attack lines on surgery, hormones, therapy, and
+  sports resolved.
 ---
 
 # Trans Issues

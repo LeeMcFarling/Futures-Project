@@ -4,6 +4,20 @@ title: Undocumented Settlement, Childhood Arrivals, and One-Time Status Regulari
 sidebar_label: Immigration Settlement
 sidebar_position: 6
 slug: /culture-war/immigration-settlement
+domain: Social
+subdomain: Culture_War_Issues
+policy_type: Democratic Settlement Framework
+status: Draft
+version: 0.1
+author: Futures Project
+last_updated: 2026-04-21
+dependencies:
+  - culture-war-overview
+  - immigration-stack
+  - isa-execution-corps-deployment
+related_initiatives:
+  - social-security-reform
+  - manufacturing-domain-overview
 tags:
   - culture-war
   - immigration
@@ -11,12 +25,21 @@ tags:
   - undocumented
   - family-unity
   - democratic-legitimacy
+  - activation-mechanism
+  - decomposition
+  - one-time-settlement
+  - enforcement-architecture
 description: >
-  A framework for resolving the legacy undocumented population not as a single
-  amnesty question but as several distinct harms — beginning with the
-  institutional failure that created the shadow economy — and building toward
-  a durable, one-time democratic settlement that closes the books without
-  reopening them.
+  A decomposed settlement framework for the legacy undocumented population —
+  four severable titles submitted to separate national activation votes.
+  Covers DACA and childhood arrivals (statutory status and pathway), long-settled
+  non-criminal adults (one-time conditional registration), family unity
+  (provisional caregiver status), and status-to-citizenship conversion.
+  Addresses the 1986 failure directly. One-time-only clause is structural not
+  rhetorical. Enforcement architecture is the pairing that makes the settlement
+  credible. Post-cutoff entrants face the closed enforcement system — this is
+  what closed borders means and what prevents the conditions that enable
+  authoritarian politics.
 ---
 
 # Undocumented Settlement, Childhood Arrivals, and One-Time Status Regularization

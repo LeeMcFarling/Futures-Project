@@ -2,15 +2,15 @@
 id: irs-modernization-automated-income-attestation
 title: IRS Modernization — Automated Income Attestation and Credential-Based Tax Infrastructure
 sidebar_label: IRS Modernization
-sidebar_position: 1
-slug: /technology/government-infrastructure/irs-modernization
-domain: Technology_and_Data
-subdomain: Government_Infrastructure
+sidebar_position: 7
+slug: /economic-prosperity/budget-fiscal/irs-modernization
+domain: Economic_Prosperity
+subdomain: Budget_and_Fiscal_Policy
 policy_type: Execution Infrastructure Framework
 status: Draft
 version: 0.1
 author: Futures Project
-last_updated: 2026-04-10
+last_updated: 2026-04-22
 dependencies:
   - ssi-self-sovereign-identity-framework
   - upi-privacy-preserving-payment-rail
