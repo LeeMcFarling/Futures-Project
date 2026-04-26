@@ -2,7 +2,7 @@
 id: national-referendum-mechanism
 title: "National Referendum Mechanism: Direct Democratic Authorization & Anti-Capture Architecture"
 sidebar_label: National Referendum Mechanism
-sidebar_position: 6
+sidebar_position: 7
 slug: /democratic-integrity/voting/national-referendum-mechanism
 tags:
   - referendum

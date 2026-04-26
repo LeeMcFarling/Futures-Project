@@ -1,7 +1,7 @@
 # Domain Maturity Tracker: Economic_Prosperity
 
-**Last Updated:** 2026-04-10
-**Overall Domain Phase:** 2
+**Last Updated:** 2026-04-25
+**Overall Domain Phase:** 2–3
 **Domain Owner:** TBD
 
 ---
@@ -40,14 +40,14 @@ Create conditions for broad-based economic prosperity through agricultural resil
 | Subdomain | Phase | File Count | Word Count | Key Gaps | Dependencies | Next Action | Target Date |
 |-----------|-------|------------|------------|----------|--------------|-------------|-------------|
 | Agriculture | 3 | 8 | ~8,500 | Implementation timeline | Public_Infrastructure.Rural | Add pilot program details | TBD |
-| Budget_and_Fiscal_Policy | 2 | 4 | ~4,000 | Tax reform details | None | Expand revenue mechanisms | TBD |
+| Budget_and_Fiscal_Policy | 3–4 | 8 | ~14,000 | Citizens United constitutional pathway (in Campaign Finance); small-donor matching depth | None | Prose build-out; enforcement architecture depth | TBD |
 | Manufacturing | 2 | 26 | ~50,000 | Urban-industrial integration needs depth; workforce training linkages new | Technology_and_Data, National_Security | Expand urban-industrial integration depth | TBD |
 | Labor_Mobility | 2 | 3 | ~5,500 | WCA/ISA deployment models covered; employer accountability depth | department-of-data-and-accountability | Add employer accountability detail | TBD |
 | Energy | 3 | 7 | ~15,500 | Coal community sequencing depth; prosumer market liquidity rules | public-capital-authority | Add coal community implementation case | TBD |
 | Labor_and_Wellfare | 2 | 4 | ~3,500 | Automation/AI impacts, union policy | Immigration, Healthcare | Expand coverage | TBD |
 | Climate_and_Resilience | 3 | 4 | ~9,000 | Carbon pricing/demand-side; rural adaptation depth | department-of-data-and-accountability | Add carbon framework; expand rural coverage | TBD |
 | Trade_Policy | 2 | 8 | ~17,500 | Enforcement modernization detail; supply chain mapping | National_Security, Manufacturing | Add enforcement modernization | TBD |
-| Antitrust | 0 | 0 | 0 | **Not started** | Technology_and_Data | Create initial file | TBD |
+| Antitrust | — | — | — | *Cross-domain: tracked under Technology_and_Data (anti-capture and competitive framework — modern trusts are algorithmic; requires new tools, not blunt enforcement of old ones)* | Technology_and_Data | See Technology_and_Data tracker | — |
 | Small_Business | 0 | 0 | 0 | **Not started** | Budget | Create initial file | TBD |
 
 ---
@@ -77,27 +77,36 @@ Create conditions for broad-based economic prosperity through agricultural resil
 ## Gap Analysis
 
 ### Tier 1: Critical Gaps (Missing Foundation)
-- [ ] **Trade Policy** – No coverage of trade agreements, tariffs – Target: Phase 2
-- [ ] **Labor & Workforce** – No unions, worker protections, automation – Target: Phase 2
+- [x] **Trade Policy** — 8-file stack at Phase 2: tariff governance, adversarial risk management, NORAM alignment, cartel de-risking, IDP compact, WTO coalition, export controls ✅
+- [x] **Labor & Workforce** — Labor_Mobility subdomain added (WCA, ISA, workforce immigration skill mobility); workforce training stack under Manufacturing ✅
 
 ### Tier 2: Structural Gaps (Incomplete Coverage)
-- [ ] **Antitrust & Competition** – Big tech, consolidation – Target: Phase 2
-- [ ] **Tax Reform** – Beyond budget, comprehensive tax policy – Target: Phase 2
-- [ ] **Small Business** – Entrepreneurship, access to capital – Target: Phase 2
+- [x] **Antitrust & Competition** — Cross-domain: tracked under Technology_and_Data (anti-capture and competitive framework); algorithmic market power requires new instruments, not legacy enforcement ✅
+- [x] **Tax Reform** — Budget_and_Fiscal_Policy now 8 files: income, corporate competitiveness, capital gains realization, IRS modernization, superannuation, dynasty tax, fiscal sustainability ✅
+- [ ] **Small Business** — Entrepreneurship, access to capital, PCA linkage — Target: Phase 2
 
 ### Tier 3: Enhancement Gaps (Nice-to-Have)
-- [ ] **Regional economic development** – Rural/urban disparities – Target: Phase 3
-- [ ] **Gig economy** – Worker classification, benefits portability – Target: Phase 3
+- [ ] **Regional economic development** — Rural/urban disparities — Target: Phase 3
+- [ ] **Gig economy** — Worker classification, benefits portability — Target: Phase 3
 
 ---
 
 ## Phase Advancement Checklist
 
-### Requirements for Phase 3 (Outcomes & Decision Rules)
-- [x] Alternative approaches documented (Agriculture)
-- [ ] Trade-off analysis completed
-- [ ] Evidence base established
-- [ ] Expert consultations initiated
+### Budget_and_Fiscal_Policy — Requirements for Phase 5 (External Validation)
+- [x] Revenue architecture defined (income, corporate, capital gains, dynasty, IRS modernization)
+- [x] Fiscal sustainability framework documented
+- [x] Social Security / superannuation transition architecture present
+- [ ] Citizens United constitutional pathway resolved (cross-domain, Campaign Finance)
+- [ ] Enforcement architecture depth for revenue rules
+- [ ] Prose build-out and external validation messaging
+
+### Domain-Wide — Requirements for Phase 3 (Outcomes & Decision Rules)
+- [x] Alternative approaches documented (Agriculture, Trade)
+- [x] Trade-off analysis present (Manufacturing, Energy, Trade)
+- [x] Evidence base established (multiple subdomains)
+- [ ] China decoupling / cyber-economic strategy (Trade_Policy gap)
+- [ ] Small Business subdomain initiated
 
 ---
 
@@ -105,6 +114,8 @@ Create conditions for broad-based economic prosperity through agricultural resil
 
 | Date | Subdomain | Change | Phase Impact |
 |------|-----------|--------|--------------|
+| 2026-04-25 | Budget_and_Fiscal_Policy | Added 4 files: tax-code-as-revenue-system-v02.md, corporate-competitiveness-and-reciprocity-tax-framework.md, universal-superannuation-system.md, dynasty-tax-and-generational-transfer-framework.md; IRS modernization relocated from Technology_and_Data to Budget_and_Fiscal_Policy (domain/subdomain/slug corrected); sidebar positions fixed; total 8 files | Phase 2 → 3–4 |
+| 2026-04-25 | Antitrust | Closed as standalone subdomain — tracked under Technology_and_Data (anti-capture and competitive framework); modern trust architecture is algorithmic and requires new instruments, not legacy Sherman Act enforcement | N/A |
 | 2026-04-10 | Trade_Policy | Added draft-export-controls-phase-gated-approach.md (export controls as phase-gated precision instrument — reversible de-escalation pathways, alliance industrial resilience linkage, behavior-conditioned control tiers); dep names converted from plain strings to slugs; trade-and-diplomacy-in-low-trust-environments added as dep | 7 → 8 files |
 | 2026-04-10 | Energy | Added abundance-first-decarbonization-and-reliability-transition.md (abundance-first transition framework — coal community phase-gates, grid reliability requirements, regional sequencing, PCA backstop); energy-siting-and-distributed-participation-overlay.md (transmission corridor + FERC/state authority + eminent domain overlay + prosumer market participation); sidebar positions fixed (7 + 8); dep noram-critical-materials-and-manufacturing → noram-critical-materials | 5 → 7 files; closes energy siting gap |
 | 2026-04-10 | Trade_Policy | Added 6-file trade stack: draft-adversarial-trade-partner-risk-management.md, draft-cartel-derisking-and-regional-stability-framework.md, draft-idp-nations-trade-overview.md (dep slugs fixed: impeachment-reform → impeachment-reform-enumerated-triggers, integrated-defense-partnerships removed, regulatory-version-control-system → regulatory-modernization-packet-spec), draft-noram-manufacturing-and-nearshoring-framework.md (integrated-defense-partnerships dep removed), draft-tariff-governance-and-industrial-activation.md, draft-wto-trade-modernization-coalition-framework.md (status Tentative → Draft) | 1 → 7 files; Phase 1 → 2 |
@@ -124,11 +135,12 @@ Create conditions for broad-based economic prosperity through agricultural resil
 
 ## Notes & Context
 
-- Domain has **~57 files** totaling ~85,000 words (largest domain, including cross-domain Labor_Mobility files)
+- Domain has **~57 files** totaling ~85,000+ words (largest domain, including cross-domain Labor_Mobility files)
 - Agriculture is most developed subdomain; Manufacturing now 26 files — largest subdomain
-- Trade_Policy now at 7 files (Phase 2); tariff governance, adversarial risk management, NORAM alignment, cartel de-risking, IDP compact, WTO coalition
+- Budget_and_Fiscal_Policy now 8 files (~14,000 words) at Phase 3–4: income, corporate competitiveness/reciprocity, borrowing-triggered partial realization, IRS modernization, superannuation, dynasty tax, fiscal sustainability, and growth/reciprocity overview
+- Trade_Policy now at 8 files (Phase 2); tariff governance, adversarial risk management, NORAM alignment, cartel de-risking, IDP compact, WTO coalition, export controls
 - New Labor_Mobility subdomain: 3 cross-domain files (system doctrine, ISA, WCA) that live in Immigration/IM folders but declare Economic_Prosperity domain; workforce training files (4) counted under Manufacturing
+- Antitrust: not a standalone subdomain — anti-capture and competitive framework lives in Technology_and_Data; algorithmic concentration requires new instruments
 - Manufacturing files still live in `Policy_Domains/Manufacturing/` — folder/domain placement should eventually be reconciled
-- `workforce-skill-mobility` gap now substantially addressed by Labor_Mobility subdomain
 - "Efficiancy" folder has typo (should be Efficiency)
-- China decoupling strategy + export controls still missing from Trade_Policy
+- China decoupling + cyber-economic strategy still missing from Trade_Policy (active gap)

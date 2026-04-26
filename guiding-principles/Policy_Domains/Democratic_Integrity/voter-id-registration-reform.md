@@ -2,7 +2,7 @@
 id: voter-id-and-registration-reform
 title: "Voter ID & Registration Reform: Universal Enrollment, Numeric Matching, and the Path to Cryptographic Identity"
 sidebar_label: Voter ID & Registration
-sidebar_position: 5
+sidebar_position: 6
 slug: /democratic-integrity/voting/voter-id-registration-reform
 tags:
   - voting-rights

@@ -9,7 +9,7 @@ status: Draft
 version: 0.4
 author: Futures Project
 sidebar_label: Impeachment Triggers
-sidebar_position: 2
+sidebar_position: 3
 dependencies:
   - impeachment-reform
   - impeachment-reform-suspension-and-prosecution-clarification

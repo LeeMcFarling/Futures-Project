@@ -2,7 +2,7 @@
 id: election-day-reform
 title: "Election Day Reform: National Holiday & Unified Primary Calendar"
 sidebar_label: Election Day Reform
-sidebar_position: 4
+sidebar_position: 5
 slug: /democratic-integrity/voting/election-day-reform
 tags:
   - voting-rights
