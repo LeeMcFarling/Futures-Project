@@ -1,26 +1,35 @@
 ---
-title: "Regional Wage Modernization Pilot"
-domain: "Labor, Wages, and Economic Security"
-project: "Futures Project"
-status: "Draft"
-version: "0.1"
-summary: "A regional, evidence-gated minimum wage modernization pilot using federal transition support, PCA-backed adjustment finance, DoDA-certified econometric evaluation, Euclidean nearest-neighbor matching, regression discontinuity where feasible, and independent university peer review before expansion."
-core_institutions:
-
-* "Department of Data and Accountability (DoDA)"
-* "Public Capital Authority (PCA)"
-* "Independent Research Review Panel"
-* "Participating states, regions, and local jurisdictions"
-* "Universities, business schools, economics departments, and public-policy schools"
-  primary_methods:
-* "Standardized Euclidean nearest-neighbor matching"
-* "Difference-in-differences"
-* "Event studies"
-* "Regression discontinuity and border analysis"
-* "Sectoral exposure modeling"
-* "Independent replication and peer review"
-  policy_type: "Regional opt-in pilot with federal backstop"
-  scaling_logic: "Expand only after statutory performance thresholds and independent peer-review certification are satisfied"
+id: regional-wage-modernization-pilot
+title: Regional Wage Modernization Pilot
+sidebar_label: Regional Wage Pilot
+sidebar_position: 1
+slug: /labor-and-economic-security/regional-wage-modernization-pilot
+domain: Labor_and_Economic_Security
+subdomain: Wage_Modernization
+policy_type: Pilot Program
+status: Draft
+version: 0.1
+author: Futures Project
+dependencies:
+  - doda-regional-wage-heatmap
+  - public-capital-authority
+  - irs-modernization-automated-income-attestation
+  - benefits-gradient-modernization
+related_instruments:
+  - benefits-gradient-modernization
+  - worker-classification-parity
+  - codetermination-worker-board-representation
+  - employer-benefits-floor-modernization
+tags:
+  - labor
+  - economic-security
+  - wage-floor
+  - minimum-wage
+  - regional-pilot
+  - evidence-gated
+  - doda
+  - public-capital-authority
+last_updated: 2026-04-27
 ---
 
 # Regional Wage Modernization Pilot
@@ -51,16 +60,16 @@ The central policy question is therefore not simply whether wages rise. The ques
 
 The pilot should test whether a higher wage floor can:
 
-* increase earnings for low-wage workers;
-* reduce poverty and benefit dependence;
-* improve retention and reduce churn;
-* strengthen household demand;
-* preserve or improve labor-force participation;
-* avoid excessive employment or hours losses;
-* avoid excessive price pass-through;
-* avoid abnormal business closures relative to matched regions;
-* avoid destabilizing public-sector recruitment and wage ladders;
-* improve net fiscal outcomes through higher tax receipts and lower benefit reliance.
+- increase earnings for low-wage workers;
+- reduce poverty and benefit dependence;
+- improve retention and reduce churn;
+- strengthen household demand;
+- preserve or improve labor-force participation;
+- avoid excessive employment or hours losses;
+- avoid excessive price pass-through;
+- avoid abnormal business closures relative to matched regions;
+- avoid destabilizing public-sector recruitment and wage ladders;
+- improve net fiscal outcomes through higher tax receipts and lower benefit reliance.
 
 The intervention is not a claim that every region can absorb the same wage floor at the same speed. It is a test of which regions can absorb which wage path under which institutional supports.
 
@@ -70,9 +79,9 @@ Each participating region would receive a certified wage-floor target based on a
 
 A simplified version would look like:
 
-```text
+
 Regional wage floor = baseline federal restoration floor × regional adjustment factor
-```
+
 
 The adjustment factor should not be purely cost-of-living based. A region with high costs but weak business density may need a slower onramp than a high-cost region with strong consumer demand. Similarly, a lower-cost region may still require a stronger wage floor if workers face high transportation costs, housing scarcity, childcare costs, or concentrated employer power.
 
@@ -140,12 +149,12 @@ The pilot should construct a wage shock intensity score for each firm, sector, a
 
 A useful exposure score would include:
 
-```text
+
 Wage shock intensity =
 share of workers below the new floor
 × average mandated wage increase
 × labor share of operating costs
-```
+
 
 This allows DoDA to compare high-exposure and low-exposure firms within the same region, rather than relying only on region-to-region comparisons. It also supports more precise PCA targeting. A large firm with strong margins and low exposure should receive little or no transition support. A small, labor-intensive firm with high exposure and strong compliance history may qualify for temporary support.
 
