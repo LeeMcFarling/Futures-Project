@@ -28,9 +28,9 @@ last_updated: 2026-04-10
 
 ## Executive Summary
 
-This framework proposes a **WTO Modernization Coalition** built with like-minded trading states to develop the next working layer of global trade governance. The objective is not to wait for universal consensus on a full institutional rewrite. The objective is to build a rules-based modernization pathway that can operate through plurilateral agreements, interim arrangements, and modular rulemaking, and then scale outward over time. This reflects the direction the WTO is already taking in practice: MC14 did not produce a full reform settlement, while subsets of members moved ahead on interim arrangements for electronic commerce and continued pushing dispute-settlement reform. :contentReference[oaicite:0]{index=0}
+This framework proposes a **WTO Modernization Coalition** built with like-minded trading states to develop the next working layer of global trade governance. The objective is not to wait for universal consensus on a full institutional rewrite. The objective is to build a rules-based modernization pathway that can operate through plurilateral agreements, interim arrangements, and modular rulemaking, and then scale outward over time. This reflects the direction the WTO is already taking in practice: MC14 did not produce a full reform settlement, while subsets of members moved ahead on interim arrangements for electronic commerce and continued pushing dispute-settlement reform. 
 
-Singapore is a strong anchor for such a coalition. It publicly positions itself as a supporter of an open, rules-based trading system, works with like-minded WTO members to update rules for new challenges, participates in the MPIA interim appeal system, and has taken a leading role in digital trade and the WTO e-commerce track. It also helped found DEPA, which is the world’s first standalone digital trade agreement and now has Korea as a member with several additional accession applicants. :contentReference[oaicite:1]{index=1}
+Singapore is a strong anchor for such a coalition. It publicly positions itself as a supporter of an open, rules-based trading system, works with like-minded WTO members to update rules for new challenges, participates in the MPIA interim appeal system, and has taken a leading role in digital trade and the WTO e-commerce track. It also helped found DEPA, which is the world’s first standalone digital trade agreement and now has Korea as a member with several additional accession applicants. 
 
 The coalition should be framed as **pro-rules, pro-modernization, and compatible with strategic industrial policy**. It should not try to restore a pre-2016 free-trade consensus that no longer maps to geopolitical reality. Instead, it should update the trade system for a world of resilience policy, digital trade, subsidy competition, and trusted plurilateral integration.
 
@@ -38,9 +38,9 @@ The coalition should be framed as **pro-rules, pro-modernization, and compatible
 
 ## 1. Problem Statement — What’s Broken
 
-The WTO’s core challenge is not simply that rules are old. It is that the institution’s consensus structure has made meaningful modernization too slow for an economy shaped by digital trade, industrial subsidies, export controls, strategic dependency, and economic-security policy. MC14 underscored this problem: members continued discussing reform, but no comprehensive reform settlement emerged, and the broader ministerial outcome remained limited and fragmented. :contentReference[oaicite:2]{index=2}
+The WTO’s core challenge is not simply that rules are old. It is that the institution’s consensus structure has made meaningful modernization too slow for an economy shaped by digital trade, industrial subsidies, export controls, strategic dependency, and economic-security policy. MC14 underscored this problem: members continued discussing reform, but no comprehensive reform settlement emerged, and the broader ministerial outcome remained limited and fragmented. 
 
-At the same time, the dispute-settlement system remains structurally impaired. Singapore itself emphasizes the need to restore a binding two-tier dispute-settlement system, while also treating the MPIA as a practical bridge in the absence of a fully functioning Appellate Body. The European Commission similarly continues to treat WTO dispute settlement as impaired enough to require interim and defensive measures. :contentReference[oaicite:3]{index=3}
+At the same time, the dispute-settlement system remains structurally impaired. Singapore itself emphasizes the need to restore a binding two-tier dispute-settlement system, while also treating the MPIA as a practical bridge in the absence of a fully functioning Appellate Body. The European Commission similarly continues to treat WTO dispute settlement as impaired enough to require interim and defensive measures. 
 
 The result is a system where the legal shell of multilateral trade still matters, but the effective frontier of rulemaking is moving through smaller-group agreements and interim structures. The coalition should therefore begin from that reality rather than pretending universal modernization is immediately available.
 
@@ -62,7 +62,7 @@ The coalition should be organized around a simple premise:
 
 > The WTO should be modernized through working modules, not held hostage by universal vetoes.
 
-This means the coalition accepts three realities. First, plurilateralism is no longer a side channel; it is increasingly the workable route for new rules. Second, dispute settlement must be stabilized before trade law regains full credibility. Third, digital trade is one of the few areas where rule innovation is already meaningfully ahead of the old WTO baseline, with Singapore playing a central role through both the WTO e-commerce track and DEPA. :contentReference[oaicite:4]{index=4}
+This means the coalition accepts three realities. First, plurilateralism is no longer a side channel; it is increasingly the workable route for new rules. Second, dispute settlement must be stabilized before trade law regains full credibility. Third, digital trade is one of the few areas where rule innovation is already meaningfully ahead of the old WTO baseline, with Singapore playing a central role through both the WTO e-commerce track and DEPA. 
 
 The coalition should therefore present itself not as an ideological free-trade bloc, but as a **rule-maintenance and rule-updating coalition** for states that want markets, industrial policy, and security policy to coexist inside a coherent legal architecture.
 
@@ -70,7 +70,7 @@ The coalition should therefore present itself not as an ideological free-trade b
 
 ## 4. Initial Coalition Architecture
 
-Singapore should be treated as a leading candidate for a founding convening role because it combines high trade credibility, reform orientation, digital-trade leadership, and support for restored dispute settlement. A plausible core coalition would also include economies such as New Zealand, Australia, Japan, Canada, the European Union, and other states willing to support procedural modernization and high-standard digital and subsidy rules. Singapore’s official position already emphasizes working with like-minded WTO members to strengthen and update the institution, which makes it unusually well suited to this role. :contentReference[oaicite:5]{index=5}
+Singapore should be treated as a leading candidate for a founding convening role because it combines high trade credibility, reform orientation, digital-trade leadership, and support for restored dispute settlement. A plausible core coalition would also include economies such as New Zealand, Australia, Japan, Canada, the European Union, and other states willing to support procedural modernization and high-standard digital and subsidy rules. Singapore’s official position already emphasizes working with like-minded WTO members to strengthen and update the institution, which makes it unusually well suited to this role. 
 
 The coalition should remain open-ended. The point is not to create a closed club. The point is to prove a working modernization path and let others accede as trust and compatibility grow.
 
@@ -80,19 +80,19 @@ The coalition should remain open-ended. The point is not to create a closed club
 
 ### A. Dispute Settlement Repair
 
-The first workstream is to build a credible bridge from the current impaired system to a restored binding mechanism. In the near term, this means supporting and expanding practical interim appeal mechanisms and developing a politically realistic design for a reformed appellate layer. Singapore already frames the MPIA as a useful bridge while pushing for a restored two-tier system, which makes it a natural partner for this agenda. :contentReference[oaicite:6]{index=6}
+The first workstream is to build a credible bridge from the current impaired system to a restored binding mechanism. In the near term, this means supporting and expanding practical interim appeal mechanisms and developing a politically realistic design for a reformed appellate layer. Singapore already frames the MPIA as a useful bridge while pushing for a restored two-tier system, which makes it a natural partner for this agenda. 
 
 The coalition should not assume that immediate universal restoration is realistic. It should aim to create a standard that is functional, trusted, and easy for additional members to adopt.
 
 ### B. Plurilateral Legitimization
 
-The second workstream is to normalize plurilateral agreements as a legitimate modernization path. MC14’s e-commerce outcome moved in exactly this direction: a large subset of members adopted a pathway to bring the electronic commerce agreement into force through interim arrangements while continuing work toward incorporation into the WTO legal framework. That is the model. Working rules first, broader legal embedding second. :contentReference[oaicite:7]{index=7}
+The second workstream is to normalize plurilateral agreements as a legitimate modernization path. MC14’s e-commerce outcome moved in exactly this direction: a large subset of members adopted a pathway to bring the electronic commerce agreement into force through interim arrangements while continuing work toward incorporation into the WTO legal framework. That is the model. Working rules first, broader legal embedding second.
 
 The coalition should push for a clear doctrine that non-participants cannot indefinitely veto willing members from developing modern trade rules, provided accession remains open and core transparency standards are met.
 
 ### C. Digital Trade and Data Governance
 
-The third workstream is digital trade. This is where Singapore is especially valuable. Singapore’s government highlights its leadership role in the WTO e-commerce initiative and its commitment to rules for the digital economy, while DEPA provides a live template for modular, interoperable digital trade architecture covering trusted data flows and emerging issues such as AI. :contentReference[oaicite:8]{index=8}
+The third workstream is digital trade. This is where Singapore is especially valuable. Singapore’s government highlights its leadership role in the WTO e-commerce initiative and its commitment to rules for the digital economy, while DEPA provides a live template for modular, interoperable digital trade architecture covering trusted data flows and emerging issues such as AI.
 
 The coalition should treat digital trade as a proving ground for WTO modernization rather than a side issue. Rules built here are easier to test, easier to accede to, and more adaptable than broad legacy tariff bargains.
 
