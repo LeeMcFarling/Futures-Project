@@ -180,8 +180,9 @@ function.
 ## Insurance Boundary Rules
 
 Insurance is excluded from primary care, urgent care, routine diagnostics, and minor
-procedures. Severe Event Coverage applies to major scheduled surgeries, complex episodes, severe events, catastrophic events, and emergency utility care. Private insurance may compete
-above the SEC floor, but it may not reabsorb primary care, urgent care, routine
+procedures. Severe Event Coverage applies to major scheduled surgeries, complex episodes, 
+severe events, catastrophic events, and emergency utility care. Private insurance may compete above the SEC floor, 
+but it may not reabsorb primary care, urgent care, routine
 diagnostics, or minor procedures into hidden reimbursement.
 
 This boundary is not an attack on insurance, but rather a correction of what insurance is

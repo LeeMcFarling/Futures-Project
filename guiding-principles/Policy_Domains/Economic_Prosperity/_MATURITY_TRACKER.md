@@ -1,6 +1,6 @@
 # Domain Maturity Tracker: Economic_Prosperity
 
-**Last Updated:** 2026-04-25
+**Last Updated:** 2026-05-01
 **Overall Domain Phase:** 2–3
 **Domain Owner:** TBD
 
@@ -40,7 +40,7 @@ Create conditions for broad-based economic prosperity through agricultural resil
 | Subdomain | Phase | File Count | Word Count | Key Gaps | Dependencies | Next Action | Target Date |
 |-----------|-------|------------|------------|----------|--------------|-------------|-------------|
 | Agriculture | 3 | 8 | ~8,500 | Implementation timeline | Public_Infrastructure.Rural | Add pilot program details | TBD |
-| Budget_and_Fiscal_Policy | 3–4 | 8 | ~14,000 | Citizens United constitutional pathway (in Campaign Finance); small-donor matching depth | None | Prose build-out; enforcement architecture depth | TBD |
+| Budget_and_Fiscal_Policy | 3–4 | 9 | ~18,000 | sidebar_position TBD for child-future-accounts brief; federal match scope boundary clearly defined (no broad recurring match); annual/lifetime cap schedule still TBD | universal-superannuation-system, dynasty-tax-and-generational-transfer-framework, ssi-self-sovereign-identity-framework, upi-privacy-preserving-payment-rail | Cap schedule spec; sidebar_position assignment; coordinate with Labor stack on employer contribution distinction | TBD |
 | Manufacturing | 2 | 26 | ~50,000 | Urban-industrial integration needs depth; workforce training linkages new | Technology_and_Data, National_Security | Expand urban-industrial integration depth | TBD |
 | Labor_Mobility | 2 | 3 | ~5,500 | WCA/ISA deployment models covered; employer accountability depth | department-of-data-and-accountability | Add employer accountability detail | TBD |
 | Energy | 3 | 7 | ~15,500 | Coal community sequencing depth; prosumer market liquidity rules | public-capital-authority | Add coal community implementation case | TBD |
@@ -114,6 +114,7 @@ Create conditions for broad-based economic prosperity through agricultural resil
 
 | Date | Subdomain | Change | Phase Impact |
 |------|-----------|--------|--------------|
+| 2026-05-01 | Budget_and_Fiscal_Policy | Added child-future-accounts-distributed-contribution-layer.md (v0.2): distributed contribution architecture for child future accounts — family contributions, employer child-account benefits, school/library/community deposits, corporate community contribution pools, public-benefit compact requirements, youth challenge prize routing, SSI/UPI routing layer, contribution caps, dynasty threshold interaction; companion to Universal Superannuation System and Labor stack employer contributions; sidebar_position TBD | 8 → 9 files |
 | 2026-04-25 | Budget_and_Fiscal_Policy | Added 4 files: tax-code-as-revenue-system-v02.md, corporate-competitiveness-and-reciprocity-tax-framework.md, universal-superannuation-system.md, dynasty-tax-and-generational-transfer-framework.md; IRS modernization relocated from Technology_and_Data to Budget_and_Fiscal_Policy (domain/subdomain/slug corrected); sidebar positions fixed; total 8 files | Phase 2 → 3–4 |
 | 2026-04-27 | Labor_and_Wellfare | Superseded: full labor stack promoted to standalone Labor_and_Economic_Security domain (10 files, Phase 4–5); benefits gradient, worker classification, codetermination, real-time EITC, portable healthcare floor, superannuation contributions, regional wage pilot, employer letter — all built out | Subdomain retired |
 | 2026-04-25 | Antitrust | Closed as standalone subdomain — tracked under Technology_and_Data (anti-capture and competitive framework); modern trust architecture is algorithmic and requires new instruments, not legacy Sherman Act enforcement | N/A |
@@ -138,7 +139,8 @@ Create conditions for broad-based economic prosperity through agricultural resil
 
 - Domain has **~57 files** totaling ~85,000+ words (largest domain, including cross-domain Labor_Mobility files)
 - Agriculture is most developed subdomain; Manufacturing now 26 files — largest subdomain
-- Budget_and_Fiscal_Policy now 8 files (~14,000 words) at Phase 3–4: income, corporate competitiveness/reciprocity, borrowing-triggered partial realization, IRS modernization, superannuation, dynasty tax, fiscal sustainability, and growth/reciprocity overview
+- Budget_and_Fiscal_Policy now 9 files (~18,000 words) at Phase 3–4: income, corporate competitiveness/reciprocity, borrowing-triggered partial realization, IRS modernization, superannuation, dynasty tax, fiscal sustainability, growth/reciprocity overview, and child future accounts distributed contribution layer
+- Child Future Accounts brief (v0.2) is the fiscal-domain complement to the Labor stack's superannuation employer contribution and the Education stack's youth challenge media — explicitly scoped to NOT create a broad federal recurring match (pre-seed is the federal floor; recurring matches are non-federal); corporate community pools and public-benefit compact requirements are the key structural innovations
 - Trade_Policy now at 8 files (Phase 2); tariff governance, adversarial risk management, NORAM alignment, cartel de-risking, IDP compact, WTO coalition, export controls
 - New Labor_Mobility subdomain: 3 cross-domain files (system doctrine, ISA, WCA) that live in Immigration/IM folders but declare Economic_Prosperity domain; workforce training files (4) counted under Manufacturing
 - Antitrust: not a standalone subdomain — anti-capture and competitive framework lives in Technology_and_Data; algorithmic concentration requires new instruments

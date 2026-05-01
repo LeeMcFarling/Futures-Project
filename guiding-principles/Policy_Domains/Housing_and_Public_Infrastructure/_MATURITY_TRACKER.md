@@ -1,6 +1,6 @@
 # Domain Maturity Tracker: Housing_and_Public_Infrastructure
 
-**Last Updated:** 2026-03-23
+**Last Updated:** 2026-05-01
 **Overall Domain Phase:** 3
 **Domain Owner:** TBD
 
@@ -55,6 +55,8 @@ Build housing capacity and connected public infrastructure together as a unified
 | Phased_Rollout | 2 | 1 | ~700 | Timeline specifics | None | Add milestone dates | TBD |
 | Existing_Neighborhood_Treatment | 3 | 5 | ~6,500 | None | None | Complete | — |
 | Housing_Integration | 3 | 6 | ~10,000 | Rural housing | construction-throughput-mapping-initiative | Complete at this layer — homelessness stack now live in Social domain (3 files) | — |
+| Civic_Architecture | 3–4 | 1 | ~4,000 | Full application criteria; multi-project consistency enforcement; anti-branding safeguards | execution-corps-spec, modular-reurbanization-overview, public-infrastructure-spine | Prose depth on mark application criteria and anti-partisan safeguards | TBD |
+| Domain_Architecture | 2 | 1 | ~500 | Instrument map needs completion; v0.1 draft | execution-corps-spec, public-capital-authority | Complete instrument mapping | TBD |
 | Broadband | 0 | 0 | 0 | **Not started** | Technology_and_Data | Create initial file | TBD |
 | Water_Systems | 0 | 0 | 0 | **Not started** | None | Create initial file | TBD |
 
@@ -131,6 +133,8 @@ Build housing capacity and connected public infrastructure together as a unified
 
 | Date | Subdomain | Change | Phase Impact |
 |------|-----------|--------|--------------|
+| 2026-05-01 | Civic_Architecture | Added cpqa-civic-build-mark.md (v0.3): CPQA Civic Build Mark & Public Authorship Standard — public-authorship legibility layer for the full infrastructure stack; three eligibility conditions (authorized by public charter, conforms to stack standards, produces durable public value); AEDIFICAT RES PUBLICA motto; anti-partisan and anti-branding safeguards; explicit non-goals (no mandatory national style, no developer co-branding, no propaganda architecture); new subdomain | New subdomain; 17 → 19 files |
+| 2026-03-26 | Domain_Architecture | Added DRAFT-housing-infrastructure-instrumentation-manifest.md (v0.1): execution instrument map for full domain; sidebar_position 0; untracked at March tracker update | New subdomain |
 | 2026-03-23 | Modular_Reurbanization | DRAFT-colorado-density-pilot.md added (v0.2): parking lot + park-and-ride redevelopment pilot; structurally inefficient transit-adjacent land; YAML fixed (transit-escalation-stz-interface slug corrected); related_initiatives added | 1 → 2 files |
 | 2026-03-04 | All | Domain renamed Public_Infrastructure → Housing_and_Public_Infrastructure; all YAML domain fields updated; tracker updated | N/A |
 | 2026-03-01 | Housing_Integration | Added tenure-convertible typology, PCA consortium financing, healthcare-enabled housing pilot | Phase 3 complete |
@@ -143,7 +147,8 @@ Build housing capacity and connected public infrastructure together as a unified
 
 ## Notes & Context
 
-- Domain has **17 files** totaling ~27,700 words
+- Domain has **19 files** totaling ~32,200 words (+cpqa-civic-build-mark, +instrumentation-manifest)
+- **CPQA Civic Build Mark** is the public-authorship layer that sits above the technical stack — makes state capacity visible without personalizing it; the key anti-capture safeguard is the three-condition eligibility standard (public charter, stack conformance, durable public value) and explicit prohibition on partisan branding, developer co-branding, and propaganda architecture
 - Highly coherent vision with interconnected policies
 - Special Transit Zones concept is innovative regulatory approach
 - **NEW:** Existing Neighborhood Treatment provides retrofit pathway for established areas
