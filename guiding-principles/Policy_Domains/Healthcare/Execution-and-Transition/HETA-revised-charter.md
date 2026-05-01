@@ -8,9 +8,9 @@ domain: Healthcare
 subdomain: Execution_and_Transition
 policy_type: Execution Authority Charter
 status: Draft
-version: 0.2
+version: 0.3
 author: Futures Project
-last_updated: 2026-03-23
+last_updated: 2026-04-28
 dependencies:
   - healthcare-state-pilot-framework
   - care-delivery-market-design
@@ -33,7 +33,13 @@ tags:
   - transition
   - institutional-design
   - provider-transition
+  - sec-boundary
+  - steady-state
 changelog:
+  - v0.3: Added Function 5 (SEC Boundary Authority) to Section 1, added Section 7A
+    (HETA Steady-State Form — SEC Boundary Authority), amended Section 5 to include
+    SEC boundary integrity as an independent expansion gate condition, updated
+    Section 2 to clarify HETA's SEC boundary function within integrated teams
   - v0.2: Added Section 2A (Provider Transition Corps), revised Section 2
     to reflect regional office model, added Section 9 (Enforcement Firewall),
     updated Section 6 to include field intelligence reporting
@@ -50,17 +56,20 @@ changelog:
 
 There is established a Healthcare Execution and Transition Authority (HETA) as a
 federally chartered execution instrument for the limited purpose of implementing,
-stabilizing, and evaluating healthcare market transition pilots authorized by Congress.
+stabilizing, and evaluating healthcare market transition pilots authorized by Congress,
+and for the permanent purpose of maintaining the integrity of the coverage boundary
+between market-layer care and Severe Event Coverage.
 
 HETA operates as a **Mission-Bound Execution Corps** under the Execution Corps
 Instrument Specification, with the addition of a standing Provider Transition
 Corps function that persists for the duration of the authorized transition period.
 
-HETA's mandate is execution, coordination, evidence generation, and provider
-transition support. HETA shall not operate care delivery, administer insurance,
-or develop national digital identity or payment infrastructure.
+HETA's mandate is execution, coordination, evidence generation, provider
+transition support, and permanent SEC boundary stewardship. HETA shall not operate
+care delivery, administer insurance, or develop national digital identity or payment
+infrastructure.
 
-HETA executes through four integrated functions:
+HETA executes through five integrated functions:
 
 1. **Transition Management** — sequencing, pilots, phase gating, and rollback authority
 2. **Market and Utility Enforcement** — price transparency, boundary rules, anti-gaming
@@ -68,11 +77,20 @@ HETA executes through four integrated functions:
    data exchange standards
 4. **Provider Transition Corps** — regional field deployment, provider onboarding,
    capital instrument delivery, and hands-on transition support
+5. **SEC Boundary Authority** — permanent stewardship of the coverage boundary between
+   market-layer care and Severe Event Coverage, including anti-gaming enforcement,
+   boundary classification, emergency utility rate-band oversight, and standing
+   authority to certify whether proposed changes to account architecture, benefit
+   design, or coverage rules would compromise SEC's actuarial integrity
 
-Functions 1–3 are enforcement-oriented. Function 4 is support-oriented. These functions
-are institutionally separated within HETA. Personnel, reporting chains, and authority
-matrices do not overlap between enforcement and support functions except at the HETA
-executive level.
+Functions 1–3 are enforcement-oriented. Function 4 is support-oriented. Function 5
+is permanent. These functions are institutionally separated within HETA. Personnel,
+reporting chains, and authority matrices do not overlap between enforcement and support
+functions except at the HETA executive level.
+
+**Functions 1–4 are transition authorities. Function 5 is HETA's permanent mandate.
+Transition authorities sunset per Section 7. The SEC Boundary Authority does not
+sunset.**
 
 ---
 
@@ -87,8 +105,8 @@ Teams** composed of:
 - Public Capital Authority (PCA) personnel, where capital deployment or financing
   instruments are implicated
 - Designated state regulatory representatives appointed by the participating state
-- Representatives of the Severe Event Coverage (SEC) administering body, where
-  emergency, catastrophic, or bundled episode coverage is implicated
+- HETA SEC Boundary Authority personnel, where emergency, catastrophic, or bundled
+  episode coverage boundaries are implicated
 - Provider Transition Corps personnel, deployed through regional offices defined
   in Section 2A
 
@@ -104,6 +122,9 @@ Integrated Transition Teams exist to:
 - Ensure that transition decisions reflect on-the-ground conditions
 - Deliver direct provider support through regional offices without requiring
   providers to navigate multiple federal agencies independently
+- Maintain SEC boundary integrity throughout transition, ensuring that pilot
+  operations do not erode the coverage line between market-layer and SEC-covered
+  care
 
 **(c) Non-Preemption Clause**
 
@@ -315,7 +336,7 @@ shall be contingent upon performance gates jointly evaluated by:
 - HETA
 - Participating state regulators
 - PCA (where capital instruments are involved)
-- SEC administering body (where applicable)
+- HETA SEC Boundary Authority (where coverage boundary integrity is implicated)
 
 **(b) Gate Criteria** include:
 
@@ -325,11 +346,19 @@ shall be contingent upon performance gates jointly evaluated by:
 - Administrative burden reduction
 - Absence of material gaming or market foreclosure
 - Provider Transition Corps capacity readiness in receiving districts
+- SEC boundary integrity in existing pilot districts, as certified by HETA's
+  SEC Boundary Authority
 
 Failure to clear gates triggers pause, rule adjustment, or rollback rather than
 expansion. PTC capacity in a prospective expansion district is a gating condition —
 regional offices must be established and staffed before enforcement obligations
 activate in that district.
+
+HETA's SEC Boundary Authority may independently block expansion where it determines
+that existing pilot operations have produced material erosion of the coverage boundary
+between market-layer care and SEC. This determination is subject to public reporting
+and Congressional review but does not require prior Congressional approval to take
+effect.
 
 ---
 
@@ -346,6 +375,9 @@ HETA shall submit an annual **Transition Findings Report** to Congress describin
 - PTC regional office performance metrics including caseload, resolution rates,
   and onboarding completion
 - Patterns of provider confusion or resistance that indicate policy design gaps
+- SEC boundary integrity findings from the SEC Boundary Authority, including
+  classification disputes, gaming patterns, and boundary-adjacent legislative
+  or regulatory proposals reviewed during the reporting period
 - Recommendations for the steady-state regulatory framework
 
 **(b) Field Intelligence Loop**
@@ -393,6 +425,124 @@ active cohorts.
 Knowledge artifacts — onboarding guides, instrument templates, transition playbooks —
 are retained and published for use in subsequent districts and future administrations.
 
+The SEC Boundary Authority established under Function 5 of Section 1 does not sunset
+under this provision. Its continuation is governed by Section 7A.
+
+---
+
+### Section 7A. HETA Steady-State Form — SEC Boundary Authority
+
+**(a) Conversion Upon Transition Completion**
+
+Upon expiration or non-reauthorization of HETA's extraordinary transition authorities
+under Section 7, HETA does not dissolve. It converts to its steady-state form as a
+standing SEC Boundary Authority.
+
+The conversion is automatic and does not require separate Congressional authorization.
+It occurs when transition authorities lapse and the Provider Transition Corps has
+completed its wind-down under the published district schedule.
+
+The final Transition Findings Report submitted to Congress under Section 6 shall
+include a proposed steady-state operating plan, including staffing, budget, mandate
+scope, and reporting cadence for HETA in its boundary authority form.
+
+**(b) Steady-State Mandate**
+
+In steady state, HETA's mandate is limited to:
+
+- Maintaining and enforcing the coverage boundary between market-layer care and
+  Severe Event Coverage
+- Classifying services and clinical episodes as market-layer or SEC-covered where
+  disputes or novel presentations arise
+- Enforcing emergency utility rate-band discipline and cost transparency requirements
+- Detecting and acting on anti-gaming conduct that exploits the market-to-SEC
+  boundary, including retroactive reclassification, upcoding, and episode boundary
+  manipulation
+- Maintaining the infrastructure compliance standards required for SEC participation
+- Reporting to Congress on boundary integrity, gaming patterns, and classification
+  disputes on a defined cadence
+
+HETA in steady state does not manage pilots, issue Market Transition Waivers, deploy
+regional offices, or administer transition instruments. Those authorities have lapsed.
+
+**(c) Relationship to DoDA**
+
+DoDA certifies whether the SEC boundary is holding actuarially — measuring claim
+frequency, episode severity, boundary dispute rates, and gaming-adjusted cost trends.
+
+HETA enforces that it holds operationally — classifying episodes, adjudicating
+disputes, detecting manipulation, and imposing consequences for boundary violations.
+
+These are parallel authorities. DoDA does not direct HETA's enforcement decisions.
+HETA does not determine DoDA's actuarial methodology. Where DoDA's certification
+indicates systemic boundary erosion, HETA is required to report to Congress within
+a defined window and propose corrective action.
+
+Where HETA's enforcement findings indicate patterns that affect actuarial assumptions,
+HETA shall notify DoDA so that reserve and contribution sufficiency models can be
+updated accordingly. The two bodies coordinate on methodology without subordinating
+either authority to the other.
+
+**(d) Standing Authority to Flag Legislative Risk**
+
+HETA holds standing authority to submit a formal **SEC Boundary Impact Assessment**
+to Congress prior to implementation of any proposed statutory or regulatory change
+that would:
+
+- Alter the definition of a covered SEC event or episode
+- Expand or contract the market-layer service taxonomy
+- Modify account architecture in ways that affect the boundary between routine-care
+  accounts and SEC coverage
+- Change insurance boundary rules in ways that affect SEC actuarial integrity
+- Alter the coverage trigger conditions for any SEC-adjacent care category
+
+A submitted Assessment does not constitute a veto. Congress retains full authority
+to proceed. The Assessment creates a public record that the boundary implications
+were evaluated before the change took effect.
+
+HETA shall submit an Assessment within a defined statutory window from the date a
+relevant proposal is introduced or published for public comment. Failure to submit
+within that window does not constitute approval of the proposal.
+
+**(e) Steady-State Footprint**
+
+HETA's institutional footprint in steady state is materially smaller than during
+transition.
+
+Steady-state HETA retains:
+
+- A boundary classification and adjudication function
+- An anti-gaming and enforcement function
+- An infrastructure compliance function
+- A DoDA coordination function
+- An Inspector General function
+- A Congressional reporting function
+
+Steady-state HETA does not retain:
+
+- Regional transition offices
+- Provider Transition Corps personnel
+- PCA capital instrument delivery capacity
+- Market Transition Waiver authority
+- Performance-gated expansion authority
+
+Staffing and budget are recalibrated at conversion. Congress receives the proposed
+steady-state operating plan as part of the final Transition Findings Report and
+may modify it within a defined review window before conversion takes effect.
+
+**(f) Anti-Capture in Steady State**
+
+The anti-capture provisions that apply during transition continue in steady state,
+including cooling-off periods for senior staff, public disclosure of meetings with
+regulated entities, audit team rotation, and Inspector General oversight.
+
+A permanent boundary regulator with a narrow mandate is particularly vulnerable to
+capture by the entities whose pricing power it constrains. The institutional
+discipline required during transition does not relax because the transition is over.
+Anti-capture rules in steady state shall be no weaker than those in force during
+the transition period and shall be reviewed by the Inspector General on a defined
+cadence with findings reported to Congress.
+
 ---
 
 ### Section 8. Execution Corps Structure and Reporting Chain
@@ -424,6 +574,10 @@ structure required by the Execution Corps Instrument Specification applies:
 
 Rotation schedules for specialist roles within regional offices are misaligned by
 design to prevent capture of any provider cohort by a single operator.
+
+In steady state, the reporting chain contracts to HETA Executive oversight of the
+boundary classification, enforcement, and Inspector General functions. The Execution
+Corps deployment structure does not persist beyond transition.
 
 ---
 
@@ -478,12 +632,22 @@ Nothing in this Act shall be construed to:
 - Supersede state authority except as explicitly provided
 - Grant HETA enforcement authority over provider clinical decisions
 - Authorize PTC personnel to make compliance determinations
+- Authorize HETA's SEC Boundary Impact Assessment to operate as a legislative veto
 
-This Act establishes a **co-deployed execution, support, and learning instrument**,
-not a permanent regulatory regime.
+This Act establishes a **co-deployed execution, support, and learning instrument**
+during the transition period, and a **permanent SEC boundary enforcement body**
+in steady state.
 
 The Provider Transition Corps exists to make transition survivable for the providers
 whose participation is essential to the reform's success. It is not a subsidy program,
 a compliance function, or a permanent government presence in private practice. It is
 a time-bounded deployment designed to reduce friction, deliver instruments, and exit
 when the transition is complete.
+
+The SEC Boundary Authority exists because the line between market-layer care and
+severe-event coverage is the structural load-bearing element of the entire healthcare
+reform. Without a permanent, dedicated body to maintain and enforce that boundary,
+incumbent pressure will erode it — gradually, through classification disputes,
+upcoding, episode boundary manipulation, and legislative carve-outs — until the
+reform's actuarial integrity is lost. HETA in steady state is the institutional
+answer to that erosion risk.

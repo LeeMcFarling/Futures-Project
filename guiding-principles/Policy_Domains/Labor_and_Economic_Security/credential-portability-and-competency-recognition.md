@@ -3,12 +3,12 @@ id: credential-portability-and-competency-recognition
 title: Credential Portability & Competency Recognition Framework
 sidebar_label: Credential Portability
 sidebar_position: 1
-slug: /economic-prosperity/labor/credential-portability
-domain: Economic_Prosperity
+slug: /labor-and-economic-security/credential-portability
+domain: Labor_and_Economic_Security
 subdomain: Labor_Mobility
 policy_type: Recognition Framework
 status: Draft
-version: 0.3
+version: 0.5
 author: Futures Project
 dependencies:
   - national-competency-framework
@@ -24,12 +24,13 @@ dependencies:
   - idp-american-outbound-mobility-scaffold
   - housing-arrival-transition-stack
 related_initiatives:
-  - sectoral-bargaining-and-regional-wage-councils
+  - doda-regional-wage-heatmap
   - teacher-reskilling-and-role-transformation
   - student-to-industry-retention-pathways
   - regional-wage-modernization-pilot
   - benefits-gradient-modernization
   - real-time-tax-credit-delivery
+  - codetermination-worker-board-representation
 tags:
   - labor
   - credentials
@@ -52,9 +53,9 @@ The United States has a labor mobility problem disguised as a credentialing prob
 
 This framework treats credential portability as a competency-recognition problem rather than a paperwork problem. In the short run, it creates reciprocity, bridge certification, provisional practice, and equivalency mechanisms that reduce bureaucratic scarcity while preserving legitimate public-safety standards. In the long run, it shifts occupational recognition away from fragmented institutional pedigree and toward validated capability itself — carried by the worker, verifiable in near-real-time, and portable across state lines, employment transitions, and international boundaries.
 
-The brief sits at the intersection of three stacks. It is a domestic labor mobility instrument, connecting to the sectoral bargaining architecture, the wage modernization pilot, and the benefits and tax credit delivery reforms. It is a technology infrastructure instrument, built on the Self-Sovereign Identity framework and the IRS modernization data layer. And it is an alliance industrial instrument, providing the workforce credentialing layer that the Integrated Defense Partnership industrial architecture requires to function at scale. These three functions run through the same technical infrastructure. The same credential a nurse carries across state lines is the same credential architecture that certifies an allied nation's manufacturing workforce for IDP production programs.
+The brief sits at the intersection of three stacks. It is a domestic labor mobility instrument, connecting to the wage modernization pilot, labor-market transparency architecture, benefits and tax credit delivery reforms, and codetermination. It is a technology infrastructure instrument, built on the Self-Sovereign Identity framework and the IRS modernization data layer. And it is an alliance industrial instrument, providing the workforce credentialing layer that the Integrated Defense Partnership industrial architecture requires to function at scale. These three functions run through the same technical infrastructure. The same credential a nurse carries across state lines is the same credential architecture that certifies an allied nation's manufacturing workforce for IDP production programs.
 
-In this sense, licenses are the bridge. Competency is the destination.
+Licenses are the bridge. Competency is the destination.
 
 ## Problem Statement
 
@@ -100,7 +101,7 @@ The worker's SSI wallet accumulates credentials across their career. A licensed 
 
 The SSI occupational credential layer also integrates with the broader labor market data infrastructure. The IRS Modernization and Automated Income Attestation program produces near-real-time earnings data by sector, occupation, and geography. A worker's SSI wallet may contain income attestation credentials issued by the IRS modernization system — verifiable claims that earnings fall within a defined band in a defined sector and region, without disclosing the precise figure. This income attestation credential enables real-time EITC and CTC advance delivery under the Real-Time Tax Credit Delivery reform, gradient-based benefits under the Benefits Gradient Modernization Act, and healthcare transition account accrual under the Employer Benefits Floor reform — all without the worker having to re-prove income eligibility at each program boundary. The credential a worker carries to cross a state line is part of the same wallet architecture that handles their tax credit delivery and benefits eligibility. These are not separate systems. They are one stack.
 
-The sectoral bargaining architecture connects to the same infrastructure. A worker in the restaurant sector in the Denver labor-market area who holds a verifiable occupational credential attesting to their sector, occupation, income band, and region carries, in that credential, the authorization artifact for sectoral wage council participation. The same credential infrastructure that enables interstate mobility can authenticate participation in regional sectoral processes without requiring firm-by-firm certification as the sole organizing surface. That is a meaningful reduction in participation friction for workers in high-churn, low-wage labor markets.
+The wage transparency architecture connects to the same infrastructure. A worker in the restaurant sector in the Denver labor-market area who holds a verifiable occupational credential attesting to their sector, occupation, income band, and region carries, in that credential, the authorization artifact for participation in regional labor consultations, wage transparency processes, worker associations, codetermination-relevant labor analysis, or other authorized labor-market governance processes. The same credential infrastructure that enables interstate mobility can authenticate participation in those processes without requiring firm-by-firm certification as the sole organizing surface. That is a meaningful reduction in participation friction for workers in high-churn, low-wage labor markets.
 
 ## Alliance Industrial Certification — The IDP Dual-Use Layer
 
@@ -127,6 +128,20 @@ Finally, the cross-border professional relationships formed through outbound mob
 The system should treat credential portability as a national workforce issue, not an immigration-only issue. A welder, teacher, nurse, electrician, or technician moving from one state to another should not face labor-market exclusion because states refuse to recognize substantially equivalent competence. A worker completing an apprenticeship should not be forced into a lower-status recognition track than a university graduate if the demonstrated competency standard is met. A military veteran should not discover that years of highly structured training and supervised technical practice do not map cleanly into civilian occupational recognition.
 
 The domestic skill translation principle is simple: when workers have already demonstrated the relevant capability through credible pathways, the burden is on the recognition system to explain what narrow gap remains — not on the worker to restart from zero. The labor market should not lose throughput because institutions refuse to speak a common recognition language.
+
+## Wage Transparency and Credential Value
+
+Credential portability is not only a recognition system. It is also a labor-market transparency system.
+
+Once occupational credentials and competencies are standardized through SSI verification, workers can compare their verified skill profile against regional and national wage distributions published through the DoDA Regional Wage and Cost Heatmap. A restaurant worker in Denver should be able to see how workers with similar credentials, tenure, role responsibilities, and competency levels are paid in Denver, in comparable Colorado labor markets, and nationwide.
+
+This allows workers to answer practical labor-market questions: whether their current wage is above or below the regional benchmark, which credentials are associated with wage progression, which bridge certifications open higher-paying roles, and where demand for their skill profile is strongest.
+
+The purpose is not to force a national wage scale. It is to make labor-market information legible. Employers already possess far more wage and market information than individual workers. The credential-and-heatmap system narrows that asymmetry by giving workers a verified understanding of what their labor is worth across roles, sectors, and regions.
+
+This transparency function is the mechanism the domain overview promised when it removed standing regional wage councils from the architecture. Workers don't need a formal council to identify wage gaps or advocate for better conditions — they need the information infrastructure that makes their labor market position visible and verifiable. A restaurant worker in Denver whose SSI wallet contains their occupational credential can see, through the public DoDA heatmap, exactly what comparable workers earn locally and nationally. That is the data foundation for individual negotiation, collective organizing, and wage-floor advocacy that is grounded in facts rather than competing claims — and it requires no employer-mediated records, no formal bargaining unit, and no standing council to function.
+
+Credentialing makes competence visible. The DoDA heatmap makes compensation visible. Together they let workers navigate the labor market with information that is currently fragmented, employer-controlled, or unavailable.
 
 ## Lawful Immigrant Skill Recognition
 

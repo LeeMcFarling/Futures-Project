@@ -1,6 +1,6 @@
 # Domain Maturity Tracker: Education
 
-**Last Updated:** 2026-04-06
+**Last Updated:** 2026-05-01
 **Overall Domain Phase:** 2–3
 **Domain Owner:** TBD
 
@@ -42,7 +42,7 @@ Transform K-12 education through a national competency framework, AI-enabled per
 
 | Subdomain | Phase | File Count | Word Count | Key Gaps | Dependencies | Next Action | Target Date |
 |-----------|-------|------------|------------|----------|--------------|-------------|-------------|
-| K12_Reform | 3 | 12 | ~18,500 | Funding equity mechanism depth; vocational/trades pathway | department-of-data-and-accountability, ssi-self-sovereign-identity-framework | Define pilot cohort selection criteria | TBD |
+| K12_Reform | 3 | 15 | ~21,000 | Funding equity mechanism depth; vocational/trades pathway; youth-challenge-media sidebar_position TBD | department-of-data-and-accountability, ssi-self-sovereign-identity-framework, universal-superannuation-system | Define pilot cohort selection criteria; set sidebar_position for youth-challenge-media | TBD |
 | Governance | 3 | 1 | ~1,800 | Federal vs. state authority balance; enforcement pathway | national-competency-framework | Add enforcement mechanism detail | TBD |
 | Higher_Education | 1 | 3 | ~4,500 | Student debt/cost; access framework; labor signal integration; civic formation linkage | national-competency-framework, department-of-data-and-accountability | Build out labor signal and debt reform | TBD |
 | Early_Childhood | 0 | 0 | 0 | **Not started** | Healthcare | Create initial file | TBD |
@@ -68,6 +68,7 @@ Transform K-12 education through a national competency framework, AI-enabled per
 | book-recommendation-student-walkthroughs.md | Three student walkthrough examples | 2 | 12 |
 | university-admissions-competency-alignment.md | University admissions aligned to competency credentials | 2 | 13 |
 | education-reform-distillate.md | Public-facing condensed overview | 3 | 14 |
+| youth-challenge-media-child-future-accounts.md | Youth challenge media + child future accounts — cultural surface for competency-based education + superannuation entry point + IDP soft-power layer | 2–3 | TBD |
 
 ## Higher_Education Files (Subdomain Detail)
 
@@ -138,6 +139,7 @@ Transform K-12 education through a national competency framework, AI-enabled per
 
 | Date | Subdomain | Change | Phase Impact |
 |------|-----------|--------|--------------|
+| 2026-05-01 | K12_Reform | Added youth-challenge-media-child-future-accounts.md (v0.2): youth challenge media layer (adventure/physical, science/engineering, history/archaeology, digital strategy, arts/storytelling, civic problem-solving format lanes); child future accounts (prize deposits into superannuation accounts: $250–$20,000 capped); Phase 0-4 architecture with allied circuit extension to IDP countries in Phase 3; equity/access design; failure modes; appointment energy doctrine; convening mechanism; sidebar_position TBD | 14 → 15 files |
 | 2026-04-06 | K12_Reform | Added education-reform-distillate.md — public-facing condensed overview of the full reform platform; YAML added | New file |
 | 2026-04-05 | K12_Reform, Higher_Education | Major re-stack: all files moved from root Education/ to k-12-education/ and university/ subfolders; sidebar positions fixed; higher-education-overview.md and pre-seeding.md added as initial Higher_Education stack; university-admissions-competency-alignment.md added | 0 → 1 (Higher_Ed) |
 | 2026-03-12 | All | YAML standardized, original tracker state | N/A |
@@ -146,10 +148,11 @@ Transform K-12 education through a national competency framework, AI-enabled per
 
 ## Notes & Context
 
-- Domain has **16 substantive files** across k-12-education/ (14) and university/ (2), plus 1 planning scaffold
+- Domain has **17 substantive files** across k-12-education/ (15) and university/ (2), plus 1 planning scaffold
 - K12_Reform is architecturally complete — competency framework → DES standards → personalization → funding model → teacher reskilling → accountability pilots
 - Higher Education is intentionally underdeveloped — the `higher-education-overview.md` documents what's pending and why (labor signal, debt, access framework all identified as needed)
 - `university-admissions-competency-alignment.md` lives in k-12-education/ but bridges K12 and Higher_Ed — logical crossover
+- `youth-challenge-media-child-future-accounts.md` (v0.2) is a cross-domain integrator: the cultural surface layer for the competency-based education stack, the youth-facing entry point into universal superannuation (child future accounts = superannuation prize deposits), and a Phase 3 IDP soft-power instrument through allied challenge circuits; sidebar_position needs assignment
 - `Higher_Education` declared as its own domain value in YAML (separate from `Education`) — structural note for future reconciliation
 - Vocational/Trades has strong IDP linkage — should coordinate with Manufacturing and IDP social stack when developed
 - Education tracker was deleted during April 2026 re-stack commit and recreated fresh

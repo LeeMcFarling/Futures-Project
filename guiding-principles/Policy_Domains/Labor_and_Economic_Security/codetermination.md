@@ -8,7 +8,7 @@ domain: Labor_and_Economic_Security
 subdomain: Worker_Governance
 policy_type: Governance Reform
 status: Draft
-version: 0.5
+version: 0.7
 author: Futures Project
 dependencies:
   - ssi-self-sovereign-identity-framework
@@ -187,13 +187,29 @@ This is not a mandate to preserve jobs that technology has genuinely made obsole
 
 This is not a European import. The specific design — direct election verified through SSI credentials, bounded scope limited to automation, restructuring, and transition, PCA access as the primary enforcement lever, size-based mandate as the backstop — is built for the U.S. legal and political environment. It draws on international precedent for the basic concept while discarding the features of European models that don't translate: mandatory works councils, co-determination of operational decisions, and union-dependent nomination processes.
 
+## Relationship to the NLRA and Existing Collective Bargaining
+
+The National Labor Relations Act (NLRA) governs the right to organize, the mechanics of union certification elections, and the scope of mandatory collective bargaining between unions and employers. This Act operates in the same legal space and the relationship between the two frameworks requires explicit treatment.
+
+**Codetermination supplements the NLRA — it does not replace it.** The NLRA's core protections — the right to organize, the right to strike, the right to bargain collectively over wages, hours, and working conditions — are unaffected by this Act. Workers in covered firms retain all existing NLRA rights. Codetermination adds a parallel governance channel at the board level for a defined set of strategic decisions. It does not absorb, preempt, or diminish the collective bargaining channel.
+
+**Where unions already exist.** In firms with recognized unions, codetermination operates alongside existing collective bargaining relationships. Worker board representatives are elected through the direct workforce election mechanism and are not appointed by or accountable to the union as an institution — though unions may nominate candidates on equal footing with any other employee group. This means a unionized firm has two distinct worker voice channels: the collective bargaining relationship governed by the NLRA, and the board-level governance relationship created by this Act. Those channels cover different terrain. Collective bargaining primarily governs wages, hours, benefits, and working conditions, including the effects of some strategic decisions where existing law requires bargaining. Codetermination covers strategic decisions about automation, restructuring, capital allocation for workforce displacement, and productivity gain distribution — decisions that are often made before they reach the collective bargaining table, if they ever do.
+
+**Covered decisions and mandatory bargaining subjects.** Some decisions covered by this Act may also constitute mandatory bargaining subjects under existing NLRA doctrine — specifically, decisions about outsourcing, automation, and restructuring that materially affect terms and conditions of employment. Where a covered decision is also a mandatory bargaining subject, this Act does not eliminate the employer's obligation to bargain with a recognized union over the decision's effects. The codetermination process and the NLRA bargaining obligation run concurrently rather than in sequence. Satisfying the codetermination deliberation requirement does not discharge the employer's separate NLRA obligation to bargain in good faith with a certified union over the same decision's workforce effects.
+
+Codetermination confidentiality protections may not be used to defeat NLRA information rights. Where a recognized union is entitled under existing law to information about a covered decision — including analysis, projections, or supporting documentation that worker board representatives received — the employer may not withhold that information on the grounds that it was shared under board confidentiality. Protective orders for genuine trade secrets remain available, but the existence of a codetermination process does not create a new confidentiality shield against union information requests that would otherwise be required.
+
+**Where no union exists.** In firms without recognized unions — which is the majority of covered firms given current union density — codetermination provides the primary formal governance channel for workers to have standing over covered strategic decisions. The direct workforce election mechanism is not a union certification election and does not create a bargaining unit. Worker board representatives in non-union firms do not acquire the right to bargain collectively over wages, hours, and working conditions. Their standing is limited to the covered strategic decisions defined in this Act.
+
+**Preemption considerations.** The NLRA preempts state laws that regulate conduct protected or prohibited by the Act. This Act is federal legislation and is therefore not subject to NLRA preemption. It does, however, need to be designed to avoid internal conflict with NLRA doctrine in two respects. First, the worker election mechanism is not a representation election under Section 9 of the NLRA and must be clearly distinguished from union certification procedures to avoid creating hybrid structures that are vulnerable to challenge. Second, the Act's anti-retaliation protections for worker board representatives must be calibrated to complement rather than conflict with existing NLRA Section 8 unfair labor practice protections.
+
+**The strategic case for running both channels.** A firm with both a strong union and a codetermination structure is a firm where workers have standing at every level of the governance architecture: at the negotiating table over employment terms, and in the boardroom over strategic decisions that shape the firm's direction. These are complementary, not redundant. The decisions that most affect workers' long-run economic outcomes — whether to automate a production line, how to deploy AI tools, where to allocate capital for the next decade — are rarely resolved at the bargaining table because they are made before they arrive there. Codetermination reaches the decision at the point it is made. Collective bargaining addresses the consequences after they are decided. Both are necessary. Neither is sufficient alone.
+
 ## The Three-Part Logic
 
-To reiterate how Codetermination fits into the larger Labor and Economic Security framework: 
+The domain overview names this clearly and it's worth restating here.
 
-- Credentialing makes worker competence visible — what workers know, what they've demonstrated, what they're qualified for. 
-- The DoDA heatmap makes labor market conditions visible — what workers earn by sector and region, where wages are rising, where workforce entry gaps are widening, where automation is concentrating. 
-- Codetermination gives workers standing when firms make the strategic decisions that determine whether productivity gains are shared or extracted.
+Credentialing makes worker competence visible — what workers know, what they've demonstrated, what they're qualified for. The DoDA heatmap makes labor market conditions visible — what workers earn by sector and region, where wages are rising, where workforce entry gaps are widening, where automation is concentrating. Codetermination gives workers standing when firms make the strategic decisions that determine whether productivity gains are shared or extracted.
 
 The three parts are designed to work together. Credentialing without labor market transparency produces workers who know their own qualifications but can't see how those qualifications fit into a shifting labor market. Transparency without governance standing produces workers who can see exactly how they're being affected but have no formal mechanism to influence it. Governance standing without credentialing produces board representation that is difficult to authenticate and easy to challenge. All three together produce a labor market where workers have the information, the credentials, and the institutional standing to participate in the decisions that shape their economic lives.
 
