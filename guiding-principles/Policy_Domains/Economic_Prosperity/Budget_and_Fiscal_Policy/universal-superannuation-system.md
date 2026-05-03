@@ -246,6 +246,18 @@ preserves consumer protection by default while maintaining a legitimate
 role for financial advisors in portfolio customization and estate
 planning.
 
+The superannuation account is the mandatory baseline — it replaces
+employer-sponsored retirement plans and establishes the universal floor.
+It is not the ceiling. Individuals may maintain Roth IRAs up to existing
+statutory contribution limits alongside their superannuation account.
+College savings vehicles — 529 plans or their statutory successors —
+remain available as complementary instruments and are unaffected by this
+reform. A financial advisor working with a participant who has received
+a seeded account since birth is explicitly authorized to present the full
+planning picture: the superannuation account as the foundation, with
+Roth IRA and education savings layered on top according to the
+participant's circumstances and goals.
+
 ---
 
 ## Retirement Age and Longevity Adjustment
@@ -357,3 +369,11 @@ systems that enabled it, and the dynasty tax framework reflects that
 difference explicitly.
 
 One threshold. Two directions. One coherent social contract.
+
+---
+
+## Open Questions
+
+**Inheritance adequacy threshold and structured distribution.** The current inheritance rules roll all inherited superannuation balances into the heir's retirement account, retirement-locked and subject to cap aggregation. A future refinement should consider an adequacy threshold — something in the range of $5 million, or whatever actuarially constitutes genuine retirement security for the heir's cohort — above which structured distribution into child future accounts or designated education vehicles (529s or successors) is permitted in lieu of full retirement lock. The logic: the portion up to adequacy should remain retirement-locked because that is what it is for. The excess above adequacy represents genuine dynastic transfer that the heir does not need for retirement, and routing it structurally into child capital formation is meaningfully better than either locking it unnecessarily or subjecting it solely to dynasty tax extraction. This creates a three-tier inheritance structure: retirement lock up to adequacy, structured child/education distribution for the middle layer, dynasty tax framework at the top. The adequacy threshold would need to be defined in statute and indexed, and the permitted distribution pathways would need to be specified — child future accounts and 529-equivalent vehicles are the natural candidates.
+
+
