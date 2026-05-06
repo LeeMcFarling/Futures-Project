@@ -368,6 +368,19 @@ during the holder's lifetime. Every dollar of gain is recognized
 exactly once, either during the holder's lifetime when it is accessed
 or at the generational transfer when it is transferred.
 
+This single-recognition principle extends into the super-account
+architecture. Post-tax contributions to Bucket A, B, and C are
+tax-settled principal — income tax was already paid before the
+contribution was made. Gains and basis adjustments are tracked
+across the bucket structure so that gain recognized through a
+borrowing-triggered realization event during the holder's lifetime
+is not taxed again at the dynasty threshold. Where basis has been
+stepped up through a lifetime realization event, only the remaining
+embedded gain above that adjusted basis — and above the dynasty
+threshold — is subject to dynasty treatment. The same dollar of
+gain does not pass through the borrowing trigger and the dynasty
+tax as two separate recognition events.
+
 Together, the two instruments make permanent, frictionless insulation
 of extreme wealth from the public system that enabled it structurally
 unavailable. There is no exit through borrowing. There is no exit

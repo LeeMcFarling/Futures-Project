@@ -68,9 +68,11 @@ The $50 million indexed threshold that governs this framework is the
 same threshold used across the anti-aristocracy architecture and the
 universal superannuation system. It is symmetrical in intent: below it,
 the country is actively invested in your wealth accumulation — seed
-capital, tax-free compounding, tax-free inheritance. Above it, the
-social contract changes. The same number that defines the ceiling of
-the national gift defines the floor of the dynasty obligation.
+capital, a protected pass-through architecture for compounding within
+purpose-governed wrappers, and clean intergenerational transmission
+within the four-bucket structure. Above it, the social contract changes.
+The same number that defines the ceiling of the national gift defines
+the floor of the dynasty obligation.
 
 That symmetry is not rhetorical. It reflects a genuine distinction in
 what the system is designed to do. Below $50 million, the full upside
@@ -162,6 +164,14 @@ legal form is irrelevant, economic reality is determinative.
 
 ## The Wind-Down — Not a Firesale
 
+The operational detail for illiquid, closely held, operating, and
+hard-to-value assets — including valuation methodology, the three
+settlement lanes, interest and accretion rules, recurring checkpoints,
+the PCA administration vs. custody distinction, and anti-abuse
+architecture — is established in the companion brief: the Dynasty
+Illiquid Asset Realization Framework. This section states the governing
+principle. The companion brief defines how it works.
+
 The most important design element in this framework — the one that
 determines whether it is administratively workable and politically
 defensible — is the wind-down architecture. Assets subject to
@@ -173,12 +183,7 @@ employees, and counterparties who had no role in the triggering event.
 That is not the design. The design is orderly, planned, and calibrated
 to protect all parties.
 
-At the triggering event, assets subject to realization are transferred
-to the Public Capital Authority or a designated PCA-administered estate
-settlement facility. Tax liability is recognized at the triggering event
-— the gain is deemed realized at that moment at fair market value. But
-payment of that liability, and the disposition of the underlying assets,
-occurs through a statutory wind-down schedule calibrated by asset class.
+At the triggering event, the recognized obligation is recorded through the Public Capital Authority or a designated PCA-administered estate settlement facility. By default, the family retains ownership and operational control of the underlying assets subject to a recorded security interest, statutory drawdown schedule, reporting obligations, and enforcement remedies. Asset transfer to PCA occurs only through prepayment election, default, or structured settlement. Tax liability is recognized at the triggering event — the gain is deemed realized at that moment at fair market value. But payment of that liability, and any disposition of the underlying assets, occurs through a statutory wind-down schedule calibrated by asset class.
 
 Publicly traded positions are wound down over a defined schedule
 sufficient to allow orderly market absorption without price distortion.
@@ -339,6 +344,40 @@ applying a realization-based system to positions that never need to
 realize because their scale makes indefinite deferral economically
 dominant. This framework corrects that consequence by treating the
 generational transfer as the realization event it economically is.
+
+---
+
+## Super-Account Contributions and Anti-Fragmentation
+
+The ten-year lookback for related-party transfers extends explicitly to
+privileged super-account contributions. A holder cannot reduce their
+above-threshold position by fragmenting assets across children's and
+descendants' super accounts in the years preceding a triggering event
+and then claim that no dynasty threshold was crossed.
+
+For dynasty-threshold purposes, large transfers into children's or
+descendants' super accounts remain attributable to the transferor or
+family-control group when they come from related parties, trusts,
+estates, controlled entities, or entities with retained donor influence.
+The ten-year lookback covers super-account contributions, Bucket B and
+Bucket C transfers, trust substitutions, and controlled-entity deposits.
+
+You can capitalize your children. You cannot use their accounts as
+fragments of a hidden dynasty balance sheet.
+
+SSI attestation is the enforcement mechanism. To make a privileged
+transfer into the super-account wrapper, a trust, family LLC, estate,
+foundation, holding company, or family office must provide an SSI-backed
+attestation of its beneficial owners, control persons, authorized
+signers, and relationship to the beneficiary. The system does not need
+to guess whether entities are related; it requires relationship
+attestation as the price of entering the privileged wrapper. Legal form
+can vary. Privileged treatment requires beneficial-control attestation.
+
+This mirrors the economic-substance principle already present in this
+framework: assets held through trusts, partnerships, or other structures
+are attributed to the beneficial holder. Economic ownership rather than
+legal form determines threshold treatment.
 
 ---
 

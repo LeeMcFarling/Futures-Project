@@ -276,21 +276,81 @@ The system discloses only what each actor needs to perform its role. This protec
 
 ---
 
-## Contribution Caps
+## Contribution Caps and Bucket Routing
 
-The contribution layer must be generous enough to allow ordinary families to build meaningful wealth, but bounded enough to prevent high-wealth households from converting child future accounts into tax shelters.
+The contribution layer must be generous enough to allow ordinary families
+to build meaningful wealth, but bounded enough to prevent high-wealth
+households from converting child future accounts into tax shelters.
 
-Annual contribution caps apply across contribution categories. The cap structure may distinguish between family contributions, employer contributions, public-purpose deposits, prize deposits, and intergenerational transfers — but the system tracks total inflows into the account.
+Annual contribution caps apply across contribution categories. The cap
+structure may distinguish between family contributions, employer
+contributions, public-purpose deposits, prize deposits, and
+intergenerational transfers — but the system tracks total inflows into
+the account.
 
-Caps serve three purposes. First, they prevent wealthy families from front-loading massive sums into tax-protected accounts. Second, they preserve fairness between children whose families can contribute heavily and those whose families cannot. Third, they protect the political legitimacy of the superannuation architecture by preventing it from becoming another elite shelter.
+Caps serve three purposes. First, they prevent wealthy families from
+front-loading massive sums into tax-protected accounts. Second, they
+preserve fairness between children whose families can contribute heavily
+and those whose families cannot. Third, they protect the political
+legitimacy of the superannuation architecture by preventing it from
+becoming another elite shelter.
 
-Caps should be generous enough that ordinary families can use the system seriously, and strict enough that the protected account layer cannot be hijacked by dynastic wealth. The cap schedule is defined in statute and adjusted periodically through published rules, not discretionary agency negotiation.
+Caps should be generous enough that ordinary families can use the system
+seriously, and strict enough that the protected account layer cannot be
+hijacked by dynastic wealth. The cap schedule is defined in statute and
+adjusted periodically through published rules, not discretionary agency
+negotiation.
 
-Cap categories should eventually distinguish between ordinary family contributions and public-purpose deposits — library deposits, community pool allocations, and certified challenge prizes — so that neither type crowds out the other against a shared ceiling. A v0.2 flag: this requires a design table in the implementing regulation specifying subcap amounts by contribution type. The current brief establishes that caps may distinguish categories; the subcap schedule is deferred to implementation.
+**Bucket routing.** All contributions — from public pre-seed, family,
+employer, school, library, community institution, firm, youth challenge,
+or intergenerational source — fill the same account architecture and are
+routed according to the four-bucket logic established in the Universal
+Superannuation System. Contributions fill Bucket A until the child's
+account is projected to reach the age-67 retirement-security benchmark
+under the statutory sufficiency table. Once Bucket A sufficiency is
+certified, new eligible contributions route to Bucket B up to the
+applicable cap. Different sources do not create separate stacks of
+protected tax preference. They fill the same buckets in sequence.
 
-Eligibility determination for public-purpose and community pool deposits must be designed to avoid income-cliff effects within the eligible geography. A binary income cutoff — deposits for children below a threshold, nothing for children above it — creates the same cliff dynamic the Benefits Gradient Modernization Act was designed to eliminate from income support. At long compounding time horizons, the difference between receiving and not receiving a community deposit at age six can be enormous. A family earning $31,000 should not be systematically disadvantaged relative to a family earning $29,000 because a statutory line falls between them.
+This is the key anti-abuse principle: **Bucket A is filled, not stacked.**
+A child cannot receive a public pre-seed, employer deposits, community
+deposits, prize deposits, family top-ups, and then a separate full
+inherited Bucket A rollover on top of all of that. The system remains
+generous, but it prevents duplicate privileged lanes from the same or
+different sources.
 
-The SSI eligibility signal for community and public-purpose deposits should therefore operate on two principles. First, the signal should be binary only at the account level — has this child already received a deposit from this program or pool in this allocation period — to prevent duplication without revealing balance or family income. Second, where the program involves income-based weighting or targeting, the signal should use banded ranges rather than hard thresholds: SSI confirms whether a child falls into a broad income tier — below a lower bound, within a middle range, above an upper bound — without revealing the actual household income figure or producing a cliff at the band edges. Allocation rules can prioritize lower-income tiers without cutting off middle-income children entirely, and without the administrator or the contributing firm ever seeing the underlying income data.
+Cap categories should distinguish between ordinary family contributions
+and public-purpose deposits — library deposits, community pool
+allocations, and certified challenge prizes — so that neither type crowds
+out the other against a shared ceiling. A v0.2 flag: this requires a
+design table in the implementing regulation specifying subcap amounts by
+contribution type. The current brief establishes that caps may distinguish
+categories; the subcap schedule is deferred to implementation.
+
+Eligibility determination for public-purpose and community pool deposits
+must be designed to avoid income-cliff effects within the eligible
+geography. A binary income cutoff — deposits for children below a
+threshold, nothing for children above it — creates the same cliff dynamic
+the Benefits Gradient Modernization Act was designed to eliminate from
+income support. At long compounding time horizons, the difference between
+receiving and not receiving a community deposit at age six can be enormous.
+A family earning $31,000 should not be systematically disadvantaged
+relative to a family earning $29,000 because a statutory line falls
+between them.
+
+The SSI eligibility signal for community and public-purpose deposits
+should therefore operate on two principles. First, the signal should be
+binary only at the account level — has this child already received a
+deposit from this program or pool in this allocation period — to prevent
+duplication without revealing balance or family income. Second, where the
+program involves income-based weighting or targeting, the signal should
+use banded ranges rather than hard thresholds: SSI confirms whether a
+child falls into a broad income tier — below a lower bound, within a
+middle range, above an upper bound — without revealing the actual
+household income figure or producing a cliff at the band edges. Allocation
+rules can prioritize lower-income tiers without cutting off middle-income
+children entirely, and without the administrator or the contributing firm
+ever seeing the underlying income data.
 
 ---
 
@@ -323,6 +383,40 @@ Schools should not control child future accounts. But schools can host activitie
 The National Competency Framework supplies a capability logic: a child who demonstrates skill through a certified challenge may generate optional competency evidence. Participation itself should not automatically become a permanent record, and non-participation should carry no academic penalty. The education stack therefore serves three roles for this system: it helps identify developmental activities worthy of certified deposit pathways, it gives students and families a framework for understanding how skill-building connects to future opportunity, and it provides trusted public institutions through which families encounter the child future account repeatedly.
 
 Schools should normalize the account. They should not own it.
+
+---
+
+## Phase Strategy
+
+The rollout is explicitly phased by attestation maturity. The system
+should not wait for perfect SSI/UPI infrastructure before creating
+accounts. The first visible act is simple and popular. The highest-value
+transfer privileges expand only as the verification layer matures.
+
+**Phase 1 — Account creation and pre-seed.** Create universal child
+super accounts and deposit the public pre-seed. Use existing identifiers,
+birth records, IRS/custodian reporting, and certified account
+administrators. Keep high-value privileged transfer options limited.
+
+**Phase 2 — Limited contributions through certified custodians.** Allow
+family, employer, school, library, youth challenge, state, municipal,
+union, philanthropic, and community deposits up to safe-harbor limits.
+Use certified custodians and legacy reporting while SSI/UPI rails are
+still maturing.
+
+**Phase 3 — SSI/UPI contribution attestation.** Require rail-native
+attestation for higher-value transfers: source identity, beneficiary
+identity, relationship, timestamp, tax status, asset type, valuation,
+bucket allocation, and contributor type. Entity contribution privileges
+expand as institutional attestation quality improves.
+
+**Phase 4 — Full trust substitution and dynasty enforcement.** Unlock
+the full architecture: large Bucket B and Bucket C transfers,
+intergenerational rollovers, related-party aggregation, entity-control
+attribution, trust substitution, and Bucket D dynasty enforcement.
+
+The sequencing principle: **start with the account. Add the rails.
+Expand the privileges as verification improves.**
 
 ---
 

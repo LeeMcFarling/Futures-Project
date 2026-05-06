@@ -8,7 +8,7 @@ domain: Economic_Prosperity
 subdomain: Budget_and_Fiscal_Policy
 policy_type: Core Reform
 status: Draft
-version: 0.2
+version: 0.3
 author: Futures Project
 dependencies:
   - dynasty-tax-and-generational-transfer-framework
@@ -50,11 +50,15 @@ how it replaces the current architecture for future cohorts, and what it
 provides to every American from birth. The companion document — the Dynasty
 Tax and Generational Transfer Framework — establishes the other direction
 of the same threshold. Below $50 million in total assets, the country
-is actively invested in your wealth accumulation: seed capital, tax-free
-compounding, and tax-free inheritance. Above it, the social contract
-changes. The same number that defines the ceiling of the national gift
-defines the floor of the dynasty obligation. This document addresses the
-ceiling. The companion document addresses the floor.
+is actively invested in your wealth accumulation: seed capital, protected
+pass-through compounding within purpose-governed wrappers, and clean
+intergenerational transmission within the four-bucket structure. Above
+it, the social contract changes. The same number that defines the ceiling
+of the national gift defines the floor of the dynasty obligation. This
+document addresses the ceiling. The companion document addresses the
+floor. The Dynasty Illiquid Asset Realization Framework governs how that
+floor obligation is measured, scheduled, prepaid, and enforced without
+requiring forced liquidation of productive assets.
 
 ---
 
@@ -124,77 +128,185 @@ obligation.
 
 ---
 
-## Tax Treatment — The Single-Tax Principle
+## Tax Treatment — The Protected Pass-Through Architecture
 
-Superannuation assets are taxed once, at contribution, and receive no
-further income taxation within defined limits. Contributions are made
-from after-tax income. Investment growth is untaxed. Retirement
-withdrawals up to the indexed cap are untaxed.
+The super-account system is a protected pass-through architecture, not
+a blanket tax exemption. Contributions enter from post-tax income.
+Principal is not taxed again. Realized gains remain subject to ordinary
+capital-gains rules unless a specific bucket rule provides deferred or
+protected treatment. The protected pass-through applies to wealth
+formation and intergenerational continuity below the dynasty threshold.
+It terminates for total beneficial assets above the CPI-indexed $50
+million cap, where the Dynasty Tax and Generational Transfer Framework
+applies to the excess.
 
-This structure eliminates late-life tax shocks, improves revenue
-certainty, and simplifies compliance. Superannuation assets constitute
-private property. Changes to tax treatment or withdrawal rules apply
-prospectively only and may not retroactively alter accrued balances or
-contributions. The account belongs to the individual. That ownership
-is not subject to revision by future political decisions about revenue
-needs.
+The system is not tax-free investing. It is protected wealth-formation
+infrastructure with different controls by layer. Each bucket differs
+by use controls and treatment rules — not by pretending gains do not
+exist. Superannuation assets constitute private property. Changes to
+tax treatment or withdrawal rules apply prospectively only and may not
+retroactively alter accrued balances or contributions. The account
+belongs to the individual. That ownership is not subject to revision
+by future political decisions about revenue needs.
+
+The protected pass-through protects family formation, not perpetual
+dynastic escape.
 
 ---
 
-## Bucket A and Bucket B — Protected and Taxable Capital
+## The Capital Stack — Four Buckets
 
-The $50 million indexed threshold divides superannuation balances into
-two distinct treatment regimes.
+The superannuation architecture is organized as a four-layer capital
+stack. Each layer has a distinct social function, a defined threshold,
+and a different treatment regime. The layers are sequential: a bucket
+opens only when the one below it is filled or its conditions are met.
 
-**Bucket A — Protected Superannuation** is the retirement capital pool.
-Each individual receives a lifetime superannuation special-treatment cap
-of $50 million, indexed annually to CPI-U. Mandatory payroll contributions
-accrue to Bucket A until the indexed cap is reached. Contributions are
-made from after-tax income. Investment growth within Bucket A is untaxed.
-Withdrawals are tax-free when made at or after the statutory retirement
-age. Bucket A assets are retirement-locked and may not be pledged,
-borrowed against, or used as collateral. Balances within Bucket A
-transfer to heirs tax-free, roll into the heir's superannuation account,
-and remain subject to retirement-lock and cap aggregation rules. Bucket A
-exists solely to provide secure retirement income and bounded
-intergenerational continuity.
+**Bucket A — Retirement Security**
 
-**Bucket B — Above-Cap Capital** applies once the indexed Bucket A cap
-is reached. Any additional elective contributions and any investment
-returns attributable to balances above the indexed cap accrue to Bucket
-B. Bucket B assets are held within the same custodial structure and
-portfolio allocation as Bucket A, preserving unified portfolio management.
-Bucket B assets are treated as ordinary taxable capital. Capital gains
-attributable to Bucket B are subject to capital gains taxation, including
-mandatory realization at death under the dynasty tax framework established
-in the companion document. Bucket B assets may be pledged or borrowed
-against under standardized loan-to-value limits, but borrowing does not
-eliminate ultimate capital gains tax liability, including realization at
-the triggering events defined in the companion document.
+Bucket A is filled first. It is the retirement capital pool, defined not
+by a flat wealth cap but by projected retirement adequacy. The target is
+a CPI-indexed benchmark of approximately **$2.5 million in real value at
+age 67**, calculated using a statutory sufficiency table based on a
+real-return planning corridor of 3.5%–4.5%, reviewed annually and
+smoothed across market cycles.
+
+The operating rule: Bucket A sufficiency is reached when the account
+balance equals or exceeds the age-adjusted present value required to
+reach the CPI-indexed protected retirement benchmark at age 67 under
+the statutory real-return table.
+
+This makes Bucket A dynamic rather than flat. A newborn, a twenty-year-
+old, and a forty-five-year-old face different present-value requirements
+because their compounding windows differ. The system encourages filling
+Bucket A, but only up to the retirement-security target.
+
+All sources of protected retirement-security capital fill the same Bucket
+A capacity: the public pre-seed, mandatory payroll contributions, family
+contributions, employer child-account deposits, community deposits, school
+and library deposits, youth challenge prizes, and intergenerational
+rollovers. These sources do not create separate stacks of protected tax
+preference. They all fill the same Bucket A sufficiency target.
+
+**Bucket A is filled, not stacked.**
+
+Bucket A has the strictest use controls because its purpose is old-age
+security. Contributions are made from after-tax income. Principal is
+not taxed again. Investment growth within Bucket A receives protected
+pass-through treatment — deferred from ordinary capital-gains recognition
+while held — because the purpose-governed wrapper justifies the deferral:
+the assets are locked for retirement, cannot be accessed early without
+penalty, and cannot be pledged or borrowed against. Withdrawals at or
+after the statutory retirement age are tax-free because the protective
+deferral served its intended function. Bucket A assets transfer to heirs
+within the same retirement-lock and cap-aggregation rules.
+
+**Bucket B — Formation Capital**
+
+Bucket B opens only after Bucket A sufficiency is certified.
+
+Once the account is projected to reach the age-67 retirement benchmark,
+new eligible post-tax contributions and qualified rollovers may flow into
+Bucket B, capped at approximately **$10 million**, CPI-indexed.
+
+Bucket B is more flexible than Bucket A. It supports life formation
+and productive self-investment rather than being locked exclusively for
+retirement: education, credentialing, housing, relocation, caregiving,
+health reserves, business formation, professional tools, and family
+balance-sheet resilience. Bucket B assets are held within the same
+custodial structure as Bucket A, preserving unified portfolio management.
+
+Bucket B still has use controls because the goal is productive wealth
+formation, not pure consumption or speculative churn. Post-tax principal
+is protected from repeat taxation. Ordinary realized gains within Bucket
+B are subject to capital-gains rules when assets are sold — the protected
+pass-through defers recognition while assets are held within the
+formation architecture, but does not eliminate the eventual recognition
+obligation when the holder accesses gains through sale or qualifying
+distribution.
+
+The doctrine: **fund security first, then fund agency.**
+
+This avoids the lock-in problem. The system borrows the compounding
+discipline of superannuation without importing full liquidity rigidity.
+People should not have large paper wealth trapped in retirement-only form
+while they need housing, training, relocation, or caregiving capital.
+
+**Bucket C — Tax-Settled Family Capital**
+
+From approximately **$10 million to $50 million** in total beneficial
+assets, CPI-indexed, family wealth remains below the dynasty threshold
+but is no longer treated as basic formation capital.
+
+Bucket C is the most lenient layer below the dynasty line. It allows
+clean post-tax family continuity — reported transfers, reduced trust
+complexity, and intergenerational transmission within a visible and
+bounded architecture. This is the successful-family-wealth zone:
+generous, legal, visible, and bounded.
+
+Ordinary realized gains within Bucket C remain subject to capital-gains
+rules when assets are sold. The super-account wrapper provides the
+protected pass-through architecture and purpose-governed structure — it
+does not convert Bucket C into a tax-free trading shelter. Post-tax
+principal that has already borne income tax is not taxed again. Gains
+that are realized through ordinary market transactions are recognized
+under ordinary rules. The protected architecture reduces trust complexity
+and eases intergenerational continuity for families below the dynasty
+line; it does not eliminate realization obligations on normal economic
+activity.
+
+**Bucket D — Dynasty Capital**
+
+Above the **$50 million CPI-indexed total beneficial-asset threshold**,
+the protected pass-through architecture terminates for the excess.
+Above-threshold assets cannot use super accounts, trusts, family LLCs,
+or child accounts to preserve tax-free dynastic continuity. Dynasty
+treatment activates only on the amount above the threshold — a family
+with $75 million faces dynasty realization on $25 million, not on the
+full $75 million. The threshold is a marginal trigger, not a cliff.
+
+The first $50 million remains protected family capital. The protected
+pass-through protects families' right to build and transmit wealth up
+to a high cap. It does not protect the right to turn that cap into a
+permanent realization shield above it.
 
 **The clarifying principle:** The $50 million threshold is symmetrical
 in intent. Below it, the country is actively invested in your wealth
-accumulation — seed capital, tax-free compounding, tax-free inheritance.
+accumulation — seed capital, protected pass-through compounding, and
+clean intergenerational transmission within the four-bucket architecture.
 Above it, the social contract changes. The same number that defines the
 ceiling of the national gift defines the floor of the dynasty obligation.
 This is one coherent statement, not two separate systems. The cap governs
 total assets, not superannuation balances alone — at the triggering
 events defined in the companion document, all assets are aggregated
 across all holdings to determine whether the threshold is met. The
-Bucket A / Bucket B structure is the retirement account implementation
-of that broader total-assets framework.
+four-bucket structure is the retirement account implementation of that
+broader total-assets framework.
+
+The four buckets serve four distinct social functions:
+
+**Bucket A secures retirement. Bucket B funds formation. Bucket C
+preserves legitimate family continuity. Bucket D disciplines dynasty
+power.**
 
 ---
 
 ## Withdrawals
 
-Withdrawals attributable to balances at or below the indexed cap are
-tax-free. Withdrawals attributable to balances above the cap are taxed
-at capital gains rates. The distinction follows the single-tax principle:
-Bucket A was contributed from after-tax income and compounds tax-free,
-so withdrawals are tax-free. Bucket B represents above-threshold
-accumulation that has not yet been subject to capital gains recognition,
-so withdrawals trigger that recognition at the applicable rate.
+Withdrawals from Bucket A at or after the statutory retirement age are
+tax-free. The protected pass-through deferral served its intended
+function — the assets were held in purpose-governed retirement lock for
+their full compounding period — so no further recognition is due at
+withdrawal.
+
+Withdrawals from Bucket B and Bucket C are governed by the capital-gains
+rules that apply to any realized gain. Post-tax principal already bore
+income tax at contribution and is not taxed again. Gains that were held
+and compounded within the protected architecture but not previously
+recognized are subject to capital-gains recognition at withdrawal or
+sale. Gains previously recognized through a borrowing-triggered
+realization event have an adjusted basis and are not taxed again. The
+protected pass-through does not eliminate the recognition obligation; it
+defers it while assets are held within the purpose-governed wrapper.
 
 ---
 
@@ -203,7 +315,9 @@ so withdrawals trigger that recognition at the applicable rate.
 Inherited superannuation balances roll into the heir's superannuation
 account. Inherited balances remain retirement-locked for the heir,
 subject to standard retirement-age rules and limited hardship exceptions.
-Inherited balances count toward the heir's lifetime indexed cap.
+Inherited balances count toward the heir's lifetime indexed threshold
+and are allocated across buckets in accordance with the heir's existing
+sufficiency status.
 
 This preserves intergenerational compounding within the protected regime
 while preventing dynastic cashouts. A child who inherits a Bucket A
@@ -213,6 +327,42 @@ cash windfall that bypasses the retirement lock. The compounding logic
 that makes the seeder powerful applies equally to inherited balances:
 time and markets do the work, within the same structural protections
 that govern original contributions.
+
+The universal super account functions as a public trust substitute.
+Families should not need bespoke trusts, custodial accounts, family
+partnerships, private foundations, and attorney-designed arrangements
+just to pass capital to children responsibly. The super-account system
+provides the default legal wrapper: standardized, portable, low-fee,
+fiduciary, identity-attested, and governed by clear bucket rules. Trusts
+may still exist for specialized purposes, but they are no longer the
+default pathway for ordinary family-security transfer. The system makes
+ordinary intergenerational security easy, and dynastic sheltering harder.
+
+All privileged contributions into Bucket A, B, and C — whether from
+parents, grandparents, estates, trusts, family LLCs, family limited
+partnerships, family offices, donor-advised vehicles, employers, public
+programs, foundations, schools, libraries, municipalities, state agencies,
+unions, or community pools — are logged with structured transfer metadata:
+source identity, beneficiary identity, relationship to beneficiary,
+timestamp, amount, tax status, asset type, valuation method, bucket
+allocation, and contributor type. To make a privileged transfer into the
+super-account wrapper, an entity must provide SSI-backed attestation of
+its beneficial owners, control persons, authorized signers, and
+relationship to the beneficiary. Paper entities may be legally distinct,
+but privileged transfer treatment requires SSI-backed attestation of
+beneficial owners, control persons, authorized signers, and beneficiary
+relationship, allowing related entities to be cryptographically associated
+for dynasty-threshold analysis without exposing transaction-level family
+data publicly. The wrapper will not accept privileged funds unless the
+control graph is attestable. Legal form can vary. Privileged treatment
+requires beneficial-control attestation.
+
+For dynasty-threshold analysis, transfers from related parties and
+controlled entities remain attributable across the family-network control
+graph regardless of the legal form of the transferring entity. Individual
+accounts determine ownership and use. Family-network attribution
+determines dynasty exposure. A child's account is genuinely theirs.
+It cannot be used as a fragment of a hidden dynasty balance sheet.
 
 ---
 
@@ -361,19 +511,32 @@ The universal superannuation system is not a retirement policy in
 isolation. It is the bottom half of the same social contract that the
 dynasty tax framework defines at the top. Below the $50 million
 threshold, the state builds wealth with you: seeding your account at
-birth, protecting it from taxation as it compounds, and allowing it to
-transfer to your children tax-free within the protected regime. Above
-the threshold, the terms change — not to penalize success, but because
-a position of that scale has a different relationship to the public
-systems that enabled it, and the dynasty tax framework reflects that
-difference explicitly.
+birth, providing a protected pass-through architecture for compounding
+within purpose-governed wrappers, and enabling clean intergenerational
+transmission within the four-bucket structure. Above the threshold, the
+terms change — not to penalize success, but because a position of that
+scale has a different relationship to the public systems that enabled
+it, and the dynasty tax framework reflects that difference explicitly.
 
-One threshold. Two directions. One coherent social contract.
+One threshold. Four buckets. One coherent social contract.
 
 ---
 
 ## Open Questions
 
-**Inheritance adequacy threshold and structured distribution.** The current inheritance rules roll all inherited superannuation balances into the heir's retirement account, retirement-locked and subject to cap aggregation. A future refinement should consider an adequacy threshold — something in the range of $5 million, or whatever actuarially constitutes genuine retirement security for the heir's cohort — above which structured distribution into child future accounts or designated education vehicles (529s or successors) is permitted in lieu of full retirement lock. The logic: the portion up to adequacy should remain retirement-locked because that is what it is for. The excess above adequacy represents genuine dynastic transfer that the heir does not need for retirement, and routing it structurally into child capital formation is meaningfully better than either locking it unnecessarily or subjecting it solely to dynasty tax extraction. This creates a three-tier inheritance structure: retirement lock up to adequacy, structured child/education distribution for the middle layer, dynasty tax framework at the top. The adequacy threshold would need to be defined in statute and indexed, and the permitted distribution pathways would need to be specified — child future accounts and 529-equivalent vehicles are the natural candidates.
+**Inheritance adequacy threshold and structured distribution.** The
+four-bucket architecture partially resolves the inheritance problem
+raised in v0.2: the Bucket A sufficiency target (~$2.5M projected real
+value at age 67) functions as the adequacy floor, and the bucket routing
+logic governs how inherited balances are allocated. The remaining open
+question is whether inherited balances above the heir's Bucket A
+sufficiency level should be permitted to route into child future accounts
+or designated education vehicles for the heir's own dependents rather
+than locking into Bucket B retirement form. The Bucket B / Bucket C
+architecture gives the system more graduated resolution than a simple
+adequacy cutoff, but the precise permitted distribution pathways for
+excess inherited balances above the heir's sufficiency level still
+require statutory specification. Child future accounts are the natural
+destination; the routing rules need to be defined in implementation.
 
 
