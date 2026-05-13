@@ -25,7 +25,7 @@ The repository contains a comprehensive policy framework with strong coverage in
 
 | Domain | Phase | Files | Words | Status | Priority Gaps |
 |--------|-------|-------|-------|--------|---------------|
-| Healthcare | 3 | 18 | 14,076 | Strong | Mental health, maternal health |
+| Healthcare | 3 | 18 | 14,076 | Strong | Mental health |
 | Economic_Prosperity | 2 | 14 | 14,298 | Good | Trade policy, labor, antitrust |
 | Immigration | 2 | 11 | 7,560 | Good | DACA resolution |
 | Public_Infrastructure | 3 | 6 | 5,759 | Strong | Broadband, water |

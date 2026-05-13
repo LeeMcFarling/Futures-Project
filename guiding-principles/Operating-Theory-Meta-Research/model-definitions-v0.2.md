@@ -1,5 +1,5 @@
 ---
-id: civilizational-cost-function-model
+id: civilizational-stability-function-model
 title: Model Definitions — Continuity Portfolio & Individual Stability Score
 sidebar_label: Model Definitions
 sidebar_position: 2
@@ -12,8 +12,8 @@ version: 0.2
 author: Futures Project
 last_updated: 2026-05-10
 dependencies:
-  - central-axioms-civilizational-stability
-  - existential-stability-axiom
+  - civilizational-stability-foundations
+  - political-salience-management
 related_initiatives:
   - adaptive-governance-evidence-protocol
   - political-salience-management
@@ -31,7 +31,7 @@ tags:
 
 ## Overview
 
-This document is intended to be read after the Existential Stability Axiom and the Incentive-Meaning Coherence brief. Those documents establish the conceptual foundation — why survivable and meaningful futures are necessary conditions for social cooperation, and how misaligned incentive structures erode the legitimacy that makes governance stable. This document builds on that foundation by providing a formal structure for reasoning about both.
+This document is intended to be read after the Foundations of Civilizational Stability brief. Those documents establish the conceptual foundation — why survivable and meaningful futures are necessary conditions for social cooperation, and how misaligned incentive structures erode the legitimacy that makes governance stable. This document builds on that foundation by providing a formal structure for reasoning about both.
 
 The framework is grounded in two established traditions. The first is Terror Management Theory (TMT), the empirically well-supported body of psychological research showing that human motivation, social behavior, and political orientation are significantly shaped by awareness of mortality and the symbolic structures people use to manage that awareness. The second is the data science tradition of portfolio modeling and factor analysis, which provides tools for reasoning about how meaning is distributed across multiple sources, how concentrated or diversified that distribution is, and what happens when parts of it fail. Neither tradition alone is sufficient — TMT provides the psychological mechanism, portfolio modeling provides the structural vocabulary for policy-relevant analysis.
 
@@ -45,7 +45,7 @@ The core insight the model encodes is simple: *a person whose entire sense of me
 
 ## Anchor Types
 
-Research on meaning, identity, and psychological stability consistently surfaces a small number of broad anchor categories that account for most of the structure in how people organize their future-oriented investment. For purposes of this framework, four principal anchor types are treated as the primary dimensions of the continuity portfolio:
+Research on meaning, identity, and psychological stability consistently surfaces a small number of broad anchor categories that account for most of the structure in how people organize their future-oriented investment (meaning, purpose, and transcendence). For purposes of this framework, four principal anchor types are treated as the primary dimensions of the continuity portfolio:
 
 **Economic achievement and contribution** — meaningful work, financial security, the sense of being a productive participant in a shared economy. This anchor connects to both material survival and the symbolic dignity of being needed.
 

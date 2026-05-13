@@ -96,7 +96,7 @@ This mechanism operates through what the Existential Stability Axiom calls mater
 
 ---
 
-### Mechanism 2: Anchor Diversification — Reducing Portfolio Concentration Risk
+### Mechanism 2: Anchor Diversification — Reducing Concentration Risk
 
 The continuity portfolio model identifies anchor concentration — a disproportionate weight of identity and future investment placed on a single anchor or anchor class — as the primary structural driver of fragility. A person whose entire portfolio runs through one anchor is vulnerable to catastrophic collapse if that anchor is threatened, and the behavioral response to that threat is the most intense version of the TMT profile: worldview defense is severe because there is nothing else to defend; in-group identification is extreme because it is organized around the single anchor; out-group hostility is acute because the out-group represents the threat source.
 
