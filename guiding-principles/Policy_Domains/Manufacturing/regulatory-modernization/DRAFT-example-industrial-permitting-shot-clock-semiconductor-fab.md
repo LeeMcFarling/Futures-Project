@@ -3,8 +3,8 @@ id: industrial-permitting-shot-clock-example-semiconductor-fab
 title: Industrial Permitting Shot Clock — Example Deployment (Semiconductor Fabrication Facility)
 sidebar_label: Shot Clock Example (Semiconductor Fab)
 sidebar_position: 3
-slug: /economic-prosperity/manufacturing/permitting-shot-clock-example-fab
-domain: Economic_Prosperity
+slug: /manufacturing/permitting-shot-clock-example-fab
+domain: Manufacturing
 subdomain: Manufacturing
 policy_type: Operational Example
 status: Draft

@@ -3,8 +3,8 @@ id: urban-industrial-integration-overview
 title: Urban Industrial Integration — Housing, Land Use & Community Stabilization
 sidebar_label: Urban Industrial Integration
 sidebar_position: 6
-slug: /economic-prosperity/urban-industrial-integration
-domain: Economic_Prosperity
+slug: /manufacturing/urban-industrial-integration
+domain: Manufacturing
 subdomain: Industrial_Development
 policy_type: System Integration
 status: Draft

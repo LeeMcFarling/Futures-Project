@@ -3,8 +3,8 @@ id: manufacturing-regulatory-modernization-sandbox
 title: Manufacturing Regulatory Modernization Sandbox — Industrial Context Brief
 sidebar_label: Industrial RMS
 sidebar_position: 1
-slug: /economic-prosperity/manufacturing/regulatory-sandbox
-domain: Economic_Prosperity
+slug: /manufacturing/regulatory-sandbox
+domain: Manufacturing
 subdomain: Manufacturing
 policy_type: Sector Context Brief
 status: Draft

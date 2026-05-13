@@ -3,8 +3,8 @@ id: alliance-industrial-target-map
 title: Alliance Industrial Target Map (IDP-Aligned)
 sidebar_label: Industrial Target Map
 sidebar_position: 7
-slug: /economic-prosperity/manufacturing/alliance-target-map
-domain: Economic_Prosperity
+slug: /manufacturing/alliance-target-map
+domain: Manufacturing
 subdomain: Manufacturing
 policy_type: Strategic Alignment Framework
 status: Draft

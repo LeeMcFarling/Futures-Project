@@ -3,8 +3,8 @@ id: cluster-infrastructure-financing
 title: Cluster Infrastructure Financing & Shared Systems Deployment
 sidebar_label: Cluster Infrastructure
 sidebar_position: 12
-slug: /economic-prosperity/manufacturing/cluster-infrastructure
-domain: Economic_Prosperity
+slug: /manufacturing/cluster-infrastructure
+domain: Manufacturing
 subdomain: Manufacturing
 policy_type: Physical Infrastructure Financing
 status: Draft

@@ -3,8 +3,8 @@ id: factory-jv-deployment-model
 title: Factory Joint Venture (JV) Deployment Model
 sidebar_label: Factory JV Model
 sidebar_position: 9
-slug: /economic-prosperity/manufacturing/factory-jv
-domain: Economic_Prosperity
+slug: /manufacturing/factory-jv
+domain: Manufacturing
 subdomain: Manufacturing
 policy_type: Deployment Framework
 status: Draft

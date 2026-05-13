@@ -3,8 +3,8 @@ id: strategic-industrial-logistics-spine
 title: Strategic Industrial Logistics Spine — Throughput, Proximity & Corridor Flow
 sidebar_label: Industrial Logistics Spine
 sidebar_position: 9
-slug: /economic-prosperity/materials-supply-chain/logistics-spine
-domain: Economic_Prosperity
+slug: /manufacturing/materials-supply-chain/logistics-spine
+domain: Manufacturing
 subdomain: Industrial_Development
 policy_type: Infrastructure Framework
 status: Draft

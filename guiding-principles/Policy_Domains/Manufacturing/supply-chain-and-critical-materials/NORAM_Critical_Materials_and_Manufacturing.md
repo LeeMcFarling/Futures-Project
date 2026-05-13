@@ -3,8 +3,8 @@ id: noram-critical-materials
 title: North American Critical Materials & Manufacturing Authorities
 sidebar_label: Critical Materials
 sidebar_position: 1
-slug: /economic-prosperity/manufacturing/critical-materials
-domain: Economic_Prosperity
+slug: /manufacturing/critical-materials
+domain: Manufacturing
 subdomain: Manufacturing
 policy_type: Institutional Design Framework
 status: Draft

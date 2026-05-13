@@ -3,8 +3,8 @@ id: manufacturing-domain-overview
 title: Manufacturing System Architecture — Domain Overview
 sidebar_label: Manufacturing Overview
 sidebar_position: 1
-slug: /economic-prosperity/manufacturing/overview
-domain: Economic_Prosperity
+slug: /manufacturing/overview
+domain: Manufacturing
 subdomain: Manufacturing
 policy_type: Strategy Framework
 status: Draft

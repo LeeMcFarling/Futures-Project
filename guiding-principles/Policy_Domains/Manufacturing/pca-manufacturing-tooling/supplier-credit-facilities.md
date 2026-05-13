@@ -3,8 +3,8 @@ id: supplier-credit-facilities
 title: Supplier Credit Facilities & Working Capital Stabilization
 sidebar_label: Supplier Credit
 sidebar_position: 11
-slug: /economic-prosperity/manufacturing/supplier-credit
-domain: Economic_Prosperity
+slug: /manufacturing/supplier-credit
+domain: Manufacturing
 subdomain: Manufacturing
 policy_type: Financial Infrastructure
 status: Draft

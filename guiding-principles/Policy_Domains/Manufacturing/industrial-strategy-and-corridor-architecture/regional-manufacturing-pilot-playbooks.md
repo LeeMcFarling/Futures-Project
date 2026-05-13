@@ -3,8 +3,8 @@ id: regional-manufacturing-pilot-playbooks
 title: Regional Manufacturing Pilot Playbooks
 sidebar_label: Manufacturing Pilot Playbooks
 sidebar_position: 8
-slug: /economic-prosperity/manufacturing/regional-pilot-playbooks
-domain: Economic_Prosperity
+slug: /manufacturing/regional-pilot-playbooks
+domain: Manufacturing
 subdomain: Manufacturing
 policy_type: Operational Playbook
 status: Draft

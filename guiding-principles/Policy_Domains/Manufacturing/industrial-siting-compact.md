@@ -3,8 +3,8 @@ id: industrial-siting-compact
 title: Industrial Siting Compact — Corridor Activation & Integrated Deployment Framework
 sidebar_label: Industrial Siting Compact
 sidebar_position: 10
-slug: /economic-prosperity/industrial-siting-compact
-domain: Economic_Prosperity
+slug: /manufacturing/industrial-siting-compact
+domain: Manufacturing
 subdomain: Industrial_Development
 policy_type: Deployment Framework
 status: Draft

@@ -3,8 +3,8 @@ id: isa-execution-corps-deployment
 title: Immigration Services and Administration — Execution Corps Deployment Model
 sidebar_label: ISA Deployment
 sidebar_position: 6
-slug: /economic-prosperity/workforce-immigration/isa-deployment
-domain: Economic_Prosperity
+slug: /manufacturing/workforce-immigration/isa-deployment
+domain: Manufacturing
 subdomain: Labor_Mobility
 policy_type: Operational Deployment
 status: Draft

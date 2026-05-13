@@ -3,8 +3,8 @@ id: workforce-access-points-and-local-deployment
 title: Workforce Access Points — Local Interface for Workforce, Training, and Labor Mobility
 sidebar_label: Workforce Access Points
 sidebar_position: 5
-slug: /economic-prosperity/workforce-immigration/access-points
-domain: Economic_Prosperity
+slug: /manufacturing/workforce-immigration/access-points
+domain: Manufacturing
 subdomain: Labor_Mobility
 policy_type: Operational Interface
 status: Draft

@@ -3,8 +3,8 @@ id: industrial-permitting-shot-clock
 title: Industrial Permitting Shot Clock Framework
 sidebar_label: Permitting Shot Clock
 sidebar_position: 2
-slug: /economic-prosperity/manufacturing/permitting-shot-clock
-domain: Economic_Prosperity
+slug: /manufacturing/permitting-shot-clock
+domain: Manufacturing
 subdomain: Manufacturing
 policy_type: Procedural Enforcement Framework
 status: Draft

@@ -3,8 +3,8 @@ id: workforce-training-and-education-alignment
 title: Workforce Training & Education Alignment — Demand-Linked Training System
 sidebar_label: Workforce Training Alignment
 sidebar_position: 4
-slug: /economic-prosperity/workforce-immigration/training-alignment
-domain: Economic_Prosperity
+slug: /manufacturing/workforce-immigration/training-alignment
+domain: Manufacturing
 subdomain: Labor_Mobility
 policy_type: Execution Framework
 status: Draft

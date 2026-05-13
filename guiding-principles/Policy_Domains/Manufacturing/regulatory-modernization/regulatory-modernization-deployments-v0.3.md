@@ -3,8 +3,8 @@ id: regulatory-modernization-corps-industrial-deployment-model
 title: Regulatory Modernization Corps — Industrial Deployment Model (Manufacturing Sandbox)
 sidebar_label: RMC Industrial Deployment
 sidebar_position: 3
-slug: /economic-prosperity/manufacturing/rmc-industrial-deployment
-domain: Economic_Prosperity
+slug: /manufacturing/rmc-industrial-deployment
+domain: Manufacturing
 subdomain: Manufacturing
 policy_type: Execution Model
 status: Draft

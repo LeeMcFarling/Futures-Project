@@ -3,8 +3,8 @@ id: industrial-strategy-corridor-architecture
 title: Industrial Strategy & Manufacturing Corridor Architecture
 sidebar_label: Industrial Strategy
 sidebar_position: 2
-slug: /economic-prosperity/manufacturing/industrial-strategy
-domain: Economic_Prosperity
+slug: /manufacturing/industrial-strategy
+domain: Manufacturing
 subdomain: Manufacturing
 policy_type: Strategy Framework
 status: Draft

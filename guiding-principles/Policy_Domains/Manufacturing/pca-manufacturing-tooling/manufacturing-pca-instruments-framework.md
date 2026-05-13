@@ -3,8 +3,8 @@ id: manufacturing-pca-instruments-framework
 title: Manufacturing PCA Instruments & De-risking Framework
 sidebar_label: PCA Instruments
 sidebar_position: 8
-slug: /economic-prosperity/manufacturing/pca-instruments
-domain: Economic_Prosperity
+slug: /manufacturing/pca-instruments
+domain: Manufacturing
 subdomain: Manufacturing
 policy_type: Capital Deployment Framework
 status: Draft

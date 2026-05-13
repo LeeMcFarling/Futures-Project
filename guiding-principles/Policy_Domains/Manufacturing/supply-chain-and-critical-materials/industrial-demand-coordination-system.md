@@ -3,8 +3,8 @@ id: industrial-demand-coordination-system
 title: Industrial Demand Coordination & Supplier Activation System
 sidebar_label: Demand Coordination
 sidebar_position: 10
-slug: /economic-prosperity/manufacturing/demand-coordination
-domain: Economic_Prosperity
+slug: /manufacturing/demand-coordination
+domain: Manufacturing
 subdomain: Manufacturing
 policy_type: Coordination Infrastructure
 status: Draft

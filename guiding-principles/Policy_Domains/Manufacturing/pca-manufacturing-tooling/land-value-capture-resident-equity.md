@@ -3,8 +3,8 @@ id: land-value-capture-resident-equity
 title: Land Value Capture & Resident Equity Participation — Pilot Framework
 sidebar_label: Resident Equity Pilot
 sidebar_position: 13
-slug: /economic-prosperity/manufacturing/resident-equity
-domain: Economic_Prosperity
+slug: /manufacturing/resident-equity
+domain: Manufacturing
 subdomain: Manufacturing
 policy_type: Pilot Framework
 status: Draft

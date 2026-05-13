@@ -3,8 +3,8 @@ id: industrial-materials-and-supply-chain-system
 title: Industrial Materials & Supply Chain System — Inputs, Logistics & Supplier Capacity
 sidebar_label: Materials & Supply Chains
 sidebar_position: 7
-slug: /economic-prosperity/materials-supply-chain-system
-domain: Economic_Prosperity
+slug: /manufacturing/materials-supply-chain-system
+domain: Manufacturing
 subdomain: Industrial_Development
 policy_type: System Architecture
 status: Draft

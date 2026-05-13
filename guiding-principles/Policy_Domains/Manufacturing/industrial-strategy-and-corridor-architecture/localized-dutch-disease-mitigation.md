@@ -3,8 +3,8 @@ id: localized-dutch-disease-mitigation
 title: Localized Industrial Boom Stabilization (Dutch Disease Mitigation)
 sidebar_label: Boom Stabilization
 sidebar_position: 5
-slug: /economic-prosperity/manufacturing/boom-stabilization
-domain: Economic_Prosperity
+slug: /manufacturing/boom-stabilization
+domain: Manufacturing
 subdomain: Manufacturing
 policy_type: Stabilization Framework
 status: Draft

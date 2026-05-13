@@ -3,8 +3,8 @@ id: climate-shock-absorption-industrial-corridors
 title: Climate Absorption Industrial Corridor Strategy
 sidebar_label: Climate Absorption Corridors
 sidebar_position: 4
-slug: /economic-prosperity/manufacturing/climate-absorption-corridors
-domain: Economic_Prosperity
+slug: /manufacturing/climate-absorption-corridors
+domain: Manufacturing
 subdomain: Manufacturing
 policy_type: Strategic Planning Framework
 status: Draft

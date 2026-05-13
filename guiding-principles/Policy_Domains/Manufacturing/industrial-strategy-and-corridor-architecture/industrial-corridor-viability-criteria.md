@@ -3,8 +3,8 @@ id: industrial-corridor-viability-criteria
 title: Industrial Corridor Viability Criteria
 sidebar_label: Corridor Viability
 sidebar_position: 3
-slug: /economic-prosperity/manufacturing/corridor-viability
-domain: Economic_Prosperity
+slug: /manufacturing/corridor-viability
+domain: Manufacturing
 subdomain: Manufacturing
 policy_type: Operational Criteria
 status: Draft

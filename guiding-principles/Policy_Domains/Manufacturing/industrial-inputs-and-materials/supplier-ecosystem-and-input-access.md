@@ -3,8 +3,8 @@ id: supplier-ecosystem-and-input-access
 title: Supplier Ecosystem & Input Access — Tiered Supply Chains, Routing & Input Platforms
 sidebar_label: Supplier Ecosystem & Inputs
 sidebar_position: 8
-slug: /economic-prosperity/materials-supply-chain/supplier-ecosystem
-domain: Economic_Prosperity
+slug: /manufacturing/materials-supply-chain/supplier-ecosystem
+domain: Manufacturing
 subdomain: Industrial_Development
 policy_type: Execution Framework
 status: Draft

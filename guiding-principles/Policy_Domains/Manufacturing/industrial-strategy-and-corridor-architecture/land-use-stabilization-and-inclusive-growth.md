@@ -3,8 +3,8 @@ id: land-use-stabilization-inclusive-growth
 title: Land Use Stabilization & Inclusive Urban Growth Framework
 sidebar_label: Inclusive Urban Growth
 sidebar_position: 6
-slug: /economic-prosperity/manufacturing/land-use-stabilization
-domain: Economic_Prosperity
+slug: /manufacturing/land-use-stabilization
+domain: Manufacturing
 subdomain: Manufacturing
 policy_type: Urban Growth Doctrine
 status: Draft

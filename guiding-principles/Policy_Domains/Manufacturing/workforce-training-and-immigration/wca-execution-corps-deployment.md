@@ -3,8 +3,8 @@ id: wca-execution-corps-deployment
 title: Workforce Coordination Authority — Execution Corps Deployment Model
 sidebar_label: WCA Deployment
 sidebar_position: 7
-slug: /economic-prosperity/workforce-immigration/wca-deployment
-domain: Economic_Prosperity
+slug: /manufacturing/workforce-immigration/wca-deployment
+domain: Manufacturing
 subdomain: Labor_Mobility
 policy_type: Operational Deployment
 status: Draft
