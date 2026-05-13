@@ -18,21 +18,20 @@ description: >
 
 ## Purpose and Scope
 
-This brief defines how non-emergency healthcare services are reorganized into
-transparent, competitive markets. It governs primary care, urgent care, routine
-diagnostics, minor procedures, scheduled surgery, and complex episodes. It also
-establishes the boundary between market-based care, insurance, and utility-regulated
-emergency care.
+The purpose of this brief is to define how non-emergency healthcare services in the 
+Future's Project are  reorganized into transparent, competitive markets. It governs 
+primary care, urgent care, routine diagnostics, minor procedures, scheduled surgery, 
+and complex episodes. It also establishes the boundary between market-based care, 
+insurance, and utility-regulated emergency care.
 
 This brief does not regulate emergency or trauma services directly. Those are governed
 separately as regulated utilities because patients cannot shop, delay care, or
 meaningfully consent to a complex financial transaction during a medical crisis.
 
 This brief does not define the full insurance system. It defines where insurance is
-allowed to operate and where it is excluded — because its presence in routine care
-distorts price discovery, increases administrative overhead, and weakens market
-competition. Those are not side-effects, but rather the predictable outcome of routing
-transactions through insurance that were never suited to it. 
+allowed to operate and where it is excluded. This is intentional to prevent insurance in 
+routine care, which consistently distorts price discovery, increases administrative overhead, and weakens market competition. Those are not side-effects, but rather the predictable outcome of 
+routing transactions through insurance that were never suited to it. 
 
 The objective of this reform is to remove these distortive effects by restoring price discovery, consumer choice, and provider competition in the parts of healthcare where shopping, scheduling, and informed consent are possible. Those conditions exist for most of the care most people receive. The current system treats them as if they don't.
 
@@ -40,12 +39,12 @@ The objective of this reform is to remove these distortive effects by restoring 
 
 ## Core Design Principle
 
-The system separates three payment functions based on the clinical and economic nature
+The system separates two payment functions based on the clinical and economic nature
 of the service.
 
 If a service is predictable, schedulable, and comparable, it operates through a
 transparent market. If an event is uncertain, high-cost, and unsuitable for individual
-budgeting, it is covered through the Severe Event Coverage floor. If an event is
+budgeting, it is covered through the Severe Event Coverage floor. Additionally, if an event is
 immediate, life-threatening, or clinically urgent enough that patients cannot shop or
 delay care, it is governed through the emergency utility layer and financed through
 the Severe Event Coverage architecture.
