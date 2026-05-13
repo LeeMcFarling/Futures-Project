@@ -14,18 +14,6 @@ description: >
   Establishes uniform age and term limits across federal branches to enforce
   renewal, reduce entrenchment, and separate time-bounded authority from
   enduring expertise.
-domain: Democratic_Integrity
-subdomain: Term_and_Age_Limits
-policy_type: Governance Framework
-status: Draft
-version: 0.1
-author: Futures Project
-last_updated: 2026-03-26
-related_initiatives:
-  - ban-gerrymandering
-  - ban-stock-trading
-  - impeachment-reform
-  - national-referendum-mechanism
 ---
 
 # Federal Age and Term Limits

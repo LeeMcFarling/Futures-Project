@@ -4,21 +4,12 @@ title: Asylum & Refugee Processing (Capacity-Based System)
 sidebar_label: Asylum Reform
 sidebar_position: 2
 slug: /immigration/asylum-reform
-domain: Immigration
-subdomain: Asylum
-policy_type: System Framework
-status: Draft
-version: 1.0
-author: Futures Project
-accelerants:
-  - ssi-self-sovereign-identity-framework
 tags:
   - immigration
   - asylum
   - refugees
   - humanitarian
   - capacity-based
-last_updated: 2026-02-18
 description: >
   Capacity-constrained, fast, and legally durable asylum and refugee system
   prioritizing human dignity, public safety, and national stability while

@@ -4,21 +4,12 @@ title: Employer Accountability & Labor Standards
 sidebar_label: Employer Accountability
 sidebar_position: 5
 slug: /immigration/employer-accountability
-domain: Immigration
-subdomain: Employer_Compliance
-policy_type: Enforcement Framework
-status: Draft
-version: 1.0
-author: Futures Project
-accelerants:
-  - ssi-self-sovereign-identity-framework
 tags:
   - immigration
   - employer-compliance
   - labor-standards
   - worker-protection
   - fair-competition
-last_updated: 2026-02-18
 description: >
   Strict employer accountability and labor standards across all immigration pathways
   to prevent exploitation, protect domestic wages, and ensure legal immigration

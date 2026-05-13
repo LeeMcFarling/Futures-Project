@@ -1,7 +1,7 @@
 # Domain Maturity Tracker: Immigration
 
-**Last Updated:** 2026-04-25
-**Overall Domain Phase:** 3–4
+**Last Updated:** 2025-01-25
+**Overall Domain Phase:** 2
 **Domain Owner:** TBD
 
 ---
@@ -39,17 +39,15 @@ Create a coherent immigration system that aligns legal immigration with labor ma
 
 | Subdomain | Phase | File Count | Word Count | Key Gaps | Dependencies | Next Action | Target Date |
 |-----------|-------|------------|------------|----------|--------------|-------------|-------------|
-| System_Architecture | 3 | 1 | ~900 | Phased rollout detail | None | Prose build-out | TBD |
-| Labor_Immigration | 3 | 2 | ~1,400 | Visa category specifics | Economic_Prosperity.Labor_Mobility | Prose build-out | TBD |
-| Asylum | 3 | 1 | ~700 | Processing capacity plan | None | Prose build-out | TBD |
-| Border_Security | 3 | 1 | ~600 | Technology integration specs | Technology_and_Data | Prose build-out | TBD |
-| Enforcement | 3 | 2 | ~1,200 | ICE accountability depth | None | Prose build-out | TBD |
-| Integration | 3 | 1 | ~600 | Civic program pathway detail | Education | Prose build-out | TBD |
-| Oversight | 3 | 1 | ~700 | DoDA dashboard spec depth | Technology_and_Data | Prose build-out | TBD |
-| Entrepreneurship | 3 | 1 | ~600 | Conversion pathway details | Economic_Prosperity.Labor_Mobility | Prose build-out | TBD |
-| Student_Retention | 3 | 1 | ~560 | Industry pathway details | Education | Prose build-out | TBD |
-| DACA_Resolution | — | — | — | *Cross-domain: tracked under Social (pathway for existing undocumented residents including DACA recipients)* | Social | See Social tracker | — |
-| Citizenship_Backlog | — | — | — | *Cross-domain: tracked under Social (processing backlog resolution for existing applicants)* | Social | See Social tracker | — |
+| System_Architecture | 2 | 1 | ~900 | Implementation roadmap | None | Add phased rollout | TBD |
+| Labor_Immigration | 2 | 2 | ~1,400 | Visa category details | Economic_Prosperity.Labor | Add visa specifics | TBD |
+| Asylum | 2 | 1 | ~700 | Processing capacity | None | Add capacity plan | TBD |
+| Border_Security | 2 | 1 | ~600 | Technology specs | Technology_and_Data | Add technology layer | TBD |
+| Enforcement | 2 | 2 | ~1,200 | ICE reform details | None | Expand accountability | TBD |
+| Integration | 2 | 1 | ~600 | Pathway details | Education | Add civic programs | TBD |
+| Oversight | 2 | 1 | ~700 | Dashboard specs | Technology_and_Data | Add data model | TBD |
+| DACA_Resolution | 0 | 0 | 0 | **Not started** | None | Create initial file | TBD |
+| Citizenship_Backlog | 0 | 0 | 0 | **Not started** | None | Create initial file | TBD |
 
 ---
 
@@ -77,31 +75,24 @@ Create a coherent immigration system that aligns legal immigration with labor ma
 ## Gap Analysis
 
 ### Tier 1: Critical Gaps (Missing Foundation)
-- [x] **DACA Resolution** — Cross-domain: tracked under Social (pathway for existing undocumented residents including DACA recipients) ✅
-- [x] **Citizenship Backlog** — Cross-domain: tracked under Social (processing backlog resolution) ✅
+- [ ] **DACA Resolution** – Pathway for existing recipients – Target: Phase 2
 
 ### Tier 2: Structural Gaps (Incomplete Coverage)
-- [ ] **Family Reunification** — Policy on family-based immigration categories — Target: Phase 3
-- [ ] **Country-specific strategies** — Bilateral labor agreements, partnership frameworks beyond restriction — Target: Phase 3
+- [ ] **Citizenship Backlog** – Processing existing applications – Target: Phase 2
+- [ ] **Family Reunification** – Policy on family-based immigration – Target: Phase 2
 
 ### Tier 3: Enhancement Gaps (Nice-to-Have)
-- [ ] **Prose depth** — All subdomains at Phase 3; full system ready for Phase 5–6 messaging and rebuttal build-out — Active next step
+- [ ] **Country-specific strategies** – Beyond restrictions to partnerships – Target: Phase 3
 
 ---
 
 ## Phase Advancement Checklist
 
-### Requirements for Phase 3 (Outcomes & Decision Rules) — Substantially Met
-- [x] Clear success metrics defined (employer accountability, asylum/labor separation, oversight dashboards)
-- [x] Decision criteria established (labor market triggers, enforcement thresholds)
-- [x] Risk mitigation strategies documented (enforcement accountability, SSI/UPI accelerants)
-- [x] Monitoring framework designed (Oversight subdomain, DoDA integration)
-
-### Requirements for Phase 5 (External Validation) — Active Next Step
-- [ ] Prose build-out across all 9 subdomains
-- [ ] Attack-line stress testing (enforcement vs. humanitarian, labor displacement objections)
-- [ ] Rebuttal language drafted for common objections
-- [ ] Family Reunification subdomain initiated
+### Requirements for Phase 3 (Outcomes & Decision Rules)
+- [ ] Clear success metrics defined
+- [ ] Decision criteria established
+- [ ] Risk mitigation strategies documented
+- [ ] Monitoring framework designed
 
 ---
 
@@ -109,18 +100,13 @@ Create a coherent immigration system that aligns legal immigration with labor ma
 
 | Date | Subdomain | Change | Phase Impact |
 |------|-----------|--------|--------------|
-| 2026-04-25 | All | Advanced all 9 subdomain phases 2 → 3; DACA_Resolution and Citizenship_Backlog closed as standalone subdomains — both tracked under Social domain; overall domain phase advanced 2 → 3–4; prose build-out (Phase 5–6) flagged as active next step | 2 → 3–4 |
-| 2026-04-10 | Cross-domain note | immigration-services-and-administration.md and workforce-immigration-skill-mobility-system.md added to Immigration folder but declare domain: Economic_Prosperity, subdomain: Labor_Mobility — tracked under Economic_Prosperity/Labor_Mobility | N/A |
-| 2026-02-26 | All | SSI/UPI accelerants added to 6 immigration files | N/A |
 | 2025-01-25 | All | YAML standardized, moved from People_Skills_Health | N/A |
 
 ---
 
 ## Notes & Context
 
-- Domain has **11 files** totaling ~7,560 words (plus 2 cross-domain files in folder, tracked under Economic_Prosperity/Labor_Mobility)
-- Comprehensive system-level architecture across 9 subdomains — all at Phase 3
-- Strong on labor/asylum separation principle; SSI/UPI accelerants integrated throughout
-- DACA Resolution and Citizenship Backlog: tracked under Social domain — not immigration architecture gaps
-- Active next step: Phase 5–6 prose build-out; all core policy decisions made, needs external validation layer and rebuttal messaging
-- Family Reunification is the only substantive policy gap remaining at this stage
+- Domain has 11 files totaling ~7,560 words
+- Comprehensive system-level architecture
+- Strong on labor/asylum separation principle
+- Missing resolution for existing undocumented populations

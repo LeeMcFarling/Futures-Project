@@ -4,9 +4,6 @@ title: What This Is Not — Clarifying the Healthcare Reform Framework
 sidebar_label: What This Is Not
 sidebar_position: 4
 slug: /healthcare/care-delivery/clarifications
-accelerants:
-  - ssi-self-sovereign-identity-framework
-  - upi-privacy-preserving-payment-rail
 tags:
   - healthcare
   - policy-clarification

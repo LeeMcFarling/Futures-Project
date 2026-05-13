@@ -1,416 +1,131 @@
 # Futures Project - Policy Repository Status Report
 
-**Generated:** 2026-04-10
-**Total Domains:** 12
-**Total Policy Files:** ~245
-**Estimated Total Words:** ~396,000
+**Generated:** 2025-01-25
+**Total Domains:** 8
+**Total Policy Files:** 65
+**Total Words:** ~53,379
 
 ---
 
 ## Executive Summary
 
-The repository has grown to **~238 files across 12 domains**. Three major new stacks since Apr 8: (1) Trade Policy expanded from 1 → 7 files (Phase 1→2) — tariff governance, adversarial trade risk management, NORAM manufacturing alignment, cartel de-risking, IDP trade compact, WTO modernization coalition; (2) Manufacturing expanded from 18 → 26 files — permitting shot clock + example deployment, RMC industrial deployment model, urban-industrial integration, and a 4-file workforce-training/immigration stack (WCA deployment, ISA deployment, access points, training alignment); (3) National_Security added 8 files — 4-file UN Reform stack (SC reform + layered legitimacy, mediation council, enforcement ladder, platform emergency directives) + 2 new IDP files (alliance interface standards + system trust/integration levels) + 2 Foreign Policy doctrine files (internal stability/external reorientation + international legal compliance). Also added: 2 Healthcare files (SEC Administration steady-state, pharma anti-gaming enforcement), 1 IRS Modernization file (Technology), 1 territorial self-determination file (Democratic_Integrity), 2 Institutional-Modernization files (RMS packet spec, CDE enforcement framework).
-
-Primary remaining gaps: China decoupling strategy + export controls (Trade_Policy), Foreign Policy (2 doctrine files added; Indo-Pacific bilateral + deeper diplomatic execution still missing), Carbon pricing/demand-side climate, energy transmission legal/zoning overlay, Judicial Reform, school/neighborhood stabilization (Criminal Justice).
+The repository contains a comprehensive policy framework with strong coverage in **Healthcare**, **Economic_Prosperity**, and **Immigration**. Critical gaps exist in **National_Security** (empty) and **Technology_and_Data** (minimal), with several domains missing entirely (**Climate & Energy**, **Housing**, **Criminal Justice**, **Labor**).
 
 ### Overall Maturity Distribution
 
-| Phase | Domains |
-|-------|---------|
-| Phase 3 | Healthcare, Housing_and_Public_Infrastructure, Institutional-Modernization, Economic_Prosperity (Energy + Climate_and_Resilience subdomains) |
-| Phase 2–3 | Democratic_Integrity, Education, Immigration, National_Security, Technology_and_Data |
-| Phase 0 | United-Nations-and-Global-Institutional-Reform (foundation established) |
+| Phase | Domain Count | Domains |
+|-------|-------------|---------|
+| Phase 0 | 1 | National_Security |
+| Phase 2 | 5 | Democratic_Integrity, Economic_Prosperity, Education, Immigration, Technology_and_Data |
+| Phase 3 | 2 | Healthcare, Public_Infrastructure |
 
 ---
 
 ## Domain Summary Matrix
 
-| Domain | Phase | Files | Est. Words | Status | Priority Gaps |
-|--------|-------|-------|------------|--------|---------------|
-| Healthcare | 3 | 31 | ~27,100 | Strong | Mental health depth (market integration exists), maternal health |
-| Economic_Prosperity | 2–3 | ~57 | ~85,000 | Strong | China decoupling + export controls (Trade_Policy), antitrust, carbon pricing/demand-side |
-| National_Security | 2–3 | 36 | ~46,000 | Strong | Indo-Pacific bilateral framework pending; China strategy can now begin |
-| Immigration | 2 | 11 | ~7,560 | Good | DACA resolution, citizenship backlog; 2 cross-domain files (domain: Economic_Prosperity) in folder |
-| Housing_and_Public_Infrastructure | 3 | 18 | ~29,400 | Strong | Broadband, water, STZ legal framework; rural housing + homelessness depth deferred to Social domain |
-| Institutional-Modernization | 3 | 13 | ~27,200 | Strong | Process redesign; CDE framework + RMS packet spec added; domain instantiations still needed |
-| Technology_and_Data | 2 | 13 | ~19,600 | Moderate | Data privacy; cybersecurity framework added (SSI-grounded) |
-| Education | 2–3 | 16 | ~23,000 | Growing | Higher ed depth (overview exists), early childhood, vocational/trades |
-| Democratic_Integrity | 2–3 | 13 | ~25,700 | Strong | Judicial reform drafted; ethics enforcement depth + constitutional amendment pathway still needed |
-| **Social** | **2–3** | **19** | **~66,700** | **Growing fast** | School/neighborhood stabilization; rural housing; CJ sentencing depth |
-| **United-Nations-and-Global-Institutional-Reform** | **2** | **7** | **~15,500** | **Complete stack** | Full 5-file reform stack + domain articulation + diagnosis; dep graph closed |
+| Domain | Phase | Files | Words | Status | Priority Gaps |
+|--------|-------|-------|-------|--------|---------------|
+| Healthcare | 3 | 18 | 14,076 | Strong | Mental health, maternal health |
+| Economic_Prosperity | 2 | 14 | 14,298 | Good | Trade policy, labor, antitrust |
+| Immigration | 2 | 11 | 7,560 | Good | DACA resolution |
+| Public_Infrastructure | 3 | 6 | 5,759 | Strong | Broadband, water |
+| Democratic_Integrity | 2 | 7 | 4,986 | Moderate | Voting rights, judicial reform |
+| Education | 2 | 6 | 4,758 | Moderate | Higher ed, early childhood |
+| Technology_and_Data | 2 | 2 | 1,942 | **Weak** | AI governance, platform regulation |
+| National_Security | 0 | 1 | 0 | **Critical** | Everything (empty file) |
 
 ---
 
-## Subdomain Detail
-
-### Healthcare (31 files)
-| Subdomain | Phase | Files | Notes |
-|-----------|-------|-------|-------|
-| Pharmaceutical_Reform | 3 | 9 | Full R&D stack: pricing, trials, manufacturing, stage-based authorization; pharma anti-gaming enforcement added |
-| Execution_and_Transition | 3 | 8 | HETA revised charter (v0.2 — Provider Transition Corps, enforcement firewall), cost performance backstop (DoDA-triggered escalation + glide path + capital recycling), state pilot framework, infrastructure layer, transition strategy |
-| Care_Delivery_and_Insurance | 3 | 7 | SEC framework, market design, clarifications, dental/vision/mental health market integration; SEC Administration HETA steady-state added (subdomain Execution_and_Transition in YAML, lives in Care-Delivery folder) |
-| Care_Delivery_and_Infrastructure | 3 | 1 | Regional Health Center Network — federally backstopped contractor-operated facilities; network adequacy as closure gate for legacy subsidies |
-| Public_Health_Nutrition | 2 | 6 | Ingredient disclosure, vertical farms, metabolic research, national health month campaign (fall activation: health month + school procurement pilot + ingredient disclosure rollout) |
-| Mental_Health | 0 | 0 | Not started |
-| Maternal_Health | 0 | 0 | Not started |
-
-### Economic_Prosperity (~57 files)
-| Subdomain | Phase | Files | Notes |
-|-----------|-------|-------|-------|
-| Agriculture | 3 | 8 | Data rights, finance, supply chain, water, seed IP |
-| Energy | 3 | 5 | Strategy, portfolio mix, PCA finance/exit, RMS overlay, pilot architecture |
-| Climate_and_Resilience | 3 | 4 | Climate risk framework, catastrophe reinsurance (3-layer system), water/aquifer resilience (5-level escalation), wildfire governance |
-| Manufacturing | 2 | 26 | NORAM + corridor architecture stack + PCA instruments stack + logistics spine + siting compact + permitting shot clock (v0.2 + semiconductor fab example) + RMC industrial deployment + urban-industrial integration + 4-file workforce-training stack (training alignment, access points, ISA deployment, WCA deployment). Files live in `Policy_Domains/Manufacturing/` folder. |
-| Labor_Mobility | 2 | 3 | New subdomain (cross-domain files, domain: Economic_Prosperity physically in Immigration/IM folders): workforce-immigration-skill-mobility-system (system doctrine), immigration-services-and-administration (ISA lifecycle), workforce-coordination-authority (WCA labor allocation + activation) |
-| Labor_and_Wellfare | 2 | 4 | Benefits floor, EITC, welfare gradient, worker classification |
-| Budget_and_Fiscal_Policy | 2 | 4 | Guiding principles, PCA, capital allocation, Social Security |
-| Trade_Policy | 2 | 8 | Full stack: overview scaffold, tariff governance, adversarial risk management, NORAM alignment, cartel de-risking, IDP compact, WTO coalition, export controls (phase-gated — behavior-conditioned control tiers, reversible de-escalation pathways, IDP alliance linkage). |
-| Antitrust | 0 | 0 | Not started |
-| Small_Business | 0 | 0 | Not started |
-
-### National_Security (34 files)
-| Subdomain | Phase | Files | Notes |
-|-----------|-------|-------|-------|
-| Integrated_Defense_Partnerships | 3 | 12 | Industrial, logistics, digital, financial, gray zone, info integrity, shipbuilding, social mobility, defense production, competitive production, alliance interface standards (N+2 sourcing), system trust/integration levels |
-| Security_Backstop_Partnerships | 2 | 6 | Overview, RSC architecture, engagement protocol, economic stabilization, regional instantiation doctrine, development phase model — non-alliance regional coordination councils |
-| UN_Reform | 2 | 4 | SC reform + layered legitimacy architecture, mediation council, graduated enforcement + collective action ladder, platform emergency directives + transnational digital crisis governance; conflict-screening file still missing |
-| Procurement_Reform | 3 | 3 | Defense acquisition reform + continuous competitive procurement + continuous test & certification |
-| Gulf_Defense_Compact | 3 | 3 | Phase I (defensive coordination) + Phase II (economic resilience) + Phase III (Middle East political conditioning) |
-| Middle_East_Framework | 3 | 1 | Phase III — phase-gated political conditioning for Israel, Palestinian authorities, Iran; PCF governance with Gulf co-ownership |
-| Foreign_Policy | 2 | 3 | foreign-policy-internal-stability-and-external-reorientation (doctrine + reorientation), international-legal-compliance-restoration (ICC + treaty compliance), Venezuela (Trump_Reactions). Note: pan-american-champions-league (Sports_and_Cultural_Institutions) + territorial-self-determination (Democratic_Integrity) live in folder but are cross-domain |
-| Aligned_Defense_Partnerships | 2 | 1 | Third tier of alliance architecture |
-| Defense_Posture | 2 | 1 | Strategic framework |
-| Trump_Reactions | 2 | 1 | Venezuela resource sovereignty framework |
-| China_Strategy | 0 | 0 | Not started — trade policy now established |
-| Cyber_Security | 0 | 0 | Not started |
-
-### United-Nations-and-Global-Institutional-Reform (6 files)
-| Subdomain | Phase | Files | Notes |
-|-----------|-------|-------|-------|
-| Domain_Articulation | 0 | 1 | Conceptual foundation: regional signaling authority + constrained veto mechanics; layered legitimacy model |
-| Diagnosis | 1 | 1 | international-order-diagnosis.md — structural failure analysis: SC enforcement paradox, great-power capture, aspirational vs. functional sovereignty gap; domain: National_Security in YAML |
-| Security_Council_Reform | 2 | 1 | un-layered-legitimacy-and-security-council-reform — SC reform + layered legitimacy architecture (domain: National_Security) |
-| Mediation_Council | 2 | 1 | un-mediation-council — narrow-jurisdiction appellate review body; elected by UNGA; reviews RSC/SC procedural compliance (domain: National_Security) |
-| Enforcement_Architecture | 2 | 1 | graduated enforcement + collective action ladder — escalation curves, sanctions mechanics; dep conflict-screening file missing (domain: National_Security) |
-| Digital_Crisis_Governance | 2 | 1 | platform emergency directives — transnational platform governance during crisis events; digital crisis escalation (domain: National_Security) |
-
-### Social (13 files)
-| Subdomain | Phase | Files | Notes |
-|-----------|-------|-------|-------|
-| National_Capability_Tour | 3 | 2 | NCT civic formation pathway + CECU deployment model (Civic Execution Coordination Units); cross-regional mixed-cohort deployment; portable national service credential |
-| National_Problem_Portfolio | 3 | 1 | Full NPP–CPF spec: Big Ask selection criteria (6-criterion filter), competitive ecosystem, DoDa measurement integration, CPF payout structure (50/25/25 outcome/milestone/diffusion), anti-gaming mechanisms, phase logic |
-| National_Contribution_Gala | 3 | 1 | Production architecture: Outcome Unit format (9-min/presentation), personalization layer, dual-channel broadcast strategy (formal + creator amplification), anti-drift guardrails, governance — designed for ~2032 first event |
-| Emergent_Impact_Track | 3 | 1 | Three-track unsolicited contribution recognition (Track A: Crisis/Acute, Track B: Practice Innovation, Track C: Discovery/Breakthrough), counterfactual requirement, EIT Governing Body, anti-capture architecture, prize tiers ($500K–$50M) |
-| Civic_Acropolis | 3 | 1 | Two-tier architecture (Outer Registry: all validated contributors; Inner Canon: 25-year minimum, supermajority, lifetime assessment), Smithsonian governance model, physical design spec, revisability framework — first inductions expected mid-2040s |
-| Criminal_Justice | 2 | 8 | Full immediate stabilization layer: overview, community-stabilization (environmental design + STZ linkage), violence-interruption-youth-off-ramps (credible messenger model), justice-gap-procedural-legitimacy (bail, public defenders, SSI/UPI equal process), non-violent-rehabilitation (Norwegian model — sentencing, facility, reentry), equal-justice-anti-impunity (elite accountability + IGL linkage), crisis-response-infrastructure |
-| IDP_Social_Stack | 2 | 2 | housing-arrival-transition-stack (labor mobility + familiarity density infrastructure) + idp-american-outbound-mobility-scaffold (American outbound mobility — trades certification, exchange, return pipeline) |
-| Homelessness | 2 | 3 | healthcare-enabled-housing-pilot-v2 (clinical integration for chronic high-acuity), homelessness-prevention-automatic-stabilizer (eviction/discharge/rent-surge trigger framework), housing-workforce-stabilization-pilots (tiny homes + transitional clusters for work-capable individuals) |
-
-### Institutional-Modernization (13 files)
-| Subdomain | Phase | Files | Notes |
-|-----------|-------|-------|-------|
-| Execution_Corps_Spec | 3 | 1 | Core instrument spec |
-| Public_Capital_Authority | 3 | 1 | Standing capital corps |
-| Industry_Interface | 3 | 1 | Private-sector translation |
-| Guiding_Principles | 3 | 1 | Institutional modernization overview |
-| Adaptive_Governance | 3 | 1 | Evidence protocol; RD/DiD framing; learning cycle |
-| Regulatory_Compression | 2 | 3 | ULRR + RMC + RMS packet specification (canonical artifact spec — version control, governance, ULRR integration) |
-| Market_Integrity_and_Public_Trust | 3 | 1 | coordinated-deceptive-practices-enforcement-framework v0.5 — CDE framework: epistemic threshold schema, grace period decay, safe harbor, amnesty window, government institution coverage; physically lives in Democratic_Integrity folder (cross-domain placement) |
-| Measurement_and_Accountability | 3 | 1 | DoDA — national measurement backbone; outcome certification; trigger maintenance; telemetry publishing |
-| Democratic_Execution_Interface | 3 | 1 | Congressional OS Interface — envelope-based authorization; outcome-triggered reporting |
-| Legislative_Design | 2 | 1 | Sample wildfire pilot act — envelope-based statutory language with PCA + Execution Corps |
-| Civic_Formation_and_Leadership | 3 | 1 | Civic Competence Pipeline — three-stage model (NCT → Execution Corps → NPP) |
-| Process_Redesign | 0 | 0 | Not started |
-
-### Housing_and_Public_Infrastructure (17 files)
-| Subdomain | Phase | Files | Notes |
-|-----------|-------|-------|-------|
-| Infrastructure_Spine | 3 | 1 | Core corridor design |
-| Modular_Reurbanization | 3 | 1 | Overview framework |
-| Node_Typologies | 3 | 1 | Land use typologies |
-| Special_Transit_Zones | 3 | 1 | Legal framework gap remains |
-| Regional_Architecture | 2 | 1 | Pattern books |
-| Phased_Rollout | 2 | 1 | Timeline |
-| Existing_Neighborhood_Treatment | 3 | 5 | Civic overlay, solvency test, seam infra, STZ interface, incentive alignment |
-| Housing_Integration | 3 | 6 | DoDa triggers, CTMI/CBI, executive backstop, tenure-convertible typology, PCA financing, healthcare-enabled housing pilot |
-
-### Technology_and_Data (12 files)
-| Subdomain | Phase | Files | Notes |
-|-----------|-------|-------|-------|
-| SSI / Digital Identity | 3 | 1 | Framework complete; tagged as accelerant in 10+ files across domains |
-| UPI / Payments | 3 | 1 | Framework complete; tagged as accelerant in 10+ files across domains |
-| Government_Integrity_Infrastructure | 2 | 3 | immutable-government-ledger (append-only cryptographic audit trail), government-outflow-integrity-framework (AI-augmented fraud detection), official-budget-accountability-framework (budget-to-execution integrity, appropriations compliance, DoDA integration) |
-| Government_Infrastructure | 2 | 1 | irs-modernization-automated-income-attestation — automated income attestation + SSI/UPI credential-based tax infrastructure; IRS modernization stack |
-| AI_Governance | 2 | 1 | Exists; enforcement mechanisms gap |
-| Synthetic_Media | 2 | 1 | Provenance framework |
-| Information_Integrity | 2 | 1 | Digital nutrition label |
-| Market_Structure_and_Digital_Competition | 2 | 1 | Anti-capture framework: chokepoint power, algorithmic coordination, interoperability/portability rights, structural separation |
-| Algorithmic_Governance | 1 | 2 | Discussion paper + year-one implementation stub |
-| Data_Privacy | 0 | 0 | Not started |
-| Cybersecurity | 0 | 0 | Not started |
-
-### Democratic_Integrity (12 files)
-| Subdomain | Phase | Files | Notes |
-|-----------|-------|-------|-------|
-| Anti_Corruption | 2 | 5 | Ban gerrymandering, ban stock trading, impeachment reform, enumerated triggers (12 categories), oversight commission |
-| Campaign_Finance_Reform | 2 | 1 | National Democracy Fund (5:1 small-donor matching), dark money ban, blockchain disclosure |
-| Term_and_Age_Limits | 2 | 1 | Uniform age/term limits across all branches; 10-year judicial terms |
-| Electoral_Reform | 3 | 3 | Election Day holiday + unified Primary Day; voter ID 3-phase framework; National Referendum Mechanism (7-part anti-capture architecture) |
-| Representation_and_Self_Government | 2 | 1 | territorial-self-determination — DC statehood + US territory representation normalization; lives in National_Security/foreign-policy/ folder (cross-domain placement) |
-| Digital_Democracy | 3 | 1 | 5-phase Digital Democracy Platform; YAML declares `domain: Institutional_Modernization` but physically in DI folder. |
-| Judicial_Reform | 0 | 0 | Not started — Supreme Court structure, expansion, ethics |
-
-### Education (16 files)
-| Subdomain | Phase | Files | Notes |
-|-----------|-------|-------|-------|
-| K12_Reform | 3 | 12 | Overview, competency framework, DES standards, DES triggers, AI personalization pilot, student-based funding, principal autonomy pilot + counterfactuals, teacher reskilling, book rating + recommendation stack, distillate |
-| Governance | 3 | 1 | DES reform — standards body architecture, trigger-based intervention escalation |
-| Higher_Education | 1 | 2 | Domain overview (directional, pending labor signal + debt integration) + university research pre-seeding infrastructure |
-| University_Admissions | 2 | 1 | Competency alignment framework — lives in k-12 folder, bridges both subdomains |
-| Early_Childhood | 0 | 0 | Not started |
-| Vocational_Training | 0 | 0 | Not started — high IDP linkage |
-
-### Immigration (11 files)
-| Subdomain | Phase | Files | Notes |
-|-----------|-------|-------|-------|
-| System_Architecture | 2 | 1 | Overview |
-| Labor_Immigration | 2 | 2 | Circular visas, targeted pathways |
-| Enforcement | 2 | 2 | ICE reform, employer accountability |
-| Asylum | 2 | 1 | Reform framework |
-| Border_Security | 2 | 1 | Physical security and ops |
-| Integration | 2 | 1 | Civic participation |
-| Oversight | 2 | 1 | Transparency dashboards |
-| Entrepreneurship | 2 | 1 | Visa conversion pathways |
-| Student_Retention | 2 | 1 | Industry pathways |
-| DACA_Resolution | 0 | 0 | Not started |
-| Citizenship_Backlog | 0 | 0 | Not started |
-
----
-
-## Operating Theory & Meta-Research Layer (Cross-Cutting)
-
-Located at `guiding-principles/Operating-Theory-Meta-Research/` — outside the Policy_Domains structure. This layer provides the theoretical and empirical backbone of platform design.
-
-| File | ID | Subdomain | Purpose |
-|------|----|-----------|---------|
-| central-axioms-of-civilizational-stability.md | central-axioms-civilizational-stability | Theoretical_Foundations | Full research framework: civilizational stability theory, continuity portfolios, state-space model, measurable indicators (WVS/Gallup/OECD), causal identification strategies (DiD, synthetic control, IV), Goodhart mitigations, Civilizational Resilience Office governance structure |
-| Central Axioms.md | central-axioms-civilizational-stability | Theoretical_Foundations | ⚠️ DUPLICATE ID — shorter draft version; same id as above. Needs resolution: archive or differentiate |
-| model definitions.md | civilizational-cost-function-model | Theoretical_Foundations | Mathematical formalization: individual continuity score F_i, civilizational cost function C (mean fragility + variance + antagonism terms), two-anchor worked example |
-| existential-stability-mechanism.md | existential-stability-axiom | System_Axioms | Policy-level axiom: mortality salience as platform through-line; all policies reduce existential threat perception and sustain democratic cooperation |
-| incentive-meaning-cohearance.md | incentive-structure-coherence | System_Design_Principles | Governance design principle: instability arises when systems punish previously incentivized behavior without recalibrating incentives or renegotiating legitimacy |
-| prestige-architecture-and-meaning.md | prestige-architecture-and-meaning | Civilizational_Design | Prestige architecture as civilizational design: TMT/Becker foundation, current prestige architecture diagnosis (financial accumulation + celebrity), four-mechanism redesign (visibility/reward/canonization/emulation), coercion and authenticity constraints, relationship to continuity portfolio and meaning crisis literature (Vervaeke, Taylor, Bellah) |
-| built-environment-community-anchors.md | built-environment-community-anchors | Civilizational_Design | Spatial design as community anchor infrastructure: Oldenburg third places, Granovetter weak ties, Putnam bridging social capital, Jacobs four conditions, Alexander pattern language, single-use zoning failure, conditions-not-outcomes design philosophy, tension with Jacobs critique |
-| DRAFT-threat-salience-reduction-theory.md | threat-salience-reduction-theory | Theoretical_Foundations | Constructive complement to the diagnostic axioms: six-mechanism taxonomy (material security, anchor diversification, bridging social capital, institutional credibility, time horizon extension, narrative coherence), interaction structure, spatial nucleation theory (crystal of density), measurement implications for pilot design, honest uncertainties |
-
-All files are `status: Draft`. The meta layer now constitutes a complete theoretical arc: Central Axioms (model) → Existential Stability (diagnosis) → Incentive-Meaning Coherence (failure loop) → Prestige Architecture (cultural response) → Built Environment (spatial response) → Threat Salience Reduction (synthetic constructive theory). The Civic Competence Pipeline (Institutional-Modernization) and Social domain prestige stack are the operational translations of this theoretical layer.
-
----
-
-## Cross-Cutting Infrastructure Status
-
-### SSI / UPI Accelerant Tagging — Complete
-All files mentioning SSI or UPI in prose have been tagged with the appropriate `accelerants` field.
-
-| Domain | Files Tagged |
-|--------|-------------|
-| Immigration | 6 |
-| National Security | 2 (IDP digital, info integrity) |
-| Healthcare | 4 (insurance arch, what-this-is-not, stage-based auth, clinical trials) |
-| Education | 1 (education overview) |
-| Labor | 1 (employer benefits floor) |
-
-**2 files flagged for user prose review** (SSI/UPI language reads as dependency-level):
-- `entrepreneurship-visas-and-conversion-pathways.md` — "must operate on"
-- `earned-income-and-child-tax-credit.md` — "relies on"
-
-**1 file flagged for structural review:**
-- `healthcare-infrastructure-layer.md` — SSI/UPI are the mechanism of the layer itself; may be a dependency, not an accelerant
-
----
-
-## Gap Analysis
+## Gap Analysis by Tier
 
 ### Tier 1: Critical Gaps (Missing Foundations)
-| Gap | Domain | Urgency |
-|-----|--------|---------|
-| **Energy Legal/Zoning Overlay** | Economic_Prosperity.Energy | ✅ CLOSED — energy-siting-and-distributed-participation-overlay.md adds FERC/state authority, eminent domain, transmission corridor, prosumer participation |
-| **Decarbonization Framework** | Economic_Prosperity.Energy | ✅ CLOSED — abundance-first-decarbonization-and-reliability-transition.md adds coal community phase-gates, grid reliability requirements, regional sequencing |
-| **Judicial Reform** | Democratic_Integrity | ✅ CLOSED (Phase 2) — draft-scotus-judicial-reform.md: Article III modernization, 18-year terms, structured appointment cadence; ethics enforcement depth still needed |
-| **Cybersecurity** | Technology_and_Data + National_Security | ✅ CLOSED (Phase 2) — cybersecurity-architecture-and-identity-modernization.md: SSI-grounded zero-trust + post-quantum architecture; sector-specific overlays still needed |
-| **China/Adversarial State Doctrine** | National_Security.Foreign_Policy | ✅ CLOSED — trade-and-diplomacy-in-low-trust-environments.md: phase-gated conditional engagement; doctrine applies to China/Russia/North Korea/Iran without naming China as headline |
-| **UN Conflict-Screening Dep** | National_Security.UN_Reform | ✅ CLOSED — un-conflict-screening-and-selective-recusal.md: recusal architecture for SC/RSC/Mediation Council; dep graph now complete |
-| **China Export Controls** | Economic_Prosperity.Trade_Policy | ✅ CLOSED — export-controls-phase-gated-framework.md: behavior-conditioned control tiers, reversible de-escalation pathways, phase-gate logic extends low-trust engagement doctrine |
-| **Macro/Economic Validation Layer** | Platform-wide | 🟠 — pre-deployment modeling, parameter calibration, DiD comparisons not yet commissioned |
 
-### Tier 2: Structural Gaps
+These gaps fundamentally undermine platform credibility:
+
+| Gap | Domain | Impact | Urgency |
+|-----|--------|--------|---------|
+| **National Security / Foreign Policy** | National_Security | Cannot have credible platform without | 🔴 CRITICAL |
+| **Climate & Energy** | *Missing Domain* | Central to any modern platform | 🔴 CRITICAL |
+| **AI Governance** | Technology_and_Data | Major policy issue, no coverage | 🔴 HIGH |
+| **Voting Rights & Access** | Democratic_Integrity | Core democratic participation | 🟠 HIGH |
+
+### Tier 2: Structural Gaps (Missing Major Policy Areas)
+
+These are significant omissions that weaken coverage:
+
 | Gap | Domain | Notes |
 |-----|--------|-------|
-| Criminal Justice (depth) | Social Domain | Immediate stabilization layer complete; school/neighborhood stabilization, sentencing detail, prosecutor incentive reform still needed |
-| Carbon Pricing / Demand-Side Climate | Economic_Prosperity.Climate_and_Resilience | Risk management (Phase 3) is covered; carbon pricing, demand-side policy, and decarbonization roadmap still missing |
-| China Strategy | National_Security | Trade Policy now established; China decoupling strategy can now begin |
-| Cyber Security | Nat. Security + Tech | Gap in both domains |
-| UN Conflict-Screening Architecture | National_Security.UN_Reform | Referenced as dep in enforcement ladder + platform directives; file does not yet exist |
-| Higher Education | Education | Student debt, cost, access |
-| Mental Health (depth) | Healthcare | Market integration covered; crisis services, parity, standalone framework still needed |
-| Platform Regulation (depth) | Technology_and_Data | Anti-capture framework started; enforcement mechanisms, algorithmic audit detail still missing |
+| **Housing** | *Missing Domain* | Affordability, zoning, homelessness |
+| **Labor & Workforce** | Economic_Prosperity | Unions, worker protections, automation |
+| **Trade Policy** | Economic_Prosperity | Tariffs, trade agreements |
+| **Criminal Justice** | *Missing Domain* | Policing, sentencing, reentry |
+| **Higher Education** | Education | Student debt, costs, access |
+| **Judicial Reform** | Democratic_Integrity | Supreme Court, term limits |
+| **Platform Regulation** | Technology_and_Data | Big Tech, content moderation |
+| **Mental Health** | Healthcare | Crisis services, parity |
 
-### Tier 3: Enhancement Gaps
-| Gap | Domain |
-|-----|--------|
-| DACA Resolution | Immigration |
-| Antitrust | Economic_Prosperity |
-| Early Childhood | Education |
-| Rural Healthcare Access | Healthcare |
-| Broadband | Housing_and_Public_Infrastructure |
-| Data Privacy | Technology_and_Data |
-| Judicial Reform | Democratic_Integrity |
+### Tier 3: Enhancement Gaps (Incomplete Coverage)
 
----
+These would strengthen existing domains:
 
-## Structural Issues (Remaining)
-
-| Issue | Location | Status |
-|-------|----------|--------|
-| Folder typo `Efficiancy` | Institutional-Modernization | Known; not yet renamed |
-| Folder typo `Conpact` in GDIC folder name | National_Security | Should be `Compact`; not yet renamed |
-| `idp-partner-integrated-defense-production.md` | National_Security/IDP | File exists but references point to `idp-industrial-capacity-defense-production`; needs reconciliation |
-| `healthcare-infrastructure-layer.md` SSI/UPI role | Healthcare | Flagged — prose reads as dependency not accelerant; user to review |
-| 2 files with ambiguous SSI/UPI prose | Immigration, Labor | User will revisit |
-| Inline `[Agriculture / ...]` cross-reference annotations | Water and Wildfire files | Authoring artifacts in prose; not yet cleaned |
-| Manufacturing folder/domain inconsistency | `Policy_Domains/Manufacturing/` | Files use `domain: Economic_Prosperity` in YAML but sit in standalone folder; should move to `Policy_Domains/Economic_Prosperity/Manufacturing/` |
-| `workforce-skill-mobility` dep resolved | Manufacturing files | Dep removed from files in earlier session; workforce-immigration-skill-mobility-system.md now exists and covers this gap |
-| Social domain folder naming convention | `Policy_Domains/Social/national-prestige-mechanics-framework.md/` | Folder has `.md` extension — technically valid but non-standard; 4 prestige files live inside it; worth renaming to `national-prestige-mechanics-framework/` |
+| Gap | Domain | Notes |
+|-----|--------|-------|
+| Antitrust & Competition | Economic_Prosperity | Consolidation, market power |
+| Small Business | Economic_Prosperity | Entrepreneurship, access to capital |
+| Early Childhood | Education | Pre-K, childcare |
+| Vocational Training | Education | Non-college pathways |
+| Rural Healthcare Access | Healthcare | Telehealth, facilities |
+| Broadband | Public_Infrastructure | Universal connectivity |
+| Data Privacy | Technology_and_Data | Comprehensive protection |
+| DACA Resolution | Immigration | Pathway for existing recipients |
 
 ---
 
-## Recent Session Activity (Apr 10, 2026)
+## Missing Domains
 
-| Change | Files Affected |
-|--------|---------------|
-| Trade Policy: 6 new files added (Phase 1→2) — tariff-governance-and-industrial-activation, adversarial-trade-partner-risk-management-framework, noram-manufacturing-alignment-and-nearshoring-framework, cartel-derisking-and-regional-stability-framework, idp-trade-and-industrial-integration-compact, wto-modernization-coalition-framework (status: Tentative → Draft); dep fixes: impeachment-reform → impeachment-reform-enumerated-triggers, integrated-defense-partnerships removed (no overview file), regulatory-version-control-system → regulatory-modernization-packet-spec | Trade_Policy/ (6 new) |
-| Manufacturing: 8 new files — DRAFT-industrial-permitting-shot-clock-v0.2.md, DRAFT-example-industrial-permitting-shot-clock-semiconductor-fab.md, regulatory-modernization-deployments-v0.3.md (regulatory-modernization/); workforce-training-and-education-alignment, workforce-access-points-and-local-deployment, wca-execution-corps-deployment, isa-execution-corps-deployment (workforce-training-and-immigration/); urban-industrial-integration-overview; YAML fixes: industrial-corridor-architecture → industrial-strategy-corridor-architecture, execution-corps-public-capital-authority split | Manufacturing/ (+8 files) |
-| Labor_Mobility: 3 new cross-domain files (domain: Economic_Prosperity) — workforce-immigration-skill-mobility-system + immigration-services-and-administration (Immigration folder), workforce-coordination-authority (IM folder) | Immigration/ + Institutional-Modernization/ |
-| National_Security Foreign_Policy: 4 new files — draft-foreign-policy-under-conditions-of-volatility (doctrine + reorientation), international-legal-compliance-restoration (ICC + treaty compliance), pan-american-champions-league (domain: Sports_and_Cultural_Institutions — cross-domain), territorial-self-determination-and-representation-normalization (domain: Democratic_Integrity — cross-domain); related_initiatives converted to slugs | National_Security/foreign-policy/ (+4 files) |
-| National_Security UN_Reform: 4 new files — un-layered-legitimacy-and-security-council-reform, un-mediation-council, draft-un-graduated-enforcement-and-collective-action-ladder (typo in original filename fixed), draft-un-platform-emergency-directives; related_initiatives converted to slugs; un-conflict-screening dep removed (file doesn't exist) | United-Nations-and-Global-Institutional-Reform/ (+4 files) |
-| National_Security IDP: 2 new files — idp-alliance-interface-standards-n2-sourcing (N+2 theater sourcing doctrine), idp-system-trust-and-integration-levels (governance trust framework); related_initiatives converted to slugs | National_Security/integrated-defense-partnerships/ (+2) |
-| Healthcare: 2 new files — sec-administration-heta-steady-state (HETA steady-state operating model; dep HETA-revised-charter case fixed), pharmaceutical-cost-attestation-anti-gaming (anti-gaming enforcement; subdomain Pharmaceuticals → Pharmaceutical_Reform) | Healthcare/ (+2 files) |
-| Technology_and_Data: irs-modernization-automated-income-attestation (IRS modernization + SSI/UPI credential-based tax infra) | Technology_and_Data/ (+1 file) |
-| Institutional-Modernization: regulatory-modernization-packet-spec (RMS packet artifact specification) + coordinated-deceptive-practices-enforcement-framework v0.5 (CDE enforcement + transition; dep regulatory-version-control-system → regulatory-modernization-packet-spec; lives in Democratic_Integrity folder) | Institutional-Modernization/ + Democratic_Integrity/ (+2 files) |
-| All trackers updated: National_Security, Healthcare, Technology_and_Data, Democratic_Integrity, Immigration, Institutional-Modernization, Economic_Prosperity, PROJECT_STATUS.md | _MATURITY_TRACKER.md files |
+These domains do not exist in the repository:
+
+| Domain | Why Critical | Recommended Subdomains |
+|--------|--------------|----------------------|
+| **Climate_and_Energy** | Cannot ignore in modern platform | Decarbonization, Grid_Modernization, Renewable_Energy, Carbon_Pricing |
+| **Housing** | Affordability crisis, connects to Public_Infrastructure | Affordability, Zoning_Reform, Homelessness, Rental_Markets |
+| **Criminal_Justice** | Major reform area | Policing_Reform, Sentencing, Prison_Reform, Reentry |
+| **Labor_and_Workforce** | Economic foundation | Worker_Protections, Unions, Automation, Gig_Economy |
 
 ---
 
-## Recent Session Activity (Mar 26, 2026 — Afternoon)
+## Dependency Risks
 
-| Change | Files Affected |
-|--------|---------------|
-| Prestige Architecture & Meaning added: TMT/Becker theoretical foundation, diagnosis of current US prestige architecture (financial accumulation + celebrity), four-mechanism redesign response (visibility/reward/canonization/emulation), coercion and authenticity constraints, continuity portfolio implications, engagement with Vervaeke/Taylor/Bellah meaning crisis literature; YAML completed | prestige-architecture-and-meaning.md (new, Operating-Theory-Meta-Research) |
-| Built Environment & Community Anchors added: Oldenburg third places, Granovetter weak ties, Putnam bridging vs bonding social capital, Jacobs four conditions for urban vitality, Alexander pattern language, postwar zoning failure diagnosis, conditions-not-outcomes design philosophy, crystal of density spatial nucleation theory, honest tension with Jacobs critique; YAML completed | built-environment-community-anchors.md (new, Operating-Theory-Meta-Research) |
-| Threat Salience Reduction Theory added: six-mechanism taxonomy (material security, anchor diversification, bridging social capital, institutional credibility, time horizon extension, narrative coherence), interaction structure and substitution risks, crystal of density spatial nucleation theory, measurement implications for pilot design, Digital Democracy Platform as longitudinal TMT dataset, honest uncertainties — completes the meta-layer theoretical arc; YAML completed; dependency `model-definitions` corrected to `civilizational-cost-function-model` | DRAFT-threat-salience-reduction-theory.md (new, Operating-Theory-Meta-Research) |
-| Civic Competence Pipeline added: three-stage pipeline (NCT → Execution Corps → NPP), money/celebrity pipeline critique, portable national service credential, DoDA accountability loop through political career arc, connection to meaning crisis and Meaning in Society framework; YAML completed | civic-competence-pipeline.md (new, Institutional-Modernization) |
-| National Problem Portfolio v3 added: full NPP–CPF spec with Big Ask selection criteria (6-criterion filter), competitive ecosystem, DoDa measurement integration, CPF payout structure (50/25/25), anti-Goodhart mechanisms, phase logic; YAML completed; `ssi-upi-infrastructure` corrected to `ssi-self-sovereign-identity-framework` + `upi-privacy-preserving-payment-rail` | national-problem-portfolio-v3.md (new, Social/national-prestige-mechanics-framework.md/) |
-| National Contribution Gala v3 added: full production architecture — Outcome Unit format, personalization layer, dual-channel broadcast (formal + creator amplification), anti-drift guardrails, governance; YAML completed; `ssi-upi-infrastructure` corrected | national-contribution-gala-v3.md (new, Social/national-prestige-mechanics-framework.md/) |
-| Emergent Impact Track added: three-track recognition system (Track A/B/C), counterfactual requirement, validation governance, anti-capture architecture, prize tiers $500K–$50M; YAML completed; `ssi-upi-infrastructure` corrected | emergent-impact-prestige-track.md (new, Social/national-prestige-mechanics-framework.md/) |
-| Civic Acropolis v2 added: two-tier architecture (Outer Registry + Inner Canon), lifetime standard (25-year minimum), imperfection standard, revisability framework, Smithsonian governance model, physical design spec — Canon Chamber + Registry Hall + Digital Acropolis; YAML completed | civic-acropolis-v2.md (new, Social/national-prestige-mechanics-framework.md/) |
-| Social domain _MATURITY_TRACKER.md created — 6 files, ~32,200 words; structural note logged re: folder naming convention | _MATURITY_TRACKER.md (new, Social) |
-| YAML standardized across National Capability Tour + SPEC files — missing sidebar_label, sidebar_position, author fields added; related_initiatives added | DRAFT-national-capability-tour.md, DRAFT-national-capability-tour-SPEC.md |
+### Blocked by National_Security (Phase 0)
+- Economic_Prosperity → Trade_Policy
+- Immigration → Country_Restrictions
+- Technology_and_Data → Cybersecurity
+
+### Blocked by Missing Budget Details
+- Healthcare → Financing model
+- Public_Infrastructure → Capital allocation
+- National_Security → Defense spending
 
 ---
 
-## Recent Session Activity (Mar 26, 2026 — Morning)
+## Recommended Priority Actions
 
-| Change | Files Affected |
-|--------|---------------|
-| Election Day reform added: federal holiday designation, unified national Primary Day (1 year before general), 1-year deliberative window, third-party ballot access standardization, election administration modernization; YAML added | election-day-and-primary-reform.md (new) |
-| Voter ID & Registration Reform added: 3-phase framework — Phase 1 universal free ID (proactive issuance, coverage thresholds, auto-registration at 18), Phase 2 numeric ID matching (activates only at 99% coverage), Phase 3 SSI cryptographic identity; employer retaliation protection; guardrails against regression; YAML added | voter-id-registration-reform.md (new) |
-| National Referendum Mechanism added: 7-part anti-capture architecture — trigger authority (congressional + citizen petition Phase 2), certification process (Referendum Certification Panel), campaign architecture (spending limits, equal public matching, misinformation accountability), 180-day deliberation window, tiered thresholds (Tier 1/2/3), implementation architecture (mandatory congressional response + default pathway), scope limitations; 7 red-team scenarios; YAML added | DRAFT-national-referendum-mechanism.md (new) |
-| Digital Democracy Platform added: 5-phase platform architecture — Layer 1 SSI identity, Layer 2 ULRR jurisdictional routing engine, Layer 3 signal capture, Layer 4 DoDA processing, Layer 5 lawmaker accountability dashboards; semi-annual townhalls; 10-year mandate formation; Phase 5 referendum infrastructure integration; YAML corrected (self-sovereign-identity → ssi-self-sovereign-identity-framework; voter-id-registration-reform → voter-id-and-registration-reform) | DRAFT-digital-democracy-platform.md (new) |
-| YAML standardized across all 7 existing Democratic_Integrity files missing domain/subdomain/policy_type/status/version/author/last_updated fields | Ban Gerrymandering.md, Ban_stock_trading.md, Impeachment Reform.md, Campaign_Finance.md, federal-employee-age-and-term-limits.md, election-day-and-primary-reform.md, voter-id-registration-reform.md |
+### Immediate (This Week)
+1. **Populate Foreign_Policy.md** - Currently 0 bytes
+2. **Create Climate_and_Energy domain** - Critical omission
+3. **Create AI_Governance.md** - Urgent policy area
 
----
+### Short-Term (This Month)
+4. Create Housing domain
+5. Add Voting_Rights to Democratic_Integrity
+6. Add Labor_and_Workforce to Economic_Prosperity
+7. Add Trade_Policy to Economic_Prosperity
 
-## Recent Session Activity (Mar 25, 2026)
-
-| Change | Files Affected |
-|--------|---------------|
-| Anti-capture competition framework added: chokepoint power, algorithmic price coordination, interoperability/portability rights, structural separation, anti-tying rules — defines 21st-century fair digital competition standard; YAML completed | anti-capture-competition-framework.md (new) |
-| Algorithmic attention initiative added (Discussion Paper): engagement arms race problem, coordination failure model, working group proposal — first-person practitioner voice; YAML added | algorithmic-attention-initiative.md (new) |
-| Year-one attention stability initiative added (Implementation Specification stub): same framing for now — needs concrete year-one working group design and measurement pipeline | year-one-attention-algorithm-stability-initiative.md (new) |
-
----
-
-## Recent Session Activity (Mar 23, 2026)
-
-| Change | Files Affected |
-|--------|---------------|
-| HETA revised charter added (v0.2): Provider Transition Corps, regional office model, enforcement firewall, field intelligence reporting; full YAML added | HETA-revised-charter.md (new) |
-| Cost performance backstop added: DoDA-triggered escalation framework, healthcare cost glide path, state sequencing + capital recycling model; YAML completed | cost-performance-backstop.md (new) |
-| Dental/vision/mental health market integration added: SEC trigger boundaries, discount wrap instrument, UPI price display requirement; YAML completed | dental-vision-mental-health-market-integration.md (new) |
-| Regional Health Center Network added (moved from Education→ Healthcare/Care-Delivery-and-Insurance): federally backstopped contractor-operated coverage network; YAML completed | draft-regional-health-center-network.md (new) |
-| healthcare-transition-phase-strategy.md YAML standardized (id added, slugified dependencies) | healthcare-transition-phase-strategy.md |
-| Colorado parking lot + park-and-ride re-urbanization pilot added (v0.2); YAML dependency slug corrected (transit-escalation-and-stz-interface → transit-escalation-stz-interface); related_initiatives added | DRAFT-colorado-density-pilot.md (new) |
-| DoDA framework added: national measurement backbone, outcome certification, trigger maintenance, telemetry publishing; full YAML added | Department-of-Data-and-Accountability.md (new) |
-| Congressional OS Interface added: envelope-based authorization model, oversight accountability architecture; last_updated + related_initiatives added | congressional-operating-system-interface.md (new) |
-| Sample legislative mechanism added: wildfire risk reduction pilot act demonstrating envelope-based statutory language; full YAML added | DRAFT-new-legislative-mechanism.md (new) |
-
-## Prior Session Activity (Mar 15, 2026)
-
-| Change | Files Affected |
-|--------|---------------|
-| Trade Policy overview scaffold created: sector-tiered framework (Tier I Strategic-Critical / Tier II Industrial Anchor / Tier III Competitive), allied trade architecture, adversarial decoupling staging, 5 sub-file roadmap | trade-policy-overview.md (new) |
-| NORAM YAML completed — was missing domain, subdomain, policy_type, status, version, author, last_updated, dependencies, related_initiatives | NORAM_Critical_Materials_and_Manufacturing.md |
-| Manufacturing 6-file stack added: domain overview, industrial strategy/corridor architecture, viability criteria (DoDa dashboard, Tier I/II/III), climate absorption corridors, Dutch disease mitigation (ROFR + housing elasticity), land-use stabilization (anti-gentrification: PCA pre-acquisition, mixed-income vertical integration, tourism dividend via SSI/UPI rails) | manufacturing-domain-overview.md, industrial-strategy-and-corridor-architecture.md, industrial-corridor-viability-criteria.md, climate-shock-absorbtion-industrial-corridors.md, localized-dutch-disease-mitigation.md, land-use-stabilization-and-inclusive-growth.md |
-| Manufacturing YAML dependencies corrected: `housing-pattern-book-overlays` → `regional-architectural-skins`; `alliance-industrial-strategy` → `idp-industrial-capacity-defense-production`; `noram-critical-materials-strategy` → `noram-critical-materials`; `infrastructure-spine-neighborhood-seam` → `transit-escalation-stz-interface`; `workforce-skill-mobility` removed (file doesn't exist yet) | All 6 manufacturing files |
-| `related_initiatives` fields added to all 6 manufacturing files | All 6 manufacturing files |
-| Economic_Prosperity tracker updated: Manufacturing 1→7 files; Trade Policy 0→1 file, phase 0→1 | _MATURITY_TRACKER.md |
-| GDIC Phase 3 duplicate `author:` field removed | DRAFT-GDIC-Phase-3-political-conditioning.md |
-
-## Prior Session Activity (Mar 12, 2026)
-
-| Change | Files Affected |
-|--------|---------------|
-| Climate_and_Resilience 4-file stack added; YAML standardized | climate-overview.md, national-catastrophe-reinsurance-system.md, water-and-aquifer-resilience.md, wildfire-mitigation-and-landscape-risk-governance.md |
-| GDIC Phase 1 YAML overhauled (domain, status, fields) | GDIC-Phase-1-Framework.md |
-| GDIC Phase 2 full YAML block added (was missing entirely) | GDIC-phase-2-counter-cyclical-stabilization-and-economic-resiliance.md |
-| Gulf_Defense_Compact subdomain added to National_Security tracker | _MATURITY_TRACKER.md |
-| DoD continuous competitive procurement YAML completed (sidebar fields) | dow-continuous-competitive-procurement-pilot.md |
-| DoD continuous test & certification YAML completed (sidebar fields) | dow-continuous-test-certification-pilot.md |
-| IDP continuous competitive production YAML completed (sidebar fields) | idp-continuous-competitive-development.md |
-| Procurement_Reform 1→3 files, Phase 2→3; IDP 9→10 files; National_Security tracker updated | _MATURITY_TRACKER.md |
-| United-Nations-and-Global-Institutional-Reform domain created; Domain-articulation.md YAML standardized | Domain-articulation.md |
-| Security_Backstop_Partnerships 6-file stack added; YAML standardized | secutiy-backstop-partnerships-overview.md, security-backstop-partnership-councils.md, sbp-backstop-engagement-protocol.md, sbp-economic-stabilization-and-continuity-framework.md, sbp-regional-instantiation-and-pilot-deployment-doctrine.md, regional-security-council-development-phases.md |
-| Middle_East_Framework — GDIC Phase III political conditioning added; YAML standardized | DRAFT-GDIC-Phase-3-political-conditioning.md |
-| Aligned_Defense_Partnerships subdomain created; ADP framework overview added; YAML standardized | aligned-defense-partnerships-overview.md |
-| central-axioms-of-civilizational-stability.md (detailed version) added to Operating-Theory-Meta-Research | Already has YAML |
-| National_Security tracker updated (25 files, new subdomains) | _MATURITY_TRACKER.md |
-| Operating-Theory-Meta-Research layer established (renamed from Meta Principles - System Physics); 2 new files added; YAML standardized on all 4 files | Central Axioms.md, model definitions.md, existential-stability-mechanism.md, incentive-meaning-cohearance.md |
-| Economic_Prosperity tracker updated (Climate_and_Resilience subdomain, 4 files) | _MATURITY_TRACKER.md |
-| PROJECT_STATUS.md updated (121 files, 11 domains) | This file |
-
-## Prior Session Activity (Mar 4, 2026)
-
-| Change | Files Affected |
-|--------|---------------|
-| Domain renamed Public_Infrastructure → Housing_and_Public_Infrastructure; folder renamed | All 17 domain files |
-| domain: field updated to Housing_and_Public_Infrastructure in all 17 files | Bulk YAML update |
-| domain: field added to 6 older files that were missing it | modular-reurbanization-overview, public-infrastructure-spine, special-transit-zones, node-typologies, regional-architeture-skins, project-phased-rollout |
-| _MATURITY_TRACKER.md header, purpose, success criteria, and notes updated | _MATURITY_TRACKER.md |
-| Adaptive Governance & Evidence Protocol added; YAML standardized | adaptive-governance-model.md |
-| Adaptive_Governance subdomain added to Institutional-Modernization tracker | _MATURITY_TRACKER.md |
-| PROJECT_STATUS.md updated (109 files; Housing_and_Public_Infrastructure at 17 files) | This file |
-
-## Prior Session Activity (Feb 26, 2026)
-
-| Change | Files Affected |
-|--------|---------------|
-| Energy domain YAML standardized (5 files) | energy-abundance-strategy-overview, energy-portfolio-mix, pca-finance-strategies, energy-regulatory-modernization-sandbox, energy-deployment-architecture |
-| Energy added to Economic_Prosperity tracker | _MATURITY_TRACKER.md |
-| Efficiency subdomain moved to Institutional-Modernization | unified-law-regulation-repository, regulatory-modernization-corps, both trackers |
-| ULRR YAML fully standardized | unified-law-regulation-repository.md |
-| RMC YAML fixed (domain, status, slugs) | regulatory-modernization-corps.md |
-| SSI/UPI accelerants added — Healthcare + Education | 5 files |
-| Healthcare tracker updated (23 files, Public Health Nutrition added) | _MATURITY_TRACKER.md |
-| PROJECT_STATUS.md rebuilt | This file |
+### Medium-Term (This Quarter)
+8. Create Criminal_Justice domain
+9. Expand Technology_and_Data (platform regulation, data privacy)
+10. Add Higher_Education to Education
+11. Advance Healthcare and Public_Infrastructure to Phase 4
 
 ---
 
@@ -420,9 +135,22 @@ All files mentioning SSI or UPI in prose have been tagged with the appropriate `
 - [Economic_Prosperity](./guiding-principles/Policy_Domains/Economic_Prosperity/_MATURITY_TRACKER.md)
 - [Education](./guiding-principles/Policy_Domains/Education/_MATURITY_TRACKER.md)
 - [Healthcare](./guiding-principles/Policy_Domains/Healthcare/_MATURITY_TRACKER.md)
-- [Housing_and_Public_Infrastructure](./guiding-principles/Policy_Domains/Housing_and_Public_Infrastructure/_MATURITY_TRACKER.md)
 - [Immigration](./guiding-principles/Policy_Domains/Immigration/_MATURITY_TRACKER.md)
-- [Institutional-Modernization](./guiding-principles/Policy_Domains/Institutional-Modernization/_MATURITY_TRACKER.md)
 - [National_Security](./guiding-principles/Policy_Domains/National_Security/_MATURITY_TRACKER.md)
+- [Public_Infrastructure](./guiding-principles/Policy_Domains/Public_Infrastructure/_MATURITY_TRACKER.md)
 - [Technology_and_Data](./guiding-principles/Policy_Domains/Technology_and_Data/_MATURITY_TRACKER.md)
-- [United-Nations-and-Global-Institutional-Reform](./guiding-principles/Policy_Domains/United-Nations-and-Global-Institutional-Reform/)
+
+---
+
+## Structural Issues
+
+| Issue | Location | Recommended Fix |
+|-------|----------|-----------------|
+| Typo in folder name | `Efficiancy` | Rename to `Efficiency` |
+| Empty file | `Foreign_Policy.md` | Add content or remove |
+| Mixed file naming | Various | Standardize to kebab-case |
+| OLD files | Healthcare | Consider archiving separately |
+
+---
+
+*This report is auto-generated. See AUTOMATION_README.md for update procedures.*

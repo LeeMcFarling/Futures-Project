@@ -1,6 +1,6 @@
 # Domain Maturity Tracker: Technology_and_Data
 
-**Last Updated:** 2026-04-10
+**Last Updated:** 2026-01-28
 **Overall Domain Phase:** 2
 **Domain Owner:** TBD
 
@@ -39,17 +39,14 @@ Modernize government technology, establish digital identity infrastructure, and 
 
 | Subdomain | Phase | File Count | Word Count | Key Gaps | Dependencies | Next Action | Target Date |
 |-----------|-------|------------|------------|----------|--------------|-------------|-------------|
-| Digital_Identity / SSI | 3 | 1 | ~1,200 | Integration standards | None | Define cross-domain integration | TBD |
+| Digital_Identity / SSI | 2 | 1 | ~1,200 | Integration standards | None | Define cross-domain integration | TBD |
 | AI_Governance | 2 | 1 | ~1,500 | Enforcement mechanisms | None | Add compliance framework | TBD |
 | Synthetic_Media | 2 | 1 | ~1,100 | Platform adoption pathway | Digital_Identity | Add implementation roadmap | TBD |
 | Information_Integrity | 2 | 1 | ~1,000 | Pilot program design | Digital_Identity, Platform_Regulation | Define pilot scope | TBD |
-| Payments_Infrastructure / UPI | 3 | 1 | ~800 | Technical specifications | Digital_Identity | Add UPI technical spec | TBD |
-| Market_Structure_and_Digital_Competition | 2 | 1 | ~1,500 | Algorithmic pricing enforcement; structural separation triggers | Economic_Prosperity.Antitrust | Add platform chokepoint detail; enforcement mechanism | TBD |
-| Algorithmic_Governance | 1 | 2 | ~1,500 | Year-one doc is framing stub; working group design; measurement methodology | ai-data-and-governance, synthetic-media-provenance | Develop year-one implementation spec; define measurement pipeline | TBD |
-| Government_Integrity_Infrastructure | 2 | 3 | ~4,500 | Integration with DOGE-style audit tooling; inter-agency ledger access | immutable-government-ledger, ssi-self-sovereign-identity-framework | Add audit API spec | TBD |
-| Government_Infrastructure | 2 | 1 | ~2,500 | IRS modernization live; broader gov-tech stack still unbuilt | ssi-self-sovereign-identity-framework, upi-privacy-preserving-payment-rail | Add automated filing + direct deposit | TBD |
+| Payments_Infrastructure | 2 | 1 | ~800 | Technical specifications | Digital_Identity | Add UPI technical spec | TBD |
+| Platform_Regulation | 0 | 0 | 0 | **Not started** | Economic_Prosperity.Antitrust | Create initial file | TBD |
 | Data_Privacy | 0 | 0 | 0 | **Not started** | None | Create initial file | TBD |
-| Cybersecurity | 2 | 1 | ~4,500 | Sector-specific overlays (critical infra, health, elections); incident response governance | ssi-self-sovereign-identity-framework | Add sector-specific threat models | TBD |
+| Cybersecurity | 0 | 0 | 0 | **Not started** | National_Security | Create initial file | TBD |
 | Gov_Tech | 0 | 0 | 0 | **Not started** | None | Create initial file | TBD |
 
 ---
@@ -83,7 +80,7 @@ Modernize government technology, establish digital identity infrastructure, and 
 - [ ] **Data Privacy** – No comprehensive data protection policy – Target: Phase 2
 
 ### Tier 2: Structural Gaps (Incomplete Coverage)
-- [~] **Platform Regulation / Market Structure** – Anti-capture framework added (Phase 2); enforcement mechanisms and platform chokepoint detail still needed
+- [ ] **Platform Regulation** – Big Tech, content moderation, competition – Target: Phase 2
 - [ ] **Cybersecurity** – National cyber strategy (links to National_Security) – Target: Phase 2
 - [ ] **Government Technology** – Procurement, legacy modernization – Target: Phase 2
 
@@ -107,13 +104,6 @@ Modernize government technology, establish digital identity infrastructure, and 
 
 | Date | Subdomain | Change | Phase Impact |
 |------|-----------|--------|--------------|
-| 2026-04-10 | Cybersecurity | Added cybersecurity-architecture-and-identity-modernization.md (zero-trust + post-quantum architecture, SSI-grounded identity modernization, ZKP credential model); YAML fixed: CamelCase/parenthetical dep names → slugs (ssi-self-sovereign-identity-framework, upi-privacy-preserving-payment-rail, ai-agents-governance, synthetic-media-provenance); related_initiatives → specific slugs | 0 → 1 file |
-| 2026-04-10 | Government_Infrastructure | Added irs-modernization-automated-income-attestation.md (IRS modernization — automated income attestation + SSI/UPI credential-based tax infra; sidebar_position: 1, top-level Tech domain folder) | 0 → 1 file |
-| 2026-03-29 | Government_Integrity_Infrastructure | Added 3-file stack: immutable-government-ledger.md (append-only cryptographic audit trail for all government transactions), government-outflow-integrity-framework.md (AI-augmented fraud detection — pattern analysis, behavioral risk scoring, cross-domain anomaly detection), official-budget-accountability-framework.md (budget-to-execution integrity layer — appropriations compliance, spend velocity monitoring, DoDA integration); YAML complete including sidebar positions | 0 → 3 files; Phase 0 → 2 |
-| 2026-03-25 | Market_Structure_and_Digital_Competition | Added anti-capture-competition-framework.md: chokepoint power, algorithmic coordination, interoperability/portability rights, structural separation — pro-market competition governance | 0 → 2 |
-| 2026-03-25 | Algorithmic_Governance | Added algorithmic-attention-initiative.md (Discussion Paper: engagement arms race problem, coordination failure, working group proposal) and year-one-attention-stability (Implementation Specification stub) | 0 → 1 |
-| 2026-03-12 | Digital_Identity / SSI | Phase updated 2 → 3; tagged as accelerant across 12+ files platform-wide | N/A |
-| 2026-03-12 | Payments_Infrastructure / UPI | Phase updated 2 → 3; tagged as accelerant across 12+ files platform-wide | N/A |
 | 2026-01-28 | AI_Governance | Added ai-data-and-governance.md | 0 → 2 |
 | 2026-01-28 | Digital_Identity | Added ssi-self-sovereign-identity-framework.md | Enhanced |
 | 2026-01-28 | Payments_Infrastructure | Added upi-privacy-preserving-payment-rail.md | New subdomain |
@@ -126,10 +116,9 @@ Modernize government technology, establish digital identity infrastructure, and 
 
 ## Notes & Context
 
-- Domain has **13 policy files** totaling ~19,600 words
+- Domain now has 5 policy files totaling ~5,600 words
 - AI governance gap closed (was marked **CRITICAL**)
-- SSI and UPI frameworks both at Phase 3; serve as accelerants in 12+ files across platform
-- New subdomains added: Payments, Synthetic Media, Information Integrity, Market_Structure_and_Digital_Competition, Algorithmic_Governance
+- SSI framework provides technical foundation for digital identity
+- New subdomains added: Payments, Synthetic Media, Information Integrity
 - Institutional Modernization moved to separate domain
-- Platform Regulation substantially started: anti-capture framework (Phase 2) + algorithmic attention initiative (Phase 1 discussion paper + year-one stub)
-- Remaining gaps: Data Privacy, Cybersecurity, Gov_Tech; year-one attention spec needs real implementation content
+- Remaining gaps: Platform Regulation, Data Privacy, Cybersecurity, Gov_Tech

@@ -4,9 +4,6 @@ title: Insurance Architecture — Severe Event Coverage (SEC)
 sidebar_label: Insurance Architecture
 sidebar_position: 3
 slug: /healthcare/care-delivery/insurance-architecture
-accelerants:
-  - ssi-self-sovereign-identity-framework
-  - upi-privacy-preserving-payment-rail
 tags:
   - healthcare
   - insurance

@@ -4,8 +4,6 @@ title: Stage-Based Authorization and Post-Market Safety
 sidebar_label: Stage-Based Authorization
 sidebar_position: 8
 slug: /healthcare/pharma/stage-authorization
-accelerants:
-  - ssi-self-sovereign-identity-framework
 tags:
   - healthcare
   - pharmaceuticals

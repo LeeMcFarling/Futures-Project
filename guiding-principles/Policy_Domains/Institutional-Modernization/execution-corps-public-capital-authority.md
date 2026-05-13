@@ -1,195 +1,230 @@
 ---
 id: public-capital-authority
-title: Public Capital Authority (PCA) — Standing Capital Execution Corps
+title: Public Capital Authority (PCA)
 sidebar_label: Public Capital Authority
 sidebar_position: 1
-slug: /Institutional-Modernization/public-capital-authority
+slug: /institutional-modernization/public-capital-authority
 tags:
   - public-capital
-  - execution-corps
-  - capital-allocation
+  - investment
   - fiscal-policy
-  - institutional-modernization
-status: Phase 3 — Deployment Ready
+  - execution-corps
+  - agency-design
 description: >
-  A legislatively chartered Standing Execution Corps responsible for deploying public
-  capital as disciplined, recyclable investment, replacing indirect tax-based and
-  micromanaged budgetary capital with explicit, auditable, outcome-bound instruments
-  designed to de-risk market bottlenecks and preserve long-term fiscal capacity.
+  A legislatively chartered Standing Execution Corps responsible for deploying
+  public capital as disciplined, recyclable investment rather than opaque subsidy,
+  replacing market-distorting tax expenditures with explicit, time-bounded capital
+  instruments designed to de-risk critical bottlenecks and preserve long-term
+  fiscal stability.
 ---
 
 # Public Capital Authority (PCA)
 
-## Purpose and Rationale
+## Purpose
 
-The Public Capital Authority exists to correct a persistent structural failure in how the United States deploys public capital.
+The Public Capital Authority (PCA) is a **Standing Execution Corps established by Congress** to deploy public capital as disciplined, recyclable investment rather than opaque subsidy.
 
-For decades, public capital has been deployed primarily through two mechanisms. The first is the tax code, where credits, deductions, exemptions, and preferential treatments function as off-budget investments that are poorly measured, weakly governed, rarely sunset, and difficult to audit. The second is the appropriations process, where capital is deployed through earmarked, line-item, and micromanaged programs that substitute political compromise for execution discipline and fragment accountability for outcomes.
+Its mandate is to replace structurally distortive subsidies, tax expenditures, and ad hoc incentives with **explicit capital instruments** designed to de-risk market bottlenecks, expand national productive capacity, and protect long-term public balance-sheet health.
 
-Both approaches obscure the true scale, purpose, and performance of public capital. Both encourage rent-seeking, incentive gaming, and the persistence of underperforming interventions. Both conflate authorization with execution, leaving the state unable to clearly articulate what risks it is absorbing, why it is doing so, or when it intends to exit.
-
-The Public Capital Authority replaces these mechanisms with a single, explicit execution institution designed to deploy public capital deliberately, measurably, and reversibly.
+The PCA does not define national priorities, set tax policy, regulate industries, or operate enterprises. It executes within **objectives, capital envelopes, and risk bands explicitly authorized by Congress**, and exits when market conditions allow private capital to operate independently.
 
 ---
 
-## Institutional Position
+## Instrument Inheritance
 
-The PCA is a **Standing Execution Corps established by Congress** and operates within the broader **Execution Corps framework**, a modular execution system designed to give democratic government the capacity to carry out authorized policy without collapsing into political micromanagement or bureaucratic drift.
+The Public Capital Authority is instantiated as a **Standing Execution Corps** under the Execution Corps Instrument Specification.
 
-Execution Corps bodies may be chartered under legislative authority, executive authority, or hybrid authority depending on function. The PCA is permanent by statute and accountable directly to Congress, while remaining operationally interoperable with the executive branch where coordination is required.
+Unless explicitly overridden by statute, the PCA inherits:
+- spend envelope and contingency rules  
+- scope and authority limits  
+- counter-power and rotation requirements  
+- transparency and reporting standards  
+- sunset, renewal, and teardown mechanics  
 
-Unless explicitly overridden by statute, the PCA inherits the core constraints of the Execution Corps instrument specification, including spend-envelope limits, authority ceilings, counter-power and rotation requirements, transparency standards, and sunset, renewal, and teardown mechanics. The PCA may not expand its mandate, capital exposure, or authority in place.
-
-The PCA does not legislate, negotiate policy, or regulate industries. It executes capital strategy authorized by law.
-
----
-
-## Mandate
-
-The mandate of the Public Capital Authority is to deploy public capital as disciplined, recyclable investment in order to de-risk, unblock, or accelerate economic activity that advances congressionally defined public objectives and that markets could support, but do not, because residual risk cannot be priced by private capital.
-
-This mandate explicitly includes replacing both indirect capital deployment embedded in the tax code and earmarked, micromanaged capital deployment embedded in annual budgets with explicit capital instruments that are auditable, time-bounded, and performance-linked.
-
-Public capital under the PCA is used to make markets possible, not permanent. The Authority is authorized to absorb early or concentrated risk where appropriate, draw down support as sectors stabilize, and exit once private capital can operate independently.
+The PCA may not expand its mandate, capital exposure, or authority in place.
 
 ---
 
-## Capital Strategy and Instruments
+## Core Function
 
-Public capital is deployed through a limited, standardized set of instruments designed to match the economic function of the intervention. These include ultra-low-interest or deferred-repayment loans, repayable or revenue-linked credits, revolving outcome-based funds, first-loss or mezzanine tranches, milestone-based grants with enforceable clawbacks, and time-limited equity-like or revenue-linked instruments where explicitly authorized by Congress.
+The PCA exists to address a specific failure mode:  
+**markets that could function, but do not, because residual risk cannot be priced by private capital.**
 
-All instruments are designed ex ante with explicit performance metrics, predefined risk classification, clear time horizons, and legally binding sunset and drawdown provisions. Indefinite rollover, implicit guarantees, and permanent state ownership of firms are prohibited absent explicit reauthorization. Where private capital is available, PCA instruments are structured to crowd it in rather than displace it.
+Rather than socializing losses through permanent subsidies or hidden tax expenditures, the PCA deploys **surgical, time-bounded capital instruments** that absorb clearly defined risks—then withdraws.
 
-Capital is evaluated and managed at the portfolio level rather than negotiated line by line.
-
----
-
-## Sectoral Portfolio Model
-
-The PCA organizes capital deployment through sectoral portfolios authorized by Congress. Each portfolio is defined by a capital envelope, eligible objectives, risk tolerance bands, time horizons, and an expected return profile that may be financial, economic, or strategic.
-
-Individual investments are assessed based on their contribution to portfolio-level outcomes rather than political salience or firm-specific lobbying. Underperforming instruments are restructured or terminated. Successful mechanisms are scaled within authorized bounds. Portfolio performance is continuously measured and publicly reported.
+Public capital is used to make markets possible, not permanent.
 
 ---
 
-## Execution and Forward Deployment
+## What the PCA Is Not
 
-The PCA maintains a central authority responsible for balance-sheet integrity, capital standards, portfolio construction, and reporting. To ensure execution remains grounded in operational reality, the PCA forward-deploys capital officers into sector-specific Execution Corps formations.
+The PCA is explicitly not:
+- a subsidy program  
+- a sovereign wealth fund  
+- an industrial champion selector  
+- a permanent lender of last resort  
+- a state-owned enterprise operator  
 
-These officers operate under predefined authority matrices specifying approval thresholds, escalation paths, pause authority, and termination authority. Their discretion is bounded by statute, portfolio constraints, and instrument design. They may not invent new instruments, expand scope, or reallocate capital beyond authorized envelopes.
-
-This structure enables rapid, context-aware execution without decentralizing capital policy or allowing execution bodies to quietly become subsidy designers.
+Persistent state ownership, open-ended support, and implicit guarantees are prohibited unless explicitly reauthorized by Congress.
 
 ---
 
-## Tax and Budget Conversion
+## Core Functions
 
-In coordination with Treasury and other mapping functions, the PCA receives classified inventories of tax expenditures and capital-relevant budget programs. Where feasible, these indirect or micromanaged capital deployments are converted prospectively into PCA-administered instruments.
+### 1. Capital Instrument Design
 
-Tax-expenditure conversion is the default entry point for PCA activity and a primary mechanism through which its performance is evaluated. Conversion is phased by sector, applies prospectively rather than retroactively, and includes explicit grandfathering and transition schedules. Legacy mechanisms are frozen, drawn down, and retired as new qualifying activity defaults into the PCA framework.
+The PCA standardizes and administers a limited set of capital instruments, including:
+- ultra-low-interest or concessionary loans  
+- repayable or revenue-linked credits  
+- revolving funds  
+- first-loss or mezzanine tranches  
+- milestone-based grants with clawbacks  
+- **time-limited equity-like or revenue-linked instruments, where explicitly authorized**
 
-Over time, the tax code reverts to a clean revenue instrument, and the budget process reverts to authorizing capital envelopes and objectives rather than micromanaging execution.
+All instruments are subject to:
+- strict sunset provisions  
+- predefined draw-down schedules
+- explicit exit conditions  
+- prohibitions on indefinite rollover  
+
+These constraints exist to **avoid market distortion and prevent state capital from crowding out private investment. Investments are strictly firewalled from permanent company stakes**.
+
+### 2. Sectoral Portfolio Management
+
+The PCA manages capital at the **portfolio level**.
+
+Capital is allocated by sector (e.g., energy, housing, agriculture, manufacturing, infrastructure) within:
+- congressionally authorized envelopes  
+- explicit risk bands  
+- defined time horizons  
+- documented public-interest objectives  
+
+No expectation of universal success exists. Losses within approved risk parameters are acceptable; opacity is not.
+
+### 3. Tax Expenditure Conversion
+
+The PCA is authorized to receive mapped tax expenditures from Treasury and design **prospective conversion pathways** into explicit capital instruments.
+
+These conversion pilots:
+- replace opaque incentives with auditable deployments  
+- preserve grandfathering and opt-in transition rules  
+- make fiscal exposure legible ex ante and ex post  
+
+**Tax expenditure conversion is the default entry point for PCA activity** and the primary mechanism through which the PCA earns renewal authority.
+
+### 4. Performance Measurement and Capital Recycling
+
+The PCA tracks outcomes end-to-end, including:
+- capital deployed  
+- risk absorbed  
+- performance against objectives  
+- exits, repayments, and losses  
+
+Returned capital is recycled within authorized envelopes. Underperforming instruments are retired.
 
 ---
 
 ## Scope Boundary
 
-The PCA does not own permitting reform, regulatory compression, process redesign, or labor-market coordination. Those functions are handled by separate execution bodies within the Execution Corps framework.
+The PCA does not own permitting reform, regulatory compression, or process redesign.
 
-The PCA intervenes only where residual constraints are capital-based rather than process-based. This separation preserves capital discipline and prevents the use of public capital to mask regulatory or institutional failure.
+Those functions are handled by separate execution bodies. The PCA assumes that execution pathways and regulatory processes are defined, and intervenes **only where residual risk remains capital-constraining rather than process-constraining**.
 
----
-
-## Oversight, Transparency, and Legitimacy
-
-The PCA operates under continuous congressional oversight through outcome-based review rather than operational micromanagement. It publishes standardized quarterly and annual portfolio reports detailing capital deployed, risk absorbed, performance against objectives, exits, repayments, and losses.
-
-Losses are acceptable within approved risk parameters. Concealment is not.
-
-Inspector General audits focus on process integrity, capture prevention, and adherence to statutory constraints. Performance data is published symmetrically and without partisan framing.
+This separation preserves capital discipline and prevents mandate creep.
 
 ---
 
-## Guardrails
+## Organizational Structure
 
-The PCA is prohibited from originating legislation, engaging in political advocacy, regulating industries, operating enterprises, or sustaining permanent subsidy programs. Persistent ownership, open-ended support, and implicit guarantees are prohibited unless explicitly reauthorized by Congress.
+### Central Authority
 
-Its authority is executional, bounded, and reversible. Its legitimacy derives from transparent delivery of authorized objectives, not discretionary power.
+A small, technically strong core responsible for:
+- portfolio theory and risk modeling  
+- capital standards and instrument design  
+- cross-sector consistency  
+- reporting and transparency  
 
----
+### Sectoral Capital Boards
 
-## Market Distortion Guardrails and Automatic Sunset
+Sector-aligned boards allocate capital **strictly within congressionally defined envelopes, risk bands, and time horizons**.
 
-The PCA's instruments are designed to make markets possible, not to replace them. This distinction requires ongoing enforcement — not just at instrument design but at regular intervals throughout deployment.
+Boards may not:
+- set national priorities  
+- originate policy  
+- expand capital authority  
+- persist beyond their charter  
 
-**Market Health Signals**
+### Liaison Interfaces
 
-Each portfolio carries a designated set of market health indicators
-specified at instrument authorization and published. These indicators
-define the conditions under which private capital has sufficiently
-absorbed risk and PCA support is no longer required: private co-
-investment ratios, pricing normalization, liquidity formation, and
-credit availability benchmarks appropriate to the sector.
-
-When indicators cross predefined thresholds, the PCA is required to
-begin drawdown on a published schedule. Instrument persistence without
-demonstrated market failure recurrence is itself a performance failure.
-The PCA may not sustain an instrument because it has become
-operationally comfortable, politically familiar, or institutionally
-embedded.
-
-**Automatic Sunset Provisions**
-
-All PCA instruments carry automatic sunset dates specified at
-authorization. No instrument may exceed an initial term defined by
-its authorizing statute without affirmative congressional reauthorization.
-Reauthorization requires:
-
-- DoDA certification that the original market failure condition has
-  not been resolved
-- Independent market assessment confirming private capital remains
-  unable to absorb the relevant risk without PCA support
-- Public justification for extended deployment published before the
-  reauthorization vote
-
-Reauthorization is not routine renewal. It requires demonstrating that
-the original problem persists. The default is termination, not
-continuation. An instrument that cannot clear this bar should not exist.
-
-**Crowding Out Detection**
-
-If DoDA analysis detects that PCA capital is systematically displacing
-private capital rather than complementing it — evident through declining
-private co-investment ratios, crowding-out in credit markets, or
-suppression of market pricing — the PCA is required to publish a
-crowding-out risk disclosure and reduce deployment rates within 90 days
-of the determination.
-
-The crowding-out determination is made by DoDA, not the PCA. The
-Authority may not self-certify that its own instruments are not
-distorting markets.
-
-**Instrument Deprecation Registry**
-
-All sunset instruments are formally deprecated and their records
-transferred to a public registry maintained by DoDA. Deprecated
-instruments may not be reconstituted under different names or through
-different portfolio designations without explicit legislative
-reauthorization. The registry enables Congress, researchers, and
-the public to track what the state deployed, what it cost, what it
-produced, and when it was retired. This is the accountability record
-that distinguishes deliberate public investment from permanent
-subsidy drift.
+Standing interfaces with line agencies (e.g., DOE, USDA, DOT, HHS, NSF) translate planning and research needs into capital terms without transferring regulatory or policy authority.
 
 ---
 
-## End State
+## Appointment and Legitimacy Model
 
-When fully deployed, the Public Capital Authority completes the structural separation between revenue collection, capital strategy, and execution.
+PCA leadership and board members are appointed through a layered legitimacy process:
+- technical vetting via civil-service-style evaluation  
+- review by verified sector participants through digital democracy mechanisms  
+- bounded veto authority to block conflicted or captured candidates  
+- final appointment by the legislative authority with documented justification  
 
-- The tax code raises revenue cleanly.  
-- Congress defines objectives and constraints.  
-- The PCA executes capital strategy explicitly and measurably.  
-- The Execution Corps ensures delivery, iteration, and termination.
+Appointments are:
+- fixed-term  
+- staggered  
+- non-renewable  
+- subject to strict conflict-of-interest and cooling-off rules  
 
-The state regains the capacity to invest deliberately, execute competently, and exit responsibly—without distorting markets or concentrating unchecked power.
+This structure prioritizes stewardship over deal flow and continuity over political loyalty.
+
+---
+
+## Oversight and Accountability
+
+Oversight is exercised through:
+- congressional authorization of sector envelopes and risk bands  
+- mandatory quarterly and annual portfolio reporting  
+- Inspector General audits focused on **process integrity and transparency**, not outcome selection or political alignment  
+
+Losses are acceptable within approved parameters. Concealment is not.
+
+---
+
+## Initial Pilot Pathway
+
+**Step 1: Treasury Mapping Directive**
+Congress directs Treasury to inventory and classify all tax expenditures by sector, objective, cost, duration, and beneficiary concentration.
+
+**Step 2: PCA Stand-Up**
+Establish the PCA with an interim leadership team, core staff, and capital instrument framework. No large allocations yet.
+
+**Step 3: Pilot Sector Portfolios**
+Select 2–3 sectors with high tax-expenditure density (e.g., energy, housing, agriculture) and run parallel capital pilots alongside existing incentives.
+
+**Step 4: Prospective Conversion Rules**
+New incentives in pilot sectors default into PCA instruments. Legacy incentives are frozen and scheduled.
+
+**Step 5: Public Reporting Launch**
+Publish the first sectoral capital reports—explicitly tying public money to outcomes and lessons learned.
+
+---
+
+## Long-Term Trajectory
+
+As capital allocation migrates into the PCA framework, redundant capital-allocation functions within line agencies are **evaluated for absorption or sunset**, subject to congressional approval.
+
+The end state is a government that knows:
+- where its money goes  
+- why it goes there  
+- what risk it absorbs  
+- and what it gets back  
+
+without concentrating unchecked power or distorting markets.
+
+---
+
+## Guiding Principle
+
+Public capital is deployed to **enable markets**, not replace them.
+
+The state enters where markets cannot yet function.  
+The state exits when they can.
