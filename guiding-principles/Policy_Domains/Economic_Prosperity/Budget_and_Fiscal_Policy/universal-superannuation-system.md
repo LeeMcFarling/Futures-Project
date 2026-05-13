@@ -41,7 +41,7 @@ of economic growth.
 
 Incremental adjustments can delay insolvency but cannot resolve the
 structural mismatch between demographic dependency and retirement
-financing. The system requires not adjustment but replacement — for future
+financing. The system requires not adjustment but replacement for future
 cohorts, while fully honoring every commitment made to those who have
 already spent careers building toward what was promised.
 
@@ -68,27 +68,26 @@ Transition the United States from a demographic transfer-based retirement
 system to a universal, prefunded superannuation system for future cohorts,
 while fully honoring all accrued Social Security promises. The reform
 seeks to stabilize long-run public finances, raise national saving, and
-provide every worker with a simple, portable, and owned retirement asset
-— a direct capital stake in the economy rather than a claim on future
-workers' payroll taxes.
+provide every worker with a simple, portable, and owned retirement asset.
+This serves as a direct capital stake in the economy rather than a claim 
+on future workers' payroll taxes.
 
 ---
 
 ## Cohort-Based Transition
 
-Individuals born on or after a statutory cutoff year — the specific year
-determined by actuarial modeling of transition financing capacity — do
-not accrue Social Security retirement benefits. All current retirees and
-all workers born before the cutoff remain fully covered under existing
-Social Security retirement rules. Social Security Disability Insurance
+Individuals born on or after 2030 do not accrue Social Security 
+retirement benefits. All current retirees and all workers born 
+before the cutoff remain fully covered under existing Social 
+Security retirement rules. Social Security Disability Insurance
 and survivor benefits remain intact and are addressed separately.
 
 Following the cutoff, Social Security transitions into a closed-book,
-self-amortizing system. Payroll taxes continue to finance a shrinking
+self-amoritizing system. Payroll taxes continue to finance a shrinking
 pool of legacy obligations, with no new retirement liabilities added.
 As the legacy cohort ages and obligations wind down, payroll tax rates
 step down automatically pursuant to actuarial triggers defined in
-statute. The system amortizes itself rather than requiring continued
+statute. The system amoritizes itself rather than requiring continued
 political negotiation over solvency.
 
 ---
@@ -206,7 +205,7 @@ Bucket B opens only after Bucket A sufficiency is certified.
 
 Once the account is projected to reach the age-67 retirement benchmark,
 new eligible post-tax contributions and qualified rollovers may flow into
-Bucket B, capped at approximately **$10 million**, CPI-indexed.
+Bucket B, capped at approximately **$5 million**, CPI-indexed.
 
 Bucket B is more flexible than Bucket A. It supports life formation
 and productive self-investment rather than being locked exclusively for
@@ -233,7 +232,7 @@ while they need housing, training, relocation, or caregiving capital.
 
 **Bucket C — Tax-Settled Family Capital**
 
-From approximately **$10 million to $50 million** in total beneficial
+From approximately **$5 million to $50 million** in total beneficial
 assets, CPI-indexed, family wealth remains below the dynasty threshold
 but is no longer treated as basic formation capital.
 
@@ -253,6 +252,11 @@ under ordinary rules. The protected architecture reduces trust complexity
 and eases intergenerational continuity for families below the dynasty
 line; it does not eliminate realization obligations on normal economic
 activity.
+
+The framework is designed to exclude ordinary family continuity from dynasty
+treatment. The overwhelming majority of family farms, family businesses, and
+inherited middle-class assets remain entirely within the protected family-capital
+architecture.”
 
 **Bucket D — Dynasty Capital**
 
@@ -298,15 +302,11 @@ function — the assets were held in purpose-governed retirement lock for
 their full compounding period — so no further recognition is due at
 withdrawal.
 
-Withdrawals from Bucket B and Bucket C are governed by the capital-gains
-rules that apply to any realized gain. Post-tax principal already bore
-income tax at contribution and is not taxed again. Gains that were held
-and compounded within the protected architecture but not previously
-recognized are subject to capital-gains recognition at withdrawal or
-sale. Gains previously recognized through a borrowing-triggered
-realization event have an adjusted basis and are not taxed again. The
-protected pass-through does not eliminate the recognition obligation; it
-defers it while assets are held within the purpose-governed wrapper.
+Withdrawals from Bucket B are tax-free when used for certified formation purposes, including education, credentialing, first-home acquisition, relocation for work, caregiving, health reserves, business formation, professional tools, and other statutorily defined productive uses. Post-tax principal already bore income tax at contribution and is not taxed again. Investment growth receives protected treatment so long as the withdrawal is used for a qualified Bucket B purpose.
+
+Nonqualified withdrawals from Bucket B are governed by the capital-gains rules that apply to any realized gain. Gains that were held and compounded within the protected architecture but not previously recognized are subject to capital-gains recognition at withdrawal or sale. Gains previously recognized through a borrowing-triggered realization event have an adjusted basis and are not taxed again.
+
+Withdrawals from Bucket C are governed by the capital-gains rules that apply to any realized gain. Post-tax principal already bore income tax at contribution and is not taxed again. Gains that were held and compounded within the protected architecture but not previously recognized are subject to capital-gains recognition at withdrawal or sale. The protected pass-through does not eliminate the recognition obligation; it defers it while assets are held within the family-continuity wrapper.
 
 ---
 
