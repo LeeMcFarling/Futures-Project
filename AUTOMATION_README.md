@@ -163,14 +163,14 @@ The script automatically:
 - Run scan after creation to update trackers
 - Check for phase violations
 
-## Integration with ChatGPT Workflow
+## Integration with User Workflow
 
-1. **User works with ChatGPT** to research and draft policy content
+1. **User works** to research and draft policy content
 2. **User commits new markdown files** to repo with proper front matter
 3. **User asks Claude Code** to "scan for updates"
 4. **Claude Code runs** `maturity_scan.py scan`
 5. **Claude Code reports** new status and any gaps
-6. **User returns to ChatGPT** for next research/writing task
+6. **User returns** for next research/writing task
 
 ## Configuration
 
