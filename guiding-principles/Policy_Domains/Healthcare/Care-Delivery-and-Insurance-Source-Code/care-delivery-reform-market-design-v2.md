@@ -13,7 +13,7 @@ tags:
 description: >
   Defines how non-emergency healthcare services are reorganized into transparent,
   competitive markets, governing primary care, urgent care, scheduled surgery,
-  and the boundary between market-based care, insurance, and emergency utility care.
+  and the boundary between market-based care and SEC-covered non-shoppable events.
 ---
 
 ## Purpose and Scope
@@ -43,11 +43,14 @@ The system separates two payment functions based on the clinical and economic na
 of the service.
 
 If a service is predictable, schedulable, and comparable, it operates through a
-transparent market. If an event is uncertain, high-cost, and unsuitable for individual
-budgeting, it is covered through the Severe Event Coverage floor. Additionally, if an event is
-immediate, life-threatening, or clinically urgent enough that patients cannot shop or
-delay care, it is governed through the emergency utility layer and financed through
-the Severe Event Coverage architecture.
+transparent market, with Medicaid gradient support available by income and condition.
+If an event is non-shoppable — whether because it is immediately life-threatening,
+clinically urgent, or uncertain and high-cost enough that individual budgeting cannot
+absorb it — it is covered through the Severe Event Coverage floor. Emergency and
+trauma care falls squarely in the SEC category: patients cannot shop, delay, or
+consent in the moment of crisis, and SEC is the payer of record for that care.
+The emergency utility designation governs pricing discipline for that care; SEC
+governs how it is financed.
 
 Markets are enforced, not assumed. Transparency, direct pricing, anti-gaming rules,
 and payment-boundary enforcement are mandatory conditions of participation. 
@@ -179,10 +182,11 @@ function.
 ## Insurance Boundary Rules
 
 Insurance is excluded from primary care, urgent care, routine diagnostics, and minor
-procedures. Severe Event Coverage applies to major scheduled surgeries, complex episodes, 
-severe events, catastrophic events, and emergency utility care. Private insurance may compete above the SEC floor, 
-but it may not reabsorb primary care, urgent care, routine
-diagnostics, or minor procedures into hidden reimbursement.
+procedures. Severe Event Coverage applies to major scheduled surgeries, complex
+episodes, severe illness, catastrophic events, and emergency care where patients
+cannot shop or consent. Private insurance may compete above the SEC floor, but it
+may not reabsorb primary care, urgent care, routine diagnostics, or minor procedures
+into hidden reimbursement.
 
 This boundary is not an attack on insurance, but rather a correction of what insurance is
 for. Insurance is structurally suited to large, uncertain, pooled risk. It is poorly
@@ -222,8 +226,8 @@ events that cannot reasonably be paid through routine direct payment. It applies
 the cost, uncertainty, or risk profile of care requires pooling.
 
 Severe Event Coverage may interface with scheduled surgeries, complex episodes,
-complication coverage, catastrophic illness, emergency utility care, and other
-high-cost events defined by statute or certification. It does not convert routine care
+complication coverage, catastrophic illness, emergency and trauma care, and other
+high-cost or non-shoppable events defined by statute or certification. It does not convert routine care
 back into insurance-covered care. It provides a floor beneath high-cost risk while
 preserving the market layer for predictable services.
 
@@ -264,11 +268,11 @@ for emergency care, delay care to compare prices, or meaningfully consent to a c
 financial transaction while injured, unconscious, septic, or in acute distress.
 Emergency care therefore operates as a regulated utility layer, not a consumer market.
 
-The market layer and the emergency utility layer depend on each other staying clean.
-If routine care creeps back into insurance through gaming or reclassification, the
-insurance layer becomes bloated again. If emergency care is forced to behave like a
-market, patients face impossible choices at the moment they have the least agency.
-The boundary is explicit because the economics of both layers break without it.
+The market layer and the SEC layer depend on each other staying clean. If routine
+care creeps back through gaming or reclassification, SEC becomes bloated again. If
+emergency care is forced to behave like a market, patients face impossible choices at
+the moment they have the least agency. The boundary between them is explicit because
+the economics of both break without it.
 
 ---
 

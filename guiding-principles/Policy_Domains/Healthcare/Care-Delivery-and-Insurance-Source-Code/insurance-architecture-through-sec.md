@@ -23,8 +23,10 @@ description: >
 
 This brief defines the insurance architecture that supports the restructured healthcare
 system. Insurance is confined to its proper role — protecting individuals against
-severe, low-frequency, high-cost medical events, and covering the emergency utility
-layer where patients cannot shop or consent in the moment of crisis.
+severe, low-frequency, high-cost medical events. Emergency and trauma care, where
+patients cannot shop or consent in the moment of crisis, is precisely the category
+SEC is designed for: it is the payer of record for that care, with emergency utility
+regulation imposing pricing discipline at the provider level.
 
 This framework replaces today's misused notion of catastrophic plans with Severe Event
 Coverage — a universal, actuarially sound insurance floor designed to prevent medical

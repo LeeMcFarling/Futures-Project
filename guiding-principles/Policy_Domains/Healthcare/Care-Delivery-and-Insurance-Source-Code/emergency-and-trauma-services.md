@@ -156,11 +156,11 @@ cannot reclassify care retroactively as emergency care to capture higher reimbur
 That boundary is enforced because it is the boundary that keeps both layers financially
 coherent.
 
-The market layer and the emergency utility layer depend on each other staying clean.
-If market-based providers can reclassify upward without consequence, the emergency
-layer becomes a billing channel rather than a clinical designation. If the emergency
-layer bleeds into routine care, the SEC layer becomes unmanageable again. Both layers
-break if the line between them is not maintained.
+The market layer and the SEC-financed emergency utility layer depend on each other
+staying clean. If market-based providers can reclassify upward without consequence,
+the emergency designation becomes a billing channel rather than a clinical one. If
+the emergency layer bleeds into routine care, the SEC layer becomes unmanageable.
+Both break if the line between them is not maintained.
 
 ---
 
@@ -169,10 +169,10 @@ break if the line between them is not maintained.
 Oversight, audits, anti-gaming enforcement, and referral capture controls are governed
 under the HETA framework and apply uniformly across emergency and non-emergency
 services. This brief defines what is regulated. How enforcement is executed is defined
-separately. In steady state, HETA maintains the boundary between market care, emergency
-utility care, and SEC financing. Its continuing function is to keep emergency utility
-pricing transparent, prevent reclassification games, and protect the actuarial
-stability of the SEC layer.
+separately. In steady state, HETA maintains the boundary between market-layer care and the
+SEC-financed emergency utility layer. Its continuing function is to keep emergency
+utility pricing transparent, prevent reclassification games, and protect the actuarial
+stability of the SEC risk pool.
 
 ---
 
