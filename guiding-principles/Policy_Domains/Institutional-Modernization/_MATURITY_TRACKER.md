@@ -1,6 +1,6 @@
 # Domain Maturity Tracker: Institutional-Modernization
 
-**Last Updated:** 2026-05-08
+**Last Updated:** 2026-05-19
 **Overall Domain Phase:** 3
 **Domain Owner:** TBD
 
@@ -51,7 +51,7 @@ Modernize democratic institutions through reusable execution instruments that tr
 | Democratic_Execution_Interface | 3 | 1 | ~2,000 | Specific accountability mechanism design; inter-branch authority handoff protocols | execution-corps-spec, department-of-data-and-accountability | Define oversight accountability mechanisms | TBD |
 | Legislative_Design | 2 | 1 | ~1,000 | Broader template library; domain-specific statutory language samples | execution-corps-spec | Add samples for healthcare, manufacturing, housing domains | TBD |
 | Civic_Formation_and_Leadership | 3 | 1 | ~3,500 | Domain instantiations; CJ/manufacturing pipeline scenarios | national-capability-tour, execution-corps-spec, department-of-data-and-accountability | Add sector-specific pipeline scenarios | TBD |
-| Process_Redesign | 0 | 0 | 0 | **TODO: Government OS Update Doctrine** — articulate how execution instruments (PCA, DoDA, HETA, Execution Corps, SSI/UPI, WCA, ISA, RMS) collectively constitute an upgrade to how government functions, not just what it does; the meta-doctrine treating the platform as civilizational software with defined update, rollback, and versioning logic; complements state-as-a-partner.md and adaptive-governance-model.md at a higher level of abstraction | state-as-a-partner, execution-corps-spec, adaptive-governance-evidence-protocol | Write Government OS Update Doctrine brief | TBD |
+| Execution_Architecture | 2–3 | 1 | ~1,186 | Sector-specific instantiations; stakeholder-specific views; conversion scenarios by domain | execution-corps-spec, public-capital-authority, adaptive-governance-model | Add sector case studies (healthcare, manufacturing, housing) | TBD |
 
 ---
 
@@ -88,7 +88,7 @@ Modernize democratic institutions through reusable execution instruments that tr
 - [x] **Regulatory Compression** – ULRR + RMC spec in place ✅; Energy RMS sector overlay done; Housing/land-use RMS still needed
 - [x] **Measurement Backbone** – DoDA framework defined ✅
 - [x] **Congressional Interface** – Congress operating model defined ✅
-- [ ] **Government OS Update Doctrine** — meta-level articulation of how execution instruments collectively upgrade government's operating model; how the platform treats government as software with update, rollback, and versioning logic; complements state-as-a-partner (partner role) and adaptive-governance (evidence feedback loop) at the doctrine level — **TODO: write brief** — Target: Phase 2
+- [x] **Government OS Update Doctrine** — government-operating-system-upgrade.md (v1.0, ~1,186 words): execution instruments (PCA, DoDA, Execution Corps, SSI/UPI, WCA, ISA, RMS) collectively constitute an upgrade to how government functions; civilizational software framing with update/rollback/versioning logic ✅ (sector instantiations still TBD)
 - [ ] **Domain Instantiations** – Sector-specific Execution Corps deployments – Target: Phase 3
 
 ### Tier 3: Enhancement Gaps (Nice-to-Have)
@@ -103,7 +103,7 @@ Modernize democratic institutions through reusable execution instruments that tr
 ### Requirements for Phase 4 (Sequencing & Execution)
 - [x] Core instrument specification complete
 - [x] Standing corps (PCA) defined
-- [ ] **Government OS Update Doctrine** brief written (Process_Redesign subdomain)
+- [x] **Government OS Update Doctrine** brief written (government-operating-system-upgrade.md v1.0) ✅
 - [ ] Initial domain instantiations documented
 - [ ] Portfolio definitions for PCA established
 - [ ] Pilot jurisdiction criteria defined
@@ -114,6 +114,7 @@ Modernize democratic institutions through reusable execution instruments that tr
 
 | Date | Subdomain | Change | Phase Impact |
 |------|-----------|--------|--------------|
+| 2026-05-19 | Execution_Architecture | Tracker updated: government-operating-system-upgrade.md added (v1.0, ~1,186 words, subdomain: Execution Architecture) — Government OS Doctrine brief COMPLETE; Process_Redesign TODO closed; file count 13 → 14 active; noted duplicate execution-corps-as-industry files (inferface/interface spelling variants, 756/802 words) | Government OS Doctrine: Phase 0 → Phase 2–3 |
 | 2026-05-08 | Process_Redesign | TODO logged: Government OS Update Doctrine — articulate how execution instruments (PCA, DoDA, HETA, Execution Corps, SSI/UPI, WCA, ISA, RMS) collectively constitute an upgrade to how government functions; meta-doctrine treating the platform as civilizational software with update/rollback/versioning logic; sits above state-as-a-partner (partner role) and adaptive-governance (evidence loop) as the unifying doctrine | Phase 0 — pending brief |
 | 2026-04-10 | Market_Integrity_and_Public_Trust | coordinated-deceptive-practices-enforcement-framework-v0.5.md added (v0.5 CDE framework — coordinated deceptive practices enforcement + transition; domain: Institutional_Modernization; physically lives in Democratic_Integrity folder); dep regulatory-version-control-system → regulatory-modernization-packet-spec | 0 → 1 file |
 | 2026-04-10 | Regulatory_Compression | regulatory-modernization-packet-spec.md added (canonical RMS packet artifact specification; ULRR + RMC integration; version control + governance) | 2 → 3 files |
@@ -131,8 +132,9 @@ Modernize democratic institutions through reusable execution instruments that tr
 
 ## Notes & Context
 
-- Domain has 13 active policy files totaling ~27,200 words (excluding archives)
-- 2 archive files preserved (old_* prefix) showing policy evolution
+- Domain has **14 active policy files** totaling ~28,386 words (excluding archives)
+- 2 archive files preserved at root (old_legistlative-execution-corps.md, old_the_execution_corps.md) + 2 in `old : deprecate/` subfolder — 4 archive total
+- **Duplicate file**: execution-corps-as-industry-inferface.md (756 words, typo in filename) and execution-corps-as-industry-interface.md (802 words, correct spelling) — functionally same brief; "inferface" version is likely the earlier draft; recommend removing after confirming no live links
 - Execution Corps is a cross-cutting instrument used by multiple domains
 - Public Capital Authority is Phase 3 deployment-ready
 - Strong conceptual coherence between guiding principles and specifications

@@ -1,6 +1,6 @@
 # Domain Maturity Tracker: Trade_Policy
 
-**Last Updated:** 2026-05-13
+**Last Updated:** 2026-05-21
 **Overall Domain Phase:** 3
 **Domain Owner:** TBD
 
@@ -91,6 +91,7 @@ Build a coherent US trade architecture that uses market access as a strategic in
 - [ ] **China phase-gate linkage** — trade phase gates need explicit connection to china-strategy-managed-competition-v0.3.md Day 0 baseline and multi-track architecture — Target: Phase 4
 - [ ] **NORAM implementation sequencing** — specific negotiating sequence with Canada and Mexico; trilateral compact language — Target: Phase 4
 - [ ] **IDP offtake compact operationalization** — specific product categories, volume commitments, pricing structures — Target: Phase 4
+- [ ] **Trade Promotion Authority / IEEPA / Section 232 sunset reform** — BRIEF NEEDED (cross-ref: canonical home is Democratic_Integrity): instrument is a single statute — retroactive provision sunsets all existing open-ended trade authority grants (active IEEPA tariff invocations, standing Section 232 determinations, any TPA grants in effect) on a scheduled basis unless affirmatively reauthorized by Congress; prospective provision requires all future trade authority delegations to include defined scope, duration limit, and automatic expiration; IEEPA was designed for financial emergencies and has been used to impose economy-wide tariffs on treaty allies with no expiration — the retroactive sunset retires this in one vote; Section 232 "national security" determinations on Canadian steel are the canonical example of scope without limits — Target: Phase 3
 
 ### Tier 3: Enhancement Gaps (Nice-to-Have)
 - [ ] **Currency manipulation** – Response architecture for currency-based trade distortion – Target: Phase 4
@@ -113,6 +114,7 @@ Build a coherent US trade architecture that uses market access as a strategic in
 
 | Date | Subdomain | Change | Phase Impact |
 |------|-----------|--------|--------------|
+| 2026-05-21 | Trade_Authority | TODO logged: TPA/IEEPA/Section 232 sunset reform brief — trade authority delegations without expiration; mandatory reauthorization and scope-limiting framework for future grants; cross-ref NS AUMF brief and Democratic_Integrity canonical home | Tier 2 gap added |
 | 2026-05-13 | All | Domain decomposed from Economic_Prosperity; YAML updated (domain: Trade_Policy, all subdomains rationalized to Trade_Policy, slug prefix /trade-policy/); maturity tracker created | Domain established |
 | 2026-01-28 | All | Domain created (as subdomain of Economic_Prosperity); 8 files; YAML standardized | 0 → 3 |
 

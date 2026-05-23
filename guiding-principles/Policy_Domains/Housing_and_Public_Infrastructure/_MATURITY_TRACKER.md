@@ -1,6 +1,6 @@
 # Domain Maturity Tracker: Housing_and_Public_Infrastructure
 
-**Last Updated:** 2026-05-01
+**Last Updated:** 2026-05-19
 **Overall Domain Phase:** 3
 **Domain Owner:** TBD
 
@@ -147,7 +147,7 @@ Build housing capacity and connected public infrastructure together as a unified
 
 ## Notes & Context
 
-- Domain has **19 files** totaling ~32,200 words (+cpqa-civic-build-mark, +instrumentation-manifest)
+- Domain has **20 files** totaling ~29,046 words (subdomain matrix sums to 20; notes section previously undercounted at 19)
 - **CPQA Civic Build Mark** is the public-authorship layer that sits above the technical stack — makes state capacity visible without personalizing it; the key anti-capture safeguard is the three-condition eligibility standard (public charter, stack conformance, durable public value) and explicit prohibition on partisan branding, developer co-branding, and propaganda architecture
 - Highly coherent vision with interconnected policies
 - Special Transit Zones concept is innovative regulatory approach

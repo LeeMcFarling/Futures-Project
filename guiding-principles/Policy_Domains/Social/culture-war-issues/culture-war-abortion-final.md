@@ -4,6 +4,13 @@ title: Abortion
 sidebar_label: Abortion
 sidebar_position: 2
 slug: /culture-war/abortion
+domain: Social
+subdomain: Culture_War_Issues
+policy_type: Democratic Settlement Framework
+status: Final
+version: "1.0"
+author: Futures Project
+last_updated: 2026-04-21
 tags:
   - culture-war
   - abortion

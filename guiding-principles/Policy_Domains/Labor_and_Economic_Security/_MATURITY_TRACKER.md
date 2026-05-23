@@ -1,6 +1,6 @@
 # Domain Maturity Tracker: Labor_and_Economic_Security
 
-**Last Updated:** 2026-04-27
+**Last Updated:** 2026-05-19
 **Overall Domain Phase:** 4–5
 **Domain Owner:** TBD
 
@@ -52,6 +52,8 @@ Fix the structural failures that divorced American workers from the productivity
 | Worker_Governance | 4 | 1 | ~3,500 | Anti-capture legislative pathway; NLRA relationship | public-capital-authority, credential-portability | Prose complete ✅ | — |
 | Wealth_Building | 4 | 1 | ~2,000 | — | universal-superannuation-system, worker-classification-parity | Prose complete ✅ | — |
 | Public_Facing | 5 | 1 | ~2,500 | — | All stack instruments | Employer letter complete ✅ | — |
+| Enforcement | 3–4 | 1 | ~3,159 | Enforcement agency home (FTC/NLRB/DoD?); penalty escalation calibration; whistleblower spec | department-of-data-and-accountability, immutable-government-ledger | Enforcement agency determination; whistleblower framework | TBD |
+| Workforce_Transition | 3–4 | 1 | ~2,719 | Rural deployment; Social domain cross-ref integration; pilot selection criteria | housing-workforce-stabilization-pilots, benefits-gradient-modernization | Pilot cohort selection; rural access spec | TBD |
 
 ---
 
@@ -100,9 +102,10 @@ Fix the structural failures that divorced American workers from the productivity
 - [x] **Worker governance** — Codetermination: 1/3 board seats, scoped authority over automation/restructuring/productivity gains ✅
 
 ### Tier 2: Structural Gaps (Incomplete Coverage)
-- [ ] **Workforce stabilization pilots** — Transitional housing for people who've fallen out of the labor market; referenced in overview but no standalone brief yet — Target: Phase 3
+- [x] **Workforce stabilization pilots** — workforce-stabilization-pilot.md: transitional housing/workforce integration for people who've fallen out of the labor market; cross-domain with Social/Homelessness stack ✅
+- [x] **Anti-regressive enforcement** — labor-stack-enforcement-framework-v0.2.md: penalty architecture, audit triggers, SSI/UPI/IGL enforcement infrastructure ✅ (enforcement agency home still TBD)
 - [ ] **NLRA / union policy relationship** — How does codetermination interact with existing collective bargaining rights? Codetermination brief is silent on NLRA — Target: Phase 3
-- [ ] **Anti-regressive enforcement** — How are benefits gradient, worker classification, and employer floor rules enforced? Penalties, audit triggers, agency home — Target: Phase 3
+- [ ] **Enforcement agency home** — labor-stack-enforcement-framework-v0.2.md names DoDA as coordinator but doesn't determine primary enforcement home (FTC/NLRB/new entity) — Target: Phase 4
 
 ### Tier 3: Enhancement Gaps (Nice-to-Have)
 - [ ] **Sectoral bargaining / regional wage councils** — Referenced in credential portability as a related initiative; no standalone brief — Target: Phase 3
@@ -116,11 +119,13 @@ Fix the structural failures that divorced American workers from the productivity
 ### Requirements for Phase 5 (External Validation) — Active Next Step
 - [x] Full instrument stack documented and sequenced (overview v0.3 complete)
 - [x] Employer-facing communication drafted (employer letter v0.3)
+- [x] Workforce stabilization brief developed (workforce-stabilization-pilot.md v0.2) ✅
+- [x] Enforcement architecture defined (labor-stack-enforcement-framework-v0.2.md) ✅
 - [ ] Worker-facing communication / plain-language summaries
 - [ ] Attack-line stress testing: union displacement objections; small business burden; codetermination legislative pathway challenges
 - [ ] Rebuttal language drafted for: "this will kill jobs", "government interference in private firms", "this is socialism"
-- [ ] Workforce stabilization brief developed
 - [ ] NLRA relationship clarified in codetermination brief
+- [ ] Enforcement agency home determined
 
 ---
 
@@ -137,6 +142,7 @@ Fix the structural failures that divorced American workers from the productivity
 
 | Date | Subdomain | Change | Phase Impact |
 |------|-----------|--------|--------------|
+| 2026-05-19 | Enforcement, Workforce_Transition | Tracker updated: 2 new files added (labor-stack-enforcement-framework-v0.2.md ~3,159 words; workforce-stabilization-pilot.md ~2,719 words); file count 10 → 12; both Tier 2 gaps closed; enforcement agency home still TBD | 2 Tier 2 gaps closed |
 | 2026-04-27 | All | Full prose build-out completed: benefits-gradient-modernization v0.4, worker-classification-partity v0.4, portable-healthcare-contribution-floor v1.0, earned-income-and-child-tax-credit v0.4, codetermination v0.5, superannuation-employer-contribution-portability v0.3, employer-letter v0.3; domain-overview updated to v0.3 with full layered architecture and sequencing | Domain established at Phase 4–5 |
 
 ---
@@ -144,7 +150,8 @@ Fix the structural failures that divorced American workers from the productivity
 ## Notes & Context
 
 - New standalone domain — previously labor/welfare content was loosely tracked under Economic_Prosperity/Labor_and_Wellfare (4 files, ~3,500 words, Phase 2); that subdomain has now been superseded
-- 10 files total; 9 declare Labor_and_Economic_Security domain; 1 cross-domain (credential portability — Economic_Prosperity/Labor_Mobility)
+- **12 files total** (~39,868 words); 11 declare Labor_and_Economic_Security domain; 1 cross-domain (credential portability — Economic_Prosperity/Labor_Mobility)
+- **Two new subdomains added since April 27**: Enforcement (labor-stack-enforcement-framework-v0.2.md) closes the anti-regressive enforcement Tier 2 gap; Workforce_Transition (workforce-stabilization-pilot.md) closes the workforce stabilization gap with cross-domain bridge to Social/Homelessness
 - Employer letter at Phase 5 — external stakeholder communication already drafted, which is ahead of most domains
 - Full stack architecture explicitly designed with two-phase capability: pilots and policy reforms deployable now; full capability unlocked when SSI/UPI/IRS modernization/DoDA come online
 - Codetermination is the capstone instrument — governance layer that none of the other instruments reach; scoped deliberately to avoid NLRA conflicts but that relationship needs explicit treatment
