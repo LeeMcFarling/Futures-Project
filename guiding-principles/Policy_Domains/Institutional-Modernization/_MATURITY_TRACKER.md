@@ -1,6 +1,6 @@
 # Domain Maturity Tracker: Institutional-Modernization
 
-**Last Updated:** 2026-05-19
+**Last Updated:** 2026-05-30
 **Overall Domain Phase:** 3
 **Domain Owner:** TBD
 
@@ -51,7 +51,8 @@ Modernize democratic institutions through reusable execution instruments that tr
 | Democratic_Execution_Interface | 3 | 1 | ~2,000 | Specific accountability mechanism design; inter-branch authority handoff protocols | execution-corps-spec, department-of-data-and-accountability | Define oversight accountability mechanisms | TBD |
 | Legislative_Design | 2 | 1 | ~1,000 | Broader template library; domain-specific statutory language samples | execution-corps-spec | Add samples for healthcare, manufacturing, housing domains | TBD |
 | Civic_Formation_and_Leadership | 3 | 1 | ~3,500 | Domain instantiations; CJ/manufacturing pipeline scenarios | national-capability-tour, execution-corps-spec, department-of-data-and-accountability | Add sector-specific pipeline scenarios | TBD |
-| Execution_Architecture | 2–3 | 1 | ~1,186 | Sector-specific instantiations; stakeholder-specific views; conversion scenarios by domain | execution-corps-spec, public-capital-authority, adaptive-governance-model | Add sector case studies (healthcare, manufacturing, housing) | TBD |
+| Execution_Architecture | 3 | 2 | ~3,966 | Sector-specific instantiations; IMC domain deployment scenarios | execution-corps-spec, public-capital-authority, adaptive-governance-model | Add sector case studies (healthcare, manufacturing, housing) | TBD |
+| Evidence_and_Accountability | 3 | 2 | ~8,437 | Automated pipeline deployment spec; cross-domain application to supplement/pharma/nutrition; endpoint-drift detection calibration | department-of-data-and-accountability, immutable-government-ledger | Pipeline deployment spec; domain application briefs | TBD |
 
 ---
 
@@ -88,7 +89,10 @@ Modernize democratic institutions through reusable execution instruments that tr
 - [x] **Regulatory Compression** – ULRR + RMC spec in place ✅; Energy RMS sector overlay done; Housing/land-use RMS still needed
 - [x] **Measurement Backbone** – DoDA framework defined ✅
 - [x] **Congressional Interface** – Congress operating model defined ✅
-- [x] **Government OS Update Doctrine** — government-operating-system-upgrade.md (v1.0, ~1,186 words): execution instruments (PCA, DoDA, Execution Corps, SSI/UPI, WCA, ISA, RMS) collectively constitute an upgrade to how government functions; civilizational software framing with update/rollback/versioning logic ✅ (sector instantiations still TBD)
+- [x] **Government OS Update Doctrine** — government-operating-system-upgrade-v1.1.md (v1.1, ~1,314 words): execution instruments (PCA, DoDA, Execution Corps, SSI/UPI, WCA, ISA, RMS) collectively constitute an upgrade to how government functions; civilizational software framing with update/rollback/versioning logic ✅ (sector instantiations still TBD)
+- [x] **Institutional Modernization Corps (IMC)** — institutional-modernization-corps-v0.1.md (v0.1, ~2,652 words): specialized execution instrument for building/modernizing/transferring digital platforms, APIs, and automation across government; bounded lifecycle, always produces handed-off artifact; distinct from Execution Corps (policy delivery) — IMC builds the infrastructure the other instruments run on ✅
+- [x] **Research Integrity Framework** — research-integrity-framework-v0.4.md (v0.4, ~4,956 words): common infrastructure for research transparency, methodological accountability, replication, certification, and evidence communication; governs process integrity without determining scientific truth; preregistration, endpoint-consistency, publication-bias detection, certification tiers ✅
+- [x] **Automated Research Compliance Infrastructure** — automated-research-compliance-infrastructure-v0.1.md (v0.1, ~3,481 words): ML pipelines making RIF operational at scale; preregistration matching, endpoint-drift detection, p-value anomaly detection, publication gap reconciliation; IGL-backed permanent public record ✅
 - [ ] **Domain Instantiations** – Sector-specific Execution Corps deployments – Target: Phase 3
 
 ### Tier 3: Enhancement Gaps (Nice-to-Have)
@@ -103,7 +107,8 @@ Modernize democratic institutions through reusable execution instruments that tr
 ### Requirements for Phase 4 (Sequencing & Execution)
 - [x] Core instrument specification complete
 - [x] Standing corps (PCA) defined
-- [x] **Government OS Update Doctrine** brief written (government-operating-system-upgrade.md v1.0) ✅
+- [x] **Government OS Update Doctrine** brief written (government-operating-system-upgrade-v1.1.md v1.1) ✅
+- [x] **IMC and Research Integrity stack** written (IMC, RIF, ARCI — 3 new files, ~11,089 words) ✅
 - [ ] Initial domain instantiations documented
 - [ ] Portfolio definitions for PCA established
 - [ ] Pilot jurisdiction criteria defined
@@ -114,6 +119,8 @@ Modernize democratic institutions through reusable execution instruments that tr
 
 | Date | Subdomain | Change | Phase Impact |
 |------|-----------|--------|--------------|
+| 2026-05-30 | Evidence_and_Accountability | New subdomain created: research-integrity-framework-v0.4.md (v0.4, ~4,956 words) — RIF: common process-integrity infrastructure across all research domains, certification tiers, replication standards, anti-gaming; automated-research-compliance-infrastructure-v0.1.md (v0.1, ~3,481 words) — ARCI: ML pipelines making RIF operational at scale, IGL-backed public record, endpoint-drift detection | New subdomain; 17 → 17 files (2 new); Phase Phase 3 |
+| 2026-05-30 | Execution_Architecture | institutional-modernization-corps-v0.1.md (v0.1, ~2,652 words) added: IMC as digital infrastructure execution instrument, always produces handed-off artifact, bounded lifecycle; government-operating-system-upgrade-v1.1.md updated v1.0 → v1.1 (~1,314 words); YAML subdomain spacing fixed (Execution Architecture → Execution_Architecture) | 14 → 17 active files |
 | 2026-05-19 | Execution_Architecture | Tracker updated: government-operating-system-upgrade.md added (v1.0, ~1,186 words, subdomain: Execution Architecture) — Government OS Doctrine brief COMPLETE; Process_Redesign TODO closed; file count 13 → 14 active; noted duplicate execution-corps-as-industry files (inferface/interface spelling variants, 756/802 words) | Government OS Doctrine: Phase 0 → Phase 2–3 |
 | 2026-05-08 | Process_Redesign | TODO logged: Government OS Update Doctrine — articulate how execution instruments (PCA, DoDA, HETA, Execution Corps, SSI/UPI, WCA, ISA, RMS) collectively constitute an upgrade to how government functions; meta-doctrine treating the platform as civilizational software with update/rollback/versioning logic; sits above state-as-a-partner (partner role) and adaptive-governance (evidence loop) as the unifying doctrine | Phase 0 — pending brief |
 | 2026-04-10 | Market_Integrity_and_Public_Trust | coordinated-deceptive-practices-enforcement-framework-v0.5.md added (v0.5 CDE framework — coordinated deceptive practices enforcement + transition; domain: Institutional_Modernization; physically lives in Democratic_Integrity folder); dep regulatory-version-control-system → regulatory-modernization-packet-spec | 0 → 1 file |
@@ -132,7 +139,7 @@ Modernize democratic institutions through reusable execution instruments that tr
 
 ## Notes & Context
 
-- Domain has **14 active policy files** totaling ~28,386 words (excluding archives)
+- Domain has **17 active policy files** totaling ~39,600 words (excluding archives)
 - 2 archive files preserved at root (old_legistlative-execution-corps.md, old_the_execution_corps.md) + 2 in `old : deprecate/` subfolder — 4 archive total
 - **Duplicate file**: execution-corps-as-industry-inferface.md (756 words, typo in filename) and execution-corps-as-industry-interface.md (802 words, correct spelling) — functionally same brief; "inferface" version is likely the earlier draft; recommend removing after confirming no live links
 - Execution Corps is a cross-cutting instrument used by multiple domains

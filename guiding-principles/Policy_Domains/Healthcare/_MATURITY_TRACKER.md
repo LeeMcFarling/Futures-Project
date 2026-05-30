@@ -1,6 +1,6 @@
 # Domain Maturity Tracker: Healthcare
 
-**Last Updated:** 2026-05-05
+**Last Updated:** 2026-05-30
 **Overall Domain Phase:** 4
 **Domain Owner:** TBD
 
@@ -43,7 +43,7 @@ Create a healthcare system with transparent pricing, competitive markets for rou
 | Care_Delivery_and_Infrastructure | 4 | 1 | ~3,500 | Long-term care integration; mental health episode boundaries in rural context | Housing_and_Public_Infrastructure | Prose build-out depth; mental health SEC episode boundary for regional center context | TBD |
 | Execution_and_Transition | 4–5 | 8 | ~9,500 | State pilot cohort selection criteria; long-term care integration | department-of-data-and-accountability, public-capital-authority | Cohort selection methodology; long-term care interface | TBD |
 | Pharmaceutical_Reform | 4 | 9 | ~8,000 | FDA coordination and regulatory pathway; stage-based authorization needs prose depth; regional trial infrastructure prose thin | None | Prose build-out on stage-based authorization, evidentiary sufficiency, regional trials | TBD |
-| Public_Health_Nutrition | 2 | 6 | ~5,200 | Pilot program design; lighter than rest of stack | Agriculture | Add pilot selection criteria; deepen substance | TBD |
+| Public_Health_Nutrition | 2–3 | 7 | ~8,700 | Pilot program design; supplement enforcement integration with RIF/DoDA; lighter than rest of stack | Agriculture, Institutional-Modernization (RIF) | Add pilot selection criteria; deepen substance | TBD |
 | Mental_Health | 3 | 1 | ~800 | **Crisis response covered cross-domain** (crisis-response-infrastructure.md in Social/criminal-justice-reform — Fourth Dispatch Framework, 988 integration, ZKP consent, stabilization ecosystem connections); **acute SEC coverage implicit** (psychiatric hospitalization = severe event by definition); remaining gaps: parity enforcement in direct-pay market; explicit acute/inpatient SEC trigger definition | crisis-response-infrastructure (Social domain), dental-vision-mental-health-market-integration | Parity enforcement brief; explicit acute SEC trigger language | TBD |
 | Maternal_Health | 2–3 | 1 | ~4,400 | Postpartum recovery center certification spec; HTA integration prose depth; long-term care interface | care-delivery-market-design, regional-health-center-network, benefits-gradient-modernization | Postpartum certification spec; deepen HTA integration prose | TBD |
 | Rural_Access | 4 | — | — | *Covered by Regional Health Center Network: four density tiers (urban/rural/frontier/remote), transport obligations, helicopter pad requirements, PE exclusion, DoDA network adequacy certification, PCA capital instruments* | Housing_and_Public_Infrastructure | Prose depth; telehealth integration detail | TBD |
@@ -112,6 +112,7 @@ Create a healthcare system with transparent pricing, competitive markets for rou
 
 | Date | Subdomain | Change | Phase Impact |
 |------|-----------|--------|--------------|
+| 2026-05-30 | Public_Health_Nutrition | Added supplement-integrity-evidence-and-claims-reform-v0.3.md (~3,471 words): lighter-touch higher-trust regulatory framework for dietary supplements; risk-proportionate tiered safety screening (Tier A/B/C); evidence label with Replication Status and Funding fields; pre-claim status pathway; escalation ladder through CDE; integrates RIF, DoDA, coordinated-deceptive-practices enforcement; cross-domain dep on Institutional-Modernization (RIF, grant-approval-reform) | 6 → 7 files; Phase 2 → 2–3 |
 | 2026-05-05 | Maternal_Health | Added maternal-family-care-hta-integration-v2.md (v0.1, ~4,400 words): HTA integration framework for maternal and family care; postpartum support architecture; SEC trigger boundaries for prenatal/delivery/postpartum; HETA deployment model for maternal services; postpartum recovery center certification (spec TBD); closes Maternal Health Tier 2 gap | New subdomain; 31 → 32 files |
 | 2026-04-10 | Care_Delivery_and_Insurance | Added sec-administration-heta-steady-state.md (SEC Administration — HETA Steady-State Operating Model; lives in Care-Delivery folder, subdomain Execution_and_Transition); dep HETA-revised-charter case fixed to heta-revised-charter | 6 → 7 files |
 | 2026-04-10 | Pharmaceutical_Reform | Added pharmaceutical-cost-attestation-anti-gaming.md (cost attestation + anti-gaming enforcement framework; subdomain fixed Pharmaceuticals → Pharmaceutical_Reform) | 8 → 9 files |
@@ -128,7 +129,7 @@ Create a healthcare system with transparent pricing, competitive markets for rou
 
 ## Notes & Context
 
-- Domain has **32 files** totaling ~31,500 words (plus 2 OLD-* archived files showing policy evolution)
+- Domain has **33 files** totaling ~35,000 words (plus 2 OLD-* archived files showing policy evolution)
 - Architecture is more sophisticated than Medicare for All or ACA expansion — three-layer market design matches governance to economic nature of service type; neither M4A nor ACA does this
 - **Cost Performance Backstop** is the most operationally detailed document in the full platform — pre-specified diagnostic types, cause-specific remedy sequences, supply-demand discipline rule as hard structural safeguard
 - **HETA Revised Charter** is draft statutory language (numbered sections, enforcement firewall, reporting requirements) — not a policy brief

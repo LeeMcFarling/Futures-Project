@@ -97,7 +97,7 @@ Build the social and cultural infrastructure of civilizational stability — thr
 - [ ] **Rural housing + homelessness** — Deferred from Housing domain
 - [ ] **Culture-war YAML completion** — culture-war-abortion-final.md and culture-war-conversion-therapy-final.md missing domain/subdomain fields — Target: cleanup pass
 - [ ] **Drug policy culture-war frame** — no settlement brief for drug policy (criminal justice, decriminalization, overdose response) — Target: Phase 3
-- [ ] **Culture-war immigration settlement** — draft-culture-war-immigration-settlement.md is in-progress (~4,483 words, v0.1) — Target: Phase 3
+- [ ] **Culture-war immigration settlement** — draft-culture-war-immigration-settlement.md is in-progress (~4,483 words, v0.1); this brief needs to be rebuilt as the **umbrella architecture document** for immigration NRM ratification: decompose the omnibus immigration question into discrete sub-issue referendum questions (Dreamers, broader undocumented/regularization, employer accountability, border operations); each sub-issue gets its own settlement brief using the harm-first framework + maps to a specific NRM question; bundling has been the mechanism of congressional capture for 30 years — decomposition + direct democratic ratification bypasses it; cross-reference Democratic_Integrity (NRM) and Immigration domain — Target: Phase 3
 
 ### Tier 3: Enhancement Gaps (Nice-to-Have)
 - [ ] **Cross-domain NCT deployment scenarios** — Healthcare, manufacturing, criminal justice instantiations

@@ -1,6 +1,6 @@
 # Domain Maturity Tracker: Education
 
-**Last Updated:** 2026-05-16
+**Last Updated:** 2026-05-30
 **Overall Domain Phase:** 3
 **Domain Owner:** TBD
 
@@ -53,8 +53,9 @@ Rebuild education as a system that produces capable, adaptable people — not a 
 | Student_Funding_and_Colocation | 3 | 1 | ~3,308 | Per-pupil funding formula; colocation facility standards | public-capital-authority | Funding formula spec; facility standards | TBD |
 | Youth_Challenge_Media | 3 | 1 | ~4,028 | Media production spec; distribution platform | Budget_and_Fiscal_Policy (child-future-accounts) | Production design; distribution spec | TBD |
 | University_Admissions | 2–3 | 2 | ~5,635 | Competency-based admissions rollout; national credentialing bridge | Competency_Framework | Rollout pathway; credentialing bridge design | TBD |
-| Higher_Ed_Overview | 2 | 1 | ~2,457 | University pre-seeding capitalization; ISA/WCA integration | Budget_and_Fiscal_Policy (pre-seeding) | Pre-seeding capitalization spec | TBD |
+| Higher_Ed_Overview | 2–3 | 2 | ~6,427 | Cross-domain interface deployment sequencing; university selection criteria | Budget_and_Fiscal_Policy (pre-seeding), IDP, national-problem-portfolio | Interface deployment spec; NPP → university linkage | TBD |
 | Pre_Seeding_Research | 3 | 1 | ~3,077 | Capitalization structure; university selection criteria | public-capital-authority | Capitalization spec; selection criteria | TBD |
+| Capability_Apprenticeship | 2–3 | 1 | ~4,756 | Employer compact governance; WCA demand-signal integration; community college credentialing bridge; TRAC spec | workforce-coordination-authority, community-college-network | TRAC certification design; employer compact pilot design | TBD |
 
 ---
 
@@ -103,7 +104,7 @@ Rebuild education as a system that produces capable, adaptable people — not a 
 - [ ] **Special education and disability access** — no brief on how NCF + personalized learning applies to students with disabilities — Target: Phase 3
 
 ### Tier 3: Enhancement Gaps (Nice-to-Have)
-- [ ] **Vocational and trade pathway** – Direct connection from K-12 NCF to trade certification and ISA pipeline – Target: Phase 4
+- [~] **Vocational and trade pathway** – capability-apprenticeship-compact-v0.1.md (v0.1, ~4,756 words): WCA-coordinated, employer-anchored, community-college-credentialed pathway from high school senior year through Associate; TRAC certification; employer compact governance still TBD — Target: Phase 3
 - [ ] **Early childhood** – Pre-K and childcare integration with NCF and child future accounts – Target: Phase 4
 
 ---
@@ -124,6 +125,8 @@ Rebuild education as a system that produces capable, adaptable people — not a 
 
 | Date | Subdomain | Change | Phase Impact |
 |------|-----------|--------|--------------|
+| 2026-05-30 | Higher_Ed | university-cross-domain-interfaces-v0.2.md (v0.2, ~3,970 words): maps what universities become in AI era — institutional anchor for public/private/university capital on hard long-horizon problems; interfaces to defense (DARPA-style discovery units), energy, agriculture, NPP open competitive architecture; crowding-in model; v0.2 restructured to lead with structural challenges universities face today | Higher_Ed_Overview: 1 → 2 files |
+| 2026-05-30 | Higher_Ed | capability-apprenticeship-compact-v0.1.md (v0.1, ~4,756 words): WCA-coordinated employer-anchored community-college-credentialed pathway from HS senior year through Associate degree; braids paid work with credentialed instruction; TRAC certification; closes vocational/trade pathway Tier 3 gap | New subdomain: Capability_Apprenticeship |
 | 2026-05-16 | All | Tracker updated: file count updated to 18 active; phase 2 → 3; k-12 stack recognized as complete Phase 3; word counts updated | N/A |
 | 2026-03-15 | K12 | youth-challenge-media-child-future-accounts.md added; teacher-reskilling-and-role-transformation.md (~4,044 words); student-based-funding-and-campus-colocation.md (~3,308); book-recommendation-student-walkthroughs.md; department-of-education-standards.md (~2,539); principal-budget-autonomy-counterfactual.md | New |
 | 2026-03-12 | K12 | national-competency-framework.md added (~2,595); education-reform-distillate.md | New |
@@ -134,7 +137,7 @@ Rebuild education as a system that produces capable, adaptable people — not a 
 
 ## Notes & Context
 
-- Domain has **15 active k-12 files** (~46,994 words) + **3 university files** (~6,759 words) = **18 active files** in subdirectories (~53,753 words); root also has 8 older/duplicate files (~7,204 words) that are pre-subfolder versions
+- Domain has **15 active k-12 files** (~46,994 words) + **5 university files** (~15,485 words) = **20 active files** in subdirectories (~62,479 words); root also has 8 older/duplicate files (~7,204 words) that are pre-subfolder versions
 - **K-12 stack is the most complete education subdomain** — NCF, DES triggers, principal autonomy, personalized learning, teacher reskilling, student funding/colocation, book program, youth media all specified; this is a comprehensive Phase 3 K-12 redesign
 - **Book program (3 files, ~9,169 words) is the largest subdomain** — the personalized reading discovery infrastructure addresses information diet and is one of the platform's most operationally concrete instruments (it has student walkthrough examples)
 - **Youth challenge media + child future accounts** is the Budget ↔ Education connection — pre-seed activation is partly an education intervention (showing young people the compound math and what it means for their futures)

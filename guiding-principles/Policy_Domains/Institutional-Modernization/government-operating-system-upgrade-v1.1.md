@@ -5,15 +5,16 @@ sidebar_label: Government OS Upgrade
 sidebar_position: 5
 slug: /institutional-modernization/government-operating-system-upgrade
 domain: Institutional_Modernization
-subdomain: Execution Architecture
+subdomain: Execution_Architecture
 policy_type: System Doctrine
 status: Draft
-version: 1.0
+version: 1.1
 author: Futures Project
 dependencies:
   - execution-corps-spec
   - public-capital-authority
   - institutional-modernization
+  - institutional-modernization-corps
 related_initiatives:
   - congressional-operating-system-interface
   - department-of-data-and-accountability
@@ -76,25 +77,36 @@ Institutional modernization identifies this as a legacy architecture composed of
 
 ## The Execution Stack (New Operating System Layer)
 
-The upgrade introduces three core execution instruments:
+The upgrade introduces four core execution instruments:
 
-### Execution Corps — Delivery Layer  
-A time-bounded execution instrument that owns *how* policy is implemented under fixed constraints, with mandatory sunset and measurable outcomes.
+### Execution Corps — Delivery Layer
+A time-bounded execution instrument that owns *how* policy is implemented under
+fixed constraints, with mandatory sunset and measurable outcomes.
 
-### Public Capital Authority (PCA) — Capital Layer  
-A standing execution body that converts tax expenditures and budgetary capital into explicit, auditable, and recyclable financial instruments.
+### Public Capital Authority (PCA) — Capital Layer
+A standing execution body that converts tax expenditures and budgetary capital
+into explicit, auditable, and recyclable financial instruments.
 
-### DoDa — Measurement Layer  
-A system-wide instrumentation backbone that tracks outcomes, enforces comparability, and enables adaptive governance.
+### Institutional Modernization Corps (IMC) — Infrastructure Layer
+A specialized mission-bound execution instrument that builds, modernizes, and
+transfers the digital, data, interoperability, and automation infrastructure
+required for 21st-century governance. The IMC builds the instrumentation DoDA
+specifies and the other instruments depend on — then transfers it, sunsets, and
+redeploys when modernization is required again.
+
+### DoDA — Measurement Layer
+A system-wide instrumentation backbone that certifies observability requirements,
+tracks outcomes, enforces comparability, and enables adaptive governance.
 
 ---
 
 ### System Logic
 
-- Congress defines *what*  
-- Execution Corps determines *how*  
-- PCA deploys *capital*  
-- DoDa measures *whether it worked*  
+- Congress defines *what*
+- Execution Corps determines *how* to deliver physical outcomes
+- IMC builds *the infrastructure* those outcomes depend on
+- PCA deploys *capital*
+- DoDA measures *whether it worked*
 
 The upgrade replaces the **execution layer**, not democratic authority.
 
@@ -260,19 +272,29 @@ Mitigation: explicit framing as conversion, visible pilot results
 This doctrine reframes the platform:
 
 From:
-> a collection of policies and programs  
+> a collection of policies and programs
 
 To:
-> a coherent upgrade pathway for how government operates  
+> a coherent upgrade pathway for how government operates
 
 It aligns:
 
-- fiscal logic  
-- institutional design  
-- political messaging  
-- execution feasibility  
+- fiscal logic
+- institutional design
+- political messaging
+- execution feasibility
 
 into a single system.
+
+The complete separation of concerns:
+
+- **Congress** authorizes objectives and constraints
+- **Execution Corps** delivers bounded physical outcomes
+- **IMC** builds and transfers the digital infrastructure those outcomes depend on
+- **PCA** deploys capital deliberately
+- **DoDA** certifies outcomes and maintains measurement integrity
+
+Each instrument knows what it owns. None of them bleeds into the others.
 
 ---
 

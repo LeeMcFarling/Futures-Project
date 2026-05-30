@@ -92,7 +92,7 @@ Break structural corruption and anti-democratic capture across all institutions 
 
 ### Tier 3: Enhancement Gaps (Nice-to-Have)
 - [ ] **State legislature extension** – Apply electoral architecture to state level – Target: Phase 4
-- [ ] **DACA/immigration crossover** – Country-based restriction linkage to Democratic Integrity principles – Target: Phase 4
+- [ ] **NRM immigration application** — immigration sub-issues are the primary near-term NRM use case: Dreamers pathway, broader undocumented regularization, employer accountability, border operations each decomposed into discrete referendum questions; umbrella brief lives in Social domain (draft-culture-war-immigration-settlement.md, needs rebuild); NRM ratification creates direct democratic legitimacy that bypasses 30-year legislative gridlock; cross-reference Immigration and Social domains — Target: Phase 3
 
 ---
 
@@ -114,6 +114,7 @@ Break structural corruption and anti-democratic capture across all institutions 
 
 | Date | Subdomain | Change | Phase Impact |
 |------|-----------|--------|--------------|
+| 2026-05-22 | Electoral_Reform | NRM immigration application logged: immigration sub-issues are the primary near-term NRM use case; decomposition approach identified as solution to 30-year legislative gridlock; umbrella brief needs to be rebuilt in Social domain; cross-ref Immigration and Social | Design decision |
 | 2026-05-21 | Separation_of_Powers | TODO logged: congressional delegation and presidential powers sunset brief — catalog open-ended authority grants (AUMFs, IEEPA, TPA, Section 232, NEA), systematic sunset/reauthorization framework, constitutional template for future delegations, treaty/impeachment cross-reference; canonical home for cross-domain brief (NS + Trade cross-ref) | Tier 2 gap added |
 | 2026-05-16 | All | Tracker updated to reflect actual domain state; phase corrected 2 → 3; file count corrected 7 → 15 active; word count corrected ~5K → ~51K | N/A |
 | 2026-04-27 | Campaign_Finance | campaign-finance-anti-capture-v1.md: Citizens United architecture complete; 3 spec choices remain (enforcement home, convention bundling, union/labor asymmetry) — marked [~] not [x] | Phase 3 |

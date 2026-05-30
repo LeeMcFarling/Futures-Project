@@ -93,7 +93,7 @@ Create an immigration system that treats immigration as a strategic national ass
 ### Tier 2: Structural Gaps (Incomplete Coverage)
 - [ ] **ISA full operational charter** — immigration-services-and-administration.md is thin (~974 words); needs charter-level spec (org structure, regional offices, performance metrics, relationship to Execution Corps) — Target: Phase 3
 - [ ] **Real-time demand signal integration** — labor visa activation should connect to WCA demand coordination system (Manufacturing) and DoDA metric triggers — Target: Phase 4
-- [ ] **DACA/existing undocumented population** — no brief on resolution pathway for ~11 million undocumented residents — Target: Phase 3
+- [ ] **DACA/existing undocumented population** — resolution approach is: culture-war settlement briefs decomposed by sub-issue (Dreamers, broader undocumented population, employer accountability, border operations) + NRM direct ratification of each; bundling is the mechanism of capture — decomposition + direct democratic ratification bypasses the 30-year legislative gridlock; `draft-culture-war-immigration-settlement.md` (Social domain) is the umbrella framing document; needs to be rebuilt as the architecture brief mapping each sub-issue to a discrete NRM referendum question — Target: Phase 3; cross-reference Democratic_Integrity (NRM) and Social (culture-war settlement framework)
 - [ ] **Citizenship backlog** — no brief on processing existing naturalization backlogs — Target: Phase 3
 
 ### Tier 3: Enhancement Gaps (Nice-to-Have)
@@ -109,7 +109,7 @@ Create an immigration system that treats immigration as a strategic national ass
 - [x] ISA concept established ✅
 - [x] Three-stream separation (labor/asylum/family) defined ✅
 - [ ] ISA full operational charter
-- [ ] DACA/undocumented resolution framework
+- [ ] DACA/undocumented resolution framework (approach: culture-war settlement + NRM ratification; umbrella brief needed in Social domain)
 - [ ] Demand signal integration architecture
 
 ### Requirements for Phase 4 (Sequencing & Execution)
@@ -124,6 +124,7 @@ Create an immigration system that treats immigration as a strategic national ass
 
 | Date | Subdomain | Change | Phase Impact |
 |------|-----------|--------|--------------|
+| 2026-05-22 | System_Architecture | DACA/undocumented resolution approach clarified: culture-war settlement decomposition + NRM direct ratification by sub-issue; draft-culture-war-immigration-settlement.md in Social domain is umbrella framing document; needs rebuild as architecture brief mapping sub-issues to discrete NRM referendum questions; cross-ref Democratic_Integrity (NRM) and Social (culture-war settlements) | Design decision logged |
 | 2026-05-16 | All | Tracker updated: file count 11 → 14 active; word count ~7,560 → ~10,624; all new files added; phase 2 → 2–3; ISA instrument recognized as cross-domain with Manufacturing deployment | N/A |
 | 2026-04-07 | ISA_and_Enforcement | isa-execution-corps-deployment.md now lives in Manufacturing/workforce-training-and-immigration/ (domain: Manufacturing, subdomain: Labor_Mobility) — ISA deployment model for manufacturing corridors is the primary instantiation; immigration-services-and-administration.md remains the institutional spec | Cross-domain |
 | 2026-01-28 | Labor_Immigration | entrepreneurship-visas-and-conversion-pathways.md, student-to-industry-retention-pathways.md added | New |
