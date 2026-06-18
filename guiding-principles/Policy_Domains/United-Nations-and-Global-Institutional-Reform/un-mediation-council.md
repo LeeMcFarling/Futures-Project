@@ -4,7 +4,7 @@ title: UN Reform — Mediation Council and Appellate Review Architecture
 sidebar_label: Mediation Council
 sidebar_position: 3
 slug: /national-security/un-reform/mediation-council
-domain: National_Security
+domain: United-Nations-and-Global-Institutional-Reform
 subdomain: UN_Reform
 policy_type: Institutional Review Framework
 status: Draft

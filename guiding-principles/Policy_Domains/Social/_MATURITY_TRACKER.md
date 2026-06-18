@@ -1,6 +1,6 @@
 # Domain Maturity Tracker: Social
 
-**Last Updated:** 2026-05-19
+**Last Updated:** 2026-06-04
 **Overall Domain Phase:** 3
 **Domain Owner:** TBD
 
@@ -46,7 +46,7 @@ Build the social and cultural infrastructure of civilizational stability — thr
 | National_Contribution_Gala | 3 | 1 | ~6,500 | Broadcaster partnerships; curatorial authority identification; production timeline | national-problem-portfolio-and-competitive-fund, emergent-impact-track | Begin Phase 1 production planning | TBD |
 | Emergent_Impact_Track | 3 | 1 | ~5,500 | EIT Governing Body composition; domain expert pool design; nomination portal spec | department-of-data-and-accountability | Define first pilot nominations | TBD |
 | Civic_Acropolis | 3 | 1 | ~5,200 | Site selection; Board of Regents initial composition; Canon Council constitution | national-problem-portfolio-and-competitive-fund, emergent-impact-track | Draft Congressional charter language | TBD |
-| Criminal_Justice | 2 | 7 | ~17,000 | Sentencing depth; facility design; prosecutor incentive reform; school/neighborhood stabilization | housing-workforce-stabilization-pilots, crisis-response-infrastructure | Add sentencing framework; expand rehabilitation depth | TBD |
+| Criminal_Justice | 2–3 | 11 | ~32,414 | Sentencing depth; prosecutor incentive reform | housing-workforce-stabilization-pilots, crisis-response-infrastructure | Add sentencing framework; prosecutor incentive reform brief | TBD |
 | IDP_Social_Stack | 2 | 2 | ~5,750 | Full travel/transition stack + outbound mobility scaffold | idp-social-mobility-layer, housing-supply-stabilization-overlay | Connect to NCT deployment scenarios | TBD |
 | Homelessness | 2 | 3 | ~8,250 | Workforce stabilization pilots, automatic stabilizer, healthcare-enabled housing pilot | ssi-self-sovereign-identity-framework, upi-privacy-preserving-payment-rail | Add rural homelessness coverage | TBD |
 | Culture_War_Issues | 3 | 6 | ~18,750 | YAML incomplete on 2 files (abortion, conversion-therapy); immigration draft unfinished; drug policy/criminal justice culture-war frame absent | Democratic_Integrity (sequencing), democratic-settlement-framework | Complete 2 YAML files; finalize immigration settlement; add drug/CJ frame | TBD |
@@ -86,7 +86,7 @@ Build the social and cultural infrastructure of civilizational stability — thr
 - [x] **National Contribution Gala** — Cultural recognition layer designed ✅
 - [x] **Civic Acropolis** — Permanence and canonization system designed ✅
 - [x] **National Capability Tour** — Civic formation pathway defined ✅
-- [~] **Criminal Justice** — 7-file stabilization stack exists (overview, community stabilization, violence interruption, justice gap, non-violent rehab, equal justice/anti-impunity, crisis response); policing reform, sentencing framework, and school/neighborhood stabilization still absent
+- [~] **Criminal Justice** — 11-file stack: original 7 (overview, community stabilization, violence interruption, justice gap, non-violent rehab, equal justice/anti-impunity, crisis response) + 4 new rehabilitation and reentry briefs (competitive-rehabilitation-framework, correctional-capability-development-and-reentry, correctional-research-and-environmental-design, rehabilitation-capability-centers); facility design and Norwegian model adaptation ✅; neighborhood stabilization covered by community-stabilization-framework.md ✅; school stabilization covered cross-domain by CJ reform stack (community stabilization + violence interruption) and Education (student-based-funding-and-campus-colocation) ✅; remaining gaps: sentencing framework, prosecutor incentive reform
 - [x] **Culture War Settlements** — culture-war-issues/ stack: overview (v2), abortion (final), trans issues (v10), guns, conversion therapy (final), immigration (draft) ✅ (6-file Democratic Settlement Framework; immigration draft still in-progress)
 
 ### Tier 2: Structural Gaps (Incomplete Coverage)
@@ -125,6 +125,7 @@ Build the social and cultural infrastructure of civilizational stability — thr
 
 | Date | Subdomain | Change | Phase Impact |
 |------|-----------|--------|--------------|
+| 2026-06-04 | Criminal_Justice | Added 4-file rehabilitation and reentry stack: competitive-rehabilitation-framework.md (v0.2, ~3,427 words) — competitive market architecture for corrections providers, DoDA outcome measurement, anti-gaming, PCA capital instruments; correctional-capability-development-and-reentry.md (v0.2, ~3,671 words) — NCF-aligned capability development inside facilities, reentry capital, SSI credential portability, WCA/agriculture connections; correctional-research-and-environmental-design.md (v0.2, ~4,522 words) — systematic research framework for facility environmental design (lighting, green space, acoustics, air quality), IGL-backed evidence infrastructure; rehabilitation-capability-centers.md (v0.2, ~3,794 words) — physical facility spec for Norwegian-model capability centers, PCA financing, DoDA certification, workforce integration; facility design and Norwegian model adaptation gaps now closed | 7 → 11 files; Phase 2 → 2–3 |
 | 2026-05-19 | Culture_War_Issues | Subdomain added to tracker; 6 files ~18,750 words: culture-war-overview-v2.md, culture-war-abortion-final.md, culture-war-trans-issues-v10.md, culture-war-guns.md, culture-war-conversion-therapy-final.md, draft-culture-war-immigration-settlement.md; all under Democratic Settlement Framework; 2 files (abortion, conversion-therapy) missing domain YAML | New subdomain |
 | 2026-04-21 | Culture_War_Issues | Culture war settlement stack written: abortion (final), trans issues (v10), guns, conversion therapy (final), immigration (draft v0.1), overview (v2) — all in culture-war-issues/ subfolder | New subdomain |
 | 2026-04-08 | Criminal_Justice | Added 6-file stabilization stack: criminal-justice-and-stabilization-overview.md (system overview — immediate stabilization layer framing), community-stabilization-framework.md (environmental design, collective efficacy, STZ/housing linkage), violence-interruption-youth-off-ramps.md (credible messenger model, youth diversion), justice-gap-procedural-legitimacy.md (bail reform, public defenders, SSI/UPI equal-process), non-violent-rehabilitation-framework.md (Norwegian model — sentencing philosophy, facility design, reentry), equal-justice-and-impunity-framework.md (elite accountability, anti-impunity, IGL linkage); DEL scaffold replaced | 2 → 7 files; Phase 1 → 2 |
@@ -141,11 +142,12 @@ Build the social and cultural infrastructure of civilizational stability — thr
 
 ## Notes & Context
 
-- Social domain currently has **24 files** totaling ~68,260 words (excluding the `national-prestige-mechanics-framework.md` directory itself)
+- Social domain currently has **28 files** totaling ~83,674 words (excluding the `national-prestige-mechanics-framework.md` directory itself)
 - **Structural note:** Four files (NPP, Gala, EIT, Acropolis) live inside a folder named `national-prestige-mechanics-framework.md/` — unusual folder naming convention with `.md` extension; functionally intact but worth renaming to `national-prestige-mechanics-framework/` for clarity
 - **Culture War Issues** is the largest single subdomain at ~18,750 words (6 files) — Democratic Settlement Framework approach: starts from underlying harm, not rhetorical battle; trans issues at v10 is the most iterated file in the platform; covers abortion, trans, guns, conversion therapy, immigration, and overview; 2 files (abortion, conversion-therapy) need domain YAML added
 - Domain sits at a high maturity level conceptually (all four prestige stack layers fully designed; all core culture-war settlements drafted) but at Phase 0 operationally (no pilot architecture finalized, no governing bodies chartered)
-- Criminal Justice has 7 files (not 8 — DEL scaffold was replaced by the overview file) — full immediate stabilization layer: overview, community stabilization, violence interruption, justice gap, non-violent rehabilitation, equal justice/anti-impunity; school/neighborhood stabilization and sentencing framework still absent
+- **Criminal Justice now has 11 files (~32,414 words)**: original 7-file stabilization layer + 4 new rehabilitation/reentry briefs; new files cover competitive rehabilitation market architecture, correctional capability development and reentry capital, environmental design research framework, and Rehabilitation Capability Centers (Norwegian model facility spec + PCA capital instruments); remaining gaps: sentencing framework, prosecutor incentive reform, school/neighborhood stabilization
+- All 4 new CJ files use `domain: Criminal_Justice` — consistent with existing CJ file convention (files are physically in Social/ but YAML domain is Criminal_Justice)
 - Homelessness subdomain has 3 files (healthcare-enabled pilot, automatic stabilizer, workforce pilots); rural homelessness still absent
 - IDP_Social_Stack has 2 files (arrival/transition stack + outbound mobility scaffold); files physically in Social folder but YAML cross-references National_Security/Housing domains
 - The NPP/EIT/Gala/Acropolis stack is internally coherent: NPP → EIT → Gala → Acropolis forms a complete prestige pipeline from problem-solving to permanent canonization

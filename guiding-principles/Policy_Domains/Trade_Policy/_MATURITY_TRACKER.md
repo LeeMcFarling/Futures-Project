@@ -1,6 +1,6 @@
 # Domain Maturity Tracker: Trade_Policy
 
-**Last Updated:** 2026-05-21
+**Last Updated:** 2026-06-04
 **Overall Domain Phase:** 3
 **Domain Owner:** TBD
 
@@ -88,6 +88,7 @@ Build a coherent US trade architecture that uses market access as a strategic in
 - [x] **Cartel derisking** — draft-cartel-derisking-and-regional-stability-framework.md: resource sovereignty architecture, odious debt doctrine, SBP economic stabilization linkage ✅
 
 ### Tier 2: Structural Gaps (Incomplete Coverage)
+- [ ] **Tariff Drawdown with Consumer Passthrough Requirement** — BRIEF NEEDED: sector-by-sector tariff drawdown negotiation instrument where importers must pass at least a defined percentage (e.g. 80%) of the tariff delta directly to consumers within a compliance window; if tariff drops from 30% to 5%, at least 80% of the 25-point delta must reach retail prices; enforcement via UPI retail price telemetry, DoDA monitoring, importer attestation under perjury, and tariff reimposition on non-compliance; sector selection criteria (consumer goods first, strategic sectors last); connection to IDP preferential drawdown terms for allied partners; political framing: the public benefit of trade negotiation flows to the public, not to importer margin capture; closes the documented gap where tariffs rise but don't fall symmetrically (importers capture margin on the way down); cross-ref: Labor_and_Economic_Security (UPI rail), Technology_and_Data (UPI price telemetry), Institutional-Modernization (DoDA monitoring) — Target: Phase 3
 - [ ] **China phase-gate linkage** — trade phase gates need explicit connection to china-strategy-managed-competition-v0.3.md Day 0 baseline and multi-track architecture — Target: Phase 4
 - [ ] **NORAM implementation sequencing** — specific negotiating sequence with Canada and Mexico; trilateral compact language — Target: Phase 4
 - [ ] **IDP offtake compact operationalization** — specific product categories, volume commitments, pricing structures — Target: Phase 4
@@ -114,6 +115,7 @@ Build a coherent US trade architecture that uses market access as a strategic in
 
 | Date | Subdomain | Change | Phase Impact |
 |------|-----------|--------|--------------|
+| 2026-06-04 | Trade_Framework | TODO logged: tariff drawdown with consumer passthrough requirement — sector-by-sector drawdown with 80%+ passthrough floor; UPI price telemetry enforcement via DoDA; importer attestation under perjury; closes asymmetric tariff pass-through gap; IDP partners get preferential drawdown terms; cross-ref UPI/DoDA infrastructure | Tier 2 gap added |
 | 2026-05-21 | Trade_Authority | TODO logged: TPA/IEEPA/Section 232 sunset reform brief — trade authority delegations without expiration; mandatory reauthorization and scope-limiting framework for future grants; cross-ref NS AUMF brief and Democratic_Integrity canonical home | Tier 2 gap added |
 | 2026-05-13 | All | Domain decomposed from Economic_Prosperity; YAML updated (domain: Trade_Policy, all subdomains rationalized to Trade_Policy, slug prefix /trade-policy/); maturity tracker created | Domain established |
 | 2026-01-28 | All | Domain created (as subdomain of Economic_Prosperity); 8 files; YAML standardized | 0 → 3 |

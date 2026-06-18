@@ -41,11 +41,12 @@ protection, lower patient exposure, faster care navigation, broader provider acc
 and service quality. Insurance premiums are paid to insurers, not replaced by universal
 government payment.
 
-The government regulates standards and transparency. It does not replace the insurance
-market. If you want to buy a plan above the SEC floor that gives you faster navigation,
-lower patient exposure, broader provider access, or additional service guarantees —
-you can. Private insurers will compete to sell you one. The floor is real. The market
-above it is real. Neither eliminates the other.
+The government governs the SEC floor through utility-rate discipline and sets the
+benchmark. It does not replace the insurance market. If you want to buy a plan above
+the SEC floor that gives you faster navigation, lower patient exposure, broader
+provider access, or additional service guarantees — you can. Private insurers will
+compete to sell you one. The floor is real. The market above it is real. Neither
+eliminates the other.
 
 ---
 
@@ -56,11 +57,14 @@ Providers remain privately owned, nonprofit, or public as they are today. No
 facilities are seized, consolidated, or operated by the government. Competition among
 hospitals, surgery centers, and clinics is preserved and enforced.
 
-Utility regulation applies only where monopoly conditions exist — emergency care
-pricing, where patients cannot shop and providers operate without competitive
-constraint. Utility regulation governs pricing behavior in that context. It does not
-govern ownership, staffing, clinical practice, or operations. A hospital regulated as
-a utility for emergency pricing purposes is still a privately owned hospital.
+Utility-rate governance applies to all SEC-covered non-shoppable care — not because
+the government owns the providers, but because market competition cannot protect
+patients who have no ability to shop. The governing analogy is electricity, water,
+and fire departments. Essential services that cannot be refused and cannot be
+disciplined by competition are governed as public utilities. Utility governance covers
+pricing behavior and transparency. It does not govern ownership, staffing, clinical
+practice, or operations. A hospital governed by the SEC utility framework for pricing
+purposes is still a privately owned hospital.
 
 ---
 
@@ -130,34 +134,37 @@ surveillance. Those are separable design goals and this framework treats them as
 ## This Is Not Centralized Price-Setting Across Healthcare
 
 This framework does not impose uniform prices across all healthcare services. Markets
-determine prices where shopping is possible. Regulated rate bands apply to emergency
-utility services. Bundled-price rules apply to scheduled episodes so patients and
-payers can compare complete prices rather than hidden components.
+determine prices where shopping is possible. Utility-rate bands govern pricing for
+SEC-covered non-shoppable care. Bundled-price rules apply to scheduled episodes so
+patients and payers can compare complete prices rather than hidden components.
 
-Price discipline replaces price opacity. That is not the same as price control. A
-market where prices are visible and providers compete is the opposite of a market
-where prices are set centrally. This reform creates the former, not the latter.
+Price discipline replaces price opacity across the SEC layer. That is not the same
+as price control. A market where prices are visible and providers compete is the
+opposite of a market where prices are set centrally. The shoppable market layer
+creates the former. The SEC utility framework creates disciplined, transparent pricing
+in the non-shoppable layer where market competition cannot function — not a
+government-set price list.
 
 ---
 
 ## This Is Not an Ideological Healthcare System
 
 This framework is not left-wing or right-wing healthcare policy. It preserves markets
-where they work. It regulates utilities where markets fail. It restores actuarial
+where they work. It governs utilities where markets fail. It restores actuarial
 insurance principles that both sides nominally claim to support. It focuses on
 execution and outcomes rather than ideology.
 
 The largest free-market expansion in the history of American healthcare is happening
 inside this framework — routine care moving to transparent, direct-pay consumer
 markets where providers compete on price and quality. The insurance correction is
-actuarial, not political. The utility regulation is functional, not ideological. The
-orientation is: does this work, and can we measure whether it does?
+actuarial, not political. The utility governance of the SEC layer is functional, not
+ideological. The orientation is: does this work, and can we measure whether it does?
 
 ---
 
 ## Why Opposition Is Expected
 
-This framework removes emergency monopoly pricing power, insurance opacity, and
+This framework removes non-shoppable care pricing power, insurance opacity, and
 administrative complexity rents. The people and institutions that currently extract
 value from those conditions have strong incentives to oppose it and strong platforms
 from which to misrepresent it.
@@ -172,8 +179,9 @@ implementation risk, or whether it primarily defends existing pricing power.
 
 This healthcare reform framework is not a government takeover. Not single payer. Not
 rationing. Not junk insurance. Not surveillance. Not centralized price-setting. It is
-a structural correction designed to make healthcare legible, competitive, and
-sustainable — while preserving pluralistic care delivery and private insurance markets.
+a structural correction built around a two-layer logic: shoppable care in transparent
+competitive markets, non-shoppable care covered through SEC and governed by the same
+utility-rate discipline that governs electricity, water, and fire departments.
 
 Mischaracterizations are expected. The design boundaries are explicit. Read the
 design before accepting the characterization of it.

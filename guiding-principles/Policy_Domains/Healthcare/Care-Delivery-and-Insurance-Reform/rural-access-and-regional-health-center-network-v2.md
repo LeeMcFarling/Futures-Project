@@ -94,7 +94,8 @@ capital buildout and facility costs through PCA instruments, operating costs to 
 break-even floor defined as the cost of delivering the mandated service suite to the
 covered population at regulated rates, and readiness costs including staffing,
 equipment, and surge capacity maintained independently of utilization volume —
-analogous to the emergency utility readiness funding model.
+consistent with the SEC utility framework's separation of readiness funding from
+per-episode reimbursement.
 
 The backstop does not cover revenue shortfalls arising from operational inefficiency
 above defined benchmarks, services beyond the mandated suite unless separately
@@ -300,11 +301,11 @@ Subsidy credits apply automatically through the payment rail. The backstop does 
 exempt centers from market transparency requirements. It funds the cost floor. It does
 not fund opacity.
 
-Regional Health Centers are integrated into the Emergency and Trauma Services
-regulated utility framework as stabilization and transfer nodes. Their emergency
-interface functions — stabilization bay, helipad, transfer protocols — are funded
-through readiness payments analogous to trauma center readiness funding, not through
-per-episode reimbursement.
+Regional Health Centers are integrated into the SEC-covered emergency and trauma
+services framework as stabilization and transfer nodes. Their emergency interface
+functions — stabilization bay, helipad, transfer protocols — are funded through
+readiness payments under the SEC utility-rate framework, not through per-episode
+reimbursement.
 
 During transition phases, HETA Provider Transition Corps field teams support provider
 recruitment and onboarding to centers, infrastructure connection to the payment rail

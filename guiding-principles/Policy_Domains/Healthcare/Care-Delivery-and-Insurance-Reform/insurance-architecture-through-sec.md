@@ -16,17 +16,29 @@ tags:
 description: >
   Defines the insurance architecture supporting restructured healthcare, confining
   insurance to protecting individuals against severe, low-frequency, high-cost
-  medical events through Severe Event Coverage (SEC).
+  medical events through Severe Event Coverage (SEC), governed as a public utility
+  across the full range of non-shoppable care.
 ---
 
 ## Purpose and Scope
 
-This brief defines the insurance architecture that supports the restructured healthcare
-system. Insurance is confined to its proper role — protecting individuals against
-severe, low-frequency, high-cost medical events. Emergency and trauma care, where
-patients cannot shop or consent in the moment of crisis, is precisely the category
-SEC is designed for: it is the payer of record for that care, with emergency utility
-regulation imposing pricing discipline at the provider level.
+This brief defines the insurance architecture that supports the restructured
+healthcare system. Insurance is confined to its proper role — protecting individuals
+against severe, low-frequency, high-cost medical events. The defining feature of
+SEC-covered care is that patients cannot shop, delay, or consent to a complex
+financial transaction at the moment they need it. That structural condition is present
+across the full range of SEC-covered events: emergency and trauma admissions, major
+surgical procedures, serious illness diagnoses, and high-cost complex episodes all
+share it to varying degrees.
+
+Because SEC covers care where market competition cannot discipline pricing, the SEC
+layer is governed as a public utility. The analogy is electricity, water, and fire
+departments — essential services that cannot be refused at the point of need, where
+market mechanisms cannot function, and where pricing discipline must be imposed
+structurally rather than left to competition. SEC is that framework for non-shoppable
+healthcare. Utility-rate governance — transparent cost disclosure, regulated rate
+bands, anti-monopoly controls, anti-gaming enforcement — applies across the SEC layer,
+not only to emergency and trauma care.
 
 This framework replaces today's misused notion of catastrophic plans with Severe Event
 Coverage — a universal, actuarially sound insurance floor designed to prevent medical
@@ -38,6 +50,14 @@ for the events that require pooled risk rather than routine household budgeting.
 ---
 
 ## Core Design Principle
+
+The system separates two layers based on the clinical and economic nature of the
+service. Shoppable services — predictable, schedulable, comparable — operate in the
+transparent market layer where price discovery and competition can function.
+Non-shoppable services — where the patient cannot delay, compare, or meaningfully
+consent in the moment — are covered through the Severe Event Coverage floor and
+governed by the same utility-rate discipline that applies whenever market pricing
+cannot protect patients.
 
 Severe Event Coverage is event-based, not deductible-based. Coverage is triggered by
 defined medical events and bundled clinical episodes — not by arbitrary out-of-pocket
@@ -76,7 +96,7 @@ Severe Event Coverage applies automatically to emergency and trauma admissions, 
 surgical procedures, serious illness diagnoses requiring inpatient or complex care,
 and high-cost medical episodes exceeding defined clinical thresholds. Coverage applies
 at the episode level and includes all services required to treat the event, subject to
-bundled pricing and regulated rate frameworks defined elsewhere in this stack.
+bundled pricing and utility-rate frameworks maintained across the SEC layer.
 
 SEC does not cover primary care, urgent care, routine diagnostics and imaging,
 predictable outpatient treatments, or preventive services and chronic disease
@@ -86,15 +106,39 @@ recreates the distortion this reform is designed to eliminate.
 
 ---
 
+## The SEC Utility Framework
+
+All SEC-covered care is governed by the same utility-rate framework. The governing
+principle is the same one that applies to electricity, water, and fire departments:
+where services are essential, cannot be refused, and cannot be disciplined by
+competition, pricing must be governed structurally.
+
+That governance includes mandatory cost and price transparency through standardized,
+machine-readable cost disclosures; regulated rate bands benchmarked against comparable
+providers and constrained by efficiency standards; anti-monopoly pricing controls that
+prevent providers from leveraging patient non-shoppability into unconstrained markups;
+and anti-gaming enforcement that prevents reclassification, unbundling, and upcoding.
+
+The specific application of these controls varies by care type within the SEC layer.
+Emergency and trauma services, where patients have zero shopping ability, face the
+most direct application. Scheduled complex procedures, where patients have slightly
+more agency but cost and complexity still exceed individual budgeting capacity, are
+governed through bundled-episode pricing. The mechanism adapts; the principle does
+not.
+
+---
+
 ## Emergency Care Interface
 
-SEC remains the baseline payer of record for emergency care. Private insurance may
-supplement above the SEC floor, but emergency providers are reimbursed through
-regulated utility-rate frameworks rather than opaque negotiated charges.
+SEC is the baseline payer of record for emergency care. Private insurance may
+supplement above the SEC floor, but emergency providers are reimbursed through the
+SEC utility-rate framework rather than opaque negotiated charges.
 
-Pricing discipline is imposed through utility regulation rather than claims
+Pricing discipline is imposed through utility-rate governance rather than claims
 negotiation, because claims negotiation after the fact is not discipline. It is a
-billing dispute that the patient gets caught in the middle of.
+billing dispute that the patient gets caught in the middle of. The emergency context
+is the clearest case of why this matters — but the same principle applies wherever
+the patient cannot protect themselves through market behavior.
 
 ---
 
@@ -105,6 +149,10 @@ bundled episode prices, and delivered through competing hospitals and surgery ce
 SEC covers the full episode — including standard post-operative care and defined
 complication windows. The patient is not exposed to unbundled surprise costs after
 the procedure is over and they are no longer in a position to contest anything.
+
+Bundled-episode pricing for scheduled procedures is a form of utility-rate governance
+applied to the scheduled context: the complete price is known, transparent, and
+bounded in advance. Competition among providers operates within that structure.
 
 ---
 
@@ -193,19 +241,23 @@ first place.
 
 This is not single-payer insurance. It is not comprehensive first-dollar coverage. It
 is not a government-run insurance monopoly. It is not a denial-based utilization
-control system. It is actuarial correction paired with consumer protection. The
-government sets the floor and publishes the benchmark. Private insurers compete above
-it. Patients are protected and informed. That is the whole design.
+control system. It is actuarial correction paired with consumer protection, executed
+through a utility-governed coverage floor. The government sets the floor, governs
+pricing within it, and publishes the benchmark. Private insurers compete above it.
+Patients are protected and informed. That is the whole design.
 
 ---
 
 ## Bottom Line
 
 Severe Event Coverage replaces hollow catastrophic plans with a real insurance floor
-that protects people when serious illness or injury strikes. By establishing a
-universal actuarial baseline, SEC exposes which insurance products add real value and
-which rely on complexity and cost-shifting to survive. Coverage is universal.
-Competition is preserved. Tissue-paper insurance becomes empirically visible rather
+that protects people when serious illness or injury strikes. The SEC layer is governed
+as a public utility — the same way electricity, water, and fire departments are
+governed — because non-shoppable healthcare requires structural pricing discipline,
+not market competition. By establishing a universal, utility-governed actuarial
+baseline, SEC exposes which insurance products add real value and which rely on
+complexity and cost-shifting to survive. Coverage is universal. Competition is
+preserved above the floor. Tissue-paper insurance becomes empirically visible rather
 than politically debated.
 
 You are covered when it matters. You can see what everything else is actually worth.

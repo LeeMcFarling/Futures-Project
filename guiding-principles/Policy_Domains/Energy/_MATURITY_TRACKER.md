@@ -1,6 +1,6 @@
 # Domain Maturity Tracker: Energy
 
-**Last Updated:** 2026-05-13
+**Last Updated:** 2026-06-04
 **Overall Domain Phase:** 3
 **Domain Owner:** TBD
 
@@ -45,6 +45,7 @@ Achieve energy abundance as the foundation of economic competitiveness — throu
 | Deployment_Architecture | 3 | 2 | ~1,756 | Deployment sequence and pilot geography | public-capital-authority, execution-corps-spec | Deployment sequence spec; pilot geography selection | TBD |
 | Regulatory_Modernization | 3 | 1 | ~1,977 | Sector-specific regulatory overlay depth; FERC coordination | energy-regulatory-modernization-sandbox, Institutional-Modernization (Regulatory_Compression) | FERC interface; sector-specific RMS overlay | TBD |
 | Siting_and_Participation | 3 | 1 | ~1,403 | Community participation spec; revenue sharing structure | public-capital-authority | Revenue sharing design | TBD |
+| Demand_Cost_Allocation | 0 | 0 | 0 | **TODO: Hyperscaler demand delta coverage brief** — large new commercial loads (data centers, AI compute facilities) must pay for the incremental grid infrastructure their demand delta creates; costs not socialized to existing ratepayers; pre-interconnection grid impact study establishes demand baseline and delta; hyperscaler pays for all transmission, substation, and distribution upgrades attributable to their load; ongoing capacity charge reflects their grid infrastructure share; creates accurate location incentives (choose sites with existing headroom, invest in on-site generation/storage, participate in demand response); closes the gap where abundance-side price reductions are offset by infrastructure cost socialization from large new loads; cross-ref: energy-regulatory-modernization-sandbox (interconnection reform), energy-siting-and-distributed-participation-overlay (prosumer participation), Technology_and_Data (hyperscalers as IDP compute infrastructure) | energy-regulatory-modernization-sandbox, public-capital-authority | Write demand delta coverage brief | TBD |
 | PCA_Finance | 3 | 1 | ~2,812 | Portfolio-level exit strategy; recycling timeline | public-capital-authority-and-allocation-framework | Exit strategy spec; recycling cadence | TBD |
 
 ---
@@ -85,6 +86,7 @@ Achieve energy abundance as the foundation of economic competitiveness — throu
 - [x] **PCA finance strategies** — pca-finance-strategies.md: PCA energy portfolio design, debt/equity instruments, recycling mechanics ✅
 
 ### Tier 2: Structural Gaps (Incomplete Coverage)
+- [ ] **Hyperscaler demand delta coverage** — BRIEF NEEDED: large new commercial loads (data centers, AI compute) pay for the incremental grid infrastructure their demand creates; pre-interconnection impact study establishes demand delta; all upgrade costs (transmission, substations, distribution) attributed to the new load, not socialized to existing ratepayers; ongoing capacity charges reflect grid infrastructure share; Northern Virginia/Dominion Energy pattern is the documented failure mode — consumer advocates have flagged residential ratepayers subsidizing trillion-dollar corporation grid buildouts; accurate cost attribution changes hyperscaler location decisions toward sites with existing grid capacity and creates incentives for on-site generation, storage, and demand response participation; pairs with supply-side abundance work to complete the consumer price protection picture: abundance brings prices down, demand delta coverage prevents large new loads from pushing them back up through rate base socialization — Target: Phase 2
 - [ ] **Nuclear permitting reform** — specific NRC reform pathway, small modular reactor (SMR) permitting doctrine — Target: Phase 4
 - [ ] **Grid reliability during transition** — gas backstop governance; reliability standards under renewable penetration — Target: Phase 4
 - [ ] **Manufacturing demand integration** — energy demand forecast tied to manufacturing reindustrialization ramp — Target: Phase 4
@@ -110,6 +112,7 @@ Achieve energy abundance as the foundation of economic competitiveness — throu
 
 | Date | Subdomain | Change | Phase Impact |
 |------|-----------|--------|--------------|
+| 2026-06-04 | Demand_Cost_Allocation | TODO logged: hyperscaler demand delta coverage brief — large new commercial loads pay for incremental grid infrastructure their demand delta creates; cost causer pays principle applied to data center interconnection; prevents supply-side price reductions being offset by infrastructure cost socialization; Northern Virginia Dominion pattern as documented failure mode; cross-ref Energy RMS (interconnection reform) and siting overlay (prosumer participation) | New subdomain at Phase 0 |
 | 2026-05-13 | All | Domain decomposed from Economic_Prosperity; YAML updated (domain: Energy, subdomain: Energy, slug prefix /energy/); maturity tracker created | Domain established |
 | 2026-01-28 | All | Domain created (as subdomain of Economic_Prosperity); 7 files; YAML standardized | 0 → 3 |
 

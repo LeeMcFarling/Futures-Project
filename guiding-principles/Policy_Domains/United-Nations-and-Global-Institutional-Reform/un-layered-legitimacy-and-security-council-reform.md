@@ -4,7 +4,7 @@ title: UN Reform — Security Council Reform and Layered Legitimacy Architecture
 sidebar_label: Security Council Reform & Layered Legitimacy
 sidebar_position: 2
 slug: /national-security/un-reform/security-council-layered-legitimacy
-domain: National_Security
+domain: United-Nations-and-Global-Institutional-Reform
 subdomain: UN_Reform
 policy_type: Institutional Reform Framework
 status: Draft

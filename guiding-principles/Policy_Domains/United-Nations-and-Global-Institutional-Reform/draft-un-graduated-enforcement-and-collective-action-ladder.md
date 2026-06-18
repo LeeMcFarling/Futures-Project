@@ -4,7 +4,7 @@ title: UN Reform — Graduated Enforcement and Collective Action Ladder
 sidebar_label: Enforcement Ladder
 sidebar_position: 5
 slug: /national-security/un-reform/enforcement-ladder
-domain: National_Security
+domain: United-Nations-and-Global-Institutional-Reform
 subdomain: UN_Reform
 policy_type: Enforcement Architecture
 status: Draft

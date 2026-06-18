@@ -4,7 +4,7 @@ title: Diagnosis — The Structural Failure of the Current International Order
 sidebar_label: International Order Diagnosis
 sidebar_position: 1
 slug: /national-security/un-reform/diagnosis
-domain: National_Security
+domain: United-Nations-and-Global-Institutional-Reform
 subdomain: UN_Reform
 policy_type: Diagnostic Framework
 status: Draft

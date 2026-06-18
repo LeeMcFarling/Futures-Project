@@ -84,10 +84,10 @@ correctly and that the data flowing through it is honest.
 ## What SEC Covers — Operational Definition
 
 Severe Event Coverage activates on defined clinical events. For operational purposes,
-activation is triggered by emergency and trauma admissions designated under the
-utility regulation framework, major surgical procedures delivered through the bundled
-episode pricing system, serious illness episodes meeting defined inpatient or complex
-care thresholds, and high-cost episodes exceeding the statutory clinical threshold
+activation is triggered by emergency and trauma admissions covered under the SEC
+utility framework, major surgical procedures delivered through the bundled episode
+pricing system, serious illness episodes meeting defined inpatient or complex care
+thresholds, and high-cost episodes exceeding the statutory clinical threshold
 established in the insurance architecture.
 
 Coverage applies at the episode level and includes all services within the defined
@@ -344,8 +344,8 @@ pool management function, and the actuarial reference class maintenance. This is
 operational core of the reformed healthcare system and it requires a permanent
 institution to run it. The second is healthcare market enforcement — price
 transparency enforcement, market boundary rules that keep insurance excluded from
-primary care and urgent care, anti-gaming audits, emergency utility rate discipline,
-and the insurance product classification system. Markets do not self-enforce. HETA's
+primary care and urgent care, anti-gaming audits, SEC utility-rate discipline across
+all non-shoppable care, and the insurance product classification system. Markets do not self-enforce. HETA's
 standing enforcement function is what keeps the market structure honest after the
 transition is complete.
 

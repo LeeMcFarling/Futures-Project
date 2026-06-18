@@ -4,7 +4,7 @@ title: UN Reform — Conflict Screening and Selective Recusal Architecture
 sidebar_label: Conflict Screening & Recusal
 sidebar_position: 4
 slug: /national-security/un-reform/conflict-screening-recusal
-domain: National_Security
+domain: United-Nations-and-Global-Institutional-Reform
 subdomain: UN_Reform
 policy_type: Institutional Integrity Framework
 status: Draft

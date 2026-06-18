@@ -14,9 +14,10 @@ tags:
 description: >
   Establishes Election Day as a federal holiday and restructures the primary
   calendar so that all federal primaries occur on a single national holiday
-  exactly one year before the general election, maximizing participation,
-  reducing partisan extremity in candidate selection, and creating a
-  structured deliberative window between primary and general contests.
+  in August — approximately three months before the November general election —
+  maximizing participation, reducing partisan extremity in candidate selection,
+  and creating a focused, defined campaign window that structurally limits
+  fundraising duration and calendar exhaustion.
 domain: Democratic_Integrity
 subdomain: Electoral_Reform
 policy_type: Policy Framework
@@ -37,9 +38,9 @@ related_initiatives:
 
 ## Summary
 
-This proposal establishes **Election Day as a federal public holiday** for both primary and general elections, and restructures the federal primary calendar so that all primaries occur on a **single unified national Primary Day, held one year before the corresponding general election**.
+This proposal establishes **Election Day as a federal public holiday** for both primary and general elections, and restructures the federal primary calendar so that all primaries occur on a **single unified national Primary Day, held on the first Tuesday after the first Monday in August** — approximately three months before the November general election.
 
-Together these reforms address two compounding failures in the current electoral system: participation barriers that suppress turnout and systematically skew candidate selection toward activated partisan minorities, and a fragmented, rolling primary calendar that rewards early-state dominance, exhausts candidates and voters alike, and produces nominees before most Americans have meaningfully engaged.
+Together these reforms address two compounding failures in the current electoral system: participation barriers that suppress turnout and systematically skew candidate selection toward activated partisan minorities, and a fragmented, rolling primary calendar that rewards early-state dominance, exhausts candidates and voters alike, and produces nominees before most Americans have meaningfully engaged. The three-month window between August primary and November general election structurally limits the fundraising period, reduces the total cost of running for office, and creates a focused deliberative campaign season without the calendar exhaustion of the current system.
 
 ---
 
@@ -65,7 +66,7 @@ Maximizing primary turnout by holding primaries on a national holiday directly d
 
 The current primary calendar fragments candidate selection across months, amplifies the influence of a handful of early states whose demographics do not represent the national electorate, and produces nominees so early that the general election campaign becomes exhausting and disconnected from real deliberation.
 
-A unified national Primary Day held exactly one year before the general election solves several problems simultaneously. It eliminates early-state distortion. It creates a clean, legible two-stage electoral calendar that voters can actually track. It provides a full year for the field to consolidate, for voters to evaluate the primary results, and for genuine policy debate before the general election. And by pairing Primary Day with a national holiday, it applies the participation benefits equally across all states simultaneously rather than rewarding early-state turnout.
+A unified national Primary Day held in August — approximately three months before the November general election — solves several problems simultaneously. It eliminates early-state distortion. It creates a clean, legible two-stage electoral calendar that voters can actually track. It provides a focused, defined campaign window between primary and general election rather than the current year-long exhaustion. And by pairing Primary Day with a national holiday, it applies the participation benefits equally across all states simultaneously rather than rewarding early-state turnout. Critically, a three-month general campaign window structurally limits the total amount of money candidates need to raise — reducing the fundraising imperative that currently dominates a legislator's time in office.
 
 ---
 
@@ -86,7 +87,7 @@ This reform requires no change to existing voting procedures, ballot design, or 
 
 ### 2. Unified National Primary Day
 
-All federal primary elections — for the House, Senate, and Presidency — are consolidated onto a **single national Primary Day**, held on the first Tuesday after the first Monday in November, **exactly one year before the corresponding general election**.
+All federal primary elections — for the House, Senate, and Presidency — are consolidated onto a **single national Primary Day**, held on the **first Tuesday after the first Monday in August**, approximately three months before the November general election.
 
 - Primary Day is designated a **federal public holiday** under the same terms as general Election Day.
 - All states hold their federal primaries simultaneously on this date.
@@ -95,24 +96,24 @@ All federal primary elections — for the House, Senate, and Presidency — are 
 
 ---
 
-### 3. The One-Year Deliberative Window
+### 3. The Three-Month Deliberative Window
 
-The one-year interval between Primary Day and general Election Day is a structural feature, not incidental timing.
+The approximately three-month interval between August Primary Day and the November general election is a structural feature, not incidental timing.
 
 The window serves several functions:
 
-- Candidates who advance from the primary have sufficient time to build national coalitions without the compressed panic dynamics of a short general campaign.
-- Voters have a full year to evaluate candidates, observe their conduct, and engage with policy differences before the final vote.
+- Candidates who advance from the primary have sufficient time to build general election coalitions without the exhaustion dynamics of a year-long campaign.
+- The campaign period is long enough for genuine policy comparison but short enough to structurally limit total fundraising requirements — reducing the money candidates need to raise and the time they spend raising it.
 - Third-party and independent candidates who did not participate in major-party primaries have a defined and meaningful window to qualify for the general election ballot under standardized access rules.
-- The media and civic information environment has time to move beyond primary horse-race coverage into substantive policy comparison.
+- The media and civic information environment has time to move from primary horse-race coverage into substantive policy comparison.
 
-The interval also creates a natural evaluation checkpoint. Candidates whose primary coalition proves narrow, whose conduct becomes disqualifying, or whose policy positions prove untenable have a year in which that becomes visible — before the general election, not after.
+The interval also creates a natural evaluation checkpoint. Candidates whose primary coalition proves narrow, whose conduct becomes disqualifying, or whose policy positions prove untenable have three months in which that becomes visible — before the general election, not after.
 
 ---
 
 ### 4. Ballot Access Standardization for the General Election Window
 
-The one-year window between Primary Day and the general election creates a defined pathway for third-party and independent candidates to qualify for general election ballots.
+The three-month window between August Primary Day and the November general election creates a defined pathway for third-party and independent candidates to qualify for general election ballots.
 
 - Standardized federal ballot access thresholds replace the current patchwork of state-by-state signature requirements, many of which are designed to suppress third-party entry.
 - Candidates who demonstrate a defined threshold of small-dollar donor support — consistent with the National Democracy Fund matching architecture — qualify automatically for federal general election ballots in all states.
@@ -150,7 +151,7 @@ Consolidating primaries onto a national holiday and maximizing turnout requires 
 - A cleaner, more legible two-stage national electoral calendar.
 - Elimination of early-state distortion in presidential primary dynamics.
 - A defined, fair pathway for third-party and independent candidates to reach general election ballots.
-- A full deliberative year between primary results and general election voting.
+- A focused three-month deliberative window between primary results and general election voting — long enough for genuine policy comparison, short enough to structurally limit total campaign fundraising requirements.
 
 ---
 

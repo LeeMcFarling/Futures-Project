@@ -4,7 +4,7 @@ title: UN Reform — Platform Emergency Directives and Transnational Digital Cri
 sidebar_label: Platform Emergency Directives
 sidebar_position: 6
 slug: /national-security/un-reform/platform-emergency-directives
-domain: National_Security
+domain: United-Nations-and-Global-Institutional-Reform
 subdomain: UN_Reform
 policy_type: Emergency Governance Framework
 status: Draft
