@@ -48,8 +48,6 @@ The fix is not complicated in concept. Benefits should phase out gradually and i
 
 ## What This Act Does
 
-## What This Act Does
-
 This Act establishes three core guarantees for working-age, non-disabled households.
 
 The first guarantee is that earning more always helps. Post-tax-and-transfer income — what a household actually has to spend after accounting for taxes, benefits received, and benefits lost — must go up every time earned income goes up. This sounds obvious, but the current system regularly violates it.
@@ -99,8 +97,6 @@ The phase-out entry point — the income level at which benefit withdrawal begin
 DoDA certifies and publishes regional parameters annually alongside the heatmap. States may submit supplementary data for review if they believe their regional parameters are miscalibrated, and DoDA adjudicates those submissions through a defined process.
 
 This is the same heatmap infrastructure that calibrates wage floors under the Regional Wage Modernization Pilot and supports credential portability and workforce planning across the labor stack. It is not a new data system built for this Act. It is an existing instrument running a second policy function.
-
-## The Phase-Out Formula
 
 ## The Phase-Out Formula
 
