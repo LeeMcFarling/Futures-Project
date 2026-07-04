@@ -14,6 +14,8 @@ description: >
   Modern border security framework centered on persistent monitoring, predictive
   deployment, and joint enforcement to stop illegal crossings and dismantle
   trafficking networks.
+phase: 2
+
 ---
 
 ## Core principle

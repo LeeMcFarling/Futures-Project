@@ -15,6 +15,8 @@ tags:
 description: >
   Structures public capital for agriculture as long-term investment rather than
   permanent subsidy, with recyclable capital mechanisms and clear performance metrics.
+phase: 2
+
 ---
 
 # Financing & Public Capital for Agricultural Resilience

@@ -8,6 +8,7 @@ domain: Labor_and_Economic_Security
 subdomain: Public_Facing
 policy_type: Stakeholder Communication
 status: Draft
+phase: 2
 version: 0.3
 author: Futures Project
 related_instruments:

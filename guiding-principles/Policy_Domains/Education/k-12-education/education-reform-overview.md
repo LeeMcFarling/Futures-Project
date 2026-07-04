@@ -8,6 +8,7 @@ domain: Education
 subdomain: K12_Reform
 policy_type: Strategic Overview
 status: Draft
+phase: 2
 version: 0.3
 author: Futures Project
 accelerants:

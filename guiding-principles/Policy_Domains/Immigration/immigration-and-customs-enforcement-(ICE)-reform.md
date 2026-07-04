@@ -14,6 +14,8 @@ description: >
   Reforms to U.S. immigration enforcement preserving necessary state capacity while
   restoring public trust through transparency, legality, and humane civilian
   law-enforcement standards.
+phase: 2
+
 ---
 
 ## Purpose

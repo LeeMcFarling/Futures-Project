@@ -15,6 +15,8 @@ description: >
   Federally backed, state-opt-in pilot framework for transitioning the U.S. healthcare
   system to a unified market with Severe Event Coverage (SEC), using cross-state risk
   pooling and annual expansion decision gates.
+phase: 2
+
 ---
 
 # Healthcare Transition and State Pilot Framework

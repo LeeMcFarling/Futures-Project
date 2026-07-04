@@ -8,6 +8,7 @@ domain: Trade_Policy
 subdomain: Trade_Policy
 policy_type: Strategic Trade Architecture
 status: Draft
+phase: 2
 version: 0.1
 author: Futures Project
 last_updated: 2026-04-10

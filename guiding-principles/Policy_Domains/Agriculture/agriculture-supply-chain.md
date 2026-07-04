@@ -15,6 +15,8 @@ tags:
 description: >
   Restores competitive, resilient, and regionally balanced processing and
   supply-chain capacity so farmers have real market access and bargaining power.
+phase: 2
+
 ---
 
 # Supply Chain & Processing Capacity

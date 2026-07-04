@@ -16,6 +16,8 @@ description: >
   Proposes replacing Social Security retirement benefits for future birth cohorts
   with a universal, prefunded superannuation account, shifting retirement financing
   from demographic dependence to owned, portable capital.
+phase: 2
+
 ---
 
 

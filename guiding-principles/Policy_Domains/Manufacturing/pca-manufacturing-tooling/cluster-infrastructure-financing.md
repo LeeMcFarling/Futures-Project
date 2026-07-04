@@ -8,6 +8,7 @@ domain: Manufacturing
 subdomain: Manufacturing
 policy_type: Physical Infrastructure Financing
 status: Draft
+phase: 2
 version: 0.2
 author: Futures Project
 dependencies:

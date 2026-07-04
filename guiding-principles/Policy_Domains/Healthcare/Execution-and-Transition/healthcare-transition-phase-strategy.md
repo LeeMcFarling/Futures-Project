@@ -7,6 +7,7 @@ domain: Healthcare
 subdomain: Execution_and_Transition
 policy_type: Phased Transition Framework
 status: Draft
+phase: 2
 version: 0.3
 author: Futures Project
 last_updated: 2026-03-23

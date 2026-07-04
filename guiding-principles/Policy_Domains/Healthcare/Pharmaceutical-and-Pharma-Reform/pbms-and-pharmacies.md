@@ -15,6 +15,8 @@ description: >
   Framework for restructuring pharmacy benefit managers (PBMs) and pharmacy markets
   so pharmacies function as regulated distribution hubs with fully transparent
   pricing aligned to cost-plus floors and recoupment-bound ceilings.
+phase: 2
+
 ---
 
 # Pharmacy and PBM Reform Framework

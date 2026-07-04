@@ -14,6 +14,8 @@ description: >
   Stage-based authorization and post-market safety framework replacing the false
   binary of approved vs. unsafe with an explicit, evidence-aligned progression
   model that formalizes uncertainty and makes reversibility explicit.
+phase: 2
+
 ---
 
 ## Purpose

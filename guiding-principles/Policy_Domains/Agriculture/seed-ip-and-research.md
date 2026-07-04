@@ -16,6 +16,8 @@ description: >
   Accelerates agricultural trait innovation while restoring competitive market
   dynamics and lowering long-term input costs for farmers through targeted IP
   reform and research collaboration.
+phase: 2
+
 ---
 
 # Seed IP & Agricultural Research

@@ -14,6 +14,8 @@ description: >
   Establishes uniform age and term limits across federal branches to enforce
   renewal, reduce entrenchment, and separate time-bounded authority from
   enduring expertise.
+phase: 2
+
 ---
 
 # Federal Age and Term Limits

@@ -5,6 +5,7 @@ domain: National_Security
 subdomain: China_Strategy
 policy_type: Strategic Doctrine
 status: Draft
+phase: 2
 version: 0.3
 dependencies:
   - defense-posture

@@ -6,6 +6,7 @@ domain: Democratic_Integrity
 subdomain: Civil_Rights_and_Access_Markets
 policy_type: Civil Rights Infrastructure Framework
 status: Draft
+phase: 3
 version: 0.5
 author: Futures Project
 changelog:

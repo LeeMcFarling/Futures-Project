@@ -14,6 +14,8 @@ description: >
   Strict employer accountability and labor standards across all immigration pathways
   to prevent exploitation, protect domestic wages, and ensure legal immigration
   strengthens the U.S. workforce.
+phase: 2
+
 ---
 
 ## Purpose

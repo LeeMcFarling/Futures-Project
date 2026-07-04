@@ -8,6 +8,7 @@ domain: Healthcare
 subdomain: Care_Delivery_and_Insurance
 policy_type: Cross-Domain Integration Framework
 status: Draft
+phase: 2
 version: 0.1
 author: Futures Project
 last_updated: 2026-05-03

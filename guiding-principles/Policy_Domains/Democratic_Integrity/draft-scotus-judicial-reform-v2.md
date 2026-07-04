@@ -8,6 +8,7 @@ domain: Democratic_Integrity
 subdomain: Judicial_Reform
 policy_type: Institutional Reform Framework
 status: Draft
+phase: 2
 version: 0.2
 author: Futures Project
 last_updated: 2026-04-30

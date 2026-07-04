@@ -18,6 +18,8 @@ description: >
   insurance to protecting individuals against severe, low-frequency, high-cost
   medical events through Severe Event Coverage (SEC), governed as a public utility
   across the full range of non-shoppable care.
+phase: 2
+
 ---
 
 ## Purpose and Scope

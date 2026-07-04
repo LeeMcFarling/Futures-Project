@@ -8,6 +8,7 @@ domain: Framework_Foundations
 subdomain: System_Axioms
 policy_type: Foundational Framework
 status: Draft
+phase: 2
 version: 0.1
 author: Futures Project
 last_updated: 2026-03-26

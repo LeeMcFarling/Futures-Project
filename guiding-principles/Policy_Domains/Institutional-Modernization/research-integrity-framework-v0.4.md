@@ -8,6 +8,7 @@ domain: Institutional_Modernization
 subdomain: Evidence_and_Accountability
 policy_type: Institutional Infrastructure
 status: draft
+phase: 3
 version: 0.4
 author: Futures Project
 last_updated: 2026-05-29

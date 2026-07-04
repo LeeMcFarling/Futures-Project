@@ -8,6 +8,7 @@ domain: National_Security
 subdomain: Foreign_Policy
 policy_type: Strategic Doctrine
 status: Draft
+phase: 2
 version: 0.3
 author: Futures Project
 last_updated: 2026-04-10

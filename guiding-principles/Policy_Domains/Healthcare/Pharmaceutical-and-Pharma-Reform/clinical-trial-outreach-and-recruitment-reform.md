@@ -14,6 +14,8 @@ description: >
   National clinical-trial outreach and recruitment framework to reduce cost,
   delay, and failure risk through a privacy-preserving eligibility discovery
   layer that is patient-controlled and opt-in.
+phase: 2
+
 ---
 
 ## Purpose

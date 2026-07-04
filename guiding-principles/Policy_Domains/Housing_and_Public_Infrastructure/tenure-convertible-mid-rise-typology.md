@@ -8,6 +8,7 @@ domain: Housing_and_Public_Infrastructure
 subdomain: Housing_Integration
 policy_type: Housing Deployment Framework
 status: Draft
+phase: 2
 version: 0.1
 author: Futures Project
 dependencies:

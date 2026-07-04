@@ -8,6 +8,7 @@ domain: Budget_and_Fiscal_Policy
 subdomain: Budget_and_Fiscal_Policy
 policy_type: Core Fiscal Doctrine
 status: Draft
+phase: 2
 version: 0.2
 author: Futures Project
 dependencies:

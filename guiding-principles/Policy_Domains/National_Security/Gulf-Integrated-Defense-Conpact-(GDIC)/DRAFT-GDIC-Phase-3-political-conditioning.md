@@ -8,6 +8,7 @@ domain: National_Security
 subdomain: Middle_East_Framework
 policy_type: Regional Political Framework
 status: Draft
+phase: 2
 version: 0.1
 author: Futures Project
 dependencies:

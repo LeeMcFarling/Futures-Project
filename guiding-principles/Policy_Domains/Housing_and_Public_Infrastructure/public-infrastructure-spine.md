@@ -22,6 +22,8 @@ description: >
   deployments.
 last_updated: 2026-03-26
 version: 0.2
+phase: 2
+
 ---
 
 # Public Infrastructure Spine — Modular Segment Catalog & Deployment Standard

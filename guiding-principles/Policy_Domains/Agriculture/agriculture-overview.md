@@ -16,6 +16,8 @@ description: >
   Overview of agricultural reform focused on lowering structural risk, expanding
   farmer agency, and restoring resilience at the farm level through integrated
   data systems, seed innovation, equipment rights, and water security.
+phase: 2
+
 ---
 
 # Agricultural Innovation in America — Overview

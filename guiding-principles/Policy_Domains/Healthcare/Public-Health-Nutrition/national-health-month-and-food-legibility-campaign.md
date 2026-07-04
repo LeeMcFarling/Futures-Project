@@ -8,6 +8,7 @@ domain: Healthcare
 subdomain: Public_Health_Nutrition
 policy_type: Campaign Architecture
 status: Draft
+phase: 2
 version: 0.1
 author: Futures Project
 dependencies:

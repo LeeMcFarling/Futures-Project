@@ -8,6 +8,7 @@ domain: Energy
 subdomain: Energy
 policy_type: Sector Overlay
 status: Draft
+phase: 3
 version: 1.2
 author: Futures Project
 dependencies:

@@ -14,6 +14,8 @@ description: >
   Entrepreneurship-focused immigration pathways enabling founders to rapidly start
   businesses while preventing visa arbitrage and labor misclassification through
   infrastructure-backed safeguards.
+phase: 2
+
 ---
 
 ## Core principle

@@ -14,6 +14,8 @@ description: >
   Clear, time-bound pathway for international students educated in the United States
   to transition into the domestic workforce in shortage sectors with strict
   enforcement and predictable outcomes.
+phase: 2
+
 ---
 
 ## Purpose

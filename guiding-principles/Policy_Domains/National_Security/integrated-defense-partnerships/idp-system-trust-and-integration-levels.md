@@ -8,6 +8,7 @@ domain: National_Security
 subdomain: Integrated_Defense_Partnerships
 policy_type: IDP Governance Framework
 status: Draft
+phase: 2
 version: 0.1
 author: Futures Project
 last_updated: 2026-04-09

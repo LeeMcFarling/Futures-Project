@@ -14,6 +14,8 @@ description: >
   Targeted, time-bound labor immigration system designed to fill verified
   workforce gaps while restoring circular migration and strengthening
   enforcement through predictable rules.
+phase: 2
+
 ---
 
 ## Purpose

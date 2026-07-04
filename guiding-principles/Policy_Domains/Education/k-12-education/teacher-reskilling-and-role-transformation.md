@@ -8,6 +8,7 @@ domain: Education
 subdomain: K12_Reform
 policy_type: Workforce Transformation
 status: Draft
+phase: 2
 version: 0.2
 author: Futures Project
 dependencies:

@@ -8,6 +8,7 @@ domain: Labor_and_Economic_Security
 subdomain: Wage_Modernization
 policy_type: Pilot Program
 status: Draft
+phase: 2
 version: 0.1
 author: Futures Project
 dependencies:

@@ -8,6 +8,7 @@ domain: Housing_and_Public_Infrastructure
 subdomain: Existing_Neighborhood_Treatment
 policy_type: Zoning Framework
 status: Draft
+phase: 2
 version: 0.1
 author: Futures Project
 dependencies:

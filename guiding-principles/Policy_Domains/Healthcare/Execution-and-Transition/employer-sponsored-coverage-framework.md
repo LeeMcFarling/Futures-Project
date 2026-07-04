@@ -14,6 +14,8 @@ description: >
   Transitional framework for unwinding employer-sponsored health insurance into a
   unified market with a universal Severe Event Coverage (SEC) floor, preserving
   labor mobility and institutional pluralism.
+phase: 2
+
 ---
 
 # Employer-Sponsored Coverage Transition Framework

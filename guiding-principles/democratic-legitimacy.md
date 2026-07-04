@@ -15,6 +15,8 @@ description: >
   A foundational framework outlining the causes of democratic legitimacy
   erosion and the principles required to restore trust, competence, and
   accountability through modern digital governance systems.
+phase: 2
+
 ---
 
 ## Problem Statement: The Crisis of Democratic Legitimacy

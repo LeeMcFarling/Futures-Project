@@ -8,6 +8,7 @@ domain: United-Nations-and-Global-Institutional-Reform
 subdomain: Domain_Articulation
 policy_type: Domain Overview
 status: Draft
+phase: 2
 version: 0.3
 author: Futures Project
 last_updated: 2026-03-04

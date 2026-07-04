@@ -8,6 +8,7 @@ domain: United-Nations-and-Global-Institutional-Reform
 subdomain: Development_Finance
 policy_type: Strategy Framework
 status: Draft
+phase: 2
 version: 0.2
 author: Futures Project
 last_updated: 2026-06-11

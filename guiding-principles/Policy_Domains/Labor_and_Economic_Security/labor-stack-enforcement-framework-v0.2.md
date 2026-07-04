@@ -8,6 +8,7 @@ domain: Labor_and_Economic_Security
 subdomain: Enforcement
 policy_type: Domain Enforcement Architecture
 status: Draft
+phase: 2
 version: 0.2
 author: Futures Project
 dependencies:

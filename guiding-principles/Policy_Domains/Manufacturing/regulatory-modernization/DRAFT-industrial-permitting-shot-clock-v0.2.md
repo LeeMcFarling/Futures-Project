@@ -8,6 +8,7 @@ domain: Manufacturing
 subdomain: Manufacturing
 policy_type: Procedural Enforcement Framework
 status: Draft
+phase: 2
 version: 0.2
 author: Futures Project
 dependencies:

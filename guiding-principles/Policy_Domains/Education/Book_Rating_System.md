@@ -14,6 +14,8 @@ description: >
   Establishes a standardized, transparent book rating system for K-12 education
   to replace ad-hoc bans with clear classification supporting age-appropriate
   learning and parental trust.
+phase: 2
+
 ---
 
 # **Policy Brief: Standardized Book Rating System for Education**

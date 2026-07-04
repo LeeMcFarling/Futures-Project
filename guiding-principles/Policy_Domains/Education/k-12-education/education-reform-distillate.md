@@ -8,6 +8,7 @@ domain: Education
 subdomain: K12_Reform
 policy_type: Public Distillate
 status: Draft
+phase: 2
 version: 0.1
 author: Futures Project
 dependencies:

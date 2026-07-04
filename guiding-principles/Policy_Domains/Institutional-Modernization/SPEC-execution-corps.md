@@ -8,6 +8,7 @@ domain: Institutional_Modernization
 subdomain: Institutional Design
 policy_type: Execution Instrument
 status: Draft
+phase: 3
 version: 1.0
 author: Futures Project
 dependencies:

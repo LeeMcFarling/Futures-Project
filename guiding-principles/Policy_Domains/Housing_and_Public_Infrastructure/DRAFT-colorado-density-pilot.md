@@ -8,6 +8,7 @@ domain: Housing_and_Public_Infrastructure
 subdomain: Modular_Reurbanization
 policy_type: Pilot Execution Framework
 status: Draft
+phase: 2
 version: 0.2
 author: Futures Project
 dependencies:

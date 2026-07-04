@@ -8,6 +8,7 @@ domain: Institutional_Modernization
 subdomain: Execution_Architecture
 policy_type: Execution Instrument
 status: draft
+phase: 3
 version: 0.1
 author: Futures Project
 last_updated: 2026-05-29

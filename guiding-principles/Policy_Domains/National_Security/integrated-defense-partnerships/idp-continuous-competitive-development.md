@@ -8,6 +8,7 @@ domain: National_Security
 subdomain: Integrated_Defense_Partnerships
 policy_type: Alliance Industrial Architecture
 status: Draft
+phase: 2
 version: 0.1
 author: Futures Project
 dependencies:

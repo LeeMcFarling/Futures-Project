@@ -14,6 +14,8 @@ description: >
   A structural framework for transforming the state from an adversarial regulator
   or slow gatekeeper into a lean technological partner that de-risks innovation,
   accelerates deployment, and enables productive work.
+phase: 2
+
 ---
 
 ## Executive Summary

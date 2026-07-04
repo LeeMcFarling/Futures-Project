@@ -15,6 +15,8 @@ tags:
 description: >
   Stabilizes and restores groundwater systems critical to American agriculture
   while preserving farmer agency and regional flexibility.
+phase: 2
+
 ---
 
 # Water & Aquifer Resilience

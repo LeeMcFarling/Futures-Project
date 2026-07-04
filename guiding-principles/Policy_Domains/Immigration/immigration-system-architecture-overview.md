@@ -14,6 +14,8 @@ description: >
   Modern U.S. immigration system built around domestic workforce alignment,
   targeted legal entry, strict separation between labor migration and asylum,
   and enforcement through predictable system design.
+phase: 2
+
 ---
 
 # System foundation

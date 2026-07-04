@@ -8,6 +8,7 @@ domain: Housing_and_Public_Infrastructure
 subdomain: Domain_Architecture
 policy_type: Instrumentation Manifest
 status: Draft
+phase: 2
 version: 0.1
 author: Futures Project
 last_updated: 2026-03-26

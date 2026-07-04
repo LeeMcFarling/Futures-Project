@@ -17,6 +17,8 @@ description: >
   fast-tracked deployment of modular public infrastructure through
   pre-certified standards, designated permitting authorities, and
   time-bound approvals.
+phase: 2
+
 ---
 
 # Special Transit Zones (STZs)

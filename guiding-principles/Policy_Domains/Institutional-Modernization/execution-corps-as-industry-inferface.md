@@ -4,6 +4,7 @@ title: Execution Corps — Industry Interface & Market Stability
 sidebar_label: Execution Corps (Industry Interface)
 slug: /institutional-design/execution-corps-industry
 status: Draft
+phase: 3
 version: 1.0
 category: Institutional Design
 policy_type: Companion Brief

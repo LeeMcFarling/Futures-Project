@@ -14,6 +14,8 @@ description: >
   Personalized book recommendation and supervised social learning system enabling
   students to discover reading material aligned with interests, age, and reading
   level while supporting healthy digital interaction.
+phase: 2
+
 ---
 
 Policy Brief: Book Recommendation & Supervised Social Learning Pilot

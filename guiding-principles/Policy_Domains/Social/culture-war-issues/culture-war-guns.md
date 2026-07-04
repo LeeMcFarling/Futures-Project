@@ -16,6 +16,8 @@ description: >
   A framework for examining gun policy not as a binary between confiscation
   and indifference, but as a problem of preventable harm, lawful ownership,
   due process, and trusted institutional design.
+phase: 2
+
 ---
 
 # Guns

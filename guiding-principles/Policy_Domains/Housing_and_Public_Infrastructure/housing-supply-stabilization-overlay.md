@@ -8,6 +8,7 @@ domain: Housing_and_Public_Infrastructure
 subdomain: Housing_Integration
 policy_type: Zoning & Institutional Deployment Framework
 status: Draft
+phase: 3
 version: 1.0
 author: Futures Project
 dependencies:

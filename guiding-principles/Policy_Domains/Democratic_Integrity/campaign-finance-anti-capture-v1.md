@@ -24,6 +24,7 @@ domain: Democratic_Integrity
 subdomain: Campaign_Finance_Reform
 policy_type: Governance Framework
 status: Draft
+phase: 4
 version: 1.0
 author: Futures Project
 last_updated: 2026-04-30

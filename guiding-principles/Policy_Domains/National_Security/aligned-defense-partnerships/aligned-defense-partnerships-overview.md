@@ -8,6 +8,7 @@ domain: National_Security
 subdomain: Aligned_Defense_Partnerships
 policy_type: Strategic Alignment Doctrine
 status: Draft
+phase: 3
 version: 1.0
 author: Futures Project
 last_updated: 2026-03-12

@@ -8,6 +8,7 @@ domain: Healthcare
 subdomain: Execution_and_Transition
 policy_type: Market Integrity and Enforcement Framework
 status: Draft
+phase: 3
 version: 0.4
 author: Futures Project
 last_updated: 2026-05-09

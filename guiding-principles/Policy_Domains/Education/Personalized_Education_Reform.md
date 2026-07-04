@@ -14,6 +14,8 @@ description: >
   Pilot evaluating whether AI-assisted, mastery-based learning systems can
   hyper-personalize instruction at scale, improve efficiency, and raise
   learning outcomes while preserving human judgment and educational values.
+phase: 2
+
 ---
 
 # **Policy Brief: AI Modernization Pilot for Learning & Assessment**

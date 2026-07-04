@@ -8,6 +8,7 @@ domain: Social
 subdomain: Culture_War_Issues
 policy_type: Democratic Settlement Framework
 status: Draft
+phase: 2
 version: 0.1
 author: Futures Project
 last_updated: 2026-04-21

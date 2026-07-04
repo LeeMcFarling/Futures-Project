@@ -8,6 +8,7 @@ domain: Criminal_Justice
 subdomain: System_Legitimacy
 policy_type: Access and Process Reform Framework
 status: Draft
+phase: 2
 version: 0.1
 author: Futures Project
 last_updated: 2026-04-07

@@ -15,6 +15,8 @@ tags:
 description: >
   Restores farmer control over owned equipment and farm-generated data while
   preserving innovation and competition in equipment markets.
+phase: 2
+
 ---
 
 # Equipment, Right-to-Repair & Farm Data Rights

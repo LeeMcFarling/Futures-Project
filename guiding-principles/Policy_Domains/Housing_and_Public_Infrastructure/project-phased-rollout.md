@@ -16,6 +16,8 @@ description: >
   A gated, pilot-first deployment framework governing how re-urbanization
   projects move from opt-in authorization to infrastructure delivery and
   mid-rise density through staged, performance-validated phases.
+phase: 2
+
 ---
 
 # Phased Re-Urbanization Rollout

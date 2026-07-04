@@ -8,6 +8,7 @@ domain: Institutional_Modernization
 subdomain: Legislative_Design
 policy_type: Sample Legislative Instrument
 status: Draft
+phase: 2
 version: 0.1
 author: Futures Project
 last_updated: 2026-03-23

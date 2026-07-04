@@ -8,6 +8,7 @@ domain: Technology_and_Data
 subdomain: Information Integrity & Platform Governance
 policy_type: Instrumentation Framework
 status: Draft
+phase: 3
 version: 0.1
 author: Futures Project
 dependencies:

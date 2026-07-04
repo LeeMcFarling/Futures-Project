@@ -18,6 +18,7 @@ domain: Healthcare
 subdomain: Care_Delivery_and_Insurance
 policy_type: Market Integration Framework
 status: Draft
+phase: 2
 version: 0.1
 author: Futures Project
 last_updated: 2026-03-23

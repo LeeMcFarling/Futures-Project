@@ -15,6 +15,8 @@ description: >
   Defines the Healthcare Infrastructure Layer that underpins reformed care delivery,
   specifying shared technical rails for authentication, authorization, data exchange,
   and payment settlement.
+phase: 2
+
 ---
 
 ## Purpose and Scope

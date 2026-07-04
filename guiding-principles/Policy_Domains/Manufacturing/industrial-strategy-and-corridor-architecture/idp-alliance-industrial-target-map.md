@@ -8,6 +8,7 @@ domain: Manufacturing
 subdomain: Manufacturing
 policy_type: Strategic Alignment Framework
 status: Draft
+phase: 3
 version: 0.4
 author: Futures Project
 dependencies:

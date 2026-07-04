@@ -8,6 +8,7 @@ domain: Institutional_Modernization
 subdomain: Regulatory_Compression
 policy_type: Execution Instrument
 status: Draft
+phase: 3
 version: 1.1
 author: Futures Project
 dependencies:

@@ -14,6 +14,8 @@ description: >
   Tests whether granting school principals direct operational control over
   budgets, paired with modern auditing and fraud detection, produces better
   outcomes and more responsible use of public funds.
+phase: 2
+
 ---
 
 Policy Brief: Principal-Led Budget Autonomy & Accountability Pilot

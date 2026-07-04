@@ -8,6 +8,7 @@ domain: Climate_Risk
 subdomain: Climate_Risk
 policy_type: Physical Risk Governance
 status: Draft
+phase: 2
 version: 0.2
 author: Futures Project
 last_updated: 2026-03-04

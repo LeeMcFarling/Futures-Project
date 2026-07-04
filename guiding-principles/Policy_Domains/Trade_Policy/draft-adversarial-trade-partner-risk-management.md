@@ -8,6 +8,7 @@ domain: Trade_Policy
 subdomain: Trade_Policy
 policy_type: Strategic Risk & Trade Governance
 status: Draft
+phase: 2
 version: 0.1
 author: Futures Project
 dependencies:

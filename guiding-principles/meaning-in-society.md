@@ -19,6 +19,8 @@ description: >
   and prosperous life—Community, Spirituality, Meaningful Work, and Family—
   and how democratic institutions should use them to guide design,
   investment, and long-term decision-making.
+phase: 2
+
 ---
 
 # The Four Foundations of a Meaningful and Prosperous Life

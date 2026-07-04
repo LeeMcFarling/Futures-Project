@@ -15,6 +15,8 @@ description: >
   Framework for addressing pharmaceutical market failures using the Public Capital
   Authority to fund upstream research, absorb downstream risk, and partner with
   private industry under bounded-return, public-interest contracts.
+phase: 2
+
 ---
 
 # Public Capital–Backed Drug Discovery and Translation Framework

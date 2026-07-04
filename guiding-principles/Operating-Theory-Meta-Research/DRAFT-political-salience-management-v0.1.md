@@ -8,6 +8,7 @@ domain: Framework_Foundations
 subdomain: System_Design_Principles
 policy_type: Foundational Design Principle
 status: Draft
+phase: 2
 version: 0.1
 author: Futures Project
 last_updated: 2026-05-10

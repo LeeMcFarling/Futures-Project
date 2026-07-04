@@ -8,6 +8,7 @@ domain: Technology_and_Data
 subdomain: Government_Integrity_Infrastructure
 policy_type: AI-Augmented Fraud Detection Framework
 status: Draft
+phase: 2
 version: 0.1
 author: Futures Project
 dependencies:

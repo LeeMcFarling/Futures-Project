@@ -8,6 +8,7 @@ domain: Education
 subdomain: K12_Reform
 policy_type: Standards and Accountability Framework
 status: Draft
+phase: 3
 version: 0.4
 author: Futures Project
 dependencies:

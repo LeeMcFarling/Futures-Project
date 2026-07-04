@@ -8,6 +8,7 @@ domain: National_Security
 subdomain: Security_Backstop_Partnerships
 policy_type: Regional Resilience Architecture
 status: Draft
+phase: 3
 version: 1.0
 author: Futures Project
 last_updated: 2026-03-12

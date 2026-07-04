@@ -8,6 +8,7 @@ domain: Budget_and_Fiscal_Policy
 subdomain: Budget_and_Fiscal_Policy
 policy_type: Companion Framework
 status: Draft
+phase: 2
 version: 0.2
 author: Futures Project
 dependencies:

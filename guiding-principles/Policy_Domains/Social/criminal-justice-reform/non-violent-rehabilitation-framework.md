@@ -8,6 +8,7 @@ domain: Criminal_Justice
 subdomain: Rehabilitation_and_Reentry
 policy_type: Domain Overview and Sub-Brief Scaffold
 status: Draft
+phase: 2
 version: 0.1
 author: Futures Project
 last_updated: 2026-04-07

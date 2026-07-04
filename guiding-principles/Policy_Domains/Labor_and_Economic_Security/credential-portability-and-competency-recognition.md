@@ -8,6 +8,7 @@ domain: Labor_and_Economic_Security
 subdomain: Labor_Mobility
 policy_type: Recognition Framework
 status: Draft
+phase: 3
 version: 0.5
 author: Futures Project
 dependencies:

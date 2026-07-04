@@ -17,6 +17,8 @@ description: >
   A guiding-principles framework for U.S. foreign policy focused on institutional
   reform, alliance resilience, and long-horizon civilizational risk reduction in a
   contested multipolar world.
+phase: 2
+
 ---
 
 ## Abstract

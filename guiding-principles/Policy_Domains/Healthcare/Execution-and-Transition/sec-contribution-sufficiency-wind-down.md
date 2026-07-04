@@ -8,6 +8,7 @@ domain: Healthcare
 subdomain: Fiscal_Architecture_and_Execution
 policy_type: Fiscal Stewardship and Anti-Ratchet Framework
 status: Draft
+phase: 2
 version: 0.1
 author: Futures Project
 last_updated: 2026-04-28

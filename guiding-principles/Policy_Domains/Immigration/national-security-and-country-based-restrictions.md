@@ -14,6 +14,8 @@ description: >
   Rule-based framework for restricting immigration pathways from countries posing
   national security risks while preserving lawful, targeted immigration aligned
   with U.S. economic needs.
+phase: 2
+
 ---
 
 ## Purpose

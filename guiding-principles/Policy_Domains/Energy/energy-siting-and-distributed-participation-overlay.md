@@ -8,6 +8,7 @@ domain: Energy
 subdomain: Energy
 policy_type: Land Use, Regulatory, and Market Participation Framework
 status: Draft
+phase: 2
 version: 0.1
 author: Futures Project
 dependencies:

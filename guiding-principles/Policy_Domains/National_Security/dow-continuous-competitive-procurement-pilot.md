@@ -8,6 +8,7 @@ domain: National_Security
 subdomain: Procurement_Reform
 policy_type: Industrial Competition Architecture
 status: Draft
+phase: 2
 version: 0.1
 author: Futures Project
 dependencies:

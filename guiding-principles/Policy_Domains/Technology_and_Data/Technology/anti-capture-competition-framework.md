@@ -8,6 +8,7 @@ domain: Technology_and_Data
 subdomain: Market Structure and Digital Competition
 policy_type: Competition Governance
 status: Draft
+phase: 2
 version: 0.1
 author: Futures Project
 last_updated: 2026-03-25

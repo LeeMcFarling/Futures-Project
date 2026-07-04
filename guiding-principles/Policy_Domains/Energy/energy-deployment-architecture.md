@@ -8,6 +8,7 @@ domain: Energy
 subdomain: Energy
 policy_type: Implementation Brief
 status: Draft
+phase: 3
 version: 1.0
 author: Futures Project
 dependencies:

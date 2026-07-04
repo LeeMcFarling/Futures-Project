@@ -8,6 +8,7 @@ domain: Education
 subdomain: K12_Reform
 policy_type: Funding & Infrastructure Model
 status: Draft
+phase: 3
 version: 0.5
 author: Futures Project
 dependencies:

@@ -7,6 +7,7 @@ domain: Institutional_Modernization
 subdomain: Market_Integrity_and_Public_Trust
 policy_type: Enforcement + Transition System
 status: Draft
+phase: 3
 version: 0.5
 author: Futures Project
 last_updated: 2026-04-10

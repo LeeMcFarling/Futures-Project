@@ -8,6 +8,7 @@ domain: Institutional_Modernization
 subdomain: Democratic Signal & Legitimacy Layer
 policy_type: Governance Architecture
 status: Draft
+phase: 2
 version: 0.2
 author: Futures Project
 last_updated: 2026-03-26

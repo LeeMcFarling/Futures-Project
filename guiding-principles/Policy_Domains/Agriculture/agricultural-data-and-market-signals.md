@@ -15,6 +15,8 @@ tags:
 description: >
   Restores information symmetry at the farm level by providing farmers timely,
   accessible market signals for better planting and production decisions.
+phase: 2
+
 ---
 
 # Agricultural Data & Market Signals

@@ -17,6 +17,8 @@ description: >
   A privacy-preserving, instant payment rail enabling transactions between
   people, businesses, banks, and government entities using cryptographic
   authorization rather than raw account or card data.
+phase: 2
+
 ---
 
 # Unified Payments Interface (UPI) — Privacy-Preserving Payment Rail  

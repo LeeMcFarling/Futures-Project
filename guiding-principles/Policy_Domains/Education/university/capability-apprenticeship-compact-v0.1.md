@@ -8,6 +8,7 @@ domain: Higher_Education
 subdomain: Workforce_and_Capability
 policy_type: Execution Framework
 status: draft
+phase: 2
 version: 0.1
 author: Futures Project
 last_updated: 2026-05-29

@@ -8,6 +8,7 @@ domain: Budget_and_Fiscal_Policy
 subdomain: Capital_Formation_and_Retirement
 policy_type: Fiscal Stabilization Framework
 status: Draft — Architecture Complete, Actuarial Review Needed
+phase: 4
 version: 0.6
 author: Futures Project
 dependencies:

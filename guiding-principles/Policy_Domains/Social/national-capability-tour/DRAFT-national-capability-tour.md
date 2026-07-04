@@ -8,6 +8,7 @@ domain: Institutional_Capacity
 subdomain: Civic Formation and Execution Readiness
 policy_type: Capacity Architecture
 status: Draft
+phase: 2
 version: 0.1
 author: Futures Project
 last_updated: 2026-03-24

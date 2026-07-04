@@ -8,6 +8,7 @@ domain: Economic_Prosperity
 subdomain: Labor_Mobility
 policy_type: System Architecture
 status: Draft
+phase: 2
 version: 0.1
 author: Futures Project
 last_updated: 2026-04-07

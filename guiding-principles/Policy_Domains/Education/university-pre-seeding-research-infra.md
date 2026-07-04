@@ -14,6 +14,8 @@ description: >
   Proposes structural reorientation of university research toward discovery
   pre-seeding, realigning academic incentives with genuine scientific discovery
   and creating durable funding pathways.
+phase: 2
+
 ---
 
 ## Purpose

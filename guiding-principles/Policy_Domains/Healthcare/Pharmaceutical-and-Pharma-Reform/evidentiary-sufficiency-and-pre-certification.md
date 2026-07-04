@@ -14,6 +14,8 @@ description: >
   Framework for evidentiary sufficiency and certification clarity to reduce
   regulatory ambiguity and trial overbuild by fixing success criteria ex ante
   while preserving safety authority.
+phase: 2
+
 ---
 
 ## Purpose

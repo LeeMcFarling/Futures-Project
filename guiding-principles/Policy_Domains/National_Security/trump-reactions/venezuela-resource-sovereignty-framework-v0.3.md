@@ -6,6 +6,7 @@ domain: National_Security
 subdomain: Trump_Reactions
 policy_type: Strategic Policy Brief
 status: Draft
+phase: 2
 version: 0.3
 author: Futures Project
 sidebar_label: Venezuela Resource Framework

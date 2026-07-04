@@ -8,6 +8,7 @@ domain: Manufacturing
 subdomain: Manufacturing
 policy_type: Pilot Framework
 status: Draft
+phase: 3
 version: 0.5
 author: Futures Project
 dependencies:

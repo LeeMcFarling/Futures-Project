@@ -15,6 +15,8 @@ description: >
   Proposes transitioning U.S. K-12 education toward a software-defined, AI-enabled
   model with standardized methodology, personalized learning paths, and teachers
   as facilitators of holistic development.
+phase: 2
+
 ---
 
 #### **Summary**

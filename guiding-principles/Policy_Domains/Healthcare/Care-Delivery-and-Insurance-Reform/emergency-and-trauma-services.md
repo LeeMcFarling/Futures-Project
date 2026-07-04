@@ -15,6 +15,8 @@ description: >
   Defines emergency and trauma services as non-shoppable care covered through
   Severe Event Coverage, subject to the same utility-rate discipline, anti-monopoly
   pricing controls, and anti-gaming enforcement that govern the SEC layer as a whole.
+phase: 2
+
 ---
 
 ## Purpose and Scope

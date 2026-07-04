@@ -8,6 +8,7 @@ domain: Criminal_Justice
 subdomain: Prevention_Layer
 policy_type: Crisis Response Framework
 status: Draft
+phase: 2
 version: 0.2
 author: Futures Project
 dependencies:

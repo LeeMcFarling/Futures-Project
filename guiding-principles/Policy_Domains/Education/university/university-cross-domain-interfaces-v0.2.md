@@ -8,6 +8,7 @@ domain: Higher_Education
 subdomain: Domain_Foundation
 policy_type: Interface Framework
 status: draft
+phase: 2
 version: 0.2
 author: Futures Project
 last_updated: 2026-05-29

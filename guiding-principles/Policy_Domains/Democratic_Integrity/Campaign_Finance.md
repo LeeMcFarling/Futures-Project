@@ -19,6 +19,7 @@ domain: Democratic_Integrity
 subdomain: Campaign_Finance_Reform
 policy_type: Policy Framework
 status: Draft
+phase: 3
 version: 0.1
 author: Futures Project
 last_updated: 2026-03-26

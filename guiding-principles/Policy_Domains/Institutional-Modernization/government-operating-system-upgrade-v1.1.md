@@ -8,6 +8,7 @@ domain: Institutional_Modernization
 subdomain: Execution_Architecture
 policy_type: System Doctrine
 status: Draft
+phase: 3
 version: 1.1
 author: Futures Project
 dependencies:

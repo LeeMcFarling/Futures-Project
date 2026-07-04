@@ -6,6 +6,7 @@ domain: Democratic_Integrity
 subdomain: Anti_Corruption
 policy_type: Constitutional Clarification
 status: Draft
+phase: 3
 version: 0.4
 author: Futures Project
 sidebar_label: Impeachment Triggers

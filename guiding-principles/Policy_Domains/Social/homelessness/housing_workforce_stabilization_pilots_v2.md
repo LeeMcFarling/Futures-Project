@@ -8,6 +8,7 @@ domain: Housing_and_Public_Infrastructure
 subdomain: Flex_Capacity
 policy_type: Pilot Program
 status: Draft
+phase: 2
 version: 0.2
 author: Futures Project
 dependencies:

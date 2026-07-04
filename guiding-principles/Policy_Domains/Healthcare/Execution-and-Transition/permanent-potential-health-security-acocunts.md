@@ -8,6 +8,7 @@ domain: Healthcare
 subdomain: Execution_and_Transition
 policy_type: Future-State Account Architecture Framework
 status: Draft
+phase: 2
 version: 0.1
 author: Futures Project
 last_updated: 2026-04-28

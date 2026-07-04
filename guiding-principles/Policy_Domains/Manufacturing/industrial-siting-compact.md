@@ -8,6 +8,7 @@ domain: Manufacturing
 subdomain: Industrial_Development
 policy_type: Deployment Framework
 status: Draft
+phase: 2
 version: 0.1
 author: Futures Project
 last_updated: 2026-04-07

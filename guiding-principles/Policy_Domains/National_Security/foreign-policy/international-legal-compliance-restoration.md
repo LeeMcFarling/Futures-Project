@@ -8,6 +8,7 @@ domain: National_Security
 subdomain: Foreign_Policy
 policy_type: Executive Doctrine and Institutional Restoration Framework
 status: Draft
+phase: 2
 version: 0.1
 author: Futures Project
 last_updated: 2026-04-06

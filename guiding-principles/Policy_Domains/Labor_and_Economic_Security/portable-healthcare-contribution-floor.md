@@ -8,6 +8,7 @@ domain: Labor_and_Economic_Security
 subdomain: Healthcare_Transition
 policy_type: Transition Framework
 status: Draft
+phase: 3
 version: 1.0
 author: Futures Project
 dependencies:

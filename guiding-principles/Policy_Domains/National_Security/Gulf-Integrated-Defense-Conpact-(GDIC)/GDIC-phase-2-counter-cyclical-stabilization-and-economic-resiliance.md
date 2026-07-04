@@ -8,6 +8,7 @@ domain: National_Security
 subdomain: Gulf_Defense_Compact
 policy_type: Economic Resilience Framework
 status: Draft
+phase: 2
 version: 0.1
 author: Futures Project
 last_updated: 2026-03-04

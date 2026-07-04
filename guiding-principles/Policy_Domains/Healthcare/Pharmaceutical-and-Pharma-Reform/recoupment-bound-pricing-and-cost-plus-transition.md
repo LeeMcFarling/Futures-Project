@@ -14,6 +14,8 @@ description: >
   Pricing framework separating legitimate development cost recovery from indefinite
   rent extraction through time-bounded, population-level recoupment followed by
   automatic transition to cost-plus pricing.
+phase: 2
+
 ---
 
 ## Purpose

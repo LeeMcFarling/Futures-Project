@@ -16,6 +16,8 @@ description: >
   Explicitly defines what this healthcare reform framework is not, preempting
   common mischaracterizations and drawing clear boundaries around governance,
   payment, data, and care delivery.
+phase: 2
+
 ---
 
 ## Purpose

@@ -8,6 +8,7 @@ domain: Housing_and_Public_Infrastructure
 subdomain: Civic_Architecture
 policy_type: Civic Identity & Public Authorship Framework
 status: Draft
+phase: 2
 version: 0.3
 author: Futures Project
 dependencies:

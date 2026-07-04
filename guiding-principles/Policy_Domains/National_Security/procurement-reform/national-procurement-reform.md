@@ -8,6 +8,7 @@ domain: National_Security
 subdomain: Procurement_Reform
 policy_type: Reform Framework
 status: Draft
+phase: 3
 version: 0.4
 author: Futures Project
 dependencies:

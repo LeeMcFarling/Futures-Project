@@ -14,6 +14,8 @@ description: >
   Pilot network of regional clinical trial infrastructure to reduce execution
   latency, operational risk, and measurement inconsistency in pharmaceutical,
   nutritional, and preventive research.
+phase: 2
+
 ---
 
 ## Purpose

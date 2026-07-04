@@ -14,6 +14,8 @@ description: >
   Capacity-constrained, fast, and legally durable asylum and refugee system
   prioritizing human dignity, public safety, and national stability while
   remaining fully separate from labor migration.
+phase: 2
+
 ---
 
 ## Core principle

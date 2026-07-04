@@ -3,6 +3,7 @@ title: Healthcare Execution and Transition Authority (HETA) — Year One Charter
 author: Futures Project
 policy_type: Execution Authority Charter
 status: Draft
+phase: 2
 version: 0.1
 time_horizon: Year One (Initial Stand-Up)
 dependencies:

@@ -17,6 +17,7 @@ domain: Healthcare
 subdomain: Execution_and_Transition
 policy_type: Escalation and Telemetry Framework
 status: Draft
+phase: 2
 version: 0.1
 author: Futures Project
 last_updated: 2026-03-23

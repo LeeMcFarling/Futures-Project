@@ -15,6 +15,8 @@ description: >
   designed for an earlier era, enabling adaptive governance, empirical policymaking,
   high-fidelity democratic signal, and transparent state capacity without technocratic
   overreach.
+phase: 2
+
 ---
 
 ## Guiding Principle: Institutional Modernization

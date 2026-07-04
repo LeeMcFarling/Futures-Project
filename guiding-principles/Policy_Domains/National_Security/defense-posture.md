@@ -8,6 +8,7 @@ domain: National_Security
 subdomain: Defense_Posture
 policy_type: Strategic Framework
 status: Draft
+phase: 2
 version: 0.1
 author: Futures Project
 dependencies:

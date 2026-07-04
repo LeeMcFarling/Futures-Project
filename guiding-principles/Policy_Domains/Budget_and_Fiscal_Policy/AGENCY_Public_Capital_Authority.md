@@ -16,6 +16,8 @@ description: >
   Executive-branch agency responsible for deploying public capital as disciplined,
   recyclable investment rather than opaque subsidy, managing sectoral portfolios
   with clear performance metrics.
+phase: 2
+
 ---
 
 # Public Capital Authority (PCA): Agency Overview

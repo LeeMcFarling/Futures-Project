@@ -7,6 +7,7 @@ domain: Healthcare
 subdomain: Public_Health_Nutrition
 policy_type: Market Integrity + Evidence Labeling
 status: draft
+phase: 2
 version: 0.3
 author: Futures Project
 last_updated: 2026-05-30

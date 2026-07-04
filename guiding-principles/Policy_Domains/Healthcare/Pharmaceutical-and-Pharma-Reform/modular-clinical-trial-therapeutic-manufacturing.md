@@ -14,6 +14,8 @@ description: >
   System of modular, flexible, multi-tenant therapeutic manufacturing facilities
   to reduce fixed capital risk, shorten timelines, and improve reliability from
   clinical supply through early commercialization.
+phase: 2
+
 ---
 
 ## Purpose

@@ -8,6 +8,7 @@ domain: Manufacturing
 subdomain: Manufacturing
 policy_type: Execution Model
 status: Draft
+phase: 2
 version: 0.3
 author: Futures Project
 dependencies:

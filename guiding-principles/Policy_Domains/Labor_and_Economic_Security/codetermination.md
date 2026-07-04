@@ -8,6 +8,7 @@ domain: Labor_and_Economic_Security
 subdomain: Worker_Governance
 policy_type: Governance Reform
 status: Draft
+phase: 3
 version: 0.7
 author: Futures Project
 dependencies:

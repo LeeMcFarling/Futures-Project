@@ -8,6 +8,7 @@ domain: Education
 subdomain: Governance
 policy_type: Institutional Reform
 status: Draft
+phase: 2
 version: 0.3
 author: Futures Project
 dependencies:

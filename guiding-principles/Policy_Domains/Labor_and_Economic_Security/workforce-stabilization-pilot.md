@@ -8,6 +8,7 @@ domain: Labor_and_Economic_Security
 subdomain: Workforce_Transition
 policy_type: Pilot Integration Framework
 status: Draft
+phase: 2
 version: 0.2
 author: Futures Project
 dependencies:

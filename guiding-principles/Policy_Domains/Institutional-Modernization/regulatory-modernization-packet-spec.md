@@ -8,6 +8,7 @@ domain: Institutional_Modernization
 subdomain: Regulatory_Compression
 policy_type: Artifact Specification
 status: Draft
+phase: 2
 version: 0.1
 author: Futures Project
 dependencies:

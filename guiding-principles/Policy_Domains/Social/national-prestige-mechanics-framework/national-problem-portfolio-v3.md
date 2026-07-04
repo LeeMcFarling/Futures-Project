@@ -8,6 +8,7 @@ domain: Public_Capital
 subdomain: Innovation_and_Problem_Solving
 policy_type: Incentive System
 status: Draft
+phase: 2
 version: 0.3
 author: Futures Project
 last_updated: 2026-03-26

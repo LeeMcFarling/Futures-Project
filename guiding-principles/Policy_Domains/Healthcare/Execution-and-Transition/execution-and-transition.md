@@ -14,6 +14,8 @@ description: >
   Establishes the Healthcare Execution and Transition Authority (HETA), a permanent,
   mission-bound execution body responsible for implementing, stabilizing, and
   enforcing healthcare reforms.
+phase: 2
+
 ---
 
 ## Purpose and Scope

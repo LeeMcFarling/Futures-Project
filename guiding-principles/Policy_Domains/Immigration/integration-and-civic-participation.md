@@ -14,6 +14,8 @@ description: >
   Full-stack integration framework pairing lawful immigration with structured,
   tiered integration requirements emphasizing economic participation, civic
   literacy, and jurisdiction-defined community engagement.
+phase: 2
+
 ---
 
 ## Core principle

@@ -14,6 +14,8 @@ description: >
   Mandatory transparency and oversight mechanisms for the immigration system using
   public dashboards and auditable metrics to ensure credibility, enforcement, and
   continuous improvement.
+phase: 2
+
 ---
 
 ## Purpose

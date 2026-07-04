@@ -15,6 +15,8 @@ description: >
   A foundational framework defining how standardized civic infrastructure
   systems adopt regional architectural expression through modular skins,
   materials, and landscape strategies while preserving structural consistency.
+phase: 2
+
 ---
 
 # Regional Architectural Skins & Pattern Books

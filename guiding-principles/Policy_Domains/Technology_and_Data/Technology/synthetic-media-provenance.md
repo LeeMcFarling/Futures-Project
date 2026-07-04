@@ -8,6 +8,7 @@ domain: Technology_and_Data
 subdomain: AI_Governance
 policy_type: Provenance and Authentication
 status: Draft
+phase: 2
 version: 0.1
 author: Futures Project
 dependencies:

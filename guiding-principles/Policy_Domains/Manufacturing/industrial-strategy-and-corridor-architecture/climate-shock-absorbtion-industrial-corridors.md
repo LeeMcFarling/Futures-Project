@@ -8,6 +8,7 @@ domain: Manufacturing
 subdomain: Manufacturing
 policy_type: Strategic Planning Framework
 status: Draft
+phase: 2
 version: 0.1
 author: Futures Project
 dependencies:

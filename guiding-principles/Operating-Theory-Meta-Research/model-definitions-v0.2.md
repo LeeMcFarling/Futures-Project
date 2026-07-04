@@ -8,6 +8,7 @@ domain: Framework_Foundations
 subdomain: Theoretical_Foundations
 policy_type: Research Framework
 status: Active
+phase: 2
 version: 0.2
 author: Futures Project
 last_updated: 2026-05-10

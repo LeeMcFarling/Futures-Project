@@ -12,6 +12,8 @@ description: >
   A framework for examining culture war issues from the ground up — beginning 
   with the underlying harm, not the rhetorical battle — and building toward 
   settlements that reduce damage and restore institutional trust.
+phase: 2
+
 ---
 
 # The Culture War Is Not What It Looks Like

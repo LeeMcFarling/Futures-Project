@@ -8,6 +8,7 @@ domain: Labor_and_Economic_Security
 subdomain: Labor_Market_Integrity
 policy_type: Structural Reform
 status: Draft
+phase: 3
 version: 0.4
 author: Futures Project
 dependencies:

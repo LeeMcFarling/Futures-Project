@@ -8,6 +8,7 @@ domain: Framework_Foundations
 subdomain: System_Axioms
 policy_type: Foundational Axiom
 status: Active
+phase: 3
 version: 1.0
 author: Futures Project
 last_updated: 2026-05-10

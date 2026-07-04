@@ -8,6 +8,7 @@ domain: United-Nations-and-Global-Institutional-Reform
 subdomain: UN_Reform
 policy_type: Emergency Governance Framework
 status: Draft
+phase: 2
 version: 0.1
 author: Futures Project
 last_updated: 2026-04-06

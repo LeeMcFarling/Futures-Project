@@ -8,6 +8,7 @@ domain: Budget_and_Fiscal_Policy
 subdomain: Budget_and_Fiscal_Policy
 policy_type: Core Reform
 status: Draft
+phase: 3
 version: 0.3
 author: Futures Project
 dependencies:

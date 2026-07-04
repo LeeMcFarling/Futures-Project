@@ -8,6 +8,7 @@ domain: Higher_Education
 subdomain: Research_Infrastructure
 policy_type: Strategic Framework
 status: Draft
+phase: 2
 version: 0.2
 author: Futures Project
 dependencies:

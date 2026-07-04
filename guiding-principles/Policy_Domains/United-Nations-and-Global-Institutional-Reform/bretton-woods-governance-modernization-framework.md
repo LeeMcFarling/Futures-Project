@@ -8,6 +8,7 @@ domain: United-Nations-and-Global-Institutional-Reform
 subdomain: Development_Finance
 policy_type: Governance Framework
 status: Draft
+phase: 3
 version: 0.6
 author: Futures Project
 last_updated: 2026-06-11

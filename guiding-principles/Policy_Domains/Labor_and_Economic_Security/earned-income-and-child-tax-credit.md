@@ -8,6 +8,7 @@ domain: Labor_and_Economic_Security
 subdomain: Income_Smoothing
 policy_type: Delivery Reform
 status: Draft
+phase: 3
 version: 0.4
 author: Futures Project
 instrument_status: Transitional — legacy-system optimization and income stabilizer during structural transition

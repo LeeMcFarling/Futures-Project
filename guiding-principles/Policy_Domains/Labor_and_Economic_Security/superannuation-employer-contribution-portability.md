@@ -8,6 +8,7 @@ domain: Labor_and_Economic_Security
 subdomain: Wealth_Building
 policy_type: Cross-Domain Integration Framework
 status: Draft
+phase: 2
 version: 0.3
 author: Futures Project
 dependencies:

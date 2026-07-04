@@ -8,6 +8,7 @@ domain: Technology_and_Data
 subdomain: Algorithmic_Governance
 policy_type: Discussion Paper & Implementation Specification
 status: Draft
+phase: 4
 version: 0.2
 author: Futures Project
 last_updated: 2026-03-26

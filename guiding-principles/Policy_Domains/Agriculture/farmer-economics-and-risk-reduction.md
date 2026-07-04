@@ -15,6 +15,8 @@ tags:
 description: >
   Reduces unnecessary downside risk at the farm level while preserving market
   signals and farmer autonomy through forward-looking risk management tools.
+phase: 2
+
 ---
 
 # Farmer Economics & Risk Reduction

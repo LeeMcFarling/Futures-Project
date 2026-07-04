@@ -8,6 +8,7 @@ domain: Housing_and_Public_Infrastructure
 subdomain: Housing_Integration
 policy_type: Targeted Stabilization Pilot
 status: Draft
+phase: 2
 version: 0.2
 author: Futures Project
 dependencies:

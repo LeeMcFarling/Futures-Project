@@ -8,6 +8,7 @@ domain: Civic_Prestige
 subdomain: Historical_Encoding
 policy_type: Monument & Canonization System
 status: Draft
+phase: 2
 version: 0.2
 author: Futures Project
 last_updated: 2026-03-26

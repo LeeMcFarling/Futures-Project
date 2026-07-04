@@ -16,6 +16,8 @@ description: >
   replacing market-distorting tax expenditures with explicit, time-bounded capital
   instruments designed to de-risk critical bottlenecks and preserve long-term
   fiscal stability.
+phase: 2
+
 ---
 
 # Public Capital Authority (PCA)

@@ -19,6 +19,7 @@ domain: Democratic_Integrity
 subdomain: Electoral_Reform
 policy_type: Advisory Request
 status: Draft
+phase: 3
 version: 1.0
 author: Futures Project
 last_updated: 2026-04-25

@@ -8,6 +8,7 @@ domain: Manufacturing
 subdomain: Manufacturing
 policy_type: Operational Playbook
 status: Draft
+phase: 2
 version: 0.2
 author: Futures Project
 dependencies:

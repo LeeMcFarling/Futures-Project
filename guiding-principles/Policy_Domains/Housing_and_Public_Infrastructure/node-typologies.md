@@ -16,6 +16,8 @@ description: >
   A standardized framework for identifying, prioritizing, and redeveloping
   underutilized land into mid-rise, transit-connected urban nodes using
   repeatable typologies and trigger-based approval.
+phase: 2
+
 ---
 
 # Node Typologies & Re-Urbanization Triggers

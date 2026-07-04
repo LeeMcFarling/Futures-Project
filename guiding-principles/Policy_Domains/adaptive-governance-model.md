@@ -8,6 +8,7 @@ domain: Institutional-Modernization
 subdomain: Adaptive_Governance
 policy_type: Governance Protocol
 status: Active
+phase: 3
 version: 1.0
 author: Futures Project
 last_updated: 2026-03-04

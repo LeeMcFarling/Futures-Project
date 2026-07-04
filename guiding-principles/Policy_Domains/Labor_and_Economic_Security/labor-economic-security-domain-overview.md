@@ -8,6 +8,7 @@ domain: Labor_and_Economic_Security
 subdomain: Domain_Overview
 policy_type: Domain Architecture
 status: Draft
+phase: 2
 version: 0.3
 author: Futures Project
 dependencies:

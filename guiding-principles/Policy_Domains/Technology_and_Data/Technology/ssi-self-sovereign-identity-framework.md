@@ -19,6 +19,8 @@ description: >
   user-controlled verifiable credentials and zero-knowledge proofs, providing
   the authorization layer for modern governance, payments, and digital services
   without centralized identity databases.
+phase: 2
+
 ---
 
 # SSI Self-Sovereign Identity Framework  

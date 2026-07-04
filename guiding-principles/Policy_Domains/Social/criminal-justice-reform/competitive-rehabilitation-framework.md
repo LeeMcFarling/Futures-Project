@@ -8,6 +8,7 @@ domain: Criminal_Justice
 subdomain: Rehabilitation_and_Reentry
 policy_type: System Architecture
 status: Draft
+phase: 2
 version: 0.2
 author: Futures Project
 last_updated: 2026-05-31

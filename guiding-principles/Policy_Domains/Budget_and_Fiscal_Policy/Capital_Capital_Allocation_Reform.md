@@ -16,6 +16,8 @@ description: >
   Converts opaque, perpetual tax incentives into explicit, accountable capital
   instruments deployed through standardized loans, grants, and equity-like
   mechanisms aligned to public goals.
+phase: 2
+
 ---
 
 # Overview

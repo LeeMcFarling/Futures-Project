@@ -8,6 +8,7 @@ domain: Criminal_Justice
 subdomain: Criminal_Justice
 policy_type: System Overview
 status: Draft
+phase: 2
 version: 0.2
 author: Futures Project
 last_updated: 2026-04-07

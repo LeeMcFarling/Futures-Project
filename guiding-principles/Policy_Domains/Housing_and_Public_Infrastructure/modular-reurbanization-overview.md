@@ -21,6 +21,8 @@ description: >
   to compound institutional knowledge across successive deployments.
 last_updated: 2026-03-26
 version: 0.2
+phase: 2
+
 ---
 
 # Modular Reurbanization — Public Infrastructure Overview

@@ -8,6 +8,7 @@ domain: Energy
 subdomain: Energy
 policy_type: Capital Allocation Framework
 status: Draft
+phase: 2
 version: 0.1
 author: Futures Project
 dependencies:

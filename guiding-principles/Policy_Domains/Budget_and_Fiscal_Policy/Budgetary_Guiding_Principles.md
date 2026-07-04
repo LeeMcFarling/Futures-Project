@@ -16,6 +16,8 @@ description: >
   Establishes guiding principles for treating public funds as strategic capital,
   shifting government from subsidy-driven spending toward disciplined investment,
   risk-sharing, and long-term value creation across key sectors.
+phase: 2
+
 ---
 
 This budget framework treats public capital as a strategic asset, not a consumable entitlement. The government shifts from acting as a passive piggy bank—where funds are either loosely tracked or rigidly micromanaged—into a disciplined venture partner and long-horizon R&D grantor. Success is not measured by headline spending totals, but by durable capacity built, risks reduced, and returns—financial or societal—realized over time.

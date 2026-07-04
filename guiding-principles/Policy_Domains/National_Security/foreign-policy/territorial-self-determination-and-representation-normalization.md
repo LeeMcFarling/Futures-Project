@@ -8,6 +8,7 @@ domain: Democratic_Integrity
 subdomain: Representation_and_Self_Government
 policy_type: Constitutional Legitimacy Framework
 status: Draft
+phase: 2
 version: 0.1
 author: Futures Project
 last_updated: 2026-04-06

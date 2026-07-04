@@ -8,6 +8,7 @@ domain: Social_Insurance
 subdomain: Housing_Stability
 policy_type: Automatic Stabilizer Framework
 status: Draft
+phase: 2
 version: 0.2
 author: Futures Project
 dependencies:
