@@ -44,7 +44,7 @@ last_updated: 2026-04-27
 
 ## Where This Fits in the Healthcare Architecture
 
-The reformed healthcare system rests on three distinct layers, and this Act occupies a specific and bounded role within them.
+The reformed healthcare system rests on two distinct layers, with three affordability mechanisms and this Act occupies a specific and bounded role within that system.
 
 The first layer is Severe Event Coverage (SEC). SEC covers emergency and trauma care for everyone, universally, at zero cost at the point of service. This is not means-tested and does not phase out with income. A part-time worker, a gig worker, a seasonal employee — anyone — receives emergency care without a bill. That layer eliminates the catastrophic financial exposure that made employer-sponsored insurance feel essential even for workers who could barely afford it.
 
